@@ -14,13 +14,6 @@ The application uses an intuitive drag-and-drop interface, and provides the user
 
 ---
 
-## Project management tool
-
-The project was managed using the following
-[Jira board](https://399team20project.atlassian.net/jira/software/projects/TEAM20/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiZTBmZTQwODljOWI0NDQ3NDlkZmRkZmQzMDU3ZDcwODQiLCJwIjoiaiJ9)
-
----
-
 ## Technologies used to build the project
 
 ### Front-end
