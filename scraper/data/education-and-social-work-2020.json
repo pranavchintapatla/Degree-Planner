@@ -1,0 +1,3229 @@
+[
+    {
+        "courseid": "EDCURRIC 102",
+        "coursename": "Language and Literacy Education Primary 1",
+        "description": "Develops the knowledge, skills and attitudes associated with planning, teaching and assessing for students' learning in the English curriculum. Addresses questions such as: What do teachers need to know to teach the curriculum effectively? How do teachers' literacy competencies affect student learning? How do teachers balance the needs of the curriculum and the needs of learners?",
+        "subject": "Education Curriculum Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 202, EDCURRM 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/102/1200",
+        "restriction_raw": "EDCURR 202, EDCURRM 102",
+        "restriction": [
+            "and",
+            "EDCURR 202",
+            "EDCURRM 102"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 104",
+        "coursename": "Primary Mathematics and Statistics Education 1",
+        "description": "Develops knowledge and understanding of the nature of mathematics and statistics. Considers questions related to primary school mathematics and statistics education such as: What is the purpose and role of mathematics and statistics in the New Zealand Curriculum Framework? What is meant by thinking mathematically and statistically? What are the components of, and key concepts in, the national curriculum?",
+        "subject": "Education Curriculum Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 203, EDCURRM 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/104/1200",
+        "restriction_raw": "EDCURR 203, EDCURRM 104",
+        "restriction": [
+            "and",
+            "EDCURR 203",
+            "EDCURRM 104"
+        ]
+    },
+    {
+        "courseid": "EDUC 113",
+        "coursename": "Current Issues in Education",
+        "description": "Educational issues are pressing concerns in our society. The course will help develop understanding of the background of today's public debates around schooling and will introduce ways in which educational thought and research address big topics.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 118",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/113/1200",
+        "restriction_raw": "EDUC 118",
+        "restriction": [
+            "and",
+            "EDUC 118"
+        ]
+    },
+    {
+        "courseid": "EDUC 119",
+        "coursename": "Development, Learning and Teaching",
+        "description": "Presents an introduction to developmental and psychological theory and research and its application to teaching and learning within a variety of educational settings. Understandings for creating effective learning environments which foster high levels of motivation for all learners will be identified through an exploration of typical and atypical development; and behavioural, cognitive, constructivist and social approaches to teaching and learning.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 117",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/119/1200",
+        "restriction_raw": "EDUC 117",
+        "restriction": [
+            "and",
+            "EDUC 117"
+        ]
+    },
+    {
+        "courseid": "EDUC 204",
+        "coursename": "Philosophy and Sociology of Education",
+        "description": "An exploration of key educational themes and questions from philosophical and sociological perspectives.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 206, 208",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/204/1200",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 206, 208",
+        "restriction": [
+            "and",
+            "EDUC 206",
+            "EDUC 208"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 350",
+        "coursename": "Teaching Mathematics Investigations",
+        "description": "An examination of investigative approaches to the teaching and learning of mathematics within the context of problem solving.",
+        "subject": "Education Curriculum Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation\nTo complete this course students must enrol in EDCURRIC 350 A and B, or EDCURRIC 350",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/350/1200",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDCURRIC 350 A and B, or EDCURRIC 350",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDCURRIC 350A",
+                    "EDCURRIC 350B"
+                ],
+                "EDCURRIC 350"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 361",
+        "coursename": "The Performance Arts in Education",
+        "description": "A critical examination of the performance of creating in the arts. The processes of creating and shaping works selected from dance, drama, music and the visual arts will be analysed and used to plan and implement arts education practices in specified educational settings.",
+        "subject": "Education Curriculum Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/361/1200",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 368",
+        "coursename": "Initiating and Supporting Learning in Music",
+        "description": "Development of the knowledge base for the teacher of Music, linking curriculum design and principles with practical experience of The Arts in the New Zealand Curriculum document, while offering opportunities for reflection on practice.",
+        "subject": "Education Curriculum Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/368/1200",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDUC 308",
+        "coursename": "Teachers and Teaching",
+        "description": "Examines the development of teaching and of the role of 'teacher' over time. Draws on examples of teachers from different time periods and cultures to analyse what teaching means and how and why it is valued. Explores implications of different perceptions of the role of teaching and teachers.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/308/1200",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 103",
+        "coursename": "Health and Physical Education",
+        "description": "Develops understandings of the theories, concepts and practices that support learning and teaching in health and physical education. Addresses questions such as: How do teachers implement quality learning experiences based on the health and physical education curriculum for effective learning to occur for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 108, EDCURRM 103",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/103/1203",
+        "restriction_raw": "EDCURR 108, EDCURRM 103",
+        "restriction": [
+            "and",
+            "EDCURR 108",
+            "EDCURRM 103"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 105",
+        "coursename": "Science Education Primary",
+        "description": "Develops an appreciation of the nature of science that supports conceptual understandings and quality teaching and learning approaches in science education. Addresses questions such as: How do teachers design quality learning experiences based on the science curriculum so that positive engagement and effective learning can occur for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 204, EDCURRM 105",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/105/1203",
+        "restriction_raw": "EDCURR 204, EDCURRM 105",
+        "restriction": [
+            "and",
+            "EDCURR 204",
+            "EDCURRM 105"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 106",
+        "coursename": "Social Studies Education Primary",
+        "description": "Develops students' knowledge and skills associated with planning for teaching and learning in Social Studies. Addresses questions such as: What do teachers need to know and understand about the history, nature and purpose of Social Studies education? How are curriculum requirements, teaching methodologies, management strategies and resources used to plan for students' diverse needs? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/106/1203",
+        "restriction_raw": "EDCURR 107",
+        "restriction": [
+            "and",
+            "EDCURR 107"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 107",
+        "coursename": "Technology Education Primary",
+        "description": "Develops knowledge, skills and attitudes associated with planning, teaching and assessing for children's learning in Technology Education. Addresses questions such as: What do teachers need to know about the nature and purpose of Technology Education? How do teachers design quality learning experiences for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 106, 209, EDCURRM 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/107/1203",
+        "restriction_raw": "EDCURR 106, 209, EDCURRM 107",
+        "restriction": [
+            "and",
+            "EDCURR 106",
+            "EDCURR 209",
+            "EDCURRM 107"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 108",
+        "coursename": "Mathematics and Statistics Education 1",
+        "description": "Explores what it means to be a learner of mathematics and statistics, with respect to relevant theory and curricula. Develops knowledge, understandings and skills that will enable students to identify, discuss and reflect on how diverse learners most effectively learn mathematics and statistics.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/108/1203",
+        "restriction_raw": "EDCURRIC 104",
+        "restriction": [
+            "and",
+            "EDCURRIC 104"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 112",
+        "coursename": "Hauora: Early Years Movement",
+        "description": "Develops knowledge and understanding of the place of movement in childhood development, growth and learning. Examines questions such as: What is the nature and purpose of physical activity in the early years? What learning and teaching strategies, teacher disposition and practices ensure quality experiences for learning of, through and about movement for diverse learners?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/112/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 114",
+        "coursename": "Music in the Early Years",
+        "description": "Develops fundamental understanding of knowledge, skills, and attitudes required to assess, plan, and facilitate children's learning through listening, singing, moving, playing and creating with music. Addresses questions such as: What is the value of music in early childhood? How do teachers design quality-learning experiences that motivate and enhance children's learning through music?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/114/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 117",
+        "coursename": "Arts Education",
+        "description": "Inquire into the place of The Arts in education and develop capability and understanding through experiences in each of the four arts disciplines. Design for learning by applying pedagogical, curriculum, content and assessment knowledge to select approaches and resources for Arts learning experiences for valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/117/1203",
+        "restriction_raw": "EDCURRIC 101",
+        "restriction": [
+            "and",
+            "EDCURRIC 101"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 132",
+        "coursename": "Bio-physical Foundations of Health and Physical Education",
+        "description": "Introduces students to the anatomical and physiological foundations of Health and Physical Education with particular reference to the roles of body systems in human movement. Addresses such questions as: What roles do the musculo-skeletal systems play in movement and learning? How do the circulo-respiratory systems work during rest and activity? How do the neuro-muscular systems function to produce movement?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/132/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRM 101",
+        "coursename": "Ng\u0101 Toi: He Whakatakinga",
+        "description": "Develops students' knowledge, skills and attitudes associated with planning, teaching and assessing children's learning in Ng\u0101 Toi: dance, drama, music and visual art. Addresses questions such as: Why are Ng\u0101 Toi important to children's learning? How do teachers design quality learning experiences that encourage individual responses from a diverse range of learners? How do we monitor and assess learning?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/101/1203",
+        "restriction_raw": "EDCURRIC 101",
+        "restriction": [
+            "and",
+            "EDCURRIC 101"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 117",
+        "coursename": "Ng\u0101 Toi: He Whakatakinga",
+        "description": "Inquires into the place of Ng\u0101 Toi in education, and develops capability and understanding through experiences in each of the three Ng\u0101 Toi disciplines: Toi Ataata; Ng\u0101 Mahi a te R\u0113hia; and Toi Puoro. Designs for learning by applying pedagogical, curriculum and content knowledge to select approaches and resources for Ng\u0101 Toi learning experiences for valued outcomes for learners.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRM 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/117/1203",
+        "restriction_raw": "EDCURRM 101",
+        "restriction": [
+            "and",
+            "EDCURRM 101"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 101",
+        "coursename": "The Professional Teacher: Primary 1",
+        "description": "Develops knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: What does it mean to be a teacher? What does it mean to be a professional? How are teachers learners? How do teachers establish professional relationships in complex environments? Requires demonstration of emerging pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 100, EDPRAC 102, 103, EDPRACM 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/101/1203",
+        "prerequisite_raw": "Any 45 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "45"
+        ],
+        "restriction_raw": "EDPROF 100, EDPRAC 102, 103, EDPRACM 101",
+        "restriction": [
+            "and",
+            "EDPROF 100",
+            "EDPRAC 102",
+            "EDPRAC 103",
+            "EDPRACM 101"
+        ]
+    },
+    {
+        "courseid": "EDPRACM 101",
+        "coursename": "Pakirehua Ng\u0101io: Te Ao Pouako",
+        "description": "Develops knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: What does it mean to be a teacher? What does it mean to be a professional? How are teachers learners? How do teachers establish professional relationships in complex environments? Requires demonstration of effective emerging pedagogical practice.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 101, 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/101/1203",
+        "prerequisite_raw": "Any 45 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "45"
+        ],
+        "restriction_raw": "EDPRAC 101, 102",
+        "restriction": [
+            "and",
+            "EDPRAC 101",
+            "EDPRAC 102"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 100",
+        "coursename": "Te Ao M\u0101ori - Te K\u0101kano",
+        "description": "Introduces socio-political and historical contexts, including Te Tiriti o Waitangi, to inform understandings about M\u0101ori challenges and aspirations within contemporary New Zealand society. Examines own social and cultural locations for their impact on professional and social practices in a range of settings. Develops basic knowledge of Te Ao M\u0101ori including Te Reo me ng\u0101 tikanga M\u0101ori.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/100/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFM 101",
+        "coursename": "Te Reo M\u0101ori 1",
+        "description": "Develops te reo M\u0101ori knowledge, skills and attitudes for learning and teaching across marautanga. Addresses issues such as strategies that support personal and professional M\u0101ori language development; historical, social and political factors that have impacted on the vitality of te reo M\u0101ori; bilingual education and M\u0101ori medium education.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDPROFM 205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/101/1203",
+        "restriction_raw": "EDPROFM 205",
+        "restriction": [
+            "and",
+            "EDPROFM 205"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 102",
+        "coursename": "Pakirehua Ngaio \u2013 Te Ako",
+        "description": "Addresses key influences on learning and development, building and enhancing understandings of personal experiences and identity. Examines concepts central to learning and development such as self-efficacy and self-concept. Explores key aspects within the teacher\u2019s role with an emphasis on reflection, relationship building, communication and collaboration. Introduces strategies central to the first teaching practicum. Examines te reo M\u0101ori discourse appropriate to pakirehua ngaio contexts.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/102/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 102",
+        "coursename": "Inquiry into Practice 1",
+        "description": "Addresses key influences on learning and development, building and enhancing understandings of personal experiences and identity. Examines concepts central to learning and development such as self-efficacy and self-concept. Explores key aspects within the teacher\u2019s role with an emphasis on reflection, relationship building, communication and collaboration. Introduces strategies central to the first teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/102/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 103",
+        "coursename": "Inquiry into Practice 1",
+        "description": "Addresses key influences on learning and development, building and enhancing understandings of personal experiences and identity. Examines concepts central to learning and development such as self-efficacy and self-concept. Explores key aspects within the teacher\u2019s role with an emphasis on reflection, relationship building, communication and collaboration. Introduces strategies central to the first teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/103/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 104",
+        "coursename": "Early Childhood Education in Aotearoa",
+        "description": "Explores social, historical and contemporary perspectives of early childhood education in Aotearoa. Overviews early childhood services, professional organisations, early childhood curriculum, theories of learning, and children\u2019s play and learning contexts. Examines the roles and responsibilities of teachers in relation to teaching and learning.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/104/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 105",
+        "coursename": "Teaching: Tales and Traditions",
+        "description": "Introduction to key ideas on teachers and teaching. Explores teaching traditions, their origins, stories of teaching in New Zealand; stories of teachers that generate change; and how teaching and teachers are understood in a variety of disciplines such as Science, Health, Arts, and Sport. Considers the following: How should we teach? What counts as knowledge? What contradictions do teachers encounter?",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/105/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 114",
+        "coursename": "Introduction to M\u0101ori Education",
+        "description": "An introduction to M\u0101ori education and to the education of M\u0101ori in Aotearoa. A range of critical issues related to M\u0101ori experiences both in and as a result of schooling and education in Aotearoa, and M\u0101ori educational interventions that have emerged, are examined.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 103, EDPROFST 100",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/114/1203",
+        "restriction_raw": "EDUC 103, EDPROFST 100",
+        "restriction": [
+            "and",
+            "EDUC 103",
+            "EDPROFST 100"
+        ]
+    },
+    {
+        "courseid": "EDUC 115",
+        "coursename": "Introduction to Child and Adolescent Development",
+        "description": "Study of factors influencing children's development and socialisation within the culturally and linguistically diverse context of New Zealand. Research from developmental psychology and from family and parenting will be drawn upon to explore physical, emotional, social, cognitive and language development during childhood and adolescence.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/115/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 116",
+        "coursename": "Introduction to Educational Thought",
+        "description": "Why do we go to school? What is the purpose of schooling in society and do good grades translate into good jobs? An introduction to the study of education from sociological, historical and philosophical perspectives with reference to the forces that have shaped the development of education, especially in New Zealand. Understanding social inequalities in education relating to ethnicity, gender and class form a central concern of this course.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/116/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 121",
+        "coursename": "How People Learn",
+        "description": "Focuses on learning in formal and informal settings and addresses such questions as: why do some things seem easier to learn than others, why do we forget things we once knew, and why do some people learn faster or better than others? Examines the nature of intelligence and how to help personal learning or the learning of others.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 111, 117",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/121/1203",
+        "restriction_raw": "EDUC 111, 117",
+        "restriction": [
+            "and",
+            "EDUC 111",
+            "EDUC 117"
+        ]
+    },
+    {
+        "courseid": "HUMSERV 102",
+        "coursename": "Lifespan Development for Human Services",
+        "description": "An introduction to the theories of lifespan development. Key issues affecting human development and its relevance and application to the work of human service practitioners will be explored. The consideration of social contexts of human development will be a central theme.",
+        "subject": "Human Services",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HUMSERV/102/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHYSED 101",
+        "coursename": "Games and Sport Education",
+        "description": "Develops knowledge and appreciation of various game forms. Analyses game structures and processes. Develops performance competency in games through experiential learning. Explores and analyses potentially positive and negative outcomes of participating in games and sport.",
+        "subject": "Physical Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 231, EDPROF 344",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHYSED/101/1203",
+        "restriction_raw": "EDCURRIC 231, EDPROF 344",
+        "restriction": [
+            "and",
+            "EDCURRIC 231",
+            "EDPROF 344"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 112",
+        "coursename": "Sociology for Human Services",
+        "description": "Introducing the traditions of sociological analysis and its application to the human services. Key theory and theorists, the history of ideas and debates within sociology, and their relevance to practitioners' understanding of contemporary New Zealand society will be explored. A central theme is that a critical sociological imagination is essential for practitioners in social service settings.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/112/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCWORK 113",
+        "coursename": "Culture and Diversity",
+        "description": "An introductory exploration of notions of culture and diversity that critically examines impacts on individuals, wh\u0101nau and communities in Aotearoa. A range of cultural perspectives will lead to and encourage critical discovery of 'self' in relation to realms of difference in the context of social and human services.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/113/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCWORK 115",
+        "coursename": "The Social Work Environment",
+        "description": "An introduction to the history and practice of social work and the wider policy environment that will be encountered while working in the profession. Examination of the roles played in the profession and familiarisation with traditions of care and policies of welfare that influence the work of social workers and social services.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/115/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORT 101",
+        "coursename": "Making a Difference in Sport",
+        "description": "Explores the skills needed to successfully deliver sport and recreation activities. Examines differential community provision and develops skills to liaise with and engage diverse participants using psychological and sociological theories. Considers emerging trends in the field. Students will participate in community mapping to identify existing and potential sport and recreation opportunities in diverse communities.",
+        "subject": "Sport Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORT/101/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 101",
+        "coursename": "Sociocultural Foundations",
+        "description": "Explores the sociological, historical, psychological and philosophical foundations of health, sport and movement cultures. Examines how health and human movement are culturally and socially conceptualised with regard to contemporary concerns and trends. Includes studies of different cultural (Pakeha, M\u0101ori, Pacific, Asian) concepts of, and engagement with, health, sport and physical culture.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 135, EDUC 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/101/1203",
+        "restriction_raw": "EDCURRIC 135, EDUC 142",
+        "restriction": [
+            "and",
+            "EDCURRIC 135",
+            "EDUC 142"
+        ]
+    },
+    {
+        "courseid": "TFCEDUC 12F",
+        "coursename": "Introduction to Computing",
+        "description": "Develops computer literacy skills in word processing, spreadsheets, presentation software, document collaboration and common multi-media technologies. These skills will be embedded in the context of tertiary study.",
+        "subject": "TFC Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 12F",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TFCEDUC/12F/1203",
+        "restriction_raw": "EDFOUND 12F",
+        "restriction": [
+            "EDFOUND 12F"
+        ]
+    },
+    {
+        "courseid": "TFCEDUC 15F",
+        "coursename": "Mathematics for Education",
+        "description": "Development of fundamental mathematics concepts including an understanding of arithmetic ideas as expressed in fractions, decimals and percentages, ratio and proportion, and algebraic thinking. Application of these concepts in contexts such as financial literacy, problem solving, and real-life mathematics will form the basis of this course.",
+        "subject": "TFC Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 15F",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TFCEDUC/15F/1203",
+        "restriction_raw": "EDFOUND 15F",
+        "restriction": [
+            "EDFOUND 15F"
+        ]
+    },
+    {
+        "courseid": "TFCMAORI 10F",
+        "coursename": "Te P\u016b",
+        "description": "Introduction to functional and instructional M\u0101ori including everyday vocabulary, basic sentence structures, pronouns, possessives and positional language. Aspects of tikanga will include meeting and greeting people with waiata, karakia and h\u012bmene, and values such as wh\u0101nau, whakawhanaungatanga and aroha. Referring to their own hap\u016b/iwi students will introduce and locate themselves in relation to their whakapapa and carry out a short mihi.",
+        "subject": "TFC M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 10F",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TFCMAORI/10F/1203",
+        "restriction_raw": "EDFOUND 10F",
+        "restriction": [
+            "EDFOUND 10F"
+        ]
+    },
+    {
+        "courseid": "TFCEDUC 14F",
+        "coursename": "An Introduction to the New Zealand Education System",
+        "description": "Introduces students to the education system of New Zealand. Illustrates the historical development of the New Zealand education system, and addresses issues such as changes to governance and curriculum and ethnic diversity in New Zealand schools.",
+        "subject": "TFC Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 14F",
+        "url": "",
+        "restriction_raw": "EDFOUND 14F",
+        "restriction": [
+            "EDFOUND 14F"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 202",
+        "coursename": "Languages and Literacy Education Primary 2",
+        "description": "Deepens the knowledge, skills and attitudes associated with planning, teaching and assessing for individual students' learning in the English curriculum. Addresses questions such as: What are effective literacy practices for working with individual learners? How are wider concepts of literacy including bilingualism and biliteracy developed? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDCURRIC 102\nRestriction: EDCURR 203, EDCURRM 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/202/1203",
+        "prerequisite_raw": "EDCURRIC 102",
+        "prerequisite": [
+            "and",
+            "EDCURRIC 102"
+        ],
+        "restriction_raw": "EDCURR 203, EDCURRM 202",
+        "restriction": [
+            "and",
+            "EDCURR 203",
+            "EDCURRM 202"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 213",
+        "coursename": "Social Sciences Education",
+        "description": "Develops knowledge, skills, dispositions associated with children's learning and social sciences education. Addresses questions such as: What do teachers need to know about belonging, contribution, family and community, and empowerment? What do teachers need to understand about culture and identity? How does pedagogical documentation support learning and teaching? What resources and strategies maximise contribution and participation?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/213/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRM 202",
+        "coursename": "Te Reo Matatini Te Puanga",
+        "description": "Deepens the knowledge, skills and attitudes associated with planning, teaching and assessing for individual students' learning in the Marautanga Reo M\u0101ori. Addresses questions such as: What are effective literacy practices for working with individual learners? How are wider concepts of literacy including bilingualism and biliteracy developed? How is learning monitored and assessed?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/202/1203",
+        "restriction_raw": "EDCURRIC 202",
+        "restriction": [
+            "and",
+            "EDCURRIC 202"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 204",
+        "coursename": "P\u0101ngarau: Te Whakaako",
+        "description": "Develops knowledge, skills and understanding for designing quality learning experiences in P\u0101ngarau and tauanga for diverse learners. Considers questions related to primary P\u0101ngarau and tauanga education such as: What are the mathematical and statistical concepts and learning progressions in Marautanga? What theoretical models of teaching, learning and assessment best inform teachers about the growth of understanding? What constitutes effective teaching practice?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 204",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/204/1203",
+        "restriction_raw": "EDCURRIC 204",
+        "restriction": [
+            "and",
+            "EDCURRIC 204"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 201",
+        "coursename": "Practicum Primary 2",
+        "description": "Further develops the knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: How do I teach responsively and purposefully? How do I establish and maintain professional relationships in complex environments and manage the environment effectively and professionally to enable success for learners? Requires demonstration of effective developing pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 101 and any 75 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 200, 210, EDPRAC 202, 203, EDPRACM 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/201/1203",
+        "prerequisite_raw": "EDPRAC 101 and any 75 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 101",
+            "any 75 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 200, 210, EDPRAC 202, 203, EDPRACM 201",
+        "restriction": [
+            "and",
+            "EDPROF 200",
+            "EDPROF 210",
+            "EDPRAC 202",
+            "EDPRAC 203",
+            "EDPRACM 201"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 202",
+        "coursename": "Practicum Early Childhood 2",
+        "description": "Further develops the knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: How do I teach responsively and purposefully; establish and maintain professional relationships in complex environments and manage the learning environment effectively and professionally to enable success for learners? Requires demonstration of effective developing pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 102 or EDPRACPK 102 and any 75 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 201, 203, EDPRACM 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/202/1203",
+        "prerequisite_raw": "EDPRAC 102 or EDPRACPK 102 and any 75 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "EDPRAC 102",
+                "EDPRACPK 102"
+            ],
+            "any 75 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 201, 203, EDPRACM 201",
+        "restriction": [
+            "and",
+            "EDPRAC 201",
+            "EDPRAC 203",
+            "EDPRACM 201"
+        ]
+    },
+    {
+        "courseid": "EDPRACM 201",
+        "coursename": "Noho \u0101 kura: Te Taiao Ako",
+        "description": "Further develops the knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: How do I teach responsively and purposefully; establish and maintain professional relationships in complex environments and manage the learning environment effectively and professionally to enable success for learners? Requires demonstration of effective developing pedagogical practice.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRACM 101 and any 45 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 201, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/201/1203",
+        "prerequisite_raw": "EDPRACM 101 and any 45 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRACM 101",
+            "any 45 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 201, 202",
+        "restriction": [
+            "and",
+            "EDPRAC 201",
+            "EDPRAC 202"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 209",
+        "coursename": "Te Whiringa P\u016bmau o Te Reo",
+        "description": "Further investigates Te Reo M\u0101ori knowledge, skills and attitudes for learning and teaching across Marautanga. Addresses questions such as: What key theories and approaches underpin the development of bilingualism and biliteracy in M\u0101ori medium educational contexts? What are the pedagogical implications of these when planning for learning and teaching? How can personal M\u0101ori language development be planned for effectively?",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPROFM 109",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/209/1203",
+        "prerequisite_raw": "EDPROFM 109",
+        "prerequisite": [
+            "and",
+            "EDPROFM 109"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 214",
+        "coursename": "Te Aromatawai m\u014d te Ako me te Whakaako",
+        "description": "Assessments for learning, for teaching, and of learning will be examined with reference to their specific purposes, characteristics and the degrees of reliability and validity necessary for each. Emphasis will be placed on the appropriate use of assessment tools/tasks and the gathering of robust information so sound interpretations and decisions can be made about learning.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 224, 225, 230, 231, EDUCM 230",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/214/1203",
+        "restriction_raw": "EDUC 224, 225, 230, 231, EDUCM 230",
+        "restriction": [
+            "and",
+            "EDUC 224",
+            "EDUC 225",
+            "EDUC 230",
+            "EDUC 231",
+            "EDUCM 230"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 200",
+        "coursename": "Infant Care and Education",
+        "description": "Critically examines the influence of historical and contemporary theory related to early learning and professional practice. Addresses questions such as: How do teachers address responsive practice with infants and toddlers in the New Zealand context? How do relationship-based philosophies address issues for teachers of infants and toddlers? What is the tension between education and care?",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 210",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/200/1203",
+        "restriction_raw": "EDCURRIC 210",
+        "restriction": [
+            "and",
+            "EDCURRIC 210"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 206",
+        "coursename": "Early Childhood Assessment",
+        "description": "Assessment for learning and teaching in early childhood education is contextualised and examined in relation to key New Zealand and international policy documents. The complexities, roles, and enactment of assessment concerning young children and childhoods are explored, and key learning areas include relevant theoretical frameworks and pedagogical documentation.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDPROFST 214",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/206/1203",
+        "restriction_raw": "EDPROFST 214",
+        "restriction": [
+            "and",
+            "EDPROFST 214"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 214",
+        "coursename": "Assessment for Learning and Teaching",
+        "description": "Assessment for learning, for teaching, and of learning will be examined with reference to their specific purposes, characteristics and the degrees of reliability and validity necessary for each. Emphasis will be placed on the appropriate use of assessment tools/tasks and the gathering of robust information so sound interpretations and decisions can be made about learning.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 224, 225",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/214/1203",
+        "restriction_raw": "EDUC 224, 225",
+        "restriction": [
+            "and",
+            "EDUC 224",
+            "EDUC 225"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 226",
+        "coursename": "Introduction to Bilingual Education",
+        "description": "An introduction to bilingualism and bilingual education. Examines key principles of programme development and strategies for academic learning of bilingual students in formal and informal settings including immersion and mainstream, early childhood and secondary.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/226/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 227",
+        "coursename": "TESSOL: Language Learning Needs",
+        "description": "Strategies to identify, analyse, and respond to second language learning needs of students from early childhood to secondary school settings are introduced. Theories of first and second language acquisition are discussed, with reference to the role of first language and culture, and philosophies of empowerment. Practical teaching strategies which enable the integration of content and language learning are introduced.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/227/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 200",
+        "coursename": "Youth Mentoring",
+        "description": "A theoretical and applied study of youth mentoring. Students will develop an understanding of theories of youth and youth mentoring, examine current issues in youth mentoring such as cultural perspectives, developmental considerations, and contexts of youth mentoring. Students will also engage in a mentoring internship where they will demonstrate their ability to integrate and apply their developed knowledge and skills.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed and approval from the Course Director",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/200/1203",
+        "prerequisite_raw": "Any 60 points passed and approval from the Course Director",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 201",
+        "coursename": "History of Education",
+        "description": "An examination of the nature of historical inquiry with reference to New Zealand's educational past; questions why education has been analysed largely as something planned rather than something experienced and introduces oral history as methodology. Selected aspects of the educational histories of other countries will be discussed for comparative analysis.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/201/1203",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 224",
+        "coursename": "Assessment and Evaluation in Education",
+        "description": "An examination of the theoretical and practical dimensions of designing, administering, and interpreting curriculum-aligned assessment and evaluation practices and policy including an introduction to valid and reliable data collection and interpretation practices. Recent New Zealand assessment policy and practice will also be analysed.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed\r\nRestriction: EDUC 225",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/224/1203",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 225",
+        "restriction": [
+            "and",
+            "EDUC 225"
+        ]
+    },
+    {
+        "courseid": "EDUC 283",
+        "coursename": "Pedagogy \u2013 Beyond Skills and Methods",
+        "description": "Examines personal experiences and views of teaching and learning and the impact of theories of learning on classroom practices. The course also includes discussion of the relationship between pedagogy and race, class and gender; M\u0101ori pedagogy; pedagogy and student achievement; and New Zealand and international examples.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 383",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/283/1203",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 383",
+        "restriction": [
+            "and",
+            "EDUC 383"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 201",
+        "coursename": "Diversity in Aotearoa/New Zealand",
+        "description": "Explores diversity in Aotearoa New Zealand, focusing on its bicultural history and contemporary public policy. Questions power relations relating to the Treaty of Waitangi and biculturalism, extending to the nation\u2019s increasing ethnic, cultural and linguistic diversities. Critiques intersectionalities of culture, race, ethnicity, gender, socio-economic location, sexuality, disability, age and examines policy implications. Tamaki Makaurau (Auckland) is a key illustrative setting.",
+        "subject": "Education and Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDUCSW 101\r\nRestriction: EDUC 118, SOCWORK 113, 114",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUCSW/201/1203",
+        "prerequisite_raw": "EDUCSW 101",
+        "prerequisite": [
+            "and",
+            "EDUCSW 101"
+        ],
+        "restriction_raw": "EDUC 118, SOCWORK 113, 114",
+        "restriction": [
+            "and",
+            "EDUC 118",
+            "SOCWORK 113",
+            "SOCWORK 114"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 201",
+        "coursename": "Child and Youth Health Education",
+        "description": "Examines child and youth health issues in Aotearoa New Zealand, including how western concepts of health affect M\u0101ori and Pacific communities. Explores holistic models of health, and the sociocultural and political contexts of health issues, including the determinants of health. Reflects on the history of public health in education and how particular health concerns impact contemporary practices and policy.",
+        "subject": "Health Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 233",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HEALTHED/201/1203",
+        "restriction_raw": "EDCURRIC 233",
+        "restriction": [
+            "and",
+            "EDCURRIC 233"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 212",
+        "coursename": "Bicultural Social Work Practice",
+        "description": "An introduction to study of the personal and professional impact of the Treaty of Waitangi in social work practice and social workers' obligations to bicultural practice. Development of an understanding of the principles of bicultural practice and articulation of their professional stance.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/212/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORT 202",
+        "coursename": "Sport and Recreation",
+        "description": "Explores sport, recreation, and physical activity environments and cultures in Aotearoa New Zealand, including organised and alternative sport. Examines how children, youth and adults engage with sport and physical culture. Explores issues of access, policy and leadership in the field and investigates how different concepts influence understandings of, and engagement with, sport and physical culture.",
+        "subject": "Sport Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 237",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORT/202/1203",
+        "restriction_raw": "EDCURRIC 237",
+        "restriction": [
+            "and",
+            "EDCURRIC 237"
+        ]
+    },
+    {
+        "courseid": "SPORT 203",
+        "coursename": "Sport, Media and Marketing",
+        "description": "Explores the roles and consequences of media representations of sport and physicality. Develops knowledge of the discourses that influence how sport, the body, and health are understood. Develops skills in marketing communications used to promote sport and physical wellbeing. Investigates issues emerging from the use of social media by sporting organisations, groups and individuals.",
+        "subject": "Sport Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORT/203/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 202",
+        "coursename": "Skill Learning",
+        "description": "Develops knowledge and understanding of skill learning, teaching and coaching in human movement. Examines concepts of skill and theories of learning, including: psychological theories underpinning physical competency, child and youth development, motivation, inclusion and success. Develops an understanding of learner-centred, inquiry-based practice, and the development of pedagogical practices.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: SPORTHPE 102 \r\nRestriction: EDCURRIC 200",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/202/1203",
+        "prerequisite_raw": "SPORTHPE 102",
+        "prerequisite": [
+            "and",
+            "SPORTHPE 102"
+        ],
+        "restriction_raw": "EDCURRIC 200",
+        "restriction": [
+            "and",
+            "EDCURRIC 200"
+        ]
+    },
+    {
+        "courseid": "SOCCHFAM 215",
+        "coursename": "Wh\u0101nau-Family-Aiga Practice",
+        "description": "An exploration of the structural, emotional, social and cultural dimensions of families, encompassing the relevance of cultural knowledge and appropriate interventions in diverse family practice and examination of the significance and impact of social issues on wh\u0101nau-family-aiga systems.",
+        "subject": "Social Work Child Family Prac",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCWORK 216",
+        "coursename": "Law and the State in Social Work",
+        "description": "A sociological exploration of the issues presented by the legal framework that impact on social workers' mandate to practise. A critical investigation of the state's law-making functions and conflicting imperatives across a range of social work fields, including the family, justice, and mental health.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 339",
+        "coursename": "Developing Classroom Mathematics Programmes",
+        "description": "Develops knowledge and understanding of classroom mathematics procedures and learning environments. Examines the integrated nature of learning, teaching and assessment with respect to long term programmes. Aims to further develop teacher confidence in, and positive attitudes toward, the teaching and learning of mathematics through critical analysis and personal reflection.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/339/1203",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 305",
+        "coursename": "Practicum: Enabling Achievement Primary",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule \nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/305/1203",
+        "prerequisite_raw": "EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201",
+            "any 180 points from the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 305A",
+                    "EDPRAC 305B"
+                ],
+                "EDPRAC 305"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 305A",
+        "coursename": "Practicum: Enabling Achievement Primary",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule \nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/305A/1203",
+        "prerequisite_raw": "EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201",
+            "any 180 points from the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 305A",
+                    "EDPRAC 305B"
+                ],
+                "EDPRAC 305"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 306",
+        "coursename": "Practicum: Enabling Achievement Early Childhood",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/306/1203",
+        "prerequisite_raw": "EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 202",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 306A",
+                    "EDPRAC 306B"
+                ],
+                "EDPRAC 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 306A",
+        "coursename": "Practicum: Enabling Achievement Early Childhood",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/306A/1203",
+        "prerequisite_raw": "EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 202",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 306A",
+                    "EDPRAC 306B"
+                ],
+                "EDPRAC 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRACM 302",
+        "coursename": "Noho \u0101 kura: Te Whakatairanga Paetae M\u0101tauranga",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRACM 201 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 301, 302, EDPRACM 301\nTo complete this course students must enrol in EDPRACM 302 A and B, or EDPRACM 302",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/302/1203",
+        "prerequisite_raw": "EDPRACM 201 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRACM 201",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 301, 302, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRACM 302 A and B, or EDPRACM 302",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRACM 302A",
+                    "EDPRACM 302B"
+                ],
+                "EDPRACM 302"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRACM 302A",
+        "coursename": "Noho \u0101 kura: Te Whakatairanga Paetae M\u0101tauranga",
+        "description": "",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRACM 201 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 301, 302, EDPRACM 301\nTo complete this course students must enrol in EDPRACM 302 A and B, or EDPRACM 302",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/302A/1203",
+        "prerequisite_raw": "EDPRACM 201 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRACM 201",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 301, 302, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRACM 302 A and B, or EDPRACM 302",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRACM 302A",
+                    "EDPRACM 302B"
+                ],
+                "EDPRACM 302"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 300",
+        "coursename": "Raising Student Achievement",
+        "description": "Examines theory, research and practice to promote success for learners. Questions include: How do policies and practice shape what is meant by achievement? How do school communities operate as collaborative teams to raise achievement of learners? How can we identify and promote success for learners? What are the implications for teaching?",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation\nRestriction: EDPROFST 604",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/300/1203",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ],
+        "restriction_raw": "EDPROFST 604",
+        "restriction": [
+            "EDPROFST 604"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 305",
+        "coursename": "The Reflective and Ethical Teacher",
+        "description": "An examination of principles of how people learn will guide inquiry into own personal teaching practice and reflection on a developing, evidence-informed personal pedagogy. Notions of teacher professionalism and how the moral and ethical nature of teaching impacts on teacher decision-making will be explored.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 201\nCorequisite: EDPRAC 305\nRestriction: EDPROFST 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/305/1203",
+        "prerequisite_raw": "EDPRAC 201",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201"
+        ],
+        "corequisite_raw": "EDPRAC 305",
+        "corequisite": [
+            "and",
+            "EDPRAC 305"
+        ],
+        "restriction_raw": "EDPROFST 313",
+        "restriction": [
+            "and",
+            "EDPROFST 313"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 318",
+        "coursename": "Language Teaching for ESOL: An Introduction",
+        "description": "Addresses current theories, approaches and practices for language teaching and learning for students learning English as an additional language in New Zealand schools and Early Childhood Centres. The course focuses on the needs of learners in all curriculum areas, emphasising the importance of understanding diverse learners' languages and cultures across the curriculum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation or 90 points passed at Stage I from the BEd(TESOL) sSchedule",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/318/1203",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation or 90 points passed at Stage I from the BEd(TESOL) sSchedule",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 373",
+        "coursename": "TESSOL: Language Learning in the New Zealand Context",
+        "description": "The application of current second language acquisition theory to the New Zealand school context. Focuses on functional grammar in the classroom and on the roles of school organisation, policy development and building of school and community relationships in language learning.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPROFST 227 and 372",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/373/1203",
+        "prerequisite_raw": "EDPROFST 227 and 372",
+        "prerequisite": [
+            "and",
+            "EDPROFST 227",
+            "EDPROFST 372"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 375",
+        "coursename": "TESSOL: Assessment",
+        "description": "Students analyse the personal and contextual factors that may affect linguistic performance in the New Zealand curriculum and critique current assessment procedures used in NZ schools. Focuses on recording and reporting and developing school policies for the assessment of students from diverse linguistic and cultural backgrounds.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPROFST 227",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/375/1203",
+        "prerequisite_raw": "EDPROFST 227",
+        "prerequisite": [
+            "and",
+            "EDPROFST 227"
+        ]
+    },
+    {
+        "courseid": "EDUC 316",
+        "coursename": "Gifted Education",
+        "description": "An analysis of the gifted education movement and of the need for appropriate educational provision for gifted and talented students. The course draws on current research to assist with the identification of gifted and talented students and with the development of strategies to meet their learning and emotional needs.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/316/1203",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 321",
+        "coursename": "Politics, Philosophy and Education",
+        "description": "Investigates the relationship between local, national and global politics and education in Aotearoa New Zealand. Explores philosophical perspectives on teaching and the relationship between educational theory and practice.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDUC 118 or 140 or 142 or EDUCM 118\nRestriction: EDUC 320, EDUCM 320",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/321/1203",
+        "prerequisite_raw": "EDUC 118 or 140 or 142 or EDUCM 118",
+        "prerequisite": [
+            "or",
+            "EDUC 118",
+            "EDUC 140",
+            "EDUC 142",
+            "EDUCM 118"
+        ],
+        "restriction_raw": "EDUC 320, EDUCM 320",
+        "restriction": [
+            "and",
+            "EDUC 320",
+            "EDUCM 320"
+        ]
+    },
+    {
+        "courseid": "EDUC 351",
+        "coursename": "Understanding Behaviour in Classrooms",
+        "description": "The contribution of social psychological theories and methods to educators' understanding and management of learning and instruction in New Zealand classrooms.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/351/1203",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 352",
+        "coursename": "Adolescence",
+        "description": "Selected aspects of adolescent psychology including theories of development and an examination of contemporary issues in development such as positive youth development, cognitive transitions, family and peer contexts, sexuality, identity, and psychosocial problems.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II\nRestriction: EDUC 343, 344",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/352/1203",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ],
+        "restriction_raw": "EDUC 343, 344",
+        "restriction": [
+            "and",
+            "EDUC 343",
+            "EDUC 344"
+        ]
+    },
+    {
+        "courseid": "EDUCM 321",
+        "coursename": "Te Ao T\u014drangap\u016b me te M\u0101tauranga",
+        "description": "Investigates the relationship between local, national and global politics, and education in Aotearoa New Zealand. Explores philosophical perspectives on teaching and the relationship between educational theory and practice.",
+        "subject": "Education M\u0101ori",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: EDUC 118 or EDUCM 118 or EDUC 140 or EDUCM 140\nRestriction: EDUC 320, EDUCM 320",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUCM/321/1203",
+        "prerequisite_raw": "EDUC 118 or EDUCM 118 or EDUC 140 or EDUCM 140",
+        "prerequisite": [
+            "or",
+            "EDUC 118",
+            "EDUCM 118",
+            "EDUC 140",
+            "EDUCM 140"
+        ],
+        "restriction_raw": "EDUC 320, EDUCM 320",
+        "restriction": [
+            "and",
+            "EDUC 320",
+            "EDUCM 320"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 303",
+        "coursename": "Research and Professional Practice",
+        "description": "Develops knowledge and understanding of a range of research paradigms and how research informs professional practice. Critically examines the scope and nature of research. Designs a valid, ethical, and appropriate inquiry of a professional practice topic.",
+        "subject": "Education and Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 45 points at Stage II\r\nRestriction: EDCURRIC 335",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUCSW/303/1203",
+        "prerequisite_raw": "45 points at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ],
+        "restriction_raw": "EDCURRIC 335",
+        "restriction": [
+            "and",
+            "EDCURRIC 335"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 311",
+        "coursename": "Social Work Process and Practice",
+        "description": "Students are required to integrate a defined range of approaches to practice comprising work with individuals, families and small groups. Knowledge, skills, values and ethics associated with direct practice will be extended. Students will apply the social work process of reflection and use of self in preparation for becoming a mindfully reflexive practitioner.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: SOCWORK 214 \nCorequisite: SOCWORK 317",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/311/1203",
+        "prerequisite_raw": "SOCWORK 214",
+        "prerequisite": [
+            "and",
+            "SOCWORK 214"
+        ],
+        "corequisite_raw": "SOCWORK 317",
+        "corequisite": [
+            "and",
+            "SOCWORK 317"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 315",
+        "coursename": "Organisations and Management",
+        "description": "Examines the variety of organisational frameworks from which human services are practised and the impact of these contexts on professional identity and practice in the workplace. Contemporary management approaches will be examined with reference to theory and roles and responsibilities assumed by human service managers in a complex and dynamic environment.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: SOCWORK 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/315/1203",
+        "prerequisite_raw": "SOCWORK 211",
+        "prerequisite": [
+            "and",
+            "SOCWORK 211"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 317",
+        "coursename": "Supervised Field Practice and Professional Development 1",
+        "description": "A practicum course which focuses on developing a professional identity and a philosophy of practice that is shaped by integrating personal experience and professional knowledge, values and skills gained from the first two years of the Bachelor of Social Work programme. A significant part of this course includes a period of 12 weeks supervised agency-based practical experience for which the student will be prepared through developing individual learning goals.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: SOCWORK 213, 214\nCorequisite: SOCWORK 311",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/317/1203",
+        "prerequisite_raw": "SOCWORK 213, 214",
+        "prerequisite": [
+            "and",
+            "SOCWORK 213",
+            "SOCWORK 214"
+        ],
+        "corequisite_raw": "SOCWORK 311",
+        "corequisite": [
+            "and",
+            "SOCWORK 311"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 310",
+        "coursename": "Pasifika Learners",
+        "description": "Examines what helps Pasifika learners to succeed in New Zealand education. Addresses questions such as: Who are Pasifika learners? How is Pasifika success addressed in classrooms/centres? How can the study of Pasifika learners help promote effective teaching in multiethnic primary and intermediate schools in New Zealand?",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 302",
+        "coursename": "Leading Health Promotion in Schools",
+        "description": "Critically examines how a range of health promotion models and theories can be applied in education settings. Develops in-depth knowledge of how contemporary health issues such as mental health, alcohol, drugs and obesity affect young people in Aotearoa schools. Develops understanding and skills to apply health promotion principles to educational and community settings in culturally responsive and socially critical ways.",
+        "subject": "Health Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: HEALTHED 201\nRestriction: EDCURRIC 433",
+        "url": "",
+        "prerequisite_raw": "HEALTHED 201",
+        "prerequisite": [
+            "and",
+            "HEALTHED 201"
+        ],
+        "restriction_raw": "EDCURRIC 433",
+        "restriction": [
+            "EDCURRIC 433"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 103",
+        "coursename": "Health and Physical Education",
+        "description": "Develops understandings of the theories, concepts and practices that support learning and teaching in health and physical education. Addresses questions such as: How do teachers implement quality learning experiences based on the health and physical education curriculum for effective learning to occur for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 108, EDCURRM 103",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/103/1205",
+        "restriction_raw": "EDCURR 108, EDCURRM 103",
+        "restriction": [
+            "and",
+            "EDCURR 108",
+            "EDCURRM 103"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 105",
+        "coursename": "Science Education Primary",
+        "description": "Develops an appreciation of the nature of science that supports conceptual understandings and quality teaching and learning approaches in science education. Addresses questions such as: How do teachers design quality learning experiences based on the science curriculum so that positive engagement and effective learning can occur for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 204, EDCURRM 105",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/105/1205",
+        "restriction_raw": "EDCURR 204, EDCURRM 105",
+        "restriction": [
+            "and",
+            "EDCURR 204",
+            "EDCURRM 105"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 106",
+        "coursename": "Social Studies Education Primary",
+        "description": "Develops students' knowledge and skills associated with planning for teaching and learning in Social Studies. Addresses questions such as: What do teachers need to know and understand about the history, nature and purpose of Social Studies education? How are curriculum requirements, teaching methodologies, management strategies and resources used to plan for students' diverse needs? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/106/1205",
+        "restriction_raw": "EDCURR 107",
+        "restriction": [
+            "and",
+            "EDCURR 107"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 107",
+        "coursename": "Technology Education Primary",
+        "description": "Develops knowledge, skills and attitudes associated with planning, teaching and assessing for children's learning in Technology Education. Addresses questions such as: What do teachers need to know about the nature and purpose of Technology Education? How do teachers design quality learning experiences for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURR 106, 209, EDCURRM 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/107/1205",
+        "restriction_raw": "EDCURR 106, 209, EDCURRM 107",
+        "restriction": [
+            "and",
+            "EDCURR 106",
+            "EDCURR 209",
+            "EDCURRM 107"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 109",
+        "coursename": "Languages and Literacies Education 1",
+        "description": "Examines beliefs and pedagogical practices about languages and literacies.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/109/1205",
+        "restriction_raw": "EDCURRIC 102",
+        "restriction": [
+            "and",
+            "EDCURRIC 102"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 110",
+        "coursename": "Dance/Drama in the Early Years",
+        "description": "Develops fundamental knowledge, skills and attitudes associated with planning, teaching and assessing children's dance and drama learning in early childhood. Addresses questions such as: Why are dance and drama important to children's learning? How do teachers design quality learning experiences that encourage individual responses from a diverse range of learners? How do we assess children's learning?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/110/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 111",
+        "coursename": "Experiencing Technology",
+        "description": "Develops knowledge and understanding of the components of technological literacy as it relates to young children. Develops understanding of appropriate pedagogical strategies to enhance children's learning in technology. Addresses questions such as: What is technological literacy? How can we develop technological literacy in young children? What environments encourage children's exploration of technological experiences?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/111/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 117",
+        "coursename": "Arts Education",
+        "description": "Inquire into the place of The Arts in education and develop capability and understanding through experiences in each of the four arts disciplines. Design for learning by applying pedagogical, curriculum, content and assessment knowledge to select approaches and resources for Arts learning experiences for valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/117/1205",
+        "restriction_raw": "EDCURRIC 101",
+        "restriction": [
+            "and",
+            "EDCURRIC 101"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 118",
+        "coursename": "Young Children and Early Learning Environments",
+        "description": "Explores links between social, material, and natural learning environments and curriculum provision in early childhood education. Introduces principles and theoretical perspectives of early childhood assessment aimed at empowering children as competent and confident. Considers pedagogical implications of assessment for children\u2019s curriculum experiences within early learning environments.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/118/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRM 103",
+        "coursename": "Te Whaiora",
+        "description": "Develops understanding of Hauora, philosophies and practices that support learning and teaching within ng\u0101 Marau. Addresses questions such as: How do teachers implement quality learning experiences based on te akoranga k\u014diri me ng\u0101 m\u0101tauranga hauora for effective learning to occur for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 103",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/103/1205",
+        "restriction_raw": "EDCURRIC 103",
+        "restriction": [
+            "and",
+            "EDCURRIC 103"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 105",
+        "coursename": "P\u016btaiao: He Whakatakinga",
+        "description": "Develops an appreciation of the nature of P\u016btaiao that supports conceptual understandings and quality teaching and learning approaches in P\u016btaiao education. Addresses questions such as: How do teachers design quality learning environments based on the Marautanga P\u016btaiao so that positive engagement and effective learning can occur for a diverse range of learners? How is learning monitored and assessed?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 105",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/105/1205",
+        "restriction_raw": "EDCURRIC 105",
+        "restriction": [
+            "and",
+            "EDCURRIC 105"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 106",
+        "coursename": "Tikanga-\u0101-iwi: He Whakatakinga",
+        "description": "Develops students' knowledge and skills associated with planning for teaching and learning in Tikanga \u0101 Iwi. Addresses questions such as: What do teachers need to know and understand about the history, nature and purpose of Tikanga \u0101 Iwi education? How are curriculum requirements, teaching methodologies, management strategies and resources used to plan for students' diverse needs? How is learning monitored and assessed?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 106",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/106/1205",
+        "restriction_raw": "EDCURRIC 106",
+        "restriction": [
+            "and",
+            "EDCURRIC 106"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 108",
+        "coursename": "P\u0101ngarau: He Whakatakinga",
+        "description": "Develops knowledge and understanding of the discipline of P\u0101ngarau and its relevance and purpose. Understands how the discipline is manifested in the form of curricula documents and guides. Considers questions such as what does it mean for children to know p\u0101ngarau and the associated debates and related theory. Examines the specific p\u0101ngarau education discourse in te reo M\u0101ori.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRM 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/108/1205",
+        "restriction_raw": "EDCURRM 104",
+        "restriction": [
+            "and",
+            "EDCURRM 104"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 109",
+        "coursename": "Te reo Matatini 1: Te Pihinga",
+        "description": "Develops knowledge, skills and attitudes associated with planning, teaching and assessing for learners' literacy learning across Marautanga. Examines a range of pedagogical practices and beliefs, including second language learning theory and pedagogy to teach literacy effectively and to improve outcomes for learners.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRM 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/109/1205",
+        "restriction_raw": "EDCURRM 101",
+        "restriction": [
+            "and",
+            "EDCURRM 101"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 100",
+        "coursename": "Practicum 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Corequisite: EDPROFST 102\nRestriction: EDPRAC 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/100/1205",
+        "corequisite_raw": "EDPROFST 102",
+        "corequisite": [
+            "and",
+            "EDPROFST 102"
+        ],
+        "restriction_raw": "EDPRAC 101",
+        "restriction": [
+            "and",
+            "EDPRAC 101"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 101",
+        "coursename": "The Professional Teacher: Primary 1",
+        "description": "Develops knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: What does it mean to be a teacher? What does it mean to be a professional? How are teachers learners? How do teachers establish professional relationships in complex environments? Requires demonstration of emerging pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 100, EDPRAC 102, 103, EDPRACM 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/101/1205",
+        "prerequisite_raw": "Any 45 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "45"
+        ],
+        "restriction_raw": "EDPROF 100, EDPRAC 102, 103, EDPRACM 101",
+        "restriction": [
+            "and",
+            "EDPROF 100",
+            "EDPRAC 102",
+            "EDPRAC 103",
+            "EDPRACM 101"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 105",
+        "coursename": "Practicum 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Corequisite: EDPROFST 103\nRestriction: EDPRAC 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/105/1205",
+        "corequisite_raw": "EDPROFST 103",
+        "corequisite": [
+            "and",
+            "EDPROFST 103"
+        ],
+        "restriction_raw": "EDPRAC 102",
+        "restriction": [
+            "and",
+            "EDPRAC 102"
+        ]
+    },
+    {
+        "courseid": "EDPRACM 100",
+        "coursename": "Noho \u0101 kura 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning. Examines the te reo M\u0101ori discourse relevant to the practicum context.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPROFM 102\nRestriction: EDPRACM 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/100/1205",
+        "prerequisite_raw": "EDPROFM 102",
+        "prerequisite": [
+            "and",
+            "EDPROFM 102"
+        ],
+        "restriction_raw": "EDPRACM 101",
+        "restriction": [
+            "and",
+            "EDPRACM 101"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 100",
+        "coursename": "Te Ao M\u0101ori - Te K\u0101kano",
+        "description": "Introduces socio-political and historical contexts, including Te Tiriti o Waitangi, to inform understandings about M\u0101ori challenges and aspirations within contemporary New Zealand society. Examines own social and cultural locations for their impact on professional and social practices in a range of settings. Develops basic knowledge of Te Ao M\u0101ori including Te Reo me ng\u0101 tikanga M\u0101ori.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/100/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 106",
+        "coursename": "History of Education and Society",
+        "description": "Introduces the study of education from sociological, historical and philosophical perspectives. Examines the forces that have shaped education in Aotearoa New Zealand with a view to understanding and theorising issues of equity, social justice, and diversity in education over time.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 118",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/106/1205",
+        "restriction_raw": "EDUC 118",
+        "restriction": [
+            "and",
+            "EDUC 118"
+        ]
+    },
+    {
+        "courseid": "EDUC 113",
+        "coursename": "Current Issues in Education",
+        "description": "Educational issues are pressing concerns in our society. The course will help develop understanding of the background of today's public debates around schooling and will introduce ways in which educational thought and research address big topics.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 118",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/113/1205",
+        "restriction_raw": "EDUC 118",
+        "restriction": [
+            "and",
+            "EDUC 118"
+        ]
+    },
+    {
+        "courseid": "EDUC 117",
+        "coursename": "Teaching and Learning: An Educational Psychological Perspective",
+        "description": "Includes an examination of core aspects of educational psychology that include thinking, learning, and behaving. An analysis of relevant theory and research within psychology in education: topics include behaviour analysis, measurement and assessment, cognition, socialisation, and individual differences. Students will explore these in relation to different educational settings and contexts, for example, culture, community, school, and classroom.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 111, 119, 121, 121G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/117/1205",
+        "restriction_raw": "EDUC 111, 119, 121, 121G",
+        "restriction": [
+            "and",
+            "EDUC 111",
+            "EDUC 119",
+            "EDUC 121",
+            "EDUC 121G"
+        ]
+    },
+    {
+        "courseid": "EDUC 122",
+        "coursename": "Learning Sexualities",
+        "description": "How and what do we learn about sexualities in New Zealand? Learning about sexualities is viewed as occurring both formally (e.g., through sexuality education) and informally (e.g., through the media) in a diversity of social sites. Schools are examined as one significant site where students are offered sexual meanings. The historical derivation and current context of contemporary education about sexuality along with its social effects are investigated.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/122/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUCM 106",
+        "coursename": "He Tirohanga ki te M\u0101tauranga i Aotearoa",
+        "description": "Examines historical and contemporary topics and themes in M\u0101ori schooling and education, with particular reference to the revitalisation of Te Reo M\u0101ori. Considers M\u0101ori educational aspirations and questions in the context of Treaty, social justice and equity debates in Aotearoa New Zealand. Examines te reo M\u0101ori discourse relevant to educational contexts and themes investigated in this course.",
+        "subject": "Education M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDUCM 118",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUCM/106/1205",
+        "restriction_raw": "EDUCM 118",
+        "restriction": [
+            "and",
+            "EDUCM 118"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 101",
+        "coursename": "Food and Education",
+        "description": "Examines the relationship between food, eating, nutrition, and the body. Examines the social, cultural, political, economic and environmental factors that determine how people eat, what they eat, and why. Explores contemporary issues in nutrition and food education, and key challenges to improving the nutrition of communities.",
+        "subject": "Health Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HEALTHED/101/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "HUMSERV 101",
+        "coursename": "Psychology for Human Services",
+        "description": "An introduction to the study of psychology and its application to working in human services. Students will explore key theorists and theories of psychology. A particular emphasis on learning theory, developmental processes of social, cognitive, moral and personality interaction. A central theme is an understanding of human behaviour in social settings.",
+        "subject": "Human Services",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HUMSERV/101/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHYSED 102",
+        "coursename": "Alternative Sport and Play",
+        "description": "Develops understanding of alternative sport and games young people play in Aotearoa New Zealand and internationally. Explores a range of non-traditional and non-competitive physical activities. Reflects on the socio-cultural dimensions of these types of physical activities, including an examination of how alternative sport enables young people to learn, play, communicate, create, express themselves, and belong.",
+        "subject": "Physical Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 232",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHYSED/102/1205",
+        "restriction_raw": "EDCURRIC 232",
+        "restriction": [
+            "and",
+            "EDCURRIC 232"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 111",
+        "coursename": "Professional Communication Skills",
+        "description": "An introduction into effective personal and professional communication in human services. An experiential and collaborative approach will be used to assist students to explore the place of self in the communication process, to understand the stages, purpose and task of the communication process, and to develop effective interaction.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/111/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 102",
+        "coursename": "Learning and Pedagogy",
+        "description": "An introduction to how humans learn and how such learning is applied within the fields of health, physical education, and sport. Examines the way humans develop and apply knowledge, skills, and dispositions and their implications for pedagogical practices in health, physical education, and sport contexts.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/102/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 103",
+        "coursename": "Biophysical Foundations",
+        "description": "Introduces students to the anatomical, physiological and biomechanical foundations of human movement. Examines the functions of the musculo-skeletal system, the circulo-respiratory system and the nervous system, during rest and activity. Studies the biomechanical principles required to improve mechanical efficiency in human movement.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 133",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/103/1205",
+        "restriction_raw": "EDCURRIC 133",
+        "restriction": [
+            "and",
+            "EDCURRIC 133"
+        ]
+    },
+    {
+        "courseid": "TFCEDUC 12F",
+        "coursename": "Introduction to Computing",
+        "description": "Develops computer literacy skills in word processing, spreadsheets, presentation software, document collaboration and common multi-media technologies. These skills will be embedded in the context of tertiary study.",
+        "subject": "TFC Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 12F",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TFCEDUC/12F/1205",
+        "restriction_raw": "EDFOUND 12F",
+        "restriction": [
+            "EDFOUND 12F"
+        ]
+    },
+    {
+        "courseid": "TFCEDUC 13F",
+        "coursename": "Child Development and Learning",
+        "description": "Presents an overview of language and learning development, and examines strategies for helping children to develop as learners and readers.",
+        "subject": "TFC Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 13F",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TFCEDUC/13F/1205",
+        "restriction_raw": "EDFOUND 13F",
+        "restriction": [
+            "EDFOUND 13F"
+        ]
+    },
+    {
+        "courseid": "TFCEDUC 16F",
+        "coursename": "Mathematics for Teaching Science and Technology",
+        "description": "Students will develop critical thinking skills by designing and critiquing investigative methods for science and mathematics.",
+        "subject": "TFC Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 16F",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TFCEDUC/16F/1205",
+        "restriction_raw": "EDFOUND 16F",
+        "restriction": [
+            "EDFOUND 16F"
+        ]
+    },
+    {
+        "courseid": "YOUTHWRK 152",
+        "coursename": "Understanding New Zealand Youth",
+        "description": "Examines the concept of 'youth' and the historical, economic and political contexts in which young people live and are schooled in New Zealand society. The concept of youth is explored as a fundamental aspect of human development, identity and culture. The ways that we learn about what it is to be a young person in New Zealand today, including sport, body image, media, music, technology and social networking will be explored.",
+        "subject": "Youth Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/YOUTHWRK/152/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "TFCEDUC 14F",
+        "coursename": "An Introduction to the New Zealand Education System",
+        "description": "Introduces students to the education system of New Zealand. Illustrates the historical development of the New Zealand education system, and addresses issues such as changes to governance and curriculum and ethnic diversity in New Zealand schools.",
+        "subject": "TFC Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDFOUND 14F",
+        "url": "",
+        "restriction_raw": "EDFOUND 14F",
+        "restriction": [
+            "EDFOUND 14F"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 204",
+        "coursename": "Primary Mathematics and Statistics Education 2",
+        "description": "Develops the knowledge, skills and understanding for designing quality learning experiences for diverse learners. Considers questions related to primary school mathematics and statistics education such as: What are the concepts and learning progressions in the national curriculum? What theoretical models of teaching, learning and assessment best inform teachers about the growth of understanding? What constitutes effective teaching practice?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDCURRIC 104\nRestriction: EDCURR 203, EDCURRM 204",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/204/1205",
+        "prerequisite_raw": "EDCURRIC 104",
+        "prerequisite": [
+            "and",
+            "EDCURRIC 104"
+        ],
+        "restriction_raw": "EDCURR 203, EDCURRM 204",
+        "restriction": [
+            "and",
+            "EDCURR 203",
+            "EDCURRM 204"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 211",
+        "coursename": "Languages and Literacies",
+        "description": "Develops knowledge, critical skills and dispositions associated with assessing, planning and teaching for children's learning in languages and literacies. Addresses questions such as: What do teachers need to know and be, to teach with diverse learners, family, wh\u0101nau and communities? What resources and strategies maximise complexity and continuity such that all children identify as competent and confident communicators in Aotearoa New Zealand?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 631",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/211/1205",
+        "restriction_raw": "EDCURRIC 631",
+        "restriction": [
+            "EDCURRIC 631"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 212",
+        "coursename": "Mathematics in the Early Years",
+        "description": "Develops knowledge and understanding of early mathematical concepts and their relationship with holistic learning environments. Considers questions such as: What are early mathematical concepts? What is effective planning for mathematical possibilities within a play-based early childhood programme? What constitutes an holistic approach to mathematics learning?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/212/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPRAC 201",
+        "coursename": "Practicum Primary 2",
+        "description": "Further develops the knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: How do I teach responsively and purposefully? How do I establish and maintain professional relationships in complex environments and manage the environment effectively and professionally to enable success for learners? Requires demonstration of effective developing pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 101 and any 75 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 200, 210, EDPRAC 202, 203, EDPRACM 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/201/1205",
+        "prerequisite_raw": "EDPRAC 101 and any 75 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 101",
+            "any 75 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 200, 210, EDPRAC 202, 203, EDPRACM 201",
+        "restriction": [
+            "and",
+            "EDPROF 200",
+            "EDPROF 210",
+            "EDPRAC 202",
+            "EDPRAC 203",
+            "EDPRACM 201"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 202",
+        "coursename": "Practicum Early Childhood 2",
+        "description": "Further develops the knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: How do I teach responsively and purposefully; establish and maintain professional relationships in complex environments and manage the learning environment effectively and professionally to enable success for learners? Requires demonstration of effective developing pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 102 or EDPRACPK 102 and any 75 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 201, 203, EDPRACM 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/202/1205",
+        "prerequisite_raw": "EDPRAC 102 or EDPRACPK 102 and any 75 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "EDPRAC 102",
+                "EDPRACPK 102"
+            ],
+            "any 75 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 201, 203, EDPRACM 201",
+        "restriction": [
+            "and",
+            "EDPRAC 201",
+            "EDPRAC 203",
+            "EDPRACM 201"
+        ]
+    },
+    {
+        "courseid": "EDPRACM 201",
+        "coursename": "Noho \u0101 kura: Te Taiao Ako",
+        "description": "Further develops the knowledge, skills and attitudes associated with effective pedagogical practice through integrating research, theory and practical experience. Addresses questions such as: How do I teach responsively and purposefully; establish and maintain professional relationships in complex environments and manage the learning environment effectively and professionally to enable success for learners? Requires demonstration of effective developing pedagogical practice.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRACM 101 and any 45 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 201, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/201/1205",
+        "prerequisite_raw": "EDPRACM 101 and any 45 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRACM 101",
+            "any 45 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 201, 202",
+        "restriction": [
+            "and",
+            "EDPRAC 201",
+            "EDPRAC 202"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 205",
+        "coursename": "Te Whakatairanga Paetae mo te \u0100konga",
+        "description": "Explores diversity in the New Zealand context and its implications for teaching and learning. Considers strategies to address identified underachievement. Utilising psychological and sociological theory and research, the course examines practices that create effective teaching and learning environments for diverse/all learners. Teacher expectations, relationships, individual differences, classroom management and questioning are examined in relationship to contemporary approaches to teaching and learning.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDUC 140, 141 or EDUC 118, 119 or EDUCM 140, 141 or EDUCM 118, 119",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/205/1205",
+        "prerequisite_raw": "EDUC 140, 141 or EDUC 118, 119 or EDUCM 140, 141 or EDUCM 118, 119",
+        "prerequisite": [
+            "or",
+            "EDUC 140",
+            "EDUC 141",
+            "EDUC 118",
+            "EDUC 119",
+            "EDUCM 140",
+            "EDUCM 141",
+            "EDUCM 118",
+            "EDUCM 119"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 204",
+        "coursename": "Te Wh\u0101riki for Diverse Learners",
+        "description": "Critically examines early childhood curriculum and its implications for developing a personal pedagogy that is responsive to individual learners. How does curriculum combine with teachers' skills, knowledge and attitudes to address equity and diversity in Aotearoa New Zealand? How do teachers manage the relationship between curriculum and the learning environment to enable learners' success?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 15 points from EDUC 118, 140 and 15 points from EDUC 119, 141",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/204/1205",
+        "prerequisite_raw": "15 points from EDUC 118, 140 and 15 points from EDUC 119, 141",
+        "prerequisite": [
+            "and",
+            [
+                "15",
+                "EDUC 118",
+                "EDUC 140"
+            ],
+            [
+                "15",
+                "EDUC 119",
+                "EDUC 141"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 205",
+        "coursename": "Promoting Achievement for Diverse Learners",
+        "description": "Explores diversity in the New Zealand context and its implications for teaching and learning. Considers strategies to address identified underachievement. Utilising psychological and sociological theory and research, the course examines practices that create effective teaching and learning environments for diverse/all learners. Teacher expectations, relationships, individual differences, classroom management and questioning are examined in relationship to contemporary approaches to teaching and learning.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 15 points from EDUC 118, 140, EDUCM 118, 140 and 15 points from EDUC 119, 141, EDUCM 119, 141 or 30 points passed at Stage I in BEd(TESOL)",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/205/1205",
+        "prerequisite_raw": "15 points from EDUC 118, 140, EDUCM 118, 140 and 15 points from EDUC 119, 141, EDUCM 119, 141 or 30 points passed at Stage I in BEd(TESOL)",
+        "prerequisite": [
+            "and",
+            [
+                "15",
+                "EDUC 118",
+                "EDUC 140",
+                "EDUCM 118",
+                "EDUCM 140"
+            ],
+            [
+                "15",
+                "EDUC 119",
+                "EDUC 141",
+                "EDUCM 119",
+                "EDUCM 141",
+                "30 points passed at Stage I in BEd(TESOL)"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 207A",
+        "coursename": "Interdisciplinary Approach: TESOL",
+        "description": "An overview of second language learning and teaching that addresses the interdisciplinary nature of TESOL by developing knowledge, skills and attitudes associated with TESOL within different contexts. Addresses questions such as: What are the important principles, concepts and skills in an interdisciplinary approach to TESOL? Why is intercultural communicative language learning important? How are these concepts evident in practice?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "To complete this course students must enrol in EDPROFST 207 A and B, or EDPROFST 207",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/207A/1205",
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 207 A and B, or EDPROFST 207",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 207A",
+                    "EDPROFST 207B"
+                ],
+                "EDPROFST 207"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDUC 211",
+        "coursename": "Schooling Ethnic Diversity",
+        "description": "A critical examination of research on ethnic diversity in New Zealand schools. The course discusses equity, 'race', ethnicity, biculturalism, 'multicultural education', equal opportunity, and other theories, structures and strategies developed in New Zealand and overseas in response to ethnic diversity.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 310",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/211/1205",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 310",
+        "restriction": [
+            "and",
+            "EDUC 310"
+        ]
+    },
+    {
+        "courseid": "EDUC 213",
+        "coursename": "Education and Social Justice",
+        "description": "Can education contribute to social justice? A critical examination of the contemporary concern with social justice in education. Drawing on local and international research, this course explores debates about the nature of power, and the ways that gender and sexuality, ethnicity, indigeneity, social class, and other social identities are taken up in the pursuit of social justice within education.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/213/1205",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 221",
+        "coursename": "Child Development",
+        "description": "A study of key issues in development, with a focus on early and middle childhood. Topics include family, peer, cultural, and media influences on typical and atypical development.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/221/1205",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 223",
+        "coursename": "Educational Psychology",
+        "description": "An introduction to new ways of thinking about learning in educational settings: how students can develop their learning abilities, be more strategic in their learning, and increase their motivation. These questions and themes can be applied to educational, family and work settings, and to students with different learning needs. A foundation to advanced courses in psychological studies in education.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/223/1205",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 202",
+        "coursename": "Sexuality, Education and Society",
+        "description": "Examines the role of sexuality and sexuality education in society. Investigates cultural, historical and contemporary perspectives on gender and sexuality in diverse settings, including education and human services. Explores values, beliefs and issues of equity and sexual social justice. Develops sexuality pedagogies and advocacy for education settings and within communities.",
+        "subject": "Health Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDCURRIC 333, EDUC 122",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HEALTHED/202/1205",
+        "restriction_raw": "EDCURRIC 333, EDUC 122",
+        "restriction": [
+            "and",
+            "EDCURRIC 333",
+            "EDUC 122"
+        ]
+    },
+    {
+        "courseid": "SOCHLTH 231",
+        "coursename": "Hauora and Social Work Practice",
+        "description": "Critically explores the role of social work within community and institutional health settings. Develops an understanding of the social determinants of health and their impact on wellbeing. Considers emotional, psychological, cultural and social impacts of health status and illness on people in Aotearoa New Zealand and identifies core skills for working in this area of social work practice.",
+        "subject": "Social Work Health Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCHLTH/231/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCWORK 211",
+        "coursename": "Social Policy Development",
+        "description": "Explores the design and analysis required in policy advocacy and policy development. Consideration of the contexts where policy review and development occur, the procedures involved, the role and preparation of submissions outlining a case for change and the proposal for new policy, and the obligations required in policy innovation and evaluation.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: SOCWORK 112",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/211/1205",
+        "prerequisite_raw": "SOCWORK 112",
+        "prerequisite": [
+            "and",
+            "SOCWORK 112"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 213",
+        "coursename": "Social Work Practice Skills",
+        "description": "Development of the key skills of practice including: engagement, assessment, intervention, referral and evaluation. Drawing on theoretical approaches provided in SOCWORK 214 this course will develop the skills for working with clients in a variety of settings and cultural contexts. To be studied concurrently with SOCWORK 214.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Corequisite: SOCWORK 214",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/213/1205",
+        "corequisite_raw": "SOCWORK 214",
+        "corequisite": [
+            "and",
+            "SOCWORK 214"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 214",
+        "coursename": "Social Work Practice Theories",
+        "description": "An introduction to a range of theories and models of practice in social work and their application to a variety of social work settings, including an exploration of personal and professional values within the framework of relevant codes of ethics, cultural practice and the importance of professional supervision. To be studied concurrently with SOCWORK 213.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Corequisite: SOCWORK 213",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/214/1205",
+        "corequisite_raw": "SOCWORK 213",
+        "corequisite": [
+            "and",
+            "SOCWORK 213"
+        ]
+    },
+    {
+        "courseid": "SPORT 204",
+        "coursename": "Coaching Sport",
+        "description": "Examines and applies effective coaching practices, including coaching principles and the nature of practice. Focuses on developmentally and culturally appropriate coaching contexts throughout the lifespan (including childhood, adolescence and adulthood). Attention is given to coaching for diverse players and inclusive practices. Applies player-centred coaching principles.",
+        "subject": "Sport Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014\nRestriction: EDCURRIC 239",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORT/204/1205",
+        "prerequisite_raw": "Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014",
+        "prerequisite": [
+            "and",
+            "Students are required to consent to the disclosure of criminal convictions",
+            "safety checks as required by the Children's Act  2014"
+        ],
+        "restriction_raw": "EDCURRIC 239",
+        "restriction": [
+            "and",
+            "EDCURRIC 239"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 201",
+        "coursename": "Whakatinanahia",
+        "description": "Examines M\u0101ori approaches to embodiment, forms of physicality and movement valuable for educational and health settings in Aotearoa New Zealand. Students will gain knowledge through engaging in forms of M\u0101ori physical culture in a range of contexts.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDUCSW 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/201/1205",
+        "prerequisite_raw": "EDUCSW 101",
+        "prerequisite": [
+            "and",
+            "EDUCSW 101"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 203",
+        "coursename": "Physiology, Exercise, Fitness",
+        "description": "Develops knowledge and understanding of exercise physiology. Examines physiological responses during and as a result of exercise. Examines the nature and purpose of deliberate exercise and fitness programmes. Explores the pedagogy of teaching exercise and fitness.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: SPORTHPE 103 \r\nRestriction: EDCURRIC 200, 334",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/203/1205",
+        "prerequisite_raw": "SPORTHPE 103",
+        "prerequisite": [
+            "and",
+            "SPORTHPE 103"
+        ],
+        "restriction_raw": "EDCURRIC 200, 334",
+        "restriction": [
+            "and",
+            "EDCURRIC 200",
+            "EDCURRIC 334"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 362",
+        "coursename": "Drama and Learning",
+        "description": "An examination of the learning processes initiated by the use of drama in the classroom with a particular focus on language use. There will be opportunity to design, implement and evaluate drama programmes.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRIC/362/1205",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 301",
+        "coursename": "Teaching and Te Reo M\u0101ori",
+        "description": "Integrates curriculum content with approaches to planning, teaching and assessing Te Reo M\u0101ori up to Year 10. Addresses such questions as: Why is it important to learn Te Reo M\u0101ori? What do teachers need to know to teach Te Reo M\u0101ori effectively? What strategies, approaches and resources maximise student motivation and language acquisition in Te Reo M\u0101ori?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation\nRestriction: EDCURR 606, 630, EDCURRM 320, EDPROFST 353, EDCURSEC 678",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/301/1205",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ],
+        "restriction_raw": "EDCURR 606, 630, EDCURRM 320, EDPROFST 353, EDCURSEC 678",
+        "restriction": [
+            "and",
+            "EDCURR 606",
+            "EDCURR 630",
+            "EDCURRM 320",
+            "EDPROFST 353",
+            "EDCURSEC 678"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 304",
+        "coursename": "T\u016b Tangata",
+        "description": "Critically examines subjective positions from which groups and individuals make sense of the world and act in it. Asks questions such as: What is social and critical literacy? How can critical literacies be used to challenge our subjectivities and assumptions? How do these literacies intersect with underlying notions and philosophies embedded in Kaupapa M\u0101ori education initiatives? What are the issues and tensions in applying a Kaupapa M\u0101ori philosophy in education?",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDCURRM/304/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPRAC 305",
+        "coursename": "Practicum: Enabling Achievement Primary",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule \nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/305/1205",
+        "prerequisite_raw": "EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201",
+            "any 180 points from the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 305A",
+                    "EDPRAC 305B"
+                ],
+                "EDPRAC 305"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 306",
+        "coursename": "Practicum: Enabling Achievement Early Childhood",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/306/1205",
+        "prerequisite_raw": "EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 202",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 306A",
+                    "EDPRAC 306B"
+                ],
+                "EDPRAC 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFM 305",
+        "coursename": "Te Pouako Ngaio",
+        "description": "An examination of principles of how people learn will guide inquiry into own personal teaching practice and reflection on a developing, evidence-informed personal pedagogy. Notions of teacher professionalism and how the moral and ethical nature of teaching impacts on teacher decision-making will be explored.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: EDPROFM 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/305/1205",
+        "restriction_raw": "EDPROFM 313",
+        "restriction": [
+            "and",
+            "EDPROFM 313"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 309",
+        "coursename": "Te Pae Tawhiti kia Tata",
+        "description": "Synthesises Te Reo M\u0101ori knowledge, skills and attitudes for teaching and learning across Marautanga. Addresses questions such as: How is Te Reo M\u0101ori revitalisation supported at micro, meso and macro levels? What are the socio-political implications of language change, shift, loss and revitalisation? How can long term personal M\u0101ori language development be planned for in a school context?",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPROFM 209",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFM/309/1205",
+        "prerequisite_raw": "EDPROFM 209",
+        "prerequisite": [
+            "and",
+            "EDPROFM 209"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 300",
+        "coursename": "Raising Student Achievement",
+        "description": "Examines theory, research and practice to promote success for learners. Questions include: How do policies and practice shape what is meant by achievement? How do school communities operate as collaborative teams to raise achievement of learners? How can we identify and promote success for learners? What are the implications for teaching?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation\nRestriction: EDPROFST 604",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/300/1205",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ],
+        "restriction_raw": "EDPROFST 604",
+        "restriction": [
+            "EDPROFST 604"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 304",
+        "coursename": "Play: Theory and Practice",
+        "description": "Develops critical understandings of play related to learning and teaching. Addresses questions such as: How do varied theoretical and philosophical perspectives of play influence professional practice? What are the implications of positioning play as the interface between individual freedom and social constraint? What is the significance of play for creativity, communication and citizenship?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: At least 225 points passed\nRestriction: EDCURRIC 215, 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/304/1205",
+        "prerequisite_raw": "At least 225 points passed",
+        "prerequisite": [
+            "At least 225 points passed"
+        ],
+        "restriction_raw": "EDCURRIC 215, 313",
+        "restriction": [
+            "and",
+            "EDCURRIC 215",
+            "EDCURRIC 313"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 305",
+        "coursename": "The Reflective and Ethical Teacher",
+        "description": "An examination of principles of how people learn will guide inquiry into own personal teaching practice and reflection on a developing, evidence-informed personal pedagogy. Notions of teacher professionalism and how the moral and ethical nature of teaching impacts on teacher decision-making will be explored.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 201\nCorequisite: EDPRAC 305\nRestriction: EDPROFST 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/305/1205",
+        "prerequisite_raw": "EDPRAC 201",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201"
+        ],
+        "corequisite_raw": "EDPRAC 305",
+        "corequisite": [
+            "and",
+            "EDPRAC 305"
+        ],
+        "restriction_raw": "EDPROFST 313",
+        "restriction": [
+            "and",
+            "EDPROFST 313"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 306A",
+        "coursename": "Contemporary Issues in TESOL",
+        "description": "Examines a range of contemporary issues relating to TESOL education allowing students to draw connections between theory, research, their own experiences as language users and practice. Addresses questions such as: What are the latest developments in the theory, policy and practice of TESOL? How does digital technology impact TESOL? How does reflective practice shape the work of the TESOL educator?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "To complete this course students must enrol in EDPROFST 306 A and B, or EDPROFST 306",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/306A/1205",
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 306 A and B, or EDPROFST 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 306A",
+                    "EDPROFST 306B"
+                ],
+                "EDPROFST 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 313",
+        "coursename": "The Professional Teacher",
+        "description": "Examines theories, evidence informed practices, and attitudes that are critical to being a professional teacher. Explores concepts such as teacher self-efficacy, teacher inquiry, knowledge building and reflection, and factors that support the transition from student to teacher. Discusses the nature of professionalism, and the impact of expectations on teachers, including ethical obligations and legal requirements.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 202 or 105 points passed at Stage II from the BEd(TESOL) Schedule\nCorequisite: EDPRAC 306 or EDPROFST 306",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/313/1205",
+        "prerequisite_raw": "EDPRAC 202 or 105 points passed at Stage II from the BEd(TESOL) Schedule",
+        "prerequisite": [
+            "or",
+            "EDPRAC 202",
+            "105"
+        ],
+        "corequisite_raw": "EDPRAC 306 or EDPROFST 306",
+        "corequisite": [
+            "or",
+            "EDPRAC 306",
+            "EDPROFST 306"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 319",
+        "coursename": "Teaching Gifted and Talented Students",
+        "description": "Explores theories and practices which have the potential to promote the development of gifts and talent. Integrates theory, research and professional practice to develop understanding of gifted education.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation\nRestriction: EDPROFST 223, 371",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/319/1205",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ],
+        "restriction_raw": "EDPROFST 223, 371",
+        "restriction": [
+            "and",
+            "EDPROFST 223",
+            "EDPROFST 371"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 363",
+        "coursename": "Environmental Education: An Introduction",
+        "description": "An examination of the nature and purpose of environmental education in New Zealand educational settings. An exploration of curriculum integration models and the ways these can be used to plan and teach environmental education programmes. An investigation of past, present (and possible future) local, national, and global environmental issues and their impacts on the natural and built environments.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/363/1205",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 372",
+        "coursename": "TESSOL: Language Learning through Tasks",
+        "description": "Investigates strategies for maximising language and content learning through instructional tasks. Cognitive, linguistic and metacognitive demands of tasks are considered. Examines pedagogical frameworks for planning effective language and content teaching in early childhood, primary and secondary schools. Students review, trial and modify tasks and learning sequences.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 105 points passed at Stage II from the BEd(TESOL) Schedule",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/372/1205",
+        "prerequisite_raw": "105 points passed at Stage II from the BEd(TESOL) Schedule",
+        "prerequisite": [
+            "105"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 374",
+        "coursename": "TESSOL: Language Focused Curriculum",
+        "description": "Discusses the relationship between culture, power, language and curriculum. Students investigate models and principles of curriculum design and use a functional-grammar approach to the design of language across the curriculum programmes. Focuses on ways of implementing and sustaining classroom and school wide language focused content teaching.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPROFST 227, 372 and 373",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/374/1205",
+        "prerequisite_raw": "EDPROFST 227, 372 and 373",
+        "prerequisite": [
+            "and",
+            "EDPROFST 227",
+            "EDPROFST 372",
+            "EDPROFST 373"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 377",
+        "coursename": "Bilingual Education: Curriculum and Pedagogy",
+        "description": "Examines key principles and processes for curriculum development and resource provision for bilingual learners in mainstream or bilingual educational contexts. Students critique an aspect of programme planning and pedagogy in order to develop curriculum and assessment measures suitable for bilingual learners in a particular school or centre.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/377/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 392",
+        "coursename": "Effective Practice for Beginning Teachers",
+        "description": "An inquiry into key aspects of effective practice in primary and middle school contexts that support the transition to becoming a successful beginning teacher. Focuses on knowledge of self, children, schools, communities of practice, and the interactions and relationships between these, to support effective professional practice.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPROFST/392/1205",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDUC 300",
+        "coursename": "Understanding Childhood",
+        "description": "Investigates children\u2019s cultural and social worlds in local and global contexts. 'The course gives a voice to children\u2019s views and understandings of their childhoods. Topics include: What is \u2018childhood\u2019? What roles do place and space have in children\u2019s lives? How do children\u2019s rights invite children to participate in their own lives?",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 45 points at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/300/1205",
+        "prerequisite_raw": "45 points at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 304",
+        "coursename": "Educational Philosophy and Policy",
+        "description": "Examines the competing ideologies of individualism and community, their influence in recent educational reforms in New Zealand, and their wider implications for education, society and culture. Introduces the basic concepts and themes of classical liberalism, comparing and contrasting them with versions of neo-liberalism, and outlines the case for a community-based social policy and the renewal of social democracy.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/304/1205",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 318",
+        "coursename": "Teaching Languages in Schools",
+        "description": "Students who have a working knowledge of a second language will study and apply strategies for classroom teaching of second languages in schools. Following critical reflection on different teaching models used in schools, students will prepare teaching materials, plan class lessons and apply information and communication technology in teaching and learning second languages.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/318/1205",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 347",
+        "coursename": "Special Topic: The Idea of the University Student",
+        "description": "Offers a multi-disciplinary exploration of the `idea of the university student' through history, popular culture, and social theory to show how that idea has changed over time and who it has included and excluded along the way. Students will critically reflect on their own diverse positions and experiences as university students in relation to these powerful but shifting ideas about university education and its imagined student.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/347/1205",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 360",
+        "coursename": "Treaty Politics in Education",
+        "description": "A critical examination of the emergence of the Treaty of Waitangi in education, and the tensions and convergences that exist between M\u0101ori aspirations and state policies. Key themes, initiatives, relationships and policies in education are considered within the broader question of the place of the Treaty in Aotearoa New Zealand.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/360/1205",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 302",
+        "coursename": "Service Learning",
+        "description": "A service-learning experience during which students will develop specialist knowledge and skills. With supervision, students will engage in culturally-responsive, reflective practice that is of direct benefit to others. Professional and ethical relationship management, effective communication skills, critical reflection and evidence-based decision making will be emphasised.",
+        "subject": "Education and Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUCSW/302/1205",
+        "prerequisite_raw": "Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014",
+        "prerequisite": [
+            "and",
+            "Students are required to consent to the disclosure of criminal convictions",
+            "safety checks as required by the Children's Act  2014"
+        ]
+    },
+    {
+        "courseid": "SOCHLTH 313",
+        "coursename": "Mental Health in Social Practice",
+        "description": "An exploration of the dynamics of social practice with service users and their wh\u0101nau/family with mental health issues. This course includes an examination of mental health policy and broad approaches to care and recovery. An overview knowledge of the major mental health illnesses and associated recovery strategies will be provided. The impact of mental health issues in M\u0101ori, Pasifika, people with disabilities, young people and refugee and migrant communities will be examined.",
+        "subject": "Social Work Health Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCHLTH/313/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCWORK 312",
+        "coursename": "Applied Social Research",
+        "description": "Social workers are reclaiming the research agenda in social work. Sound social work practice relies on evidence to inform theoretical frameworks, intervention decisions and practice evaluation. A practical introduction to the principles, theories and approaches that inform social research, with a particular emphasis on social work contexts.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/312/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCWORK 317",
+        "coursename": "Supervised Field Practice and Professional Development 1",
+        "description": "A practicum course which focuses on developing a professional identity and a philosophy of practice that is shaped by integrating personal experience and professional knowledge, values and skills gained from the first two years of the Bachelor of Social Work programme. A significant part of this course includes a period of 12 weeks supervised agency-based practical experience for which the student will be prepared through developing individual learning goals.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: SOCWORK 213, 214\nCorequisite: SOCWORK 311",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCWORK/317/1205",
+        "prerequisite_raw": "SOCWORK 213, 214",
+        "prerequisite": [
+            "and",
+            "SOCWORK 213",
+            "SOCWORK 214"
+        ],
+        "corequisite_raw": "SOCWORK 311",
+        "corequisite": [
+            "and",
+            "SOCWORK 311"
+        ]
+    },
+    {
+        "courseid": "SOCYOUTH 300",
+        "coursename": "Therapeutic Youth Mentoring",
+        "description": "Theories and concepts of youth mentoring and positive youth development will be examined in relation to practice as youth mentors. Students will engage in weekly mentoring sessions on campus with local at-risk youth as part of the Campus Connections therapeutic mentoring programme. Lecture topics include adolescent development, effective mentoring relationships, communication and counselling, ethical youth practice, and risk assessment.",
+        "subject": "Social Work Youth Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 60 points passed at Stage II or above and approval from the Course Director",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCYOUTH/300/1205",
+        "prerequisite_raw": "Any 60 points passed at Stage II or above and approval from the Course Director",
+        "prerequisite": [
+            "60:Stage II",
+            "or above and approval from the Course Director"
+        ]
+    },
+    {
+        "courseid": "SPORT 302",
+        "coursename": "Sport Leadership",
+        "description": "Develops the knowledge and skills for leading people and organisations in sporting contexts. Involves the study of leadership theories and styles from a range of different cultures. Includes critical examination of contemporary leadership strategies, issues, politics and policy. Develops interpersonal skills and leadership philosophies.",
+        "subject": "Sport Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: SPORT 203, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORT/302/1205",
+        "prerequisite_raw": "SPORT 203, 202",
+        "prerequisite": [
+            "and",
+            "SPORT 203",
+            "SPORT 202"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 301",
+        "coursename": "School Health and Physical Education",
+        "description": "Examines health education and physical education in primary and secondary school contexts. Develops knowledge of pedagogy, curriculum, and programming. Critically examines how contemporary issues in the fields of health, sport and physical education impact schools.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/301/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 303",
+        "coursename": "Health, Fitness and Culture",
+        "description": "Critically examines the nature of incidental and deliberate exercise, lifestyle choices, and concepts of health. Critiques the veracity of evidence linking physical activity and health. Critically explores contemporary health issues associated with sedentary lifestyles, and the impact of twenty-first century lifestyle changes including globalisation and digitalisation. Examines how education can contribute to the diverse exercise and health needs of society.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: SPORTHPE 203 \r\nRestriction: EDCURRIC 334",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SPORTHPE/303/1205",
+        "prerequisite_raw": "SPORTHPE 203",
+        "prerequisite": [
+            "and",
+            "SPORTHPE 203"
+        ],
+        "restriction_raw": "EDCURRIC 334",
+        "restriction": [
+            "and",
+            "EDCURRIC 334"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 310",
+        "coursename": "Pasifika Learners",
+        "description": "Examines what helps Pasifika learners to succeed in New Zealand education. Addresses questions such as: Who are Pasifika learners? How is Pasifika success addressed in classrooms/centres? How can the study of Pasifika learners help promote effective teaching in multiethnic primary and intermediate schools in New Zealand?",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation",
+        "url": "",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 305B",
+        "coursename": "Practicum: Enabling Achievement Primary",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule \nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/305B/1205",
+        "prerequisite_raw": "EDPRAC 201 and any 180 points from the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201",
+            "any 180 points from the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 305 A and B, or EDPRAC 305",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 305A",
+                    "EDPRAC 305B"
+                ],
+                "EDPRAC 305"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 306B",
+        "coursename": "Practicum: Enabling Achievement Early Childhood",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRAC/306B/1205",
+        "prerequisite_raw": "EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 202",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 306A",
+                    "EDPRAC 306B"
+                ],
+                "EDPRAC 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRACM 302B",
+        "coursename": "Noho \u0101 kura: Te Whakatairanga Paetae M\u0101tauranga",
+        "description": "",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: EDPRACM 201 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPRAC 301, 302, EDPRACM 301\nTo complete this course students must enrol in EDPRACM 302 A and B, or EDPRACM 302",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDPRACM/302B/1205",
+        "prerequisite_raw": "EDPRACM 201 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRACM 201",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPRAC 301, 302, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRACM 302 A and B, or EDPRACM 302",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRACM 302A",
+                    "EDPRACM 302B"
+                ],
+                "EDPRACM 302"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDUC 341",
+        "coursename": "Introduction to Counselling in the Community",
+        "description": "An examination of the application of basic principles of counselling to the needs of individual children and adults and to couples, families and other groups.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    }
+]

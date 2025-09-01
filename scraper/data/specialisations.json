@@ -1,0 +1,816 @@
+[
+    {
+        "title": "Biomedical Science",
+        "note": "Not available for conjoint degree programmes",
+        "requirements": [
+            "and",
+            [
+                "90",
+                "BIOSCI 101",
+                "BIOSCI 106",
+                "BIOSCI 107",
+                "CHEM 110",
+                "MEDSCI 142",
+                "PHYSICS 160"
+            ],
+            [
+                "15",
+                "BIOSCI 201-203"
+            ],
+            [
+                "15",
+                "MEDSCI 201-206"
+            ],
+            [
+                "45",
+                "BIOSCI 201-204",
+                "EXERSCI 206",
+                "MEDSCI 201-206"
+            ],
+            [
+                "15",
+                "BIOSCI 220"
+            ],
+            [
+                "60",
+                "BIOSCI 347-358",
+                "MEDIMAGE 300",
+                "MEDIMAGE 302",
+                "MEDSCI 300-320"
+            ],
+            [
+                "15",
+                "BIOMED 399"
+            ]
+        ],
+        "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 15 points from BIOSCI 201-203 and 15 points from MEDSCI 201-206 and 45 points from BIOSCI 201-204, EXERSCI 206, MEDSCI 201-206 and 15 points: BIOSCI 220 and 60 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399",
+        "paths": [
+            {
+                "title": "Anatomical Imaging Science",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201-203"
+                    ],
+                    [
+                        "60",
+                        "BIOSCI 220",
+                        "MEDSCI 201",
+                        "MEDSCI 203",
+                        "MEDSCI 206"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201-204",
+                        "EXERSCI 206",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "45",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 15 points from BIOSCI 201-203 and 60 points: BIOSCI 220, MEDSCI 201, 203, 206 and 15 points from BIOSCI 201-204, EXERSCI 206, MEDSCI 201-206 and 45 points: MEDIMAGE 300, 302, MEDSCI 300 and 15 points from BIOSCI 347-358, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Cancer Biology and Therapeutics",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "75",
+                        "BIOSCI 201",
+                        "BIOSCI 202",
+                        "BIOSCI 220",
+                        "MEDSCI 203",
+                        "MEDSCI 204"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 203",
+                        "MEDSCI 205"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 356",
+                        "MEDSCI 302",
+                        "MEDSCI 319"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 75 points: BIOSCI 201, 202, 220, MEDSCI 203, 204 and 15 points from BIOSCI 203, MEDSCI 205 and 45 points: BIOSCI 356, MEDSCI 302, 319 and 15 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Cardiovascular Biology",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 220",
+                        "MEDSCI 205",
+                        "MEDSCI 206"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201",
+                        "BIOSCI 203"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201",
+                        "BIOSCI 203",
+                        "MEDSCI 204"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201-204",
+                        "EXERSCI 206",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "30",
+                        "MEDSCI 309",
+                        "MEDSCI 311"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 353",
+                        "MEDSCI 320"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 45 points: BIOSCI 220, MEDSCI 205, 206 and 15 points from BIOSCI 201, 203 and 15 points from BIOSCI 201, 203, MEDSCI 204 and 15 points from BIOSCI 201-204, EXERSCI 206, MEDSCI 201-206 and 30 points: MEDSCI 309, 311 and 15 points from BIOSCI 353, MEDSCI 320 and 15 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Cellular and Molecular Biomedicine",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 201",
+                        "BIOSCI 203",
+                        "BIOSCI 220"
+                    ],
+                    [
+                        "15",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 201-204",
+                        "EXERSCI 206",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 350",
+                        "BIOSCI 353"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 45 points: BIOSCI 201, 203, 220 and 15 points from MEDSCI 201-206 and 30 points from BIOSCI 201-204, EXERSCI 206, MEDSCI 201-206 and 30 points: BIOSCI 350, 353 and 30 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Genetics",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 201",
+                        "BIOSCI 202",
+                        "BIOSCI 220"
+                    ],
+                    [
+                        "15",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 201-204",
+                        "EXERSCI 206",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 351",
+                        "BIOSCI 355"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 45 points: BIOSCI 201, 202, 220 and 15 points from MEDSCI 201-206 and 30 points from BIOSCI 201-204, EXERSCI 206, MEDSCI 201-206 and 30 points: BIOSCI 351, 355 and 30 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Infection and Immunity",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "60",
+                        "BIOSCI 201",
+                        "BIOSCI 220",
+                        "MEDSCI 202",
+                        "MEDSCI 203"
+                    ],
+                    [
+                        "30",
+                        "BIOSCI 201-204",
+                        "EXERSCI 206",
+                        "MEDSCI 201-206"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 349",
+                        "MEDSCI 301",
+                        "MEDSCI 314"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 60 points: BIOSCI 201, 220, MEDSCI 202, 203 and 30 points from BIOSCI 201-204, EXERSCI 206, MEDSCI 201-206 and 45 points: BIOSCI 349, MEDSCI 301, 314 and 15 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Neuroscience",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "75",
+                        "BIOSCI 220",
+                        "MEDSCI 201",
+                        "MEDSCI 204",
+                        "MEDSCI 205",
+                        "MEDSCI 206"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201-203"
+                    ],
+                    [
+                        "30",
+                        "MEDSCI 317",
+                        "MEDSCI 320"
+                    ],
+                    [
+                        "15",
+                        "MEDSCI 309",
+                        "MEDSCI 316"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 75 points: BIOSCI 220, MEDSCI 201, 204, 205, 206 and 15 points from BIOSCI 201-203 and 30 points: MEDSCI 317, 320 and 15 points from MEDSCI 309, 316 and 15 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Nutrition and Metabolism",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "90",
+                        "BIOSCI 202",
+                        "BIOSCI 203",
+                        "BIOSCI 220",
+                        "EXERSCI 206",
+                        "MEDSCI 203",
+                        "MEDSCI 205"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 358",
+                        "MEDSCI 312",
+                        "MEDSCI 315"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 90 points: BIOSCI 202, 203, 220, EXERSCI 206, MEDSCI 203, 205 and 45 points: BIOSCI 358, MEDSCI 312, 315 and 15 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            },
+            {
+                "title": "Reproduction and Development",
+                "requirements": [
+                    "and",
+                    [
+                        "90",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "MEDSCI 142",
+                        "PHYSICS 160"
+                    ],
+                    [
+                        "90",
+                        "BIOSCI 201-203",
+                        "BIOSCI 220",
+                        "MEDSCI 201",
+                        "MEDSCI 205"
+                    ],
+                    [
+                        "45",
+                        "BIOSCI 356",
+                        "MEDSCI 312",
+                        "MEDSCI 313"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 347-358",
+                        "MEDIMAGE 300",
+                        "MEDIMAGE 302",
+                        "MEDSCI 300-320"
+                    ],
+                    [
+                        "15",
+                        "BIOMED 399"
+                    ]
+                ],
+                "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, MEDSCI 142, PHYSICS 160 and 90 points: BIOSCI 201-203, 220, MEDSCI 201, 205 and 45 points: BIOSCI 356, MEDSCI 312, 313 and 15 points from BIOSCI 347-358, MEDIMAGE 300, 302, MEDSCI 300-320 and 15 points: BIOMED 399"
+            }
+        ]
+    },
+    {
+        "title": "Data Science",
+        "note": "Not available for conjoint degree programmes",
+        "requirements": [
+            "and",
+            [
+                "60",
+                "COMPSCI 120",
+                "COMPSCI 130",
+                "STATS 101",
+                "STATS 125"
+            ],
+            [
+                "or",
+                [
+                    "15",
+                    "MATHS 108"
+                ],
+                [
+                    "30",
+                    "MATHS 120",
+                    "MATHS 130"
+                ]
+            ],
+            [
+                "90",
+                "COMPSCI 320",
+                "COMPSCI 351",
+                "COMPSCI 367",
+                "COMPSCI 361",
+                "STATS 330",
+                "STATS 369",
+                "STATS 380"
+            ],
+            [
+                "15",
+                "COMPSCI 399",
+                "DATASCI 399",
+                "STATS 399"
+            ]
+        ],
+        "requirements_raw": "60 points: COMPSCI 120, 130, STATS 101, 125 and either 15 points: MATHS 108 or 30 points: MATHS 120, 130 and 90 points: COMPSCI 320, 351, 367 or 361, STATS 330, 369, 380 and 15 points from COMPSCI 399, DATASCI 399, STATS 399",
+        "paths": []
+    },
+    {
+        "title": "Food Science and Nutrition",
+        "note": "Not available for conjoint degree programmes",
+        "requirements": [
+            "and",
+            [
+                "either of the following pathways"
+            ]
+        ],
+        "requirements_raw": "either of the following pathways",
+        "paths": [
+            {
+                "title": "Food Science",
+                "requirements": [
+                    "and",
+                    [
+                        "105",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "CHEM 110",
+                        "CHEM 120",
+                        "FOODSCI 100",
+                        "MATHS 110",
+                        "STATS 108"
+                    ],
+                    [
+                        "60",
+                        "BIOSCI 203",
+                        "BIOSCI 204",
+                        "FOODSCI 200",
+                        "FOODSCI 202"
+                    ],
+                    [
+                        "60",
+                        "BIOSCI 348",
+                        "FOODSCI 301",
+                        "FOODSCI 306",
+                        "FOODSCI 310"
+                    ],
+                    [
+                        "15",
+                        "FOODSCI 399"
+                    ]
+                ],
+                "requirements_raw": "105 points: BIOSCI 101, 106, CHEM 110, 120, FOODSCI 100, MATHS 110, STATS 108 and 60 points: BIOSCI 203, 204, FOODSCI 200, 202 and 60 points: BIOSCI 348, FOODSCI 301, 306, 310 and 15 points: FOODSCI 399"
+            },
+            {
+                "title": "Nutrition",
+                "requirements": [
+                    "and",
+                    [
+                        "120",
+                        "BIOSCI 101",
+                        "BIOSCI 106",
+                        "BIOSCI 107",
+                        "CHEM 110",
+                        "FOODSCI 100",
+                        "MEDSCI 142",
+                        "POPLHLTH 111",
+                        "STATS 108"
+                    ],
+                    [
+                        "105",
+                        "BIOSCI 202",
+                        "BIOSCI 203",
+                        "EXERSCI 206",
+                        "FOODSCI 200",
+                        "MEDSCI 203",
+                        "MEDSCI 205",
+                        "POPLHLTH 206"
+                    ],
+                    [
+                        "60",
+                        "BIOSCI 358",
+                        "FOODSCI 310",
+                        "MEDSCI 315",
+                        "POPLHLTH 305"
+                    ],
+                    [
+                        "15",
+                        "FOODSCI 301",
+                        "MEDSCI 301",
+                        "MEDSCI 312"
+                    ],
+                    [
+                        "15",
+                        "BIOSCI 201",
+                        "FOODSCI 301",
+                        "MEDSCI 301",
+                        "POPLHLTH 301",
+                        "SCIGEN 201"
+                    ],
+                    [
+                        "15",
+                        "FOODSCI 399"
+                    ]
+                ],
+                "requirements_raw": "120 points: BIOSCI 101, 106, 107, CHEM 110, FOODSCI 100, MEDSCI 142, POPLHLTH 111, STATS 108 and 105 points: BIOSCI 202, 203, EXERSCI 206, FOODSCI 200, MEDSCI 203, 205, POPLHLTH 206 and 60 points: BIOSCI 358, FOODSCI 310, MEDSCI 315, POPLHLTH 305 and 15 points from FOODSCI 301, MEDSCI 301, 312 and 15 points from BIOSCI 201, FOODSCI 301, MEDSCI 301, POPLHLTH 301, SCIGEN 201 and 15 points: FOODSCI 399"
+            }
+        ]
+    },
+    {
+        "title": "Green Chemical Science",
+        "note": "Not available for conjoint degree programmes",
+        "requirements": [
+            "and",
+            [
+                "75",
+                "BIOSCI 106",
+                "CHEM 110",
+                "CHEM 120",
+                "ENVSCI 101",
+                "PHYSICS 160"
+            ],
+            [
+                "15",
+                "MATHS 108",
+                "MATHS 110",
+                "MATHS 120",
+                "MATHS 130",
+                "STATS 101",
+                "STATS 108"
+            ],
+            [
+                "15",
+                "BIOSCI 101",
+                "BIOSCI 109",
+                "EARTHSCI 120",
+                "GEOG 101",
+                "MEDSCI 142",
+                "SCIGEN 101",
+                "SUSTAIN 100"
+            ],
+            [
+                "75",
+                "CHEM 251",
+                "CHEM 252",
+                "CHEM 253",
+                "CHEM 260",
+                "ENVSCI 201"
+            ],
+            [
+                "15",
+                "BIOSCI 203",
+                "BIOSCI 204",
+                "BIOSCI 206",
+                "EARTHSCI 261",
+                "GEOPHYS 213",
+                "MEDSCI 204",
+                "SCIGEN 201",
+                "SUSTAIN 200"
+            ],
+            [
+                "60",
+                "CHEM 351",
+                "CHEM 360",
+                "CHEM 397",
+                "ENVSCI 301"
+            ],
+            [
+                "15",
+                "CHEM 310",
+                "CHEM 320",
+                "CHEM 330",
+                "CHEM 340",
+                "CHEM 380",
+                "CHEM 390",
+                "SUSTAIN 300"
+            ],
+            [
+                "15",
+                "BIOSCI 333",
+                "BIOSCI 347",
+                "ENVSCI 303",
+                "MARINE 303",
+                "SCIGEN 301"
+            ]
+        ],
+        "requirements_raw": "75 points: BIOSCI 106, CHEM 110, 120, ENVSCI 101, PHYSICS 160 and 15 points from MATHS 108, 110, 120, 130, STATS 101, 108 and 15 points from BIOSCI 101, 109, EARTHSCI 120, GEOG 101, MEDSCI 142, SCIGEN 101, SUSTAIN 100 and 75 points: CHEM 251, 252, 253, 260, ENVSCI 201 and 15 points from BIOSCI 203, 204, 206, EARTHSCI 261, GEOPHYS 213, MEDSCI 204, SCIGEN 201, SUSTAIN 200 and 60 points: CHEM 351, 360, 397, ENVSCI 301 and 15 points from CHEM 310, 320, 330, 340, 380, 390, SUSTAIN 300 and 15 points from BIOSCI 333, 347, ENVSCI 303, MARINE 303, SCIGEN 301",
+        "paths": []
+    },
+    {
+        "title": "Medicinal Chemistry",
+        "note": "Not available for conjoint degree programmes",
+        "requirements": [
+            "and",
+            [
+                "90",
+                "BIOSCI 101",
+                "BIOSCI 106",
+                "BIOSCI 107",
+                "CHEM 110",
+                "CHEM 120",
+                "MEDSCI 142"
+            ],
+            [
+                "15",
+                "MATHS 108",
+                "MATHS 110",
+                "MATHS 130",
+                "PHYSICS 120",
+                "PHYSICS 160",
+                "STATS 101"
+            ],
+            [
+                "90",
+                "BIOSCI 201",
+                "BIOSCI 203",
+                "CHEM 251",
+                "CHEM 253",
+                "MEDSCI 204",
+                "MEDSCI 205"
+            ],
+            [
+                "15",
+                "BIOSCI 202",
+                "BIOSCI 204",
+                "CHEM 252",
+                "CHEM 260",
+                "MEDSCI 202",
+                "MEDSCI 203"
+            ],
+            [
+                "60",
+                "CHEM 330",
+                "CHEM 390",
+                "CHEM 392",
+                "MEDSCI 318"
+            ],
+            [
+                "15",
+                "BIOSCI 349",
+                "BIOSCI 351",
+                "BIOSCI 353",
+                "BIOSCI 355",
+                "BIOSCI 356",
+                "CHEM 320",
+                "CHEM 340",
+                "CHEM 351",
+                "CHEM 360",
+                "MEDSCI 319",
+                "MEDSCI 320"
+            ],
+            [
+                "15",
+                "CHEM 398"
+            ]
+        ],
+        "requirements_raw": "90 points: BIOSCI 101, 106, 107, CHEM 110, 120, MEDSCI 142 and 15 points from MATHS 108, 110, 130, PHYSICS 120, 160, STATS 101 and 90 points: BIOSCI 201, 203, CHEM 251, 253, MEDSCI 204, 205 and 15 points from BIOSCI 202, 204, CHEM 252, 260, MEDSCI 202, 203 and 60 points: CHEM 330, 390, 392, MEDSCI 318 and 15 points from BIOSCI 349, 351, 353, 355, 356, CHEM 320, 340, 351, 360, MEDSCI 319, 320 and 15 points: CHEM 398",
+        "paths": []
+    },
+    {
+        "title": "Quantitative Economics",
+        "note": "Not available for conjoint degree programmes",
+        "requirements": [
+            "and",
+            [
+                "75",
+                "ECON 151",
+                "ECON 152",
+                "MATHS 120",
+                "MATHS 130",
+                "MATHS 162"
+            ],
+            [
+                "60",
+                "ECON 201",
+                "ECON 211",
+                "ECON 221",
+                "MATHS 250"
+            ],
+            [
+                "45",
+                "ECON 301",
+                "ECON 311",
+                "ECON 321"
+            ],
+            [
+                "30",
+                "MATHS 254",
+                "MATHS 260",
+                "MATHS 270"
+            ],
+            [
+                "30",
+                "MATHS 320-363"
+            ],
+            [
+                "15",
+                "MATHS 399"
+            ]
+        ],
+        "requirements_raw": "75 points: ECON 151, 152, MATHS 120, 130, 162 and 60 points: ECON 201, 211, 221, MATHS 250 and 45 points: ECON 301, 311, 321 and 30 points from MATHS 254, 260, 270 and 30 points from MATHS 320-363 and 15 points: MATHS 399",
+        "paths": []
+    }
+]

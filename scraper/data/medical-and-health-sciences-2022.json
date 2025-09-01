@@ -1,0 +1,1834 @@
+[
+    {
+        "courseid": "MEDIMAGE 199",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the School of Medical Sciences. This course must be completed prior to enrolling in Part III of the Bachelor of Medical Imaging (Honours) degree.",
+        "subject": "Medical Imaging",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/199/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "NURSING 104",
+        "coursename": "Applied Science for Nurses",
+        "description": "Provides an opportunity for the application of specific and selected topics from the biological and physical sciences to be related to beginning nursing practice.",
+        "subject": "Nursing",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/104/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHARMACY 199",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the School of Pharmacy. This course must be completed prior to enrolling in PHARMACY 213.",
+        "subject": "Pharmacy",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/199/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 102",
+        "coursename": "Health and Society",
+        "description": "A description and analysis of health within a social context. Discusses different models of health and provides a range of explanations for how social factors influence health. Options for addressing these issues are also explored.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/102/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 111",
+        "coursename": "Population Health",
+        "description": "To introduce frameworks and tools for measuring and understanding and improving the health of populations, both locally and globally. These frameworks and tools are derived from epidemiology, demography, public health, environmental health and global health sciences.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/111/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MEDIMAGE 201",
+        "coursename": "Fundamentals of Medical Imaging",
+        "description": "Provides a fundamental understanding of Medical Imaging practice. Students will examine components of the clinical setting including patient care, cultural competency, and ethical considerations, to prepare them for the clinical learning environment. Students will apply these concepts to radiographic imaging in the context of routine radiographic examinations.",
+        "subject": "Medical Imaging",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/201/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MEDSCI 201",
+        "coursename": "Human Structure and Function",
+        "description": "Presents the structure of biological systems with special reference to human biology, from the levels of histology through to gross anatomy. Specific examples of the correlation between structure and function will be considered. An introduction to current techniques for the visualisation of biological structure will be presented.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 107, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/201/1223",
+        "prerequisite_raw": "BIOSCI 107, MEDSCI 142",
+        "prerequisite": [
+            "and",
+            "BIOSCI 107",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 202",
+        "coursename": "Microbiology and Immunology",
+        "description": "An introduction to the nature and roles of bacteria, viruses, fungi and parasites as the causative agents of human diseases. Topics include: the defence mechanisms of the body, the immune system including autoimmunity and allergy, control of disease by antimicrobials, sterilisation, disinfection and infection control practice.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 107, MEDSCI 142\nRestriction: OPTOM 241, PHARMACY 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/202/1223",
+        "prerequisite_raw": "BIOSCI 107, MEDSCI 142",
+        "prerequisite": [
+            "and",
+            "BIOSCI 107",
+            "MEDSCI 142"
+        ],
+        "restriction_raw": "OPTOM 241, PHARMACY 203",
+        "restriction": [
+            "and",
+            "OPTOM 241",
+            "PHARMACY 203"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 203",
+        "coursename": "Mechanisms of Disease",
+        "description": "Outlines the basic mechanisms, operating at the molecular, cellular and tissue levels, by which human disease develops. These include genetic factors, cell injury, inflammation, repair, circulatory disturbances, and neoplastic change. These mechanisms are illustrated by descriptions of the pathogenesis of specific diseases that are relevant to the New Zealand situation, or are the focus of current biomedical research.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 107, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/203/1223",
+        "prerequisite_raw": "BIOSCI 107, MEDSCI 142",
+        "prerequisite": [
+            "and",
+            "BIOSCI 107",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 205",
+        "coursename": "The Physiology of Human Organ Systems",
+        "description": "An integrative approach is used to study fundamental physiological processes which enable the body to overcome the challenge of life. Drawing on examples of normal and abnormal function, the course examines the interaction of vital physiological processes, from cellular control mechanisms to multiple organ systems. Topics include: control of fluid and electrolytes, cardiovascular control, energy use, and the delivery of oxygen and metabolites.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 107, MEDSCI 142\nRestriction: PHARMACY 205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/205/1223",
+        "prerequisite_raw": "BIOSCI 107, MEDSCI 142",
+        "prerequisite": [
+            "and",
+            "BIOSCI 107",
+            "MEDSCI 142"
+        ],
+        "restriction_raw": "PHARMACY 205",
+        "restriction": [
+            "and",
+            "PHARMACY 205"
+        ]
+    },
+    {
+        "courseid": "NURSING 201",
+        "coursename": "Nursing Clients with a Pathophysiological Problem",
+        "description": "A problem-based course where students acquire the skills associated with nursing clients requiring medical and surgical interventions and subsequent rehabilitation. Understanding the mechanisms of disease and prevention of such diseases is the basis for the course. Students are introduced to the principles of pharmacology and pharmacokinetics. Issues such as caring for clients with chronic pain and an understanding of death and grief are included. Practicums and teaching take place in a variety of clinical settings.",
+        "subject": "Nursing",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: NURSING 199",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/201/1223",
+        "prerequisite_raw": "NURSING 199",
+        "prerequisite": [
+            "and",
+            "NURSING 199"
+        ]
+    },
+    {
+        "courseid": "OPTOM 216A",
+        "coursename": "Introduction to Optometry",
+        "description": "A clinically-focused course introducing students to optometric practice and addressing, at an introductory level, the ethical, cultural, theoretical and clinical aspects of the optometric examination. Topics covered include: preliminary tests from the eye examination, communication skills and clinical problem solving. The course will emphasise assessment utilising advanced equipment and the production of clinically relevant outcomes and diagnosis-supportive hypotheses.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "To complete this course students must enrol in OPTOM 216 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/216A/1223",
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 216 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 216 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 263A",
+        "coursename": "Essential Optics",
+        "description": "An introduction to optics relevant to optometry and necessary to understand the optical performance of the eye, the design of ophthalmic lens applications, and the principles of operation of clinical instrumentation. Topics include; the basic principles of physical optics, the principles of image formation by lenses and lens systems mirrors and prisms, optics of the eye, ocular ametropia and aberrations.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 215, 262, 265\nTo complete this course students must enrol in OPTOM 263 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/263A/1223",
+        "restriction_raw": "OPTOM 215, 262, 265",
+        "restriction": [
+            "and",
+            "OPTOM 215",
+            "OPTOM 262",
+            "OPTOM 265"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 263 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 263 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 272A",
+        "coursename": "Visual Science 1: Structure and Function of the Visual System",
+        "description": "Anatomy and physiology of the eye and visual pathway. Topics include composition and structure of the tear film, neural processing in the visual cortex, aspects of visual function including spatial and temporal vision, motion perception and colour vision. Investigation of visual perception using psychophysical and electrophysiological techniques.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 151, 170, 171\nTo complete this course students must enrol in OPTOM 272 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/272A/1223",
+        "restriction_raw": "OPTOM 151, 170, 171",
+        "restriction": [
+            "and",
+            "OPTOM 151",
+            "OPTOM 170",
+            "OPTOM 171"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 272 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 272 A and B"
+        ]
+    },
+    {
+        "courseid": "PHARMACY 211",
+        "coursename": "Applied Science for Pharmacy",
+        "description": "Specific and selected aspects of chemistry, biochemistry, anatomy, physiology, immunology, microbiology, pathophysiology and pharmacology are explored in the context of beginning clinical pharmacy practice.",
+        "subject": "Pharmacy",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/211/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHARMACY 212",
+        "coursename": "Pharmaceutical Science and Practice",
+        "description": "The properties of materials, principles of pharmaceutical formulation, design of drug delivery systems and routes of administration of drugs are considered. The skills for competent pharmacy practice in New Zealand, including law, ethics, medicines information, clinical communication, cultural competence and elements of human behaviour are introduced.",
+        "subject": "Pharmacy",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/212/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 202",
+        "coursename": "Research Methods in Health",
+        "description": "Examines the different ways of approaching, designing and undertaking population health science research, covering research paradigms and methodologies, including both quantitative and qualitative methods.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/202/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 203",
+        "coursename": "Health Promotion: Philosophy and Practice",
+        "description": "Explains in detail the theoretical basis of health promotion; calling on current practice examples to bring the theory to life. Introduces international and New Zealand health promotion concepts and tools. Explains how health promotion practice rests on particular approaches, values and ethical considerations which directly link to a political analysis of deprivation and powerlessness.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/203/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 204",
+        "coursename": "Health Care Ethics",
+        "description": "An introduction to healthcare and medical ethics. A theoretical foundation of ethics in addition to the practical ethical issues relevant to healthcare professionals.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/204/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 206",
+        "coursename": "Life Cycle Nutrition",
+        "description": "Provides students with a general background and introduction to: the New Zealand diet; food preparation and meal patterns; dietary requirements during pregnancy and lactation, childhood and adolescence, lifestyle changes, maturity and ageing.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/206/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 210",
+        "coursename": "Equity and Inequalities in Health",
+        "description": "Investigates the way in which social determinants lead to particular distributions of health in populations. Draws on a social epidemiological approach to explore ways in which inequalities in health (based on factors such as age, gender, ethnicity and socio-economic status) are created, then maintained or eliminated.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 102\nRestriction: POPLHLTH 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/210/1223",
+        "prerequisite_raw": "POPLHLTH 102",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 102"
+        ],
+        "restriction_raw": "POPLHLTH 201",
+        "restriction": [
+            "and",
+            "POPLHLTH 201"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 215",
+        "coursename": "Dynamics of Health Systems",
+        "description": "Examines ways in which approaches to quality and efficiency can be understood to examine changes in health systems, in response to the environment. The influence of key players is a key focus throughout this course.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/215/1223",
+        "prerequisite_raw": "POPLHLTH 101",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 101"
+        ]
+    },
+    {
+        "courseid": "MBCHB 221A",
+        "coursename": "MBChB Part II",
+        "description": "Through clinical scenarios, lectures and laboratories, students are introduced to human health and the description and pathogenesis of disease processes as a basis for the systematic study of human illness. This is integrated with the study of human organ systems through components focusing on musculoskeletal, digestive, genitourinary, cardiovascular and respiratory systems, linked with practical work in anatomy, physiology, pathology, medical imaging, and professional, clinical and communication skills.",
+        "subject": "MBChB",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: MBCHB 203, 205, 206, 209, 210, 211\r\nTo complete this course students must enrol in MBCHB 221 A and B",
+        "url": "",
+        "restriction_raw": "MBCHB 203, 205, 206, 209, 210, 211",
+        "restriction": [
+            "and",
+            "MBCHB 203",
+            "MBCHB 205",
+            "MBCHB 206",
+            "MBCHB 209",
+            "MBCHB 210",
+            "MBCHB 211"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 221 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 221 A and B"
+        ]
+    },
+    {
+        "courseid": "MBCHB 221B",
+        "coursename": "MBChB Part II",
+        "description": "Through clinical scenarios, lectures and laboratories, students are introduced to human health and the description and pathogenesis of disease processes as a basis for the systematic study of human illness. This is integrated with the study of human organ systems through components focusing on musculoskeletal, digestive, genitourinary, cardiovascular and respiratory systems, linked with practical work in anatomy, physiology, pathology medical imaging, and professional, clinical and communication skills.",
+        "subject": "MBChB",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: MBCHB 203, 205, 206, 209, 210, 211\r\nTo complete this course students must enrol in MBCHB 221 A and B",
+        "url": "",
+        "restriction_raw": "MBCHB 203, 205, 206, 209, 210, 211",
+        "restriction": [
+            "and",
+            "MBCHB 203",
+            "MBCHB 205",
+            "MBCHB 206",
+            "MBCHB 209",
+            "MBCHB 210",
+            "MBCHB 211"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 221 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 221 A and B"
+        ]
+    },
+    {
+        "courseid": "CLINIMAG 301",
+        "coursename": "Radiographic Clinical Practice II",
+        "description": "Extends the fundamental knowledge and clinical skills necessary to perform a range of routine and non-routine radiographic examinations, including specialist views and adaptive techniques, with a patient-centred focus.",
+        "subject": "Clinical Imaging",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CLINIMAG/301/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MAORIHTH 301",
+        "coursename": "M\u0101ori Health and Practice",
+        "description": "M\u0101ori health knowledge is used to develop effective public health practice for M\u0101ori contexts. Areas of focus include critical thinking, reflective practice, advocacy and the application of Kaupapa M\u0101ori principles.",
+        "subject": "M\u0101ori Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MAORIHTH 201\r\nRestriction: POPLHLTH 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MAORIHTH/301/1223",
+        "prerequisite_raw": "MAORIHTH 201",
+        "prerequisite": [
+            "and",
+            "MAORIHTH 201"
+        ],
+        "restriction_raw": "POPLHLTH 201",
+        "restriction": [
+            "and",
+            "POPLHLTH 201"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 301",
+        "coursename": "Radiographic Imaging II",
+        "description": "Extends knowledge of radiographic examinations and procedures in a Medical Imaging department. The anatomical relationships of the body and the imaging examinations are explored with focus on specialist views and adaptive techniques.",
+        "subject": "Medical Imaging",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDIMAGE 199, 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/301/1223",
+        "prerequisite_raw": "MEDIMAGE 199, 203",
+        "prerequisite": [
+            "and",
+            "MEDIMAGE 199",
+            "MEDIMAGE 203"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 302",
+        "coursename": "Sectional Imaging Anatomy and Pathology",
+        "description": "Develops understanding of anatomy and pathology as applied in Medical Imaging. Focuses on sectional imaging anatomy, normal variants and common pathologies as demonstrated on CT (computed tomography), MRI (Magnetic Resonance Imaging) and ultrasound images.",
+        "subject": "Medical Imaging",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 201, 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/302/1223",
+        "prerequisite_raw": "MEDSCI 201, 203",
+        "prerequisite": [
+            "and",
+            "MEDSCI 201",
+            "MEDSCI 203"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 303",
+        "coursename": "Physiology and Pharmacology for Medical Imaging",
+        "description": "Fundamentals of physiological processes supporting the study of biopharmaceutics, pharmacokinetics, pharmacodynamics in the context of Medical Imaging.",
+        "subject": "Medical Imaging",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 106, 107, CHEM 110, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/303/1223",
+        "prerequisite_raw": "BIOSCI 106, 107, CHEM 110, MEDSCI 142",
+        "prerequisite": [
+            "and",
+            "BIOSCI 106",
+            "BIOSCI 107",
+            "CHEM 110",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 311",
+        "coursename": "Cardiovascular Biology",
+        "description": "An advanced treatment of the human cardiovascular system that provides an integrated framework for understanding the structure, function and regulation of the heart and circulation, and their modification by drugs. Topics include: the energetics and mechanics of the heart, the regulation of heart rhythm and the control of blood pressure and the regulation of flow through the microcirculation. The course is illustrated using examples drawn from current research in the field and from representative disease states.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/311/1223",
+        "prerequisite_raw": "MEDSCI 205",
+        "prerequisite": [
+            "and",
+            "MEDSCI 205"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 313",
+        "coursename": "Reproductive Biology",
+        "description": "Aspects of reproductive biology including: regulation of gonadal function, the menstrual and oestrus cycles, ovulation, spermatogenesis, feto-maternal physiology including placental function, animal reproduction and assisted reproductive technologies.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: 15 points from BIOSCI 107, 203, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/313/1223",
+        "prerequisite_raw": "15 points from BIOSCI 107, 203, MEDSCI 142",
+        "prerequisite": [
+            "15",
+            "BIOSCI 107",
+            "BIOSCI 203",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 315",
+        "coursename": "Nutrition, Diet and Gene Interactions",
+        "description": "Gene-X environment interactions are increasingly being recognised to play an important role in the risk and pathogenesis of various diseases. The interaction between genetics and dietary factors in modulating mechanism of gut, bone, cancer and metabolic disease will be considered in this course, as well as the technologies required to understand such interactions.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 202 or 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/315/1223",
+        "prerequisite_raw": "BIOSCI 202 or 203",
+        "prerequisite": [
+            "or",
+            "BIOSCI 202",
+            "BIOSCI 203"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 316",
+        "coursename": "Sensory Neuroscience: From Molecules to Disease",
+        "description": "The physiology of neurosensory systems in health and disease with an emphasis on clinical relevance and current advances in research. The course will provide in-depth coverage of mechanisms involved in each system at a broad systemic level, down to the molecular level. Topics include vision, hearing, balance, olfaction, taste, touch and pain.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 206",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/316/1223",
+        "prerequisite_raw": "MEDSCI 206",
+        "prerequisite": [
+            "and",
+            "MEDSCI 206"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 318",
+        "coursename": "Pharmacokinetics and Drug Toxicity",
+        "description": "Considers the biochemical processes involved in achieving clinically-relevant drug concentrations that result in therapeutic effects and drug toxicity, from drug input, distribution, and elimination plus the ways in which these processes are described (pharmacokinetic modelling). Explores factors such as drug-drug interactions, pharmacogenetics, dosing and pharmacokinetic considerations in selected populations and that may influence both clinical effectiveness and drug toxicity.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 204 and 30 points from MEDSCI 203, 205, BIOSCI 203\nRestriction: MEDSCI 303, 306, 321",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/318/1223",
+        "prerequisite_raw": "MEDSCI 204 and 30 points from MEDSCI 203, 205, BIOSCI 203",
+        "prerequisite": [
+            "and",
+            "MEDSCI 204",
+            [
+                "30",
+                "MEDSCI 203",
+                "MEDSCI 205",
+                "BIOSCI 203"
+            ]
+        ],
+        "restriction_raw": "MEDSCI 303, 306, 321",
+        "restriction": [
+            "and",
+            "MEDSCI 303",
+            "MEDSCI 306",
+            "MEDSCI 321"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 319",
+        "coursename": "Molecular Pharmacology",
+        "description": "Explores the cellular and molecular mechanisms of drug action with a focus on G-protein coupled receptors and biochemical targets for cancer therapy. Drug design is considered from the perspective of in silico modelling, biochemical assessment and intracellular signalling.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 204 and 30 points from MEDSCI 203, 205, BIOSCI 203\nRestriction: MEDSCI 304, 321",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/319/1223",
+        "prerequisite_raw": "MEDSCI 204 and 30 points from MEDSCI 203, 205, BIOSCI 203",
+        "prerequisite": [
+            "and",
+            "MEDSCI 204",
+            [
+                "30",
+                "MEDSCI 203",
+                "MEDSCI 205",
+                "BIOSCI 203"
+            ]
+        ],
+        "restriction_raw": "MEDSCI 304, 321",
+        "restriction": [
+            "and",
+            "MEDSCI 304",
+            "MEDSCI 321"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 321",
+        "coursename": "Special Topic: Concepts in Pharmacology",
+        "description": "Explores the cellular and molecular mechanisms of drug action plus drug discovery and development from the perspective of in silico modelling, biochemical assessment, intracellular signalling and human disease. Considers the pharmacokinetic processes of input, distribution and elimination involved in achieving clinically-relevant drug concentrations. Describes the link between concentration and effect and the time course of effect. Explores factors such as disease progression, drug metabolism, drug-drug interactions, pharmacogenetics, use in selected populations and in various pathological conditions that may influence both clinical effectiveness and drug toxicity.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 204 and 30 points from BIOSCI 203, MEDSCI 203, 205\nRestriction: MEDSCI 303, 306, 318, 319, 735",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/321/1223",
+        "prerequisite_raw": "MEDSCI 204 and 30 points from BIOSCI 203, MEDSCI 203, 205",
+        "prerequisite": [
+            "and",
+            "MEDSCI 204",
+            [
+                "30",
+                "BIOSCI 203",
+                "MEDSCI 203",
+                "MEDSCI 205"
+            ]
+        ],
+        "restriction_raw": "MEDSCI 303, 306, 318, 319, 735",
+        "restriction": [
+            "and",
+            "MEDSCI 303",
+            "MEDSCI 306",
+            "MEDSCI 318",
+            "MEDSCI 319",
+            "MEDSCI 735"
+        ]
+    },
+    {
+        "courseid": "NURSING 301",
+        "coursename": "Community Health and Wellbeing",
+        "description": "Concepts related to health and wellbeing for individuals, families and communities are addressed within the context of social, political and lifespan influences. Current national and global population health priorities for women, children and older people are explored, with focus on childbirth, childhood illness and ageing well. Clinical attachments are in a variety of acute and community settings.",
+        "subject": "Nursing",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: NURSING 201, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/301/1223",
+        "prerequisite_raw": "NURSING 201, 202",
+        "prerequisite": [
+            "and",
+            "NURSING 201",
+            "NURSING 202"
+        ]
+    },
+    {
+        "courseid": "OPTOM 316A",
+        "coursename": "Optometry",
+        "description": "An integrative approach to the scope of optometric practice, addressing both the theoretical basis and clinical practice of the optometric examination, correction of refractive error and dispensing of optical appliances. Topics covered include: visual acuity, visual fields, colour vision, biomicroscopy, ophthalmoscopy, refractive examination, binocular examination, optical correction, lens materials and coatings, history taking, communication skills and clinical problem solving.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 211, 212, 265, 313, 314, 365, 366\r\nTo complete this course students must enrol in OPTOM 316 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/316A/1223",
+        "restriction_raw": "OPTOM 211, 212, 265, 313, 314, 365, 366",
+        "restriction": [
+            "and",
+            "OPTOM 211",
+            "OPTOM 212",
+            "OPTOM 265",
+            "OPTOM 313",
+            "OPTOM 314",
+            "OPTOM 365",
+            "OPTOM 366"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 316 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 316 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 345A",
+        "coursename": "Principles of Ocular Pharmacology",
+        "description": "General principles of pharmacology. Pharmacodynamics. Drug absorption, distribution and metabolism. Mechanism of drug action at receptors. Drugs and their application on ophthalmic practice. The autonomic nervous system: anatomy and physiology. Mechanisms of action of ocular pharmaceutical agents. Principles of pharmacological treatment of ocular disease. Drug interactions. Legislation on use of ocular pharmaceutical agents by optometrists in New Zealand and internationally. Introduction to therapeutic agents in optometric practice. Scope of treatment. Shared care.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: OPTOM 171 or 272 \nRestriction: OPTOM 245\nTo complete this course students must enrol in OPTOM 345 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/345A/1223",
+        "prerequisite_raw": "OPTOM 171 or 272",
+        "prerequisite": [
+            "or",
+            "OPTOM 171",
+            "OPTOM 272"
+        ],
+        "restriction_raw": "OPTOM 245",
+        "restriction": [
+            "and",
+            "OPTOM 245"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 345 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 345 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 353A",
+        "coursename": "Ocular Pathology",
+        "description": "Pathophysiology of the eye. Histopathology of eye disease. Pathology of orbit, lacrimal system, conjunctiva, cornea, uvea, lens and retina. Developmental anomalies of the eye.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 251\nTo complete this course students must enrol in OPTOM 353 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/353A/1223",
+        "restriction_raw": "OPTOM 251",
+        "restriction": [
+            "and",
+            "OPTOM 251"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 353 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 353 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 375A",
+        "coursename": "Visual Science 2",
+        "description": "To provide an understanding of visual information processing in human brain. In particular the cortical processing of shape, motion and colour, and development of the visual cortex will be addressed. A problem-oriented approach will develop critical thinking and problem solving skills. Students will acquire the ability to seek, evaluate and retrieve scientific information on which to base their clinical practice.",
+        "subject": "Optometry and Vision Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 270\r\nTo complete this course students must enrol in OPTOM 375 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/375A/1223",
+        "restriction_raw": "OPTOM 270",
+        "restriction": [
+            "and",
+            "OPTOM 270"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 375 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 375 A and B"
+        ]
+    },
+    {
+        "courseid": "PHARMACY 311",
+        "coursename": "Pharmacy 2",
+        "description": "Optimal drug treatment of respiratory, cardiovascular, renal and hepatic diseases and disorders are explored through an integrated multidisciplinary systems-based approach. Clinical pharmacy skills in law and ethics, dispensing, medicines information, adherence support, clinical communication, physical assessment and management are further developed. Experiential learning placements focus on development of pharmacy practice skills in community/hospital pharmacy settings throughout New Zealand.",
+        "subject": "Pharmacy",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: PHARMACY 211-213",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/311/1223",
+        "prerequisite_raw": "PHARMACY 211-213",
+        "prerequisite": [
+            "PHARMACY 211-213"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 300",
+        "coursename": "Health Sector Professional Competencies",
+        "description": "Develops core skills in areas of project management, financial management, communication, leadership, team development, and cultural competence. An integrated project development approach is used to expose students to the key principles in these areas and to enable them to build a development plan.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 204",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/300/1223",
+        "prerequisite_raw": "POPLHLTH 204",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 204"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 302",
+        "coursename": "Health Services Placement",
+        "description": "The placement with a health service organisation provides students with the opportunity for experiential learning and the development of competencies needed in the workplace. Theory and skills learned in previous courses are integrated and extended as students apply prior knowledge to a local health organisation and carry out tasks asked of them.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: HLTHPSYC 122, MAORIHTH 201, POPLHLTH 101, 102, 111, 202, 204, 210, STATS 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/302/1223",
+        "prerequisite_raw": "HLTHPSYC 122, MAORIHTH 201, POPLHLTH 101, 102, 111, 202, 204, 210, STATS 101",
+        "prerequisite": [
+            "and",
+            "HLTHPSYC 122",
+            "MAORIHTH 201",
+            "POPLHLTH 101",
+            "POPLHLTH 102",
+            "POPLHLTH 111",
+            "POPLHLTH 202",
+            "POPLHLTH 204",
+            "POPLHLTH 210",
+            "STATS 101"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 303",
+        "coursename": "Health Informatics",
+        "description": "Students will explore the development and management of information systems in contemporary New Zealand healthcare services. Health informatics concepts, conceptualised in different healthcare settings, are critically reviewed in terms of their practical application.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 101, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/303/1223",
+        "prerequisite_raw": "POPLHLTH 101, 202",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 101",
+            "POPLHLTH 202"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 304",
+        "coursename": "Principles of Applied Epidemiology",
+        "description": "The application of an epidemiological approach in population health, including study of the principles of epidemiological thinking, epidemiological study design and analyses, and the application of these findings to population health. Modules will be taught through specific themes for example, a life course approach or injury prevention.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 111, 202 and 15 points from STATS 101, 102, 108",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/304/1223",
+        "prerequisite_raw": "POPLHLTH 111, 202 and 15 points from STATS 101, 102, 108",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 111",
+            "POPLHLTH 202",
+            [
+                "15",
+                "STATS 101",
+                "STATS 102",
+                "STATS 108"
+            ]
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 307",
+        "coursename": "Communities and Addictions",
+        "description": "Examines how addictions such as tobacco, alcohol, drugs and gambling seriously undermine the health of individuals and the communities in which they live and/or work. Case studies are used to understand the primary elements of community and cultural health development.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: 30 points at Stage II in Population Health",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/307/1223",
+        "prerequisite_raw": "30 points at Stage II in Population Health",
+        "prerequisite": [
+            "30:Stage II",
+            "Population Health"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 312",
+        "coursename": "Health and Pacific People in NZ",
+        "description": "An overview of the major health issues facing Pacific peoples, including analysis of the key determinants of health status, focusing on approaches to improving health for Pacific peoples through research, policy, public health programmes and health services. A critique of dominant paradigms of health and well-being in relation to Pacific communities in Aotearoa New Zealand is included with consideration of their effect on health outcomes.",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 210\nRestriction: POPLHLTH 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/312/1223",
+        "prerequisite_raw": "POPLHLTH 210",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 210"
+        ],
+        "restriction_raw": "POPLHLTH 201",
+        "restriction": [
+            "and",
+            "POPLHLTH 201"
+        ]
+    },
+    {
+        "courseid": "MBCHB 311A",
+        "coursename": "Medical Humanities",
+        "description": "A variety of options from the study of medical humanities.",
+        "subject": "MBChB",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "To complete this course students must enrol in MBCHB 311 A and B",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 311 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 311 A and B"
+        ]
+    },
+    {
+        "courseid": "MBCHB 311B",
+        "coursename": "Medical Humanities",
+        "description": "A variety of options from the study of medical humanities.",
+        "subject": "MBChB",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "To complete this course students must enrol in MBCHB 311 A and B",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 311 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 311 A and B"
+        ]
+    },
+    {
+        "courseid": "MBCHB 321A",
+        "coursename": "MBCHB Part III",
+        "description": "Through clinical scenarios, lectures, laboratories and problem-solving sessions, students explore human health and illness in a multidisciplinary manner with particular focus on the nervous system, blood, immunity and infection, reproduction, development and aging, and how bodily systems are regulated. This is integrated with practical work in anatomy, physiology, pathology, medical imaging and professional, clinical and communication skills, as well as ward-based learning experiences.",
+        "subject": "MBChB",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MBCHB 221\nRestriction: MBCHB 303, 305, 306, 312, 313\nTo complete this course students must enrol in MBCHB 321 A and B",
+        "url": "",
+        "prerequisite_raw": "MBCHB 221",
+        "prerequisite": [
+            "and",
+            "MBCHB 221"
+        ],
+        "restriction_raw": "MBCHB 303, 305, 306, 312, 313",
+        "restriction": [
+            "and",
+            "MBCHB 303",
+            "MBCHB 305",
+            "MBCHB 306",
+            "MBCHB 312",
+            "MBCHB 313"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 321 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 321 A and B"
+        ]
+    },
+    {
+        "courseid": "MBCHB 321B",
+        "coursename": "MBCHB Part III",
+        "description": "Through clinical scenarios, lectures, laboratories and problem-solving sessions, students explore human health and illness in a multidisciplinary manner with particular focus on the nervous system, blood, immunity and infection, reproduction, development and aging, and how bodily systems are regulated. This is integrated with practical work in anatomy, physiology, pathology, medical imaging and professional, clinical and communication skills, as well as ward-based learning experiences.",
+        "subject": "MBChB",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MBCHB 221\nRestriction: MBCHB 303, 305, 306, 312, 313\nTo complete this course students must enrol in MBCHB 321 A and B",
+        "url": "",
+        "prerequisite_raw": "MBCHB 221",
+        "prerequisite": [
+            "and",
+            "MBCHB 221"
+        ],
+        "restriction_raw": "MBCHB 303, 305, 306, 312, 313",
+        "restriction": [
+            "and",
+            "MBCHB 303",
+            "MBCHB 305",
+            "MBCHB 306",
+            "MBCHB 312",
+            "MBCHB 313"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 321 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 321 A and B"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 310",
+        "coursename": "Special Topic: Health Sector Competencies",
+        "description": "",
+        "subject": "Population Health",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "HLTHPSYC 122",
+        "coursename": "Behaviour, Health and Development",
+        "description": "Introduction to the relationship between behaviour and the major biological, cognitive and social-emotional processes, applying them to health and development across the life span. Focuses on aspects of behaviour and development particularly relevant for the healthcare professional.",
+        "subject": "Health Psychology",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: POPLHLTH 122",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HLTHPSYC/122/1225",
+        "restriction_raw": "POPLHLTH 122",
+        "restriction": [
+            "and",
+            "POPLHLTH 122"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 142",
+        "coursename": "Biology for Biomedical Science: Organ Systems",
+        "description": "Introduction to human biology with particular emphasis on integrated organ function. The course will deal with: structures and processes associated with the function of the nervous, locomotor, cardiovascular, respiratory, digestive, renal, endocrine, musculoskeletal and reproductive systems.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: HUMANBIO 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/142/1225",
+        "restriction_raw": "HUMANBIO 142",
+        "restriction": [
+            "and",
+            "HUMANBIO 142"
+        ]
+    },
+    {
+        "courseid": "NURSING 105",
+        "coursename": "Nursing in Practice",
+        "description": "An introduction to nursing as a profession including concepts of nursing practice, and communication skills. The theoretical basis for nursing practice as well as legal and ethical boundaries are introduced. The role of the nurse in health maintenance and health promotion is explored. Skills in assessment of clients and planning client care are introduced.",
+        "subject": "Nursing",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/105/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "NURSING 199",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the School of Nursing. This course must be completed prior to enrolling in Part II of the Bachelor of Nursing degree.",
+        "subject": "Nursing",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/199/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 101",
+        "coursename": "Health Systems 1",
+        "description": "Provides an overview and understanding of the New Zealand health system, including: history of health and health service delivery in New Zealand; the role and functioning of hospitals; primary care; purchasers and funders of health services; the role of insurance and private healthcare providers.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/101/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CLINIMAG 201",
+        "coursename": "Radiographic Clinical Practice I",
+        "description": "Introduces the fundamental knowledge and clinical skills necessary to perform a range of routine radiographic examinations with a patient-centred focus.",
+        "subject": "Clinical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CLINIMAG/201/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MEDIMAGE 202",
+        "coursename": "Medical Imaging Science",
+        "description": "Provides students with a fundamental understanding of ionising radiation in the context of medical imaging. Addresses x-ray production, instrumentation, x-ray detection, digital imaging and the principles of quality assurance. Also examines the biological effects of ionising radiation, dose, and radiation protection.",
+        "subject": "Medical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Corequisite: MEDIMAGE 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/202/1225",
+        "corequisite_raw": "MEDIMAGE 203",
+        "corequisite": [
+            "and",
+            "MEDIMAGE 203"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 203",
+        "coursename": "Radiographic Imaging I",
+        "description": "Develops student knowledge of routine radiographic examinations in a Medical Imaging department. The anatomical relationships of the body and the imaging examinations are explored with reference to the appendicular and axial skeleton.",
+        "subject": "Medical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDIMAGE 201\nCorequisite: MEDIMAGE 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/203/1225",
+        "prerequisite_raw": "MEDIMAGE 201",
+        "prerequisite": [
+            "and",
+            "MEDIMAGE 201"
+        ],
+        "corequisite_raw": "MEDIMAGE 202",
+        "corequisite": [
+            "and",
+            "MEDIMAGE 202"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 204",
+        "coursename": "Pharmacology and Toxicology",
+        "description": "A solid grounding in the principles underlying pharmacology and toxicology, including the nature of drug targets, their interaction and response (pharmacodynamics), the fate of drugs within the body (pharmacokinetics), toxicity classification and testing, poisons and antidotes, adverse drug reactions, selective toxicity, drug discovery and development. Selected drug examples will be studied to illustrate key principles of clinical pharmacology.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEM 110, MEDSCI 142, and 15 points from BIOSCI 106 or 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/204/1225",
+        "prerequisite_raw": "CHEM 110, MEDSCI 142, and 15 points from BIOSCI 106 or 107",
+        "prerequisite": [
+            "and",
+            "CHEM 110",
+            "MEDSCI 142",
+            [
+                "15",
+                "BIOSCI 106",
+                "BIOSCI 107"
+            ]
+        ]
+    },
+    {
+        "courseid": "MEDSCI 206",
+        "coursename": "Principles of Neuroscience",
+        "description": "The impact of neuroscience revolution on our understanding of human physiology and biomedical research is reviewed. Topics include: mechanisms of neurotransmission, learning, memory, sensory perception (vision, hearing, touch and smell) and application of gene therapy for treating neurological diseases. Special emphasis is placed on the integration and control of physiological function by the nervous system. Examples include control of movement and coordination, regulation of reproduction, blood pressure, breathing, appetite, body weight and sexuality. Developmental neuroscience is also considered. Laboratory exercises provide insight into neural structure and function and include application of neuroimaging technologies.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 107, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/206/1225",
+        "prerequisite_raw": "BIOSCI 107, MEDSCI 142",
+        "prerequisite": [
+            "and",
+            "BIOSCI 107",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "NURSING 202",
+        "coursename": "Mental Health, Addiction, (Dis)Ability and Enablement",
+        "description": "Allows students to understand perspectives of mental health and illness, the crisis nature of mental illness and the therapeutic models of mental health management. Students acquire the specific nursing skills required to care for people with mental health problems and also those who have a long-term disability. Students undertake a range of clinical attachments in hospital and community settings.",
+        "subject": "Nursing",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: NURSING 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/202/1225",
+        "prerequisite_raw": "NURSING 201",
+        "prerequisite": [
+            "and",
+            "NURSING 201"
+        ]
+    },
+    {
+        "courseid": "PHARMACY 213",
+        "coursename": "Pharmacy 1",
+        "description": "The optimal drug treatment of dermatological, infectious and gastrointestinal diseases and disorders is explored through an integrated multidisciplinary systems-based approach. Clinical and professional skills in law and ethics, critical appraisal, medicines information, pharmaceutical compounding and calculations, clinical communication and cultural competence are introduced. Introductory experiential learning placements in industry, hospital and community pharmacy sites are provided.",
+        "subject": "Pharmacy",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: PHARMACY 199, 211, 212",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/213/1225",
+        "prerequisite_raw": "PHARMACY 199, 211, 212",
+        "prerequisite": [
+            "and",
+            "PHARMACY 199",
+            "PHARMACY 211",
+            "PHARMACY 212"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 207",
+        "coursename": "Community and Cultural Development",
+        "description": "An introduction to the study of community and cultural development as both philosophical approach and programme of practice for building active and sustainable communities from grassroots. Real world examples of effective practice will demonstrate the interdependence of theory, research and practice in health development. Emphasis is placed on collaboration and participation.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/207/1225",
+        "prerequisite_raw": "POPLHLTH 102",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 102"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 208",
+        "coursename": "Mental Health Development",
+        "description": "The importance of mental health to overall health and well-being is explored. Major threats to mental health are reviewed, and contemporary responses to mental ill health are placed in historical perspective. Current theory, research and practice related to mental health development, which includes both recovery-based approaches and mental health promotion practice (i.e., promotion of well-being) at the community and population levels are reviewed.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/208/1225",
+        "prerequisite_raw": "POPLHLTH 102",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 102"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 213",
+        "coursename": "Special Topic: Positioning Pacific Health",
+        "description": "Introduces Pacific perspectives and worldviews of health and wellbeing and examines the social, structural, economic and political determinants of health for Pacific peoples in New Zealand.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 101, 102, 111",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/213/1225",
+        "prerequisite_raw": "POPLHLTH 101, 102, 111",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 101",
+            "POPLHLTH 102",
+            "POPLHLTH 111"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 216",
+        "coursename": "Quantitative Methods in Health",
+        "description": "An introduction to and application of epidemiological and social science-based, quantitative principles, methods and skills used in health sector research.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 111, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/216/1225",
+        "prerequisite_raw": "POPLHLTH 111, 202",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 111",
+            "POPLHLTH 202"
+        ]
+    },
+    {
+        "courseid": "MAORIHTH 201",
+        "coursename": "Introduction to M\u0101ori Health",
+        "description": "M\u0101ori society, culture and values are explored. Historical processes are reviewed within the context of the Treaty of Waitangi. The course will examine how these factors underpin the basic determinants of health and shape contemporary M\u0101ori health status in Aotearoa. Different approaches to improving M\u0101ori health and reducing inequalities will be critically examined.",
+        "subject": "M\u0101ori Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 111",
+        "url": "",
+        "prerequisite_raw": "POPLHLTH 111",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 111"
+        ]
+    },
+    {
+        "courseid": "MBCHB 221B",
+        "coursename": "MBChB Part II",
+        "description": "Through clinical scenarios, lectures and laboratories, students are introduced to human health and the description and pathogenesis of disease processes as a basis for the systematic study of human illness. This is integrated with the study of human organ systems through components focusing on musculoskeletal, digestive, genitourinary, cardiovascular and respiratory systems, linked with practical work in anatomy, physiology, pathology medical imaging, and professional, clinical and communication skills.",
+        "subject": "MBChB",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: MBCHB 203, 205, 206, 209, 210, 211\r\nTo complete this course students must enrol in MBCHB 221 A and B",
+        "url": "",
+        "restriction_raw": "MBCHB 203, 205, 206, 209, 210, 211",
+        "restriction": [
+            "and",
+            "MBCHB 203",
+            "MBCHB 205",
+            "MBCHB 206",
+            "MBCHB 209",
+            "MBCHB 210",
+            "MBCHB 211"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 221 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 221 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 216B",
+        "coursename": "Introduction to Optometry",
+        "description": "A clinically-focused course introducing students to optometric practice and addressing, at an introductory level, the ethical, cultural, theoretical and clinical aspects of the optometric examination. Topics covered include: preliminary tests from the eye examination, communication skills and clinical problem solving. The course will emphasise assessment utilising advanced equipment and the production of clinically relevant outcomes and diagnosis-supportive hypotheses.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "To complete this course students must enrol in OPTOM 216 A and B",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 216 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 216 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 263B",
+        "coursename": "Essential Optics",
+        "description": "An introduction to optics relevant to optometry and necessary to understand the optical performance of the eye, the design of ophthalmic lens applications, and the principles of operation of clinical instrumentation. Topics include; the basic principles of physical optics, the principles of image formation by lenses and lens systems mirrors and prisms, optics of the eye, ocular ametropia and aberrations.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 215, 262, 265\nTo complete this course students must enrol in OPTOM 263 A and B",
+        "url": "",
+        "restriction_raw": "OPTOM 215, 262, 265",
+        "restriction": [
+            "and",
+            "OPTOM 215",
+            "OPTOM 262",
+            "OPTOM 265"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 263 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 263 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 272B",
+        "coursename": "Visual Science 1: Structure and Function of the Visual System",
+        "description": "Anatomy and physiology of the eye and visual pathway.  Topics include composition and structure of the tear film, neural processing in the visual cortex, aspects of visual function including spatial and temporal vision, motion perception and colour vision. Investigation of visual perception using psychophysical and electrophysiological techniques.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 151, 170, 171\nTo complete this course students must enrol in OPTOM 272 A and B",
+        "url": "",
+        "restriction_raw": "OPTOM 151, 170, 171",
+        "restriction": [
+            "and",
+            "OPTOM 151",
+            "OPTOM 170",
+            "OPTOM 171"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 272 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 272 A and B"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 211",
+        "coursename": "Introduction to Environmental Health",
+        "description": "Provides students with concepts and knowledge necessary to understand the influence of the environment on health, and also to understand how human activity affects the environment. Local, regional and global examples of environmental health issues, as well as success stories, are explored. The course introduces approaches that may be taken to identify, understand and reduce environmental hazards.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CLINIMAG 302",
+        "coursename": "Radiographic Clinical Practice III",
+        "description": "Develops the fundamental knowledge and clinical skills necessary to perform a range of advanced radiographic imaging examinations such as mammography, angiography, interventional procedures, and computed tomography (CT), incorporating research skills for an evidence based and patient-centred approach.",
+        "subject": "Clinical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CLINIMAG/302/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MEDIMAGE 304",
+        "coursename": "Advanced Radiographic Imaging",
+        "description": "Develops understanding of advanced radiographic imaging examinations including mammography, angiography, interventional procedures, and computed tomography. Addresses the physical principles of image production, instrumentation and dose considerations. Students will investigate a range of clinical applications, and normal and abnormal imaging appearances associated with each of these modalities.",
+        "subject": "Medical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDIMAGE 202, 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/304/1225",
+        "prerequisite_raw": "MEDIMAGE 202, 203",
+        "prerequisite": [
+            "and",
+            "MEDIMAGE 202",
+            "MEDIMAGE 203"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 305",
+        "coursename": "Professional Practice in Medical Imaging",
+        "description": "Develops fundamental concepts of professionalism, reflective practice and communication to patient-centred care and professional practice in Medical Imaging.",
+        "subject": "Medical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDIMAGE 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/305/1225",
+        "prerequisite_raw": "MEDIMAGE 201",
+        "prerequisite": [
+            "and",
+            "MEDIMAGE 201"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 306",
+        "coursename": "Specialised Medical Imaging",
+        "description": "Examines specialised medical imaging modalities including ultrasound, nuclear medicine, and magnetic resonance imaging (MRI). Addresses the physical principles of image production, instrumentation and safety considerations. Students will investigate a range of clinical applications, and normal and abnormal imaging appearances associated with each of these modalities.",
+        "subject": "Medical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDIMAGE 202, 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDIMAGE/306/1225",
+        "prerequisite_raw": "MEDIMAGE 202, 203",
+        "prerequisite": [
+            "and",
+            "MEDIMAGE 202",
+            "MEDIMAGE 203"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 300",
+        "coursename": "Analytical Anatomy and Visualisation",
+        "description": "Examines the analysis, description and quantification of anatomical structures, including visualisation methodologies and the challenges of imaging subcellular to whole organ anatomy. Emphasis is placed on emerging applications and technology, including computational anatomy, surgical planning and research applications. Appropriate uses of human tissue, modern imaging technologies, tissue preparation, imaging artefacts, and novel visualisation techniques will be explored.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/300/1225",
+        "prerequisite_raw": "MEDSCI 201",
+        "prerequisite": [
+            "and",
+            "MEDSCI 201"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 301",
+        "coursename": "Molecular Basis of Disease",
+        "description": "An in-depth analysis of the cellular and molecular basis of disease, including the role of environmental and inherited risk factors, as well as mechanisms of response to cell injury and inflammation in the disease process. A number of examples will be studied including cancer and infectious disease.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/301/1225",
+        "prerequisite_raw": "MEDSCI 203",
+        "prerequisite": [
+            "and",
+            "MEDSCI 203"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 302",
+        "coursename": "Cancer Biology",
+        "description": "A study of the scientific basis of cancer including: mechanisms underlying the pathogenesis of cancer, carcinogenesis, DNA damage and repair, properties of cancer cells (including abnormalities of growth and cell cycle control), the growth of tumours, the classification and histopathology of cancers, and an introduction to therapeutic strategies.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 356 or MEDSCI 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/302/1225",
+        "prerequisite_raw": "BIOSCI 356 or MEDSCI 203",
+        "prerequisite": [
+            "or",
+            "BIOSCI 356",
+            "MEDSCI 203"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 309",
+        "coursename": "Biophysics of Nerve and Muscle",
+        "description": "An advanced treatment of the physiology of excitable cells. Topics include: the biophysical basis of membrane potential, the spread of electrical activation and synaptic transmission, structure, excitation, mechanics and energetics of muscle and functional differences among muscle types. The approach is quantitative with particular emphasis on current advances in the field.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 205, 206, or for BE(Hons) students, 15 points from MEDSCI 205 and 15 points from courses at Stage II listed in Part II of the Biomedical Engineering specialisation in the BE(Hons) Schedule",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/309/1225",
+        "prerequisite_raw": "MEDSCI 205, 206, or for BE(Hons) students, 15 points from MEDSCI 205 and 15 points from courses at Stage II listed in Part II of the Biomedical Engineering specialisation in the BE(Hons) Schedule",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "MEDSCI 205",
+                "MEDSCI 206"
+            ],
+            [
+                "and",
+                "for BE(Hons) students",
+                [
+                    "15",
+                    "MEDSCI 205"
+                ],
+                "15"
+            ]
+        ]
+    },
+    {
+        "courseid": "MEDSCI 312",
+        "coursename": "Neuroendocrinology of Growth and Metabolism",
+        "description": "An introduction to the mechanism controlling the production of hormones and how these achieve their effects in regulating body function. The course focuses in particular on the hormone systems controlling growth and metabolism and contrasts the differences between fetal and adult life. It also highlights how defects in endocrine systems are associated with conditions such as obesity and diabetes.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: 30 points from BIOSCI 203, MEDSCI 201, 205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/312/1225",
+        "prerequisite_raw": "30 points from BIOSCI 203, MEDSCI 201, 205",
+        "prerequisite": [
+            "30",
+            "BIOSCI 203",
+            "MEDSCI 201",
+            "MEDSCI 205"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 314",
+        "coursename": "Immunology",
+        "description": "The biology, cellular and molecular events underlying the immune response. The nature and characteristics of antibody-mediated and cell-mediated immunity including antigen recognition and presentation, antibody and T cell receptor structure, immune regulation and cytokines, immunogenetics and histocompatibility. The relationships of the immune system to the activities of pathogenic organisms. Applied immunology including biotechnology, infection, autoimmunity, tumour immunology, transplantation and immunodeficiency.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 202 or BIOSCI 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/314/1225",
+        "prerequisite_raw": "MEDSCI 202 or BIOSCI 201",
+        "prerequisite": [
+            "or",
+            "MEDSCI 202",
+            "BIOSCI 201"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 317",
+        "coursename": "Integrative Neuroscience: From Fetus to Adult",
+        "description": "The development and function of the central nervous system in health and disease. Topics include development of the CNS, functional imaging of the human brain, synaptic function in health and disease, development and pathophysiology of motor systems, perinatal and adult brain ischemia, stroke, and sleep related disorders. The topics are covered at an advanced level with emphasis on current advances in the fields.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 206",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/317/1225",
+        "prerequisite_raw": "MEDSCI 206",
+        "prerequisite": [
+            "and",
+            "MEDSCI 206"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 320",
+        "coursename": "Pharmacology of the Brain and Body",
+        "description": "Extends the principles of pharmacology acquired at Stage II to discuss how diseases can be treated in a variety of organ systems including the cardiovascular, gastrointestinal, endocrine, reproductive, and respiratory systems with emphasis on the central nervous system. Covers the mechanisms of action of drugs, and the influence of anatomy, physiology and pathology.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 204 and 30 points from MEDSCI 203, 205, 206, BIOSCI 203\nRestriction: MEDSCI 305, 307",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/320/1225",
+        "prerequisite_raw": "MEDSCI 204 and 30 points from MEDSCI 203, 205, 206, BIOSCI 203",
+        "prerequisite": [
+            "and",
+            "MEDSCI 204",
+            [
+                "30",
+                "MEDSCI 203",
+                "MEDSCI 205",
+                "MEDSCI 206",
+                "BIOSCI 203"
+            ]
+        ],
+        "restriction_raw": "MEDSCI 305, 307",
+        "restriction": [
+            "and",
+            "MEDSCI 305",
+            "MEDSCI 307"
+        ]
+    },
+    {
+        "courseid": "NURSING 302",
+        "coursename": "Professional Nursing Practice",
+        "description": "Allows the student to make the transition from student to professional nurse. A period of practice in an elected area of clinical speciality is included. Issues such as the development of nursing knowledge, autonomy of practice, accountability for practice, and the legal and ethical parameters of competency as a nurse are emphasised.",
+        "subject": "Nursing",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: NURSING 301",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/NURSING/302/1225",
+        "prerequisite_raw": "NURSING 301",
+        "prerequisite": [
+            "and",
+            "NURSING 301"
+        ]
+    },
+    {
+        "courseid": "PHARMACY 312",
+        "coursename": "Pharmacy 3",
+        "description": "Optimal drug treatment of endocrine, musculoskeletal diseases and women\u2019s/men\u2019s health issues are explored through integrated multidisciplinary systems-based approaches. Clinical pharmacy skills in law, ethics, dispensing, medicines information, clinical communication, management, quality and safety, and research skills are further developed. Further experiential learning placements focus on development of pharmacy practice skills in community/hospital pharmacy settings throughout New Zealand.",
+        "subject": "Pharmacy",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: PHARMACY 311",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/312/1225",
+        "prerequisite_raw": "PHARMACY 311",
+        "prerequisite": [
+            "and",
+            "PHARMACY 311"
+        ]
+    },
+    {
+        "courseid": "PHARMCOL 399",
+        "coursename": "Capstone: Integrated Pharmacology",
+        "description": "A capstone that applies fundamental principles of pharmacology and toxicology to the safe, effective and responsible use of drugs through investigation of a current area of pharmacological research. Emphasises experimental design, data collection, analysis, interpretation and presentation, as the scientific basis for rational, evidence-based decision-making.",
+        "subject": "Pharmacology",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 204 and 30 points from MEDSCI 203, 205, 206, BIOSCI 203, and 30 points from MEDSCI 318-320",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMCOL/399/1225",
+        "prerequisite_raw": "MEDSCI 204 and 30 points from MEDSCI 203, 205, 206, BIOSCI 203, and 30 points from MEDSCI 318-320",
+        "prerequisite": [
+            "and",
+            "MEDSCI 204",
+            [
+                "30",
+                "MEDSCI 203",
+                "MEDSCI 205",
+                "MEDSCI 206",
+                "BIOSCI 203"
+            ],
+            [
+                "30",
+                "MEDSCI 318-320"
+            ]
+        ]
+    },
+    {
+        "courseid": "PHYSIOL 399",
+        "coursename": "Capstone: Physiology",
+        "description": "Advancements in science come through integrating knowledge and excellence in experimental design. Students will integrate and communicate knowledge attained during their physiology degree by developing a research proposal. Working in small groups, and in research group placements will explore scientific knowledge, and experimental design, as well as wider issues such as ethics, health economics, and M\u0101ori and Pasifika health advancement.",
+        "subject": "Physiology",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: 30 points at Stage III in Physiology\nRestriction: BIOMED 399, PHARMCOL 399",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHYSIOL/399/1225",
+        "prerequisite_raw": "30 points at Stage III in Physiology",
+        "prerequisite": [
+            "30:Stage III",
+            "Physiology"
+        ],
+        "restriction_raw": "BIOMED 399, PHARMCOL 399",
+        "restriction": [
+            "and",
+            "BIOMED 399",
+            "PHARMCOL 399"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 302",
+        "coursename": "Health Services Placement",
+        "description": "The placement with a health service organisation provides students with the opportunity for experiential learning and the development of competencies needed in the workplace. Theory and skills learned in previous courses are integrated and extended as students apply prior knowledge to a local health organisation and carry out tasks asked of them.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: HLTHPSYC 122, MAORIHTH 201, POPLHLTH 101, 102, 111, 202, 204, 210, STATS 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/302/1225",
+        "prerequisite_raw": "HLTHPSYC 122, MAORIHTH 201, POPLHLTH 101, 102, 111, 202, 204, 210, STATS 101",
+        "prerequisite": [
+            "and",
+            "HLTHPSYC 122",
+            "MAORIHTH 201",
+            "POPLHLTH 101",
+            "POPLHLTH 102",
+            "POPLHLTH 111",
+            "POPLHLTH 202",
+            "POPLHLTH 204",
+            "POPLHLTH 210",
+            "STATS 101"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 305",
+        "coursename": "Community Nutrition",
+        "description": "This course builds on POPLHLTH 206 \u2018Life Cycle Nutrition\u2019 by providing students with a general overview of the determinants of population eating behaviours and the implications of current dietary behaviours and patterns on health.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 111, 206",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/305/1225",
+        "prerequisite_raw": "POPLHLTH 111, 206",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 111",
+            "POPLHLTH 206"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 306",
+        "coursename": "Health Promotion 2",
+        "description": "Builds on the theory and practice in POPLHLTH 203, and examines in depth the relationship between economic and political processes and health status. The course also looks at the most effective strategies to put health promotion theory into practice. Mixed in with this will be an in-depth introduction to some of the emerging issues in health promotion, and a look at some of the specific areas of health promotion practice.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/306/1225",
+        "prerequisite_raw": "POPLHLTH 203",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 203"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 311",
+        "coursename": "Shaping Health Policy",
+        "description": "Investigates recent changes to the ways in which governments seek to intervene to improve a population's health. NZ case studies will be used to illustrate the interrelationships between research, policy and practice in a devolved health system and the changing relationships between government agencies and health providers.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/311/1225",
+        "prerequisite_raw": "POPLHLTH 202",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 202"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 316",
+        "coursename": "Translating Health Information",
+        "description": "To lead to improvements in health, information needs to be translated appropriately to influence decision makers. Builds the skills and knowledge to be able to both critique and synthesise existing health information as well as to apply analytical methods and presentation approaches to data in order to effectively communicate findings to different decision-making communities.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/316/1225",
+        "prerequisite_raw": "POPLHLTH 202",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 202"
+        ]
+    },
+    {
+        "courseid": "MBCHB 311B",
+        "coursename": "Medical Humanities",
+        "description": "A variety of options from the study of medical humanities.",
+        "subject": "MBChB",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "To complete this course students must enrol in MBCHB 311 A and B",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 311 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 311 A and B"
+        ]
+    },
+    {
+        "courseid": "MBCHB 321B",
+        "coursename": "MBCHB Part III",
+        "description": "Through clinical scenarios, lectures, laboratories and problem-solving sessions, students explore human health and illness in a multidisciplinary manner with particular focus on the nervous system, blood, immunity and infection, reproduction, development and aging, and how bodily systems are regulated. This is integrated with practical work in anatomy, physiology, pathology, medical imaging and professional, clinical and communication skills, as well as ward-based learning experiences.",
+        "subject": "MBChB",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MBCHB 221\nRestriction: MBCHB 303, 305, 306, 312, 313\nTo complete this course students must enrol in MBCHB 321 A and B",
+        "url": "",
+        "prerequisite_raw": "MBCHB 221",
+        "prerequisite": [
+            "and",
+            "MBCHB 221"
+        ],
+        "restriction_raw": "MBCHB 303, 305, 306, 312, 313",
+        "restriction": [
+            "and",
+            "MBCHB 303",
+            "MBCHB 305",
+            "MBCHB 306",
+            "MBCHB 312",
+            "MBCHB 313"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MBCHB 321 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MBCHB 321 A and B"
+        ]
+    },
+    {
+        "courseid": "MEDIMAGE 300",
+        "coursename": "Medical Imaging for Biomedical Science",
+        "description": "Examines the physical principles of image production, instrumentation and safety considerations of specialised medical imaging modalities, including magnetic resonance imaging (MRI), ultrasound and nuclear medicine. Students will compare normal and abnormal imaging appearances associated with each of these modalities, and investigate a range of clinical and research applications.",
+        "subject": "Medical Imaging",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MEDSCI 201, 203\nRestriction: MEDIMAGE 306",
+        "url": "",
+        "prerequisite_raw": "MEDSCI 201, 203",
+        "prerequisite": [
+            "and",
+            "MEDSCI 201",
+            "MEDSCI 203"
+        ],
+        "restriction_raw": "MEDIMAGE 306",
+        "restriction": [
+            "and",
+            "MEDIMAGE 306"
+        ]
+    },
+    {
+        "courseid": "OPTOM 316B",
+        "coursename": "Optometry",
+        "description": "An integrative approach to the scope of optometric practice, addressing both the theoretical basis and clinical practice of the optometric examination, correction of refractive error and dispensing of optical appliances. Topics covered include: visual acuity, visual fields, colour vision, biomicroscopy, ophthalmoscopy, refractive examination, binocular examination, optical correction, lens materials and coatings, history taking, communication skills and clinical problem solving.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 211, 212, 265, 313, 314, 365, 366\r\nTo complete this course students must enrol in OPTOM 316 A and B",
+        "url": "",
+        "restriction_raw": "OPTOM 211, 212, 265, 313, 314, 365, 366",
+        "restriction": [
+            "and",
+            "OPTOM 211",
+            "OPTOM 212",
+            "OPTOM 265",
+            "OPTOM 313",
+            "OPTOM 314",
+            "OPTOM 365",
+            "OPTOM 366"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 316 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 316 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 345B",
+        "coursename": "Principles of Ocular Pharmacology",
+        "description": "General principles of pharmacology. Pharmacodynamics. Drug absorption, distribution and metabolism. Mechanism of drug action at receptors. Drugs and their application on ophthalmic practice. The autonomic nervous system: anatomy and physiology. Mechanisms of action of ocular pharmaceutical agents. Principles of pharmacological treatment of ocular disease. Drug interactions. Legislation on use of ocular pharmaceutical agents by optometrists in New Zealand and internationally. Introduction to therapeutic agents in optometric practice. Scope of treatment. Shared care.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: OPTOM 171 or 272 \nRestriction: OPTOM 245\nTo complete this course students must enrol in OPTOM 345 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/345B/1225",
+        "prerequisite_raw": "OPTOM 171 or 272",
+        "prerequisite": [
+            "or",
+            "OPTOM 171",
+            "OPTOM 272"
+        ],
+        "restriction_raw": "OPTOM 245",
+        "restriction": [
+            "and",
+            "OPTOM 245"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 345 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 345 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 353B",
+        "coursename": "Ocular Pathology",
+        "description": "Pathophysiology of the eye. Histopathology of eye disease. Pathology of orbit, lacrimal system, conjunctiva, cornea, uvea, lens and retina. Developmental anomalies of the eye.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 251\nTo complete this course students must enrol in OPTOM 353 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/353B/1225",
+        "restriction_raw": "OPTOM 251",
+        "restriction": [
+            "and",
+            "OPTOM 251"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 353 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 353 A and B"
+        ]
+    },
+    {
+        "courseid": "OPTOM 375B",
+        "coursename": "Visual Science 2",
+        "description": "To provide an understanding of visual information processing in human brain. In particular the cortical processing of shape, motion and colour, and development of the visual cortex will be addressed. A problem-oriented approach will develop critical thinking and problem solving skills. Students will acquire the ability to seek, evaluate and retrieve scientific information on which to base their clinical practice.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: OPTOM 270\r\nTo complete this course students must enrol in OPTOM 375 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/375B/1225",
+        "restriction_raw": "OPTOM 270",
+        "restriction": [
+            "and",
+            "OPTOM 270"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in OPTOM 375 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in OPTOM 375 A and B"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 301",
+        "coursename": "Strengthening Health Systems",
+        "description": "The New Zealand health system in an international context. Health system reform, priority setting and rationing. Managed care and health integration. The future of healthcare in New Zealand.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 202, 215",
+        "url": "",
+        "prerequisite_raw": "POPLHLTH 202, 215",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 202",
+            "POPLHLTH 215"
+        ]
+    },
+    {
+        "courseid": "POPLHLTH 313",
+        "coursename": "Health in Asian Communities",
+        "description": "An overview of Asian health issues, including, the biological, ecological cultural, economic social and psychological factors that determine health for Asian New Zealanders is provided. Current practice, policy development and research priorities for Asian communities are included.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: POPLHLTH 210",
+        "url": "",
+        "prerequisite_raw": "POPLHLTH 210",
+        "prerequisite": [
+            "and",
+            "POPLHLTH 210"
+        ]
+    }
+]

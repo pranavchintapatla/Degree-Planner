@@ -1,0 +1,427 @@
+[
+    {
+        "courseid": "LAW 399",
+        "coursename": "Legal Research 2",
+        "description": "An introduction to multi-jurisdictional legal information sources and advanced research skills.",
+        "subject": "Law",
+        "term": "SS",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241, 298 or 299",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241, 298 or 299",
+        "prerequisite": [
+            "or",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241",
+            "LAW 298",
+            "LAW 299"
+        ]
+    },
+    {
+        "courseid": "LAW 201A",
+        "coursename": "Criminal Law",
+        "description": "An introduction to the principles and practice of criminal law in Aotearoa New Zealand, including an analysis of a selection of offences, criminal defences and the rules attributing criminal liability. Apart from the rules concerning burden of proof and an introduction to the principles and process of sentencing, no detailed study is made in this course of the law of evidence or procedure.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299 \nTo complete this course students must enrol in LAW 201 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 201 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 201 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 211A",
+        "coursename": "Public Law",
+        "description": "The principles and workings of the New Zealand constitution; the powers, privileges and immunities of the three branches of government; the exercise and control of public power; and the relationship between the individual and the State (including the position of M\u0101ori under the Treaty of Waitangi).",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299\nTo complete this course students must enrol in LAW 211 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 211 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 211 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 231A",
+        "coursename": "Law of Torts",
+        "description": "The general principles of civil liability for non-consensual wrongs. The principles of liability applying to selected torts, including the intentional torts such as: assault, battery, false imprisonment, intentionally inflicting emotional distress, trespass to land, wrongs to goods, negligence, strict liability, nuisance and defamation. The law relating to compensation for personal injury.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299\nTo complete this course students must enrol in LAW 231 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 231 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 231 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 241A",
+        "coursename": "Law of Contract",
+        "description": "The general principles of contract law including: the formation of contracts at common law, New Zealand contract legislation, breach of contract, and remedies for breach of contract. An introduction to the general principles of agency.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299\nTo complete this course students must enrol in LAW 241 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 241 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 241 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 298A",
+        "coursename": "Legal Research, Writing and Communication",
+        "description": "Legal research, writing, mooting and other requirements, as determined by the Dean of Faculty of Law.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: LAW 299 \nTo complete this course students must enrol in LAW 298 A and B",
+        "url": "",
+        "restriction_raw": "LAW 299",
+        "restriction": [
+            "and",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 298 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 298 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 301A",
+        "coursename": "Land Law",
+        "description": "A study of the history and principles of land law including: estates and interests in land, the effect of registration and indefeasibility of title, leasehold estates, easements and profits, mortgages, and concurrent interests in land, and covenants affecting freehold land.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241\nTo complete this course students must enrol in LAW 301 A and B",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241",
+        "prerequisite": [
+            "and",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 301 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 301 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 306A",
+        "coursename": "Equity",
+        "description": "A study of the central principles and remedies of equity including: the fiduciary principle, relationships of confidence, unconscionable conduct, undue influence, estoppel, assignments, trusts (express, resulting and constructive), charities, tracing, third-party liability, the assignment in equity of choses in action, and priorities. Basic principles of the law of succession and of the administration of estates.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241\nTo complete this course students must enrol in LAW 306 A and B",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241",
+        "prerequisite": [
+            "and",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 306 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 306 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 316",
+        "coursename": "Jurisprudence",
+        "description": "A study of the nature of law, including the nature of legal reasoning, its sources, its methodology, the extent to which legal questions are indeterminate, fundamental legal concepts, and the structure of a legal system; ng\u0101 tikanga M\u0101ori and its relation to wider M\u0101ori views of the world and contemporary issues faced by M\u0101ori in their relation to contemporary law.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241",
+        "prerequisite": [
+            "and",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241"
+        ]
+    },
+    {
+        "courseid": "LAW 399",
+        "coursename": "Legal Research 2",
+        "description": "An introduction to multi-jurisdictional legal information sources and advanced research skills.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241, 298 or 299",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241, 298 or 299",
+        "prerequisite": [
+            "or",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241",
+            "LAW 298",
+            "LAW 299"
+        ]
+    },
+    {
+        "courseid": "LAW 131",
+        "coursename": "Legal Method",
+        "description": "An introductory study of how law is made and applied in New Zealand \u2013 an overview of the law-making roles of the legislative, executive and judicial branches of government; other influences on the development of the law; an introduction to case law, including judicial reasoning and the doctrine of precedent; an introduction to statute law, including the legislative process and techniques of statutory interpretation and application; the interaction between case law and legislation.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: B- or higher in LAW 121 or 121G",
+        "url": "",
+        "prerequisite_raw": "B- or higher in LAW 121 or 121G",
+        "prerequisite": [
+            "B-",
+            [
+                "or",
+                "LAW 121",
+                "LAW 121G"
+            ]
+        ]
+    },
+    {
+        "courseid": "LAW 141",
+        "coursename": "Legal Foundations",
+        "description": "An overview of the classification, sources and operation of core aspects of New Zealand law, including state law and tikanga M\u0101ori. An introduction to other sources, perspectives and explanations of law.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: B- or higher in LAW 121 or 121G\nCorequisite: LAW 131",
+        "url": "",
+        "prerequisite_raw": "B- or higher in LAW 121 or 121G",
+        "prerequisite": [
+            "B-",
+            [
+                "or",
+                "LAW 121",
+                "LAW 121G"
+            ]
+        ],
+        "corequisite_raw": "LAW 131",
+        "corequisite": [
+            "and",
+            "LAW 131"
+        ]
+    },
+    {
+        "courseid": "LAW 201B",
+        "coursename": "Criminal Law",
+        "description": "An introduction to the principles and practice of criminal law in Aotearoa New Zealand, including an analysis of a selection of offences, criminal defences and the rules attributing criminal liability. Apart from the rules concerning burden of proof and an introduction to the principles and process of sentencing, no detailed study is made in this course of the law of evidence or procedure.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299 \r\nTo complete this course students must enrol in LAW 201 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 201 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 201 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 211B",
+        "coursename": "Public Law",
+        "description": "The principles and workings of the New Zealand constitution; the powers, privileges and immunities of the three branches of government; the exercise and control of public power; and the relationship between the individual and the State (including the position of M\u0101ori under the Treaty of Waitangi).",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299\r\nTo complete this course students must enrol in LAW 211 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 211 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 211 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 231B",
+        "coursename": "Law of Torts",
+        "description": "The general principles of civil liability for non-consensual wrongs. The principles of liability applying to selected torts, including the intentional torts such as: assault, battery, false imprisonment, intentionally inflicting emotional distress, trespass to land, wrongs to goods, negligence, strict liability, nuisance and defamation. The law relating to compensation for personal injury.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299\nTo complete this course students must enrol in LAW 231 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 231 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 231 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 241B",
+        "coursename": "Law of Contract",
+        "description": "The general principles of contract law including: the formation of contracts at common law, New Zealand contract legislation, breach of contract, and remedies for breach of contract. An introduction to the general principles of agency.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Corequisite: LAW 298 or 299\nTo complete this course students must enrol in LAW 241 A and B",
+        "url": "",
+        "corequisite_raw": "LAW 298 or 299",
+        "corequisite": [
+            "or",
+            "LAW 298",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 241 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 241 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 298B",
+        "coursename": "Legal Research, Writing and Communication",
+        "description": "Legal research, writing, mooting and other requirements, as determined by the Dean of Faculty of Law.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: LAW 299 \nTo complete this course students must enrol in LAW 298 A and B",
+        "url": "",
+        "restriction_raw": "LAW 299",
+        "restriction": [
+            "and",
+            "LAW 299"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 298 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 298 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 301B",
+        "coursename": "Land Law",
+        "description": "A study of the history and principles of land law including: estates and interests in land, the effect of registration and indefeasibility of title, leasehold estates, easements and profits, mortgages, and concurrent interests in land, and covenants affecting freehold land.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241\nTo complete this course students must enrol in LAW 301 A and B",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241",
+        "prerequisite": [
+            "and",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 301 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 301 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 306B",
+        "coursename": "Equity",
+        "description": "A study of the central principles and remedies of equity including: the fiduciary principle, relationships of confidence, unconscionable conduct, undue influence, estoppel, assignments, trusts (express, resulting and constructive), charities, tracing, third-party liability, the assignment in equity of choses in action, and priorities. Basic principles of the law of succession and of the administration of estates.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241\nTo complete this course students must enrol in LAW 306 A and B",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241",
+        "prerequisite": [
+            "and",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in LAW 306 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in LAW 306 A and B"
+        ]
+    },
+    {
+        "courseid": "LAW 316",
+        "coursename": "Jurisprudence",
+        "description": "A study of the nature of law, including the nature of legal reasoning, its sources, its methodology, the extent to which legal questions are indeterminate, fundamental legal concepts, and the structure of a legal system; ng\u0101 tikanga M\u0101ori and its relation to wider M\u0101ori views of the world and contemporary issues faced by M\u0101ori in their relation to contemporary law.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241",
+        "prerequisite": [
+            "and",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241"
+        ]
+    },
+    {
+        "courseid": "LAW 399",
+        "coursename": "Legal Research 2",
+        "description": "An introduction to multi-jurisdictional legal information sources and advanced research skills.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: LAW 201, 211, 231, 241, 298 or 299",
+        "url": "",
+        "prerequisite_raw": "LAW 201, 211, 231, 241, 298 or 299",
+        "prerequisite": [
+            "or",
+            "LAW 201",
+            "LAW 211",
+            "LAW 231",
+            "LAW 241",
+            "LAW 298",
+            "LAW 299"
+        ]
+    }
+]

@@ -1,0 +1,3714 @@
+[
+    {
+        "courseid": "MUS 149",
+        "coursename": "Rock to Reggae: Tracking Popular Music in New Zealand",
+        "description": "An introduction to New Zealand\u2019s home-grown popular music, from the 1950s to the present day. A broad range of musical styles will be considered and situated within various social contexts. The issue of cultural identity in music \u2013 at national and local levels \u2013 will also be explored.",
+        "subject": "Music",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/149/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 207",
+        "coursename": "Choreography and Performance",
+        "description": "Focuses on the development and consolidation of choreographic and performance skills.",
+        "subject": "Dance Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage I in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/207/1200",
+        "prerequisite_raw": "Any 30 points at Stage I in Dance Studies",
+        "prerequisite": [
+            "30:Stage I",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 102",
+        "coursename": "Design 1",
+        "description": "The Conceptual: An introduction, in studio format, to the conceptual realm in which architecture operates, making connections to the cultural, physical, formal, social and political dimensions of architectural design. Emphasises the development of skills and abilities in conceptual thinking and design realisation, using a range of approaches to making and representation.",
+        "subject": "Architectural Design",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: ARCHDES 100",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/102/1203",
+        "restriction_raw": "ARCHDES 100",
+        "restriction": [
+            "and",
+            "ARCHDES 100"
+        ]
+    },
+    {
+        "courseid": "ARCHDRC 103",
+        "coursename": "Architectural Media 1",
+        "description": "An introduction to drawing and computing techniques related to design studio practice and an overview of the analytical and critical value of these techniques for design.",
+        "subject": "Architectural Media",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: ARCHDRC 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDRC/103/1203",
+        "restriction_raw": "ARCHDRC 102",
+        "restriction": [
+            "and",
+            "ARCHDRC 102"
+        ]
+    },
+    {
+        "courseid": "ARCHHTC 102",
+        "coursename": "Modern Architecture and Urbanism",
+        "description": "Examines through case studies the cultural contexts that shaped the development of architecture, urban design, landscape and the environment during the twentieth century. Emphasis is placed on the historical developments that influenced changes in style and the theoretical contexts that shaped attitudes towards inhabitation, social organisation, national identity, and cultural self-expression, amongst other things.",
+        "subject": "Architectural History, Theory",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: ARCHHTC 100",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHHTC/102/1203",
+        "restriction_raw": "ARCHHTC 100",
+        "restriction": [
+            "and",
+            "ARCHHTC 100"
+        ]
+    },
+    {
+        "courseid": "DANCE 120",
+        "coursename": "Dance Vocabulary I",
+        "description": "Introducing the study of diverse dance vocabulary including ballet, contemporary dance and the field of somatics. Students will examine specific technical requirements of identified dance vocabulary.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/120/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 131",
+        "coursename": "Dance Education",
+        "description": "The study of dance education practice and theory that shapes teaching and learning of dance in school and community contexts. Note: this course does not meet the requirements for teacher registration in New Zealand.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/131/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DESIGN 100",
+        "coursename": "Design Methods and Processes 1",
+        "description": "Introduces students to key tools, methods and processes of design planning, strategy and practice. Students learn to apply design thinking and technologies to real world contexts and issues. A course of studio\u2013based study focused on a series of creative, hands-on projects and supported by lectures. The emphasis is on human-centred design and interventions.",
+        "subject": "Design",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/100/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DESIGN 101",
+        "coursename": "Why We Design",
+        "description": "Investigates design as a driver and responder to social needs in contemporary and historic contexts. Students will understand relevant technologies and their contexts. The course explicitly considers planetary limits and sustainability, as well as design and business considered in a social-technological, tikanga M\u0101ori, financial, cultural-ethical and environmental context.",
+        "subject": "Design",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/101/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "FINEARTS 101",
+        "coursename": "Studio 1.1",
+        "description": "Students will work on a range of 'ideas based' activities that will challenge them progressively to develop and extend their knowledge and skills. These range from short focused projects to those allowing more time for research and personal development. Students will cover a range of the disciplines available in the school and be encouraged to explore in a cross-disciplinary manner.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Corequisite: FINEARTS 103 or 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/101/1203",
+        "corequisite_raw": "FINEARTS 103 or 104",
+        "corequisite": [
+            "or",
+            "FINEARTS 103",
+            "FINEARTS 104"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 104",
+        "coursename": "Introduction to Critical Studies",
+        "description": "An introduction to contemporary art from a practice-led perspective. Themes, ideas and movements relevant to the field of contemporary art will be introduced, alongside key theoretical and philosophical terms. Students study the ways these contextual and conceptual frameworks inform art production. Emphasises the multiple ways in which art-practice engages with these frameworks. Aspects of tikanga M\u0101ori and its relationship to art-making will also be introduced.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Corequisite: FINEARTS 101 or 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/104/1203",
+        "corequisite_raw": "FINEARTS 101 or 102",
+        "corequisite": [
+            "or",
+            "FINEARTS 101",
+            "FINEARTS 102"
+        ]
+    },
+    {
+        "courseid": "MUS 103",
+        "coursename": "Music Fundamentals",
+        "description": "A practical and theoretical overview of the fundamental written and aural skills required for music literacy. This course prepares students for MUS 104 and further university-level study and practice in music.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: MUS 100, may not be taken with or after passing MUS 101, 104, 174, 184, 284",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/103/1203",
+        "restriction_raw": "MUS 100, may not be taken with or after passing MUS 101, 104, 174, 184, 284",
+        "restriction": [
+            "or",
+            [
+                "and",
+                "MUS 100",
+                "may not be taken with"
+            ],
+            [
+                "and",
+                "after passing MUS 101",
+                "MUS 104",
+                "MUS 174",
+                "MUS 184",
+                "MUS 284"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 106",
+        "coursename": "Ensemble Communication and Direction",
+        "description": "An examination of the skills and techniques required for the communication and direction of ensembles including orchestras, bands, jazz and contemporary ensembles, choirs and other performing arts contexts. Includes knowledge of repertoire style, genre and period associated with directing music.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/106/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 110",
+        "coursename": "Composition 1",
+        "description": "Foundational studies in music composition and sonic arts. Modular content includes: rhythm and meter, melody and harmony, structure and gesture, time and meter, synthesis and notation and repertoire study. Students may complete Composition 1 and Composition 2 in any order.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/110/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 121",
+        "coursename": "Performance 2",
+        "description": "Continuation of work undertaken in MUS 120. (See course outline and instrumental/vocal syllabus for specific curriculum requirements.)",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 120",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/121/1203",
+        "prerequisite_raw": "MUS 120",
+        "prerequisite": [
+            "and",
+            "MUS 120"
+        ]
+    },
+    {
+        "courseid": "MUS 130",
+        "coursename": "Introduction to Music Production",
+        "description": "A survey of the production technology available to assist musicians, and an introduction to modern music production. Topics include: Modern DAW (Digital Audio Workstation) functionality, MIDI and audio recording/editing, synthesis, and multi-track mixing.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: MUS 119",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/130/1203",
+        "restriction_raw": "MUS 119",
+        "restriction": [
+            "and",
+            "MUS 119"
+        ]
+    },
+    {
+        "courseid": "MUS 143",
+        "coursename": "Contemporary Music Culture",
+        "description": "An introductory overview of today\u2019s diverse musical culture. Explores contemporary trends in so-called \u2018classical\u2019 music, jazz, production and popular genres, as well as the impact of technological innovation (sound recording, film, social media) on our day-to-day musical activities. Emphasis is placed on creative practice in music and the performing arts.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/143/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 149",
+        "coursename": "Rock to Reggae: Tracking Popular Music in New Zealand",
+        "description": "An introduction to New Zealand\u2019s home-grown popular music, from the 1950s to the present day. A broad range of musical styles will be considered and situated within various social contexts. The issue of cultural identity in music \u2013 at national and local levels \u2013 will also be explored.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/149/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 170",
+        "coursename": "Jazz Performance 1",
+        "description": "The development of instrumental technique and improvisational skills though in-depth study of scales, rhythm, harmony and relevant musical analysis. This course prepares students who major in Jazz Performance and includes 1:1 tuition and group based improvisation classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval.\nCorequisite: MUS 197",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/170/1203",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval.",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval."
+        ],
+        "corequisite_raw": "MUS 197",
+        "corequisite": [
+            "and",
+            "MUS 197"
+        ]
+    },
+    {
+        "courseid": "MUS 180",
+        "coursename": "Creative Practice in Popular Music 1",
+        "description": "Exploration of ideas and processes in the creation and presentation of popular music through workshops, seminars and group discussion. Students will write songs, compose music, use music recording and production techniques and present aspects of their coursework in live performance.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/180/1203",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ]
+    },
+    {
+        "courseid": "MUS 190",
+        "coursename": "Auxiliary Performance Study 1",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nTo complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/190/1203",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 190A",
+                    "MUS 190B"
+                ],
+                "MUS 190"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 190A",
+        "coursename": "Auxiliary Performance Study 1",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nTo complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/190A/1203",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 190A",
+                    "MUS 190B"
+                ],
+                "MUS 190"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 191A",
+        "coursename": "Classical Ensembles 1",
+        "description": "The development of performance skills through ensemble work including chamber music, string orchestra, wind orchestra, flute choir, contemporary ensembles and other combinations.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 191 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/191A/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 191 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 191 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 192A",
+        "coursename": "Performance Skills for Instrumentalists 1",
+        "description": "The development of a range of instrumental performance skills beyond those gained in the instrumental studio including collaborative piano, repertoire studies, ensemble techniques, basic pedagogy, keyboard skills, accompanying and other applications.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 192 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/192A/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 192 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 192 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 196A",
+        "coursename": "Popular Music Instrumental Performance",
+        "description": "The development of instrumental technique and interpretative skills through the in-depth study of scales, rhythm, harmony and the relevant musical analyses of set works. In addition, students will develop skills in improvisation, transcription and sight-reading. This course prepares students who major in Popular Music with 1:1 instrumental tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nRestriction: MUS 182\nTo complete this course students must enrol in MUS 196 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/196A/1203",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "restriction_raw": "MUS 182",
+        "restriction": [
+            "and",
+            "MUS 182"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 196 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 196 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 196B",
+        "coursename": "Popular Music Instrumental Performance",
+        "description": "The development of instrumental technique and interpretative skills through the in-depth study of scales, rhythm, harmony and the relevant musical analyses of set works. In addition, students will develop skills in improvisation, transcription and sight-reading. This course prepares students who major in Popular Music with 1:1 instrumental tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nRestriction: MUS 182\nTo complete this course students must enrol in MUS 196 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/196B/1203",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "restriction_raw": "MUS 182",
+        "restriction": [
+            "and",
+            "MUS 182"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 196 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 196 A and B"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 101",
+        "coursename": "Introduction to Urban Planning",
+        "description": "An introduction to the city, urban planning and sustainability; professional roles, practices and ethics.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/101/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "URBPLAN 102",
+        "coursename": "Urban Planning Economics",
+        "description": "An introduction to how economic theory, at both the micro and macro levels, effects urban planning policy development and decision making, with reference to how economic development can be integrated into effective urban planning policy formulation.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/102/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "URBPLAN 103",
+        "coursename": "Introduction to Visual Literacy and Research Skills",
+        "description": "An introduction to visualisation techniques and drawing skills needed to interpret, represent and communicate design ideas for urban planning, and to the research skills and techniques including the use of Geographic Information System (GIS) tools relevant for urban planning.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/103/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "URBPLAN 110",
+        "coursename": "Urban Planning Studio One",
+        "description": "An introduction to local and site contexts and the relationships between the land use patterns and the scale and type of buildings.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/110/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 101",
+        "coursename": "Introduction to Dance and Creative Processes",
+        "description": "To develop an understanding of our moving bodies through movement awareness, dance improvisation, choreography and creative and analytic writing. Students will undertake both theoretical and practical classes focusing on a range of practices that dancers and movement practitioners use to facilitate kinaesthetic awareness, experimentation, communication and choreography. Students will explore somatic theory and practice, improvisation scores, choreography and dance analysis. DANCE 101 not available for BDanceSt.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 193A",
+        "coursename": "Performance Skills for Singers 1",
+        "description": "The introduction of vocal practices that help voice students develop and sustain a professional vocal career. This course aims to give vocal students the knowledge and practical experience necessary to develop and maintain vocal health in diverse performing contexts.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 193 A and B",
+        "url": "",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 193 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 193 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 197A",
+        "coursename": "Jazz Ensembles 1",
+        "description": "The application of instrumental and improvisational techniques through performance practice. This course develops stylistic, interpretive and literary musical skills through a variety of large and small ensembles. Students are placed by audition into a small group combo and a large group.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "To complete this course students must enrol in MUS 197 A and B",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in MUS 197 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 197 A and B"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 200",
+        "coursename": "Design 3",
+        "description": "The Domestic: Exploring through design those things both familiar and unfamiliar in our understanding of home, family, privacy, identity, and community. Examines both the most intimate and the most exposed aspects of dwelling. Emphasises the role of precedent in design and addresses scales ranging from the room to the block.",
+        "subject": "Architectural Design",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHDES 100 or 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/200/1203",
+        "prerequisite_raw": "ARCHDES 100 or 102",
+        "prerequisite": [
+            "or",
+            "ARCHDES 100",
+            "ARCHDES 102"
+        ]
+    },
+    {
+        "courseid": "ARCHDRC 202",
+        "coursename": "Architectural Media II",
+        "description": "The study of drawing, computing and related art practices in terms of architectural representation and analysis and the practice of selected techniques.",
+        "subject": "Architectural Media",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Both ARCHDRC 100 and 101, or ARCHDRC 102\nRestriction: ARCHDRC 200, 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDRC/202/1203",
+        "prerequisite_raw": "Both ARCHDRC 100 and 101, or ARCHDRC 102",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "Both ARCHDRC 100",
+                "ARCHDRC 101"
+            ],
+            "ARCHDRC 102"
+        ],
+        "restriction_raw": "ARCHDRC 200, 201",
+        "restriction": [
+            "and",
+            "ARCHDRC 200",
+            "ARCHDRC 201"
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 207",
+        "coursename": "Design Technology 1",
+        "description": "Development of structural and construction principles and systems for small-scale and residential buildings. Characteristics and behaviour of common building materials. Building components and detailing. Outline of building codes, health and safety regulations and site operations. Active building services and technologies for residential housing, including heating, cooling, ventilation, water, waste, electrical services and vertical transportation. Application to design studio projects.",
+        "subject": "Architectural Technology",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 107 or 108",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/207/1203",
+        "prerequisite_raw": "ARCHTECH 107 or 108",
+        "prerequisite": [
+            "or",
+            "ARCHTECH 107",
+            "ARCHTECH 108"
+        ]
+    },
+    {
+        "courseid": "DANCE 201",
+        "coursename": "Dance and Interdisciplinarity",
+        "description": "Building integrated connections with other arts disciplines such as music, literature, art.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 101 or 110",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/201/1203",
+        "prerequisite_raw": "DANCE 101 or 110",
+        "prerequisite": [
+            "or",
+            "DANCE 101",
+            "DANCE 110"
+        ]
+    },
+    {
+        "courseid": "DANCE 215",
+        "coursename": "Special Topic: Ballet, Hip Hop and Improvisation",
+        "description": "",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage I in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/215/1203",
+        "prerequisite_raw": "Any 30 points at Stage I in Dance Studies",
+        "prerequisite": [
+            "30:Stage I",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "DANCE 220",
+        "coursename": "Dance Vocabulary II",
+        "description": "Exploring and analysing contemporary dance practices and techniques. Movement skills and performance skills will be developed integrating personal movement with techniques.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 120",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/220/1203",
+        "prerequisite_raw": "DANCE 120",
+        "prerequisite": [
+            "and",
+            "DANCE 120"
+        ]
+    },
+    {
+        "courseid": "DANCE 231",
+        "coursename": "Community Dance",
+        "description": "Entering diverse community settings and teaching and learning dance; analysing the roles and functions of dance in your own and others' communities. Note: this course does not meet the requirements for teacher registration in New Zealand.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 131",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/231/1203",
+        "prerequisite_raw": "DANCE 131",
+        "prerequisite": [
+            "and",
+            "DANCE 131"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 207",
+        "coursename": "Studio Practice 1",
+        "description": "Provides an understanding of contemporary artistic practice relevant to students' developing interests. Students will engage with current art ideas, methodologies and positions and will gain experience in understanding their own work in relationship to local and international contemporary art practices. Consists of the supervised completion of a number of prescribed briefs, and focused contextual study in an area relevant to the student's broad interests. Discipline-based and interdisciplinary learning will be undertaken, with a dual emphasis on the development of conceptual thinking and material languages.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 101, 102, 103, 104\r\nRestriction: FINEARTS 201, 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/207/1203",
+        "prerequisite_raw": "FINEARTS 101, 102, 103, 104",
+        "prerequisite": [
+            "and",
+            "FINEARTS 101",
+            "FINEARTS 102",
+            "FINEARTS 103",
+            "FINEARTS 104"
+        ],
+        "restriction_raw": "FINEARTS 201, 203",
+        "restriction": [
+            "and",
+            "FINEARTS 201",
+            "FINEARTS 203"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 209",
+        "coursename": "Studio Practice 1",
+        "description": "Provides an understanding of contemporary artistic practice relevant to students' developing interests. Students will engage with current art ideas, methodologies and positions and will gain experience in understanding their own work in relationship to local and international contemporary art practices. Consists of the supervised completion of a number of prescribed briefs. Discipline-based and interdisciplinary learning will be undertaken, with a dual emphasis on the development of conceptual thinking and material languages.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 101, 102, 103, 104\r\nRestriction: FINEARTS 201, 203, 207",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/209/1203",
+        "prerequisite_raw": "FINEARTS 101, 102, 103, 104",
+        "prerequisite": [
+            "and",
+            "FINEARTS 101",
+            "FINEARTS 102",
+            "FINEARTS 103",
+            "FINEARTS 104"
+        ],
+        "restriction_raw": "FINEARTS 201, 203, 207",
+        "restriction": [
+            "and",
+            "FINEARTS 201",
+            "FINEARTS 203",
+            "FINEARTS 207"
+        ]
+    },
+    {
+        "courseid": "MUS 202",
+        "coursename": "Materials of Music 4",
+        "description": "Continuation of work begun in MUS 201, including the study of harmony and analysis, aural skills and musicianship.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/202/1203",
+        "prerequisite_raw": "MUS 201",
+        "prerequisite": [
+            "and",
+            "MUS 201"
+        ]
+    },
+    {
+        "courseid": "MUS 203",
+        "coursename": "Classical Theory and Musicianship 1",
+        "description": "Continuation of work begun in MUS 104 on music theory, aural skills and musicianship. Includes a choral component.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/203/1203",
+        "prerequisite_raw": "MUS 104",
+        "prerequisite": [
+            "and",
+            "MUS 104"
+        ]
+    },
+    {
+        "courseid": "MUS 210",
+        "coursename": "Composition 3",
+        "description": "Applied concepts and techniques in instrumental/vocal composition and sonic arts. Students will develop original creative ideas through experimentation with both notational and sound-based approaches to composing, the study of relevant repertoire and the realisation of a portfolio of works for mixed resources that may include solo instruments, voices, small ensembles, found objects/sounds, loudspeakers and visual media. Liaison with performers both within and outside the class is important.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 110, 111",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/210/1203",
+        "prerequisite_raw": "MUS 110, 111",
+        "prerequisite": [
+            "and",
+            "MUS 110",
+            "MUS 111"
+        ]
+    },
+    {
+        "courseid": "MUS 214",
+        "coursename": "Instrumentation",
+        "description": "The study of instrumentation including ranges, characteristics and technical aspects of writing, scoring and arranging for strings, wind, brass and percussion will be introduced together with a study of repertoire.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 101 or 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/214/1203",
+        "prerequisite_raw": "MUS 101 or 104",
+        "prerequisite": [
+            "or",
+            "MUS 101",
+            "MUS 104"
+        ]
+    },
+    {
+        "courseid": "MUS 220",
+        "coursename": "Performance 3",
+        "description": "Further performance work, involving weekly individual lessons and performance classes. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 121\r\nRestriction: MUSIC 220",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/220/1203",
+        "prerequisite_raw": "MUS 121",
+        "prerequisite": [
+            "and",
+            "MUS 121"
+        ],
+        "restriction_raw": "MUSIC 220",
+        "restriction": [
+            "and",
+            "MUSIC 220"
+        ]
+    },
+    {
+        "courseid": "MUS 221",
+        "coursename": "Performance 4",
+        "description": "Continuation of work undertaken in MUS 220. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 220",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/221/1203",
+        "prerequisite_raw": "MUS 220",
+        "prerequisite": [
+            "and",
+            "MUS 220"
+        ]
+    },
+    {
+        "courseid": "MUS 224",
+        "coursename": "Exploring Historical Performance",
+        "description": "Academic study of the resources, instruments, techniques, and stylistic conventions relevant to the performance of music from Renaissance to modern times, with an emphasis on works of the eighteenth and nineteenth centuries. Students consider the role that an awareness of historical factors can play in contemporary performance, and gain understanding of some of the key debates surrounding historically informed performance.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 101 and 140, or 104 and 143",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/224/1203",
+        "prerequisite_raw": "MUS 101 and 140, or 104 and 143",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "MUS 101",
+                "MUS 140"
+            ],
+            [
+                "and",
+                "MUS 104",
+                "MUS 143"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 230",
+        "coursename": "Music Production 1",
+        "description": "A study of the theoretical and practical knowledge and skills required to engage in music production through everyday technologies. An emphasis on production in the home/project studio environment, and for developing producers and songwriters. Topics include: microphone types, patterns and configurations; simple vocal and instrumental recording; synthesis; production techniques; and mixing using modern DAWs.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 119 or 130\nRestriction: MUS 219",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/230/1203",
+        "prerequisite_raw": "MUS 119 or 130",
+        "prerequisite": [
+            "or",
+            "MUS 119",
+            "MUS 130"
+        ],
+        "restriction_raw": "MUS 219",
+        "restriction": [
+            "and",
+            "MUS 219"
+        ]
+    },
+    {
+        "courseid": "MUS 243",
+        "coursename": "Music in Society",
+        "description": "The study of music in society using a wide-angled lens to explore how it can be intertwined with issues of politics, gender, religion, race, psychology, memory and space. Examples will take in a variety of musical phenomena from diverse genres (pop, jazz, classical, modern, opera, etc.)",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 143",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/243/1203",
+        "prerequisite_raw": "MUS 143",
+        "prerequisite": [
+            "and",
+            "MUS 143"
+        ]
+    },
+    {
+        "courseid": "MUS 247",
+        "coursename": "Genre and Convention in Instrumental Music",
+        "description": "Explores the complexities of musical style, historicism and aesthetics as related to one or more instrumental genres (such as the symphony, the string-quartet or piano prelude) and related conventions. Close readings of paradigmatic works will be essential.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 140 or 143 or 145 or 176\nRestriction: MUS 347",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/247/1203",
+        "prerequisite_raw": "MUS 140 or 143 or 145 or 176",
+        "prerequisite": [
+            "or",
+            "MUS 140",
+            "MUS 143",
+            "MUS 145",
+            "MUS 176"
+        ],
+        "restriction_raw": "MUS 347",
+        "restriction": [
+            "and",
+            "MUS 347"
+        ]
+    },
+    {
+        "courseid": "MUS 258",
+        "coursename": "Special Topic: Music Computing",
+        "description": "An introduction to the study and use of computers to perform, compose, notate, and analyse music. Topics include: creation of computer-generated music (sound design, algorithmic music, machine learning, generative art), creation of new technologies for music performance (e.g., musical interfaces and installations, mobile apps), computational musicology, study of software for notation and education.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points at Stage I in Music or Departmental Approval",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/258/1203",
+        "prerequisite_raw": "30 points at Stage I in Music or Departmental Approval",
+        "prerequisite": [
+            "30:Stage I",
+            "Music",
+            "Departmental Approval"
+        ]
+    },
+    {
+        "courseid": "MUS 262",
+        "coursename": "Music Psychology and Development",
+        "description": "An initial exploration of music psychology research including music therapy research, neuroscience, neuropsychology and music psychology. Examines the development of musical skills through life with an emphasis on community and pedagogical applications.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points passed in Music",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/262/1203",
+        "prerequisite_raw": "30 points passed in Music",
+        "prerequisite": [
+            "30"
+        ]
+    },
+    {
+        "courseid": "MUS 270",
+        "coursename": "Jazz Performance 3",
+        "description": "The development of instrumental technique and improvisational skills though in-depth study of scales, rhythm, harmony and relevant musical analysis. This course prepares students who major in Jazz Performance and includes 1:1 tuition and group based improvisation classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 171",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/270/1203",
+        "prerequisite_raw": "MUS 171",
+        "prerequisite": [
+            "and",
+            "MUS 171"
+        ]
+    },
+    {
+        "courseid": "MUS 274",
+        "coursename": "Jazz Theory and Musicianship 2",
+        "description": "An exploration of more advanced jazz theory and musicianship skills including aural and harmony. Coursework prepares students for the implementation of fundamental written theoretical skills. This course also includes a keyboard tutorial.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 174",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/274/1203",
+        "prerequisite_raw": "MUS 174",
+        "prerequisite": [
+            "and",
+            "MUS 174"
+        ]
+    },
+    {
+        "courseid": "MUS 277",
+        "coursename": "Jazz Project 2",
+        "description": "Participation and development of pertinent skills towards the completion of a collaborative jazz music project.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/277/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "MUS 280",
+        "coursename": "Creative Practice in Popular Music 3",
+        "description": "Specific exploration and the continued development of ideas and processes in the creation and presentation of popular music through workshops, seminars and group discussion. Students will write songs, complete arrangement exercises, use music recording and production techniques and present aspects of their coursework in live performance.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 181 and 182 or 196",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/280/1203",
+        "prerequisite_raw": "MUS 181 and 182 or 196",
+        "prerequisite": [
+            "and",
+            "MUS 181",
+            [
+                "or",
+                "MUS 182",
+                "MUS 196"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 282",
+        "coursename": "Popular Music Vocal Performance",
+        "description": "The development of vocal technique and interpretative skills through the in-depth study of vocal production techniques pertinent to contemporary popular music vocal performance. The emphasis will be on the development of practices to enhance the performance of original songs written by the students, as well at times techniques necessary to successfully perform songs written by others. This course prepares students who major in Popular Music with 1:1 vocal tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 183 or 196",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/282/1203",
+        "prerequisite_raw": "MUS 183 or 196",
+        "prerequisite": [
+            "or",
+            "MUS 183",
+            "MUS 196"
+        ]
+    },
+    {
+        "courseid": "MUS 283",
+        "coursename": "Popular Music Instrumental Performance Skills 3",
+        "description": "Continuation of the work undertaken in MUS 183.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 183 or JAZZ 231\nRestriction: JAZZ 232",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/283/1203",
+        "prerequisite_raw": "MUS 183 or JAZZ 231",
+        "prerequisite": [
+            "or",
+            "MUS 183",
+            "JAZZ 231"
+        ],
+        "restriction_raw": "JAZZ 232",
+        "restriction": [
+            "and",
+            "JAZZ 232"
+        ]
+    },
+    {
+        "courseid": "MUS 284",
+        "coursename": "Popular Music Theory and Musicianship 1",
+        "description": "Training in practical musicianship and contemporary music writing skills pertinent to a popular music practitioner. Continued development of aural recognition skills with an emphasis on transcription and sight singing skills.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 104 or 185",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/284/1203",
+        "prerequisite_raw": "MUS 104 or 185",
+        "prerequisite": [
+            "or",
+            "MUS 104",
+            "MUS 185"
+        ]
+    },
+    {
+        "courseid": "MUS 290A",
+        "coursename": "Auxiliary Performance Study 2",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 190 or an audition and Departmental approval.\nTo complete this course students must enrol in MUS 290 A and B, or MUS 290",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/290A/1203",
+        "prerequisite_raw": "MUS 190 or an audition and Departmental approval.",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "MUS 190",
+                "an audition"
+            ],
+            "Departmental approval."
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 290 A and B, or MUS 290",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 290A",
+                    "MUS 290B"
+                ],
+                "MUS 290"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 291A",
+        "coursename": "Classical Ensembles 2",
+        "description": "The development of performance skills through ensemble work including chamber music, string orchestra, wind orchestra, flute choir, contemporary ensembles and other combinations.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 291 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/291A/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 291 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 291 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 292A",
+        "coursename": "Performance Skills for Instrumentalists 2",
+        "description": "The development of a range of instrumental performance skills beyond those gained in the instrumental studio including collaborative piano, repertoire studies, ensemble techniques, basic pedagogy, keyboard skills, accompanying and other applications.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 292 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/292A/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 292 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 292 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 293A",
+        "coursename": "Performance Skills for Singers 2",
+        "description": "The introduction of vocal practices that help voice students develop and sustain a professional vocal career. This course aims to give vocal students the knowledge and practical experience necessary to develop and maintain vocal health in diverse performing contexts.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 293 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/293A/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 293 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 293 A and B"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 201",
+        "coursename": "Urban Policy Analysis",
+        "description": "The application of critical quantitative and qualitative research skills and methods for urban planning.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 101-105, or 30 points passed in Global Environment and Sustainable Development",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/201/1203",
+        "prerequisite_raw": "URBPLAN 101-105, or 30 points passed in Global Environment and Sustainable Development",
+        "prerequisite": [
+            "or",
+            "URBPLAN 101-105",
+            "30"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 202",
+        "coursename": "Urban Planning Implementation and Law",
+        "description": "A critical understanding of the concepts and principles of relevance to urban planning legislation, practice and decision-making.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 101-105",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/202/1203",
+        "prerequisite_raw": "URBPLAN 101-105",
+        "prerequisite": [
+            "URBPLAN 101-105"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 203",
+        "coursename": "Urban Infrastructure",
+        "description": "A critical analysis of infrastructure provision, modelling, and assets management provision.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 101-105, or GEOG 101, 102, 140 or GISCI 140, and URBPLAN 103",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/203/1203",
+        "prerequisite_raw": "URBPLAN 101-105, or GEOG 101, 102, 140 or GISCI 140, and URBPLAN 103",
+        "prerequisite": [
+            "or",
+            "URBPLAN 101-105",
+            [
+                "and",
+                [
+                    "or",
+                    "GEOG 101",
+                    "GEOG 102",
+                    "GEOG 140",
+                    "GISCI 140"
+                ],
+                "URBPLAN 103"
+            ]
+        ]
+    },
+    {
+        "courseid": "URBPLAN 210",
+        "coursename": "Urban Planning Studio Three",
+        "description": "Research and design techniques and skills for evaluating urban design outcomes against urban design criteria at the neighbourhood scale.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 110, 111",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/210/1203",
+        "prerequisite_raw": "URBPLAN 110, 111",
+        "prerequisite": [
+            "and",
+            "URBPLAN 110",
+            "URBPLAN 111"
+        ]
+    },
+    {
+        "courseid": "ARCHDRC 203",
+        "coursename": "Architectural Media 3",
+        "description": "Explores the relationship between methods of architectural drawing and the three-dimensional communication of fabrication and assemblage. Central to this investigation is an understanding of how drawing is evolving in relation to new technologies.",
+        "subject": "Architectural Media",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHDRC 102 or 103\nRestriction: ARCHDRC 301, 303, 304, 370, 371, 372, 373",
+        "url": "",
+        "prerequisite_raw": "ARCHDRC 102 or 103",
+        "prerequisite": [
+            "or",
+            "ARCHDRC 102",
+            "ARCHDRC 103"
+        ],
+        "restriction_raw": "ARCHDRC 301, 303, 304, 370, 371, 372, 373",
+        "restriction": [
+            "and",
+            "ARCHDRC 301",
+            "ARCHDRC 303",
+            "ARCHDRC 304",
+            "ARCHDRC 370",
+            "ARCHDRC 371",
+            "ARCHDRC 372",
+            "ARCHDRC 373"
+        ]
+    },
+    {
+        "courseid": "MUS 297A",
+        "coursename": "Jazz Ensembles 2",
+        "description": "The application of instrumental and improvisational techniques through performance practice. This course develops stylistic, interpretive and literary musical skills through a variety of large and small ensembles. Students are placed by audition into a small group combo and a large group.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 197 or Departmental approval\nTo complete this course students must enrol in MUS 297 A and B",
+        "url": "",
+        "prerequisite_raw": "MUS 197 or Departmental approval",
+        "prerequisite": [
+            "or",
+            "MUS 197",
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 297 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 297 A and B"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 300",
+        "coursename": "Design 5",
+        "description": "The Experimental: Students will be exposed to experimental approaches to architectural design that seek to expand the field of architecture. Highlights the role and agency of media in explorative architectural pursuits.",
+        "subject": "Architectural Design",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHDES 200",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/300/1203",
+        "prerequisite_raw": "ARCHDES 200",
+        "prerequisite": [
+            "and",
+            "ARCHDES 200"
+        ]
+    },
+    {
+        "courseid": "ARCHHTC 339",
+        "coursename": "Premodern Architecture and Urbanism",
+        "description": "Through case studies from architecture's origins to the end of the eighteenth century, this course examines a broad range of cultural landscapes, rural and urban ensembles, architecture and its interiors, ornamental and iconographic programmes, and architectural texts. Distinctions between the conceptual preoccupations, spatial and structural ideas and their use will be drawn for a wide variety of cultural and building traditions.",
+        "subject": "Architectural History, Theory",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHHTC 235 and 236, or 202 and 230",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHHTC/339/1203",
+        "prerequisite_raw": "ARCHHTC 235 and 236, or 202 and 230",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "ARCHHTC 235",
+                "ARCHHTC 236"
+            ],
+            [
+                "and",
+                "ARCHHTC 202",
+                "ARCHHTC 230"
+            ]
+        ]
+    },
+    {
+        "courseid": "ARCHHTC 341",
+        "coursename": "Worlds of Architecture",
+        "description": "Examines topics in pre-modern architectural and urban history and theory across the continents of Eurasia, Africa, the Americas, Australia and Oceania.",
+        "subject": "Architectural History, Theory",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHHTC 235 and 236, or 237\nRestriction: ARCHHTC 339, 340",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHHTC/341/1203",
+        "prerequisite_raw": "ARCHHTC 235 and 236, or 237",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "ARCHHTC 235",
+                "ARCHHTC 236"
+            ],
+            "ARCHHTC 237"
+        ],
+        "restriction_raw": "ARCHHTC 339, 340",
+        "restriction": [
+            "and",
+            "ARCHHTC 339",
+            "ARCHHTC 340"
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 312",
+        "coursename": "Design Technology III",
+        "description": "Development of construction and structural principles for complex, large scale and multi-storey buildings. Investigation into advanced structural systems, fa\u00e7ade technology, material selection and detailing. Introduction of factors affecting buildability and environmental performance. Fire protection and building code requirements. Application to design studio projects.",
+        "subject": "Architectural Technology",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 207\r\nRestriction: ARCHTECH 311, 475",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/312/1203",
+        "prerequisite_raw": "ARCHTECH 207",
+        "prerequisite": [
+            "and",
+            "ARCHTECH 207"
+        ],
+        "restriction_raw": "ARCHTECH 311, 475",
+        "restriction": [
+            "and",
+            "ARCHTECH 311",
+            "ARCHTECH 475"
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 315",
+        "coursename": "Design Technology 2",
+        "description": "Development of construction and structural principles for complex, large-scale and multi-storey buildings. Investigation of fa\u00e7ade technology, material selection and detailing, as applied in practice. Development of factors affecting buildability, fire protection and building code requirements. Application to design studio projects through drawing and prototyping.",
+        "subject": "Architectural Technology",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 207\nRestriction: ARCHTECH 312",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/315/1203",
+        "prerequisite_raw": "ARCHTECH 207",
+        "prerequisite": [
+            "and",
+            "ARCHTECH 207"
+        ],
+        "restriction_raw": "ARCHTECH 312",
+        "restriction": [
+            "and",
+            "ARCHTECH 312"
+        ]
+    },
+    {
+        "courseid": "DANCE 314",
+        "coursename": "Dance and Technology",
+        "description": "Project based study of the interaction between technology and dance. Including hands-on practice with video, digital photography and the study of dance for film.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage II in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/314/1203",
+        "prerequisite_raw": "Any 30 points at Stage II in Dance Studies",
+        "prerequisite": [
+            "30:Stage II",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "DANCE 320",
+        "coursename": "Dance Vocabulary III",
+        "description": "Refining and deepening dance practices and pedagogy strategies specific to contemporary dance. Choreographic research methods are introduced with emphasis upon articulating key questions and processes for problem solving.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage II in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/320/1203",
+        "prerequisite_raw": "Any 30 points at Stage II in Dance Studies",
+        "prerequisite": [
+            "30:Stage II",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "DANCE 322",
+        "coursename": "Professional Practices",
+        "description": "Developing skills and knowledge in planning and managing for careers in the diverse dance professions. Students will develop arts management and financial business skills, such as learning to write grant applications, CVs and personal plans that relate to employment and funding issues.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 222",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/322/1203",
+        "prerequisite_raw": "DANCE 222",
+        "prerequisite": [
+            "and",
+            "DANCE 222"
+        ]
+    },
+    {
+        "courseid": "DANCE 350",
+        "coursename": "Special Topic: Pedagogies and Practices: M\u0101ori and Pacific Islander Perspectives",
+        "description": "",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage II in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/350/1203",
+        "prerequisite_raw": "Any 30 points at Stage II in Dance Studies",
+        "prerequisite": [
+            "30:Stage II",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 305",
+        "coursename": "Critical Practices",
+        "description": "Presents selected forms of contemporary art practices and their related concepts. Considers these practices to enable a critical understanding of a broad range of contemporary art production and its relevance to students' own emerging practice. Provides a critical introduction to a range of artists' writing. Complements FINEARTS 308 and 309 by critically exploring the value of certain frameworks, including: philosophy, theory, art history, writing, tikanga M\u0101ori and the socio-cultural for a self-directed practice.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 204\r\nCorequisite: FINEARTS 302 or 303 or 308 or 309 or 310 or 311",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/305/1203",
+        "prerequisite_raw": "FINEARTS 204",
+        "prerequisite": [
+            "and",
+            "FINEARTS 204"
+        ],
+        "corequisite_raw": "FINEARTS 302 or 303 or 308 or 309 or 310 or 311",
+        "corequisite": [
+            "or",
+            "FINEARTS 302",
+            "FINEARTS 303",
+            "FINEARTS 308",
+            "FINEARTS 309",
+            "FINEARTS 310",
+            "FINEARTS 311"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 308",
+        "coursename": "Studio Practice 3",
+        "description": "Builds upon the conceptual, material, technical and contextual work undertaken in Studio Practice 2. Students will explore and develop a range of methodologies that will enable them to understand the principle of a self-directed practice. Students are required to pursue open-ended exploration and critical analysis within their studio work, with an emphasis on experimentation and reflexivity. Consists of a range of supervised briefs embracing media specific, interdisciplinary, M\u0101ori, local and global approaches to creating art works. Students will also engage in focused contextual study in an area relevant to their interests.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 204, 207, 208\r\nRestriction: FINEARTS 302, 304",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/308/1203",
+        "prerequisite_raw": "FINEARTS 204, 207, 208",
+        "prerequisite": [
+            "and",
+            "FINEARTS 204",
+            "FINEARTS 207",
+            "FINEARTS 208"
+        ],
+        "restriction_raw": "FINEARTS 302, 304",
+        "restriction": [
+            "and",
+            "FINEARTS 302",
+            "FINEARTS 304"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 310",
+        "coursename": "Studio Practice 3",
+        "description": "Builds upon the conceptual, material, technical and contextual work undertaken in Studio Practice 2. Students will explore and develop a range of methodologies that will enable them to understand the principle of a self-directed practice. Students are required to pursue open-ended exploration and critical analysis within their studio work, with an emphasis on experimentation and reflexivity. Consists of a range of supervised briefs embracing media specific, interdisciplinary, M\u0101ori, local and global approaches to creating art works.",
+        "subject": "Fine Arts",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 204, 207, 208\r\nRestriction: FINEARTS 302, 304, 308",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/310/1203",
+        "prerequisite_raw": "FINEARTS 204, 207, 208",
+        "prerequisite": [
+            "and",
+            "FINEARTS 204",
+            "FINEARTS 207",
+            "FINEARTS 208"
+        ],
+        "restriction_raw": "FINEARTS 302, 304, 308",
+        "restriction": [
+            "and",
+            "FINEARTS 302",
+            "FINEARTS 304",
+            "FINEARTS 308"
+        ]
+    },
+    {
+        "courseid": "MUS 306",
+        "coursename": "Conducting 3",
+        "description": "Opportunities to conduct a variety of ensemble situations including instrumental, choral/vocal, keyboard and voice, large choral ensemble, recitative and aria, and instrumental ensemble. A keyboard component develops skills needed for score preparation and rehearsals.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 207",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/306/1203",
+        "prerequisite_raw": "MUS 207",
+        "prerequisite": [
+            "and",
+            "MUS 207"
+        ]
+    },
+    {
+        "courseid": "MUS 310",
+        "coursename": "Composition 5",
+        "description": "Facilitation of the creative process in individual student composers. Key concepts and techniques in instrumental/vocal composition and sonic arts will be developed and refined through the completion of projects as negotiated with supervisors. Each project will incorporate relevant technical exercises together with a study of influential composers and their methods. The end-of-semester portfolio may include works for solo instrument, voice, small and large ensemble, and sonic arts genres including multichannel acousmatic music and performance-based sonic art.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/310/1203",
+        "prerequisite_raw": "MUS 211",
+        "prerequisite": [
+            "and",
+            "MUS 211"
+        ]
+    },
+    {
+        "courseid": "MUS 320",
+        "coursename": "Performance 5",
+        "description": "Further performance work, involving weekly individual lessons and performance classes. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 221",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/320/1203",
+        "prerequisite_raw": "MUS 221",
+        "prerequisite": [
+            "and",
+            "MUS 221"
+        ]
+    },
+    {
+        "courseid": "MUS 321",
+        "coursename": "Performance 6",
+        "description": "Continuation of work undertaken in MUS 320.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 320",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/321/1203",
+        "prerequisite_raw": "MUS 320",
+        "prerequisite": [
+            "and",
+            "MUS 320"
+        ]
+    },
+    {
+        "courseid": "MUS 322",
+        "coursename": "Performance Skills 4",
+        "description": "Further development of a wide range of performance skills beyond those gained in the instrumental/vocal studio, including ensemble techniques, conducting, languages for singers, pedagogy, orchestral audition skills, second instrument study, musicians' health.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 223",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/322/1203",
+        "prerequisite_raw": "MUS 223",
+        "prerequisite": [
+            "and",
+            "MUS 223"
+        ]
+    },
+    {
+        "courseid": "MUS 323",
+        "coursename": "Performance Skills 5",
+        "description": "Further development of a wide range of performance skills beyond those gained in the instrumental/vocal studio, including ensemble techniques, conducting, languages for singers, pedagogy, orchestral audition skills, second instrument study, musicians' health.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 322",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/323/1203",
+        "prerequisite_raw": "MUS 322",
+        "prerequisite": [
+            "and",
+            "MUS 322"
+        ]
+    },
+    {
+        "courseid": "MUS 330",
+        "coursename": "Music Production 3",
+        "description": "Instruction in the use of the School of Music's professional-level multichannel recording studios supported by practical exercises in popular music production. Topics include: vocal, guitar, and drum recording; synthesis; industry-standard production techniques; and mastering. Coursework will require coordination with performers both within and outside the class.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 219 or 231\nRestriction: MUS 318",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/330/1203",
+        "prerequisite_raw": "MUS 219 or 231",
+        "prerequisite": [
+            "or",
+            "MUS 219",
+            "MUS 231"
+        ],
+        "restriction_raw": "MUS 318",
+        "restriction": [
+            "and",
+            "MUS 318"
+        ]
+    },
+    {
+        "courseid": "MUS 347",
+        "coursename": "Genre and Convention in Instrumental Music",
+        "description": "Explores the complexities of musical style, historicism and aesthetics as related to one or more instrumental genres (such as the symphony, the string-quartet or piano prelude) and related conventions. Close readings of paradigmatic works will be essential.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 140 or 143 or 145, and 30 points from Stage II in Music\nRestriction: MUS 247",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/347/1203",
+        "prerequisite_raw": "MUS 140 or 143 or 145, and 30 points from Stage II in Music",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "MUS 140",
+                "MUS 143",
+                "MUS 145"
+            ],
+            "30"
+        ],
+        "restriction_raw": "MUS 247",
+        "restriction": [
+            "and",
+            "MUS 247"
+        ]
+    },
+    {
+        "courseid": "MUS 362",
+        "coursename": "Pedagogical Approaches for the School and Studio",
+        "description": "An investigation into practical knowledge about music teaching and learning drawing from teacher experiences, pedagogical research, established music education methods, studio pedagogy and music classroom contexts. Students explore a range of music teaching scenarios and focus on specific areas of professional interest. This is a key preparatory course for postgraduate pedagogical study in studio pedagogy or school music teaching.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points at Stage II in Music",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/362/1203",
+        "prerequisite_raw": "30 points at Stage II in Music",
+        "prerequisite": [
+            "30:Stage II",
+            "Music"
+        ]
+    },
+    {
+        "courseid": "MUS 370",
+        "coursename": "Jazz Performance 5",
+        "description": "The development of advanced instrumental technique and improvisational skills though in-depth study of scales, rhythm, harmony and relevant musical analysis. This course prepares students who major in Jazz Performance and includes 1:1 tuition and group based improvisation classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 271",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/370/1203",
+        "prerequisite_raw": "MUS 271",
+        "prerequisite": [
+            "and",
+            "MUS 271"
+        ]
+    },
+    {
+        "courseid": "MUS 372",
+        "coursename": "Jazz Ensembles 5",
+        "description": "The application of instrumental and improvisational techniques through performance practice. This course develops stylistic, interpretive and literary musical skills through a variety of large and small ensembles. Students are placed by audition into a small group combo and a large group.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 273",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/372/1203",
+        "prerequisite_raw": "MUS 273",
+        "prerequisite": [
+            "and",
+            "MUS 273"
+        ]
+    },
+    {
+        "courseid": "MUS 375",
+        "coursename": "Jazz Composition and Arranging 2",
+        "description": "Composition and arranging in the jazz idiom exploring small ensemble and big band contexts. Scoring, voicing concepts and sectional writing that assist students in the development of a portfolio of work.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 275",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/375/1203",
+        "prerequisite_raw": "MUS 275",
+        "prerequisite": [
+            "and",
+            "MUS 275"
+        ]
+    },
+    {
+        "courseid": "MUS 377",
+        "coursename": "Jazz Project",
+        "description": "Participation and development of pertinent skills towards the completion of a collaborative jazz music project.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/377/1203",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "MUS 380",
+        "coursename": "Creative Practice in Popular Music 5",
+        "description": "More advanced exploration and the continued development of ideas and processes in the creation and presentation of popular music through workshops, seminars and group discussion. Students will write songs, compose music, use music recording and production techniques and present aspects of their coursework in live performance.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 281",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/380/1203",
+        "prerequisite_raw": "MUS 281",
+        "prerequisite": [
+            "and",
+            "MUS 281"
+        ]
+    },
+    {
+        "courseid": "MUS 382",
+        "coursename": "Popular Music Performance Project",
+        "description": "More advanced development of instrumental technique and interpretative skills through the in-depth study of scales, rhythm, harmony and the relevant musical analyses of set works. Students will arrange and compose for their instrument employing music recording and production techniques. In addition, students will develop skills in improvisation, transcription and sight reading. This course prepares students who major in Popular Music with 1:1 instrumental tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 282",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/382/1203",
+        "prerequisite_raw": "MUS 282",
+        "prerequisite": [
+            "and",
+            "MUS 282"
+        ]
+    },
+    {
+        "courseid": "MUS 387",
+        "coursename": "The Beatles and Bob Dylan",
+        "description": "An investigation of the music, attitudes and public personae of Bob Dylan and the Beatles and how it changed and challenged the musical and socio-political cultures of the United States of America and Britain \u2013 and by extension the world. The music is studied alongside other contextual developments in the 1960s including the rise of the Civil Rights Movement and the counterculture, the power of youth as a driving commercial and artistic force, and the rapid emergence of musicians as spokespeople for a generation.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points at Stage II in Music or Transnational Cultures and Creative Practice, or 15 points from ANTHRO 202, 217, 225, or 234",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/387/1203",
+        "prerequisite_raw": "30 points at Stage II in Music or Transnational Cultures and Creative Practice, or 15 points from ANTHRO 202, 217, 225, or 234",
+        "prerequisite": [
+            "or",
+            [
+                "30:Stage II",
+                "Music",
+                "Transnational Cultures and Creative Practice"
+            ],
+            [
+                "15",
+                "ANTHRO 202",
+                "ANTHRO 217",
+                "ANTHRO 225"
+            ],
+            [
+                "and",
+                "ANTHRO 234"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 390",
+        "coursename": "Auxiliary Performance Study 3",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 290 and audition and Departmental approval\nTo complete this course students must enrol in MUS 390 A and B, or MUS 390",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/390/1203",
+        "prerequisite_raw": "MUS 290 and audition and Departmental approval",
+        "prerequisite": [
+            "and",
+            "MUS 290",
+            "audition",
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 390 A and B, or MUS 390",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 390A",
+                    "MUS 390B"
+                ],
+                "MUS 390"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 390A",
+        "coursename": "Auxiliary Performance Study 3",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 290 and audition and Departmental approval\nTo complete this course students must enrol in MUS 390 A and B, or MUS 390",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/390A/1203",
+        "prerequisite_raw": "MUS 290 and audition and Departmental approval",
+        "prerequisite": [
+            "and",
+            "MUS 290",
+            "audition",
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 390 A and B, or MUS 390",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 390A",
+                    "MUS 390B"
+                ],
+                "MUS 390"
+            ]
+        ]
+    },
+    {
+        "courseid": "URBPLAN 301",
+        "coursename": "Urban Economic Development",
+        "description": "An evaluation of theories, policies and practices of community and economic development relevant for urban planning.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 201-205, or 30 points at Stage II in Global Environment and Sustainable Development",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/301/1203",
+        "prerequisite_raw": "URBPLAN 201-205, or 30 points at Stage II in Global Environment and Sustainable Development",
+        "prerequisite": [
+            "or",
+            "URBPLAN 201-205",
+            [
+                "30:Stage II",
+                "Global Environment and Sustainable Development"
+            ]
+        ]
+    },
+    {
+        "courseid": "URBPLAN 303",
+        "coursename": "Ecology and Resilience",
+        "description": "A critical analysis of the ecological view towards the concepts of resilience; social-ecological systems models, considering wicked problems and the impacts of climate change.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 201-205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/303/1203",
+        "prerequisite_raw": "URBPLAN 201-205",
+        "prerequisite": [
+            "URBPLAN 201-205"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 310",
+        "coursename": "Urban Planning Studio Five",
+        "description": "To develop a critical understanding of regional planning practices, and develop advanced research and designs skills in proposing more sustainable urban form.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 210, 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/310/1203",
+        "prerequisite_raw": "URBPLAN 210, 211",
+        "prerequisite": [
+            "and",
+            "URBPLAN 210",
+            "URBPLAN 211"
+        ]
+    },
+    {
+        "courseid": "MUS 383",
+        "coursename": "Popular Music Recording and Production",
+        "description": "A project-based course for Popular Music majors that involves students recording and producing their own work using performance, arranging and technology skills. Students also learn how to plan and manage their own recording and production project.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 380\r\nRestriction: JAZZ 332",
+        "url": "",
+        "prerequisite_raw": "MUS 380",
+        "prerequisite": [
+            "and",
+            "MUS 380"
+        ],
+        "restriction_raw": "JAZZ 332",
+        "restriction": [
+            "and",
+            "JAZZ 332"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 305",
+        "coursename": "M\u0101ori Urban Planning Issues",
+        "description": "M\u0101ori attitudes, values and aspirations in urban planning with an understanding of the Treaty of Waitangi; post Treaty settlements.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 201-205",
+        "url": "",
+        "prerequisite_raw": "URBPLAN 201-205",
+        "prerequisite": [
+            "URBPLAN 201-205"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 103",
+        "coursename": "Design 2",
+        "description": "The Formal: An introduction, in studio format, to the discipline of architectural organisation and form-making. Re-examines the traditional notions of typology, precedent, geometry, parti and diagrams. Emphasises strategies that build on and transform understanding for organising form given contemporary programmes and modes of representation.",
+        "subject": "Architectural Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: ARCHDES 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/103/1205",
+        "restriction_raw": "ARCHDES 101",
+        "restriction": [
+            "and",
+            "ARCHDES 101"
+        ]
+    },
+    {
+        "courseid": "ARCHDRC 104",
+        "coursename": "Architectural Media 2",
+        "description": "Examines specific types of representation \u2013 both freehand and digital \u2013 used in architectural media to develop concepts, evaluate architectural thinking and describe and refine design projects.",
+        "subject": "Architectural Media",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: ARCHDRC 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDRC/104/1205",
+        "restriction_raw": "ARCHDRC 202",
+        "restriction": [
+            "and",
+            "ARCHDRC 202"
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 108",
+        "coursename": "Introduction to Sustainability and Technology",
+        "description": "Human-induced climate change: sustainability and resilience. Vernacular architecture. Principles of climate-sensitive design. Principles of environmental impact. The future of New Zealand cities. Resources, materials, properties and environmental impact. Introduction to construction principles and structural concepts including building elements, systems and foundation options. Properties of commonly used construction materials and appropriate ways of applying the principles to design studio projects.",
+        "subject": "Architectural Technology",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: ARCHTECH 106, 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/108/1205",
+        "restriction_raw": "ARCHTECH 106, 107",
+        "restriction": [
+            "and",
+            "ARCHTECH 106",
+            "ARCHTECH 107"
+        ]
+    },
+    {
+        "courseid": "DANCE 101",
+        "coursename": "Introduction to Dance and Creative Processes",
+        "description": "To develop an understanding of our moving bodies through movement awareness, dance improvisation, choreography and creative and analytic writing. Students will undertake both theoretical and practical classes focusing on a range of practices that dancers and movement practitioners use to facilitate kinaesthetic awareness, experimentation, communication and choreography. Students will explore somatic theory and practice, improvisation scores, choreography and dance analysis. DANCE 101 not available for BDanceSt.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/101/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 107",
+        "coursename": "Dance History and Contexts",
+        "description": "Study of the historical development in western theatre dance from the nineteenth century to the beginning of the twentieth century.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/107/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 110",
+        "coursename": "Contemporary Dance and Choreography 1",
+        "description": "A study of contemporary dance practices through the choreography, creative facilitation and techniques of contemporary dance makers. For BDanceSt students only.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/110/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 112",
+        "coursename": "Dance Kinesiology",
+        "description": "Introduction to physiological and kinesiological analysis of dance movements. The study of skeletal alignment, muscular balance and mechanical efficiency.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/112/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 121",
+        "coursename": "Dance Technique",
+        "description": "Continuation of work undertaken in DANCE 120 with exploration of skills, repertoire, and merging dance styles.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 120",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/121/1205",
+        "prerequisite_raw": "DANCE 120",
+        "prerequisite": [
+            "and",
+            "DANCE 120"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 102",
+        "coursename": "Studio 1.2",
+        "description": "An extension of projects from FINEARTS 101 Studio 1.1. Students will be encouraged to develop personal creative directions with a focus on experimentation and interdisciplinary art and design outcomes.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 101\nCorequisite: FINEARTS 103 or 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/102/1205",
+        "prerequisite_raw": "FINEARTS 101",
+        "prerequisite": [
+            "and",
+            "FINEARTS 101"
+        ],
+        "corequisite_raw": "FINEARTS 103 or 104",
+        "corequisite": [
+            "or",
+            "FINEARTS 103",
+            "FINEARTS 104"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 103",
+        "coursename": "Drawing and Related Practices",
+        "description": "An introduction to different approaches to drawing and its relationship with contemporary practices in art and design, including traditional approaches to drawing and drawing techniques. Students will also explore drawing as a conceptual process. Research which investigates drawings as both a technical and conceptual practice is encouraged.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Corequisite: FINEARTS 101 or 102",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/103/1205",
+        "corequisite_raw": "FINEARTS 101 or 102",
+        "corequisite": [
+            "or",
+            "FINEARTS 101",
+            "FINEARTS 102"
+        ]
+    },
+    {
+        "courseid": "MUS 104",
+        "coursename": "Music Literacies",
+        "description": "The development of music theory, aural skills and perception necessary to be an effective musician. The study of basic theory, harmony, analysis, aural perception and musicianship with exemplars from classical, jazz and popular music genres. Includes a choral performance component.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 100 or 103 or Departmental approval",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/104/1205",
+        "prerequisite_raw": "MUS 100 or 103 or Departmental approval",
+        "prerequisite": [
+            "or",
+            "MUS 100",
+            "MUS 103",
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "MUS 111",
+        "coursename": "Composition 2",
+        "description": "Foundational studies in music composition and sonic arts. Modular content includes: rhythm and form, timbre and texture, aesthetics and function, style and idea, material and manipulation, creative planning and processes and the composer in society. Students may complete Composition 1 and Composition 2 in any order.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/111/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 120",
+        "coursename": "Performance 1",
+        "description": "Individual lessons and performance classes on an approved instrument or voice. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\n.",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/120/1205",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "other_requirements_raw": ".",
+        "other_requirements": [
+            "."
+        ]
+    },
+    {
+        "courseid": "MUS 121",
+        "coursename": "Performance 2",
+        "description": "Continuation of work undertaken in MUS 120. (See course outline and instrumental/vocal syllabus for specific curriculum requirements.)",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 120",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/121/1205",
+        "prerequisite_raw": "MUS 120",
+        "prerequisite": [
+            "and",
+            "MUS 120"
+        ]
+    },
+    {
+        "courseid": "MUS 130",
+        "coursename": "Introduction to Music Production",
+        "description": "A survey of the production technology available to assist musicians, and an introduction to modern music production. Topics include: Modern DAW (Digital Audio Workstation) functionality, MIDI and audio recording/editing, synthesis, and multi-track mixing.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: MUS 119",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/130/1205",
+        "restriction_raw": "MUS 119",
+        "restriction": [
+            "and",
+            "MUS 119"
+        ]
+    },
+    {
+        "courseid": "MUS 145",
+        "coursename": "Western Music Across the Centuries",
+        "description": "A comprehensive overview of the enormously rich repertory of Western music, from the beginnings of a literate tradition, through the classical giants, to the present day.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/145/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 149",
+        "coursename": "Rock to Reggae: Tracking Popular Music in New Zealand",
+        "description": "An introduction to New Zealand\u2019s home-grown popular music, from the 1950s to the present day. A broad range of musical styles will be considered and situated within various social contexts. The issue of cultural identity in music \u2013 at national and local levels \u2013 will also be explored.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/149/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 162",
+        "coursename": "Introduction to Music Teaching and Learning",
+        "description": "A conceptual and practical introduction to music teaching and learning in its various forms and contexts. A survey of the field including studio pedagogy, music education methods, school music, community music, lesson planning, composition and improvisation pedagogy, and foundational knowledge of music teaching and learning.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: MUS 160",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/162/1205",
+        "restriction_raw": "MUS 160",
+        "restriction": [
+            "and",
+            "MUS 160"
+        ]
+    },
+    {
+        "courseid": "MUS 171",
+        "coursename": "Jazz Performance 2",
+        "description": "Continuation of the work undertaken in MUS 170.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 170 or JAZZ 101 and 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/171/1205",
+        "prerequisite_raw": "MUS 170 or JAZZ 101 and 107",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "MUS 170",
+                "JAZZ 101"
+            ],
+            "JAZZ 107"
+        ]
+    },
+    {
+        "courseid": "MUS 174",
+        "coursename": "Jazz Theory and Musicianship 1",
+        "description": "An introduction to jazz theory and musicianship skills including aural and harmony. Coursework prepares students for the implementation of fundamental written theoretical skills. This course also includes a keyboard tutorial.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Corequisite: MUS 104",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/174/1205",
+        "corequisite_raw": "MUS 104",
+        "corequisite": [
+            "and",
+            "MUS 104"
+        ]
+    },
+    {
+        "courseid": "MUS 181",
+        "coursename": "Creative Practice in Popular Music 2",
+        "description": "Continuation of work undertaken in MUS 180.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 180",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/181/1205",
+        "prerequisite_raw": "MUS 180",
+        "prerequisite": [
+            "and",
+            "MUS 180"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 104",
+        "coursename": "Introduction to Urban Planning Law and Governance",
+        "description": "An introduction to the key urban planning statutes and the land tenure system; New Zealand society and constitutional framework, including the Treaty of Waitangi, theories and values of democracy relevant for urban planning.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/104/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "URBPLAN 105",
+        "coursename": "Urban Environment Issues",
+        "description": "An introduction to ecological processes in an urban context.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/105/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "URBPLAN 111",
+        "coursename": "Urban Planning Studio Two",
+        "description": "An introduction to urban design principles and concepts, and the relationships between land use patterns and street networks.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/111/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 190",
+        "coursename": "Auxiliary Performance Study 1",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nTo complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "url": "",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 190A",
+                    "MUS 190B"
+                ],
+                "MUS 190"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 190B",
+        "coursename": "Auxiliary Performance Study 1",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nTo complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/190B/1205",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 190 A and B, or MUS 190",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 190A",
+                    "MUS 190B"
+                ],
+                "MUS 190"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 191B",
+        "coursename": "Classical Ensembles 1",
+        "description": "The development of performance skills through ensemble work including chamber music, string orchestra, wind orchestra, flute choir, contemporary ensembles and other combinations.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 191 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/191B/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 191 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 191 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 192B",
+        "coursename": "Performance Skills for Instrumentalists 1",
+        "description": "The development of a range of instrumental performance skills beyond those gained in the instrumental studio including collaborative piano, repertoire studies, ensemble techniques, basic pedagogy, keyboard skills, accompanying and other applications.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 192 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/192B/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 192 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 192 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 193B",
+        "coursename": "Performance Skills for Singers 1",
+        "description": "The introduction of vocal practices that help voice students develop and sustain a professional vocal career. This course aims to give vocal students the knowledge and practical experience necessary to develop and maintain vocal health in diverse performing contexts.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 193 A and B",
+        "url": "",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 193 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 193 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 196B",
+        "coursename": "Popular Music Instrumental Performance",
+        "description": "The development of instrumental technique and interpretative skills through the in-depth study of scales, rhythm, harmony and the relevant musical analyses of set works. In addition, students will develop skills in improvisation, transcription and sight-reading. This course prepares students who major in Popular Music with 1:1 instrumental tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Entrance is by audition. Departmental approval\nRestriction: MUS 182\nTo complete this course students must enrol in MUS 196 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/196B/1205",
+        "prerequisite_raw": "Entrance is by audition. Departmental approval",
+        "prerequisite": [
+            "Entrance is by audition. Departmental approval"
+        ],
+        "restriction_raw": "MUS 182",
+        "restriction": [
+            "and",
+            "MUS 182"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 196 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 196 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 197B",
+        "coursename": "Jazz Ensembles 1",
+        "description": "The application of instrumental and improvisational techniques through performance practice. This course develops stylistic, interpretive and literary musical skills through a variety of large and small ensembles. Students are placed by audition into a small group combo and a large group.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "To complete this course students must enrol in MUS 197 A and B",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in MUS 197 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 197 A and B"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 201",
+        "coursename": "Design 4",
+        "description": "The Constructed: An introduction to architectural practice as a complex and collaborative enterprise. Offers the opportunity to explore materials, construction, fabrication processes, and detailing, through making. Requires students to understand the full range of drawings required to move from design concept to actual construction.",
+        "subject": "Architectural Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHDES 101 or 103",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/201/1205",
+        "prerequisite_raw": "ARCHDES 101 or 103",
+        "prerequisite": [
+            "or",
+            "ARCHDES 101",
+            "ARCHDES 103"
+        ]
+    },
+    {
+        "courseid": "ARCHHTC 237",
+        "coursename": "Postmodern and Contemporary Architecture and Urbanism",
+        "description": "Examines architectural and urban history and theory from the postmodern to the recent and contemporary.",
+        "subject": "Architectural History, Theory",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHHTC 102\nRestriction: ARCHHTC 235, 236",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHHTC/237/1205",
+        "prerequisite_raw": "ARCHHTC 102",
+        "prerequisite": [
+            "and",
+            "ARCHHTC 102"
+        ],
+        "restriction_raw": "ARCHHTC 235, 236",
+        "restriction": [
+            "and",
+            "ARCHHTC 235",
+            "ARCHHTC 236"
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 208",
+        "coursename": "Environmental Design I",
+        "description": "Climate, energy and sustainability considerations in buildings. Solar analysis and design tools. Thermal performance, ventilation and condensation. Visual performance and visual comfort. Interaction of light with materials and daylight performance of buildings. Natural and artificial lighting design. Behaviour of sound and its control by materials and building systems. Measuring sound, and acceptability criteria. Requirements of the New Zealand Building Code.",
+        "subject": "Architectural Technology",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 102 and 103 or 106",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/208/1205",
+        "prerequisite_raw": "ARCHTECH 102 and 103 or 106",
+        "prerequisite": [
+            "and",
+            "ARCHTECH 102",
+            [
+                "or",
+                "ARCHTECH 103",
+                "ARCHTECH 106"
+            ]
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 210",
+        "coursename": "Environmental Design 1",
+        "description": "Climate, context and energy consideration in buildings. Heat transfer and energy balances. Thermal comfort through passive solar systems, materials and building services in small-scale and residential buildings. Integrating renewable energy sources in building design. Indoor air quality and natural ventilation. Air-tightness and moisture control. Daylight performance of buildings and visual comfort. Behaviour of sound and noise and their control for human comfort.",
+        "subject": "Architectural Technology",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 106 and 107, or 108\nRestriction: ARCHTECH 208",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/210/1205",
+        "prerequisite_raw": "ARCHTECH 106 and 107, or 108",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "ARCHTECH 106",
+                "ARCHTECH 107"
+            ],
+            "ARCHTECH 108"
+        ],
+        "restriction_raw": "ARCHTECH 208",
+        "restriction": [
+            "and",
+            "ARCHTECH 208"
+        ]
+    },
+    {
+        "courseid": "DANCE 200",
+        "coursename": "Dance and Culture",
+        "description": "Examines the interrelationship between dance and wider political and cultural movements through practical dance classes and theoretical investigations into diverse cultural environments around the world. Students physically and theoretically engage in the study of various dance forms such as Tango, Salsa, Dabkeh, traditional Chinese dance and Bharata Natyam.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/200/1205",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "DANCE 210",
+        "coursename": "Contemporary Dance and Choreography 2",
+        "description": "Study of contemporary choreography practice and theory. Students create choreography that may be shared through film and/or live performances.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 101 or 110",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/210/1205",
+        "prerequisite_raw": "DANCE 101 or 110",
+        "prerequisite": [
+            "or",
+            "DANCE 101",
+            "DANCE 110"
+        ]
+    },
+    {
+        "courseid": "DANCE 212",
+        "coursename": "New Zealand Dance Contexts and History",
+        "description": "Emphasis is on the socio-historical developments of dance in the twentieth century. Choreographers, dancers, designers and composers who have created, influenced and shaped dance in New Zealand will be studied via lectures, videos, scores, and reconstructions.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 107",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/212/1205",
+        "prerequisite_raw": "DANCE 107",
+        "prerequisite": [
+            "and",
+            "DANCE 107"
+        ]
+    },
+    {
+        "courseid": "DANCE 222",
+        "coursename": "Safe Dance Practices",
+        "description": "Establishing the theory and practice of safe dance practices within education, performance and health related contexts. Anatomy, kinesiology and dance conditioning methodologies will be studied in relation to dance practice.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 112",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/222/1205",
+        "prerequisite_raw": "DANCE 112",
+        "prerequisite": [
+            "and",
+            "DANCE 112"
+        ]
+    },
+    {
+        "courseid": "DANCE 250",
+        "coursename": "Special Topic: Technique: Ballroom and Commercial",
+        "description": "",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage I in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/250/1205",
+        "prerequisite_raw": "Any 30 points at Stage I in Dance Studies",
+        "prerequisite": [
+            "30:Stage I",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "DESIGN 230",
+        "coursename": "Design and Healthy Communities",
+        "description": "Students will investigate how selected design interventions contribute to the health and wellbeing of individuals and communities in a range of cultural and political contexts. Students will then present fair and feasible design strategies for challenging scenarios that involve both physical and digital technologies.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/230/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "DESIGN 231",
+        "coursename": "The Future of Work and Play",
+        "description": "Students will analyse how technological advances such as artificial intelligence and augmented reality impact the way we work and play now and in the future. Using gamification strategies, students will develop fictional scenarios in order to test a range of design concepts intended for future deployment.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/231/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "DESIGN 232",
+        "coursename": "Smart Homes and Cities",
+        "description": "Working in collaboration with a local civic or non-governmental agency, students will create a series of case studies and concept visualisations to demonstrate how future homes and cities may operate dynamically and sustainably through connected system of interfaces and services.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/232/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "DESIGN 233",
+        "coursename": "Design and the Natural Environment",
+        "description": "Contemporary designers and local organisations are challenged to develop both disruptive and responsible design approaches that have only positive impacts on the natural environment. Students will engage in case study research before designing candidate solutions and criteria for measuring the local and global impact of design interventions.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/233/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "DESIGN 240",
+        "coursename": "Designing with Data",
+        "description": "Students will experiment with tools to access, analyse, process, visualise and interact with a range of data sources. Students will produce provocative data-driven simulations that support decision making and promote a call-to-action related to a foreseeable local or global crisis.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/240/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "DESIGN 241",
+        "coursename": "Designing Mixed Realities",
+        "description": "What new materials, products and processes will be developed at the interface between the virtual and the physical? Students will work in interdisciplinary teams to experiment with technologies that will augment the human experience in responsive hybrid environments.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/241/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "DESIGN 243",
+        "coursename": "Design and Assistive Technologies",
+        "description": "Students will investigate current and past design work that has successfully improved or extended human movement, sensation or mental capacity for a range of individuals and communities using assistive technologies. Students will experiment with a range of physical and digital technologies to design a tangible assistive or rehabilitative device using speculative design methods.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DESIGN 100, 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/243/1205",
+        "prerequisite_raw": "DESIGN 100, 101",
+        "prerequisite": [
+            "and",
+            "DESIGN 100",
+            "DESIGN 101"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 204",
+        "coursename": "Critical Studies",
+        "description": "A practice-led perspective to consider the key contexts and concepts relevant to contemporary art introduced in FINEARTS 104. Examines selected theoretical and philosophical terms, their broader cultural contexts, and their relevance for art-practice. Complements FINEARTS 207 and 208, by exploring art's dynamic relationship to the range of contexts and knowledge discussed, and the ways in which these relationships inform art's production and reception.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 101, 102, 103, 104\nCorequisite: FINEARTS 201 or 202 or 207 or 208 or 209 or 212",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/204/1205",
+        "prerequisite_raw": "FINEARTS 101, 102, 103, 104",
+        "prerequisite": [
+            "and",
+            "FINEARTS 101",
+            "FINEARTS 102",
+            "FINEARTS 103",
+            "FINEARTS 104"
+        ],
+        "corequisite_raw": "FINEARTS 201 or 202 or 207 or 208 or 209 or 212",
+        "corequisite": [
+            "or",
+            "FINEARTS 201",
+            "FINEARTS 202",
+            "FINEARTS 207",
+            "FINEARTS 208",
+            "FINEARTS 209",
+            "FINEARTS 212"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 205",
+        "coursename": "Special Topic",
+        "description": "",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/205/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "FINEARTS 208",
+        "coursename": "Studio Practice 2",
+        "description": "Focuses on the conditions of reception relevant to students' work including ways meaning is created; how art works are read; and the significance of presentation strategies. Consists of a range of supervised briefs embracing media specific, interdisciplinary, M\u0101ori, local and global approaches to creating art works. Students will also engage in focused contextual study in an area relevant to their studio interests.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 207 or 209\r\nRestriction: FINEARTS 202, 206",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/208/1205",
+        "prerequisite_raw": "FINEARTS 207 or 209",
+        "prerequisite": [
+            "or",
+            "FINEARTS 207",
+            "FINEARTS 209"
+        ],
+        "restriction_raw": "FINEARTS 202, 206",
+        "restriction": [
+            "and",
+            "FINEARTS 202",
+            "FINEARTS 206"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 212",
+        "coursename": "Studio Practice 2",
+        "description": "Focuses on the conditions of reception relevant to students' work including ways meaning is created; how art works are read; and the significance of presentation strategies. Consists of a range of supervised briefs embracing media specific, interdisciplinary, M\u0101ori, local and global approaches to creating art works.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 207\r\nRestriction: FINEARTS 202, 206, 208",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/212/1205",
+        "prerequisite_raw": "FINEARTS 207",
+        "prerequisite": [
+            "and",
+            "FINEARTS 207"
+        ],
+        "restriction_raw": "FINEARTS 202, 206, 208",
+        "restriction": [
+            "and",
+            "FINEARTS 202",
+            "FINEARTS 206",
+            "FINEARTS 208"
+        ]
+    },
+    {
+        "courseid": "MUS 204",
+        "coursename": "Classical Theory and Musicianship 2",
+        "description": "Continuation of work in MUS 203 on music theory, aural skills and musicianship. Includes a choral component.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 203",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/204/1205",
+        "prerequisite_raw": "MUS 203",
+        "prerequisite": [
+            "and",
+            "MUS 203"
+        ]
+    },
+    {
+        "courseid": "MUS 206",
+        "coursename": "Conducting 1",
+        "description": "The study of conducting including listening to and writing about a wide variety of music from all historical periods. The practical component of this course concentrates on posture, patterns and gesture. Studies include examples from choral and orchestral repertoire.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 106",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/206/1205",
+        "prerequisite_raw": "MUS 106",
+        "prerequisite": [
+            "and",
+            "MUS 106"
+        ]
+    },
+    {
+        "courseid": "MUS 211",
+        "coursename": "Composition 4",
+        "description": "Continuation of work undertaken in MUS 210.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 210",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/211/1205",
+        "prerequisite_raw": "MUS 210",
+        "prerequisite": [
+            "and",
+            "MUS 210"
+        ]
+    },
+    {
+        "courseid": "MUS 220",
+        "coursename": "Performance 3",
+        "description": "Further performance work, involving weekly individual lessons and performance classes. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 121\r\nRestriction: MUSIC 220",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/220/1205",
+        "prerequisite_raw": "MUS 121",
+        "prerequisite": [
+            "and",
+            "MUS 121"
+        ],
+        "restriction_raw": "MUSIC 220",
+        "restriction": [
+            "and",
+            "MUSIC 220"
+        ]
+    },
+    {
+        "courseid": "MUS 221",
+        "coursename": "Performance 4",
+        "description": "Continuation of work undertaken in MUS 220. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 220",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/221/1205",
+        "prerequisite_raw": "MUS 220",
+        "prerequisite": [
+            "and",
+            "MUS 220"
+        ]
+    },
+    {
+        "courseid": "MUS 231",
+        "coursename": "Music Production 2",
+        "description": "A study of modern and classic studio recording and production techniques supported by practical studio-based exercises. Topics include: multi-channel recording and editing; band and ensemble recording; analog and digital production; synthesis; production techniques; mixing and mastering. Coordination with performers both within and outside the class is important.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 230\nRestriction: MUS 219",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/231/1205",
+        "prerequisite_raw": "MUS 230",
+        "prerequisite": [
+            "and",
+            "MUS 230"
+        ],
+        "restriction_raw": "MUS 219",
+        "restriction": [
+            "and",
+            "MUS 219"
+        ]
+    },
+    {
+        "courseid": "MUS 248",
+        "coursename": "Music on Stage and Screen",
+        "description": "Considers the role of music in one or more of the dramatic arts \u2013 opera, musical, ballet, modern dance, film \u2013 in any given historical period. Offers opportunity to study specific repertoire in some detail, as well as to investigate music\u2019s contribution to dramatic spectacle, characterisation, narrative and non-narrative structures.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 140 or 143 or 145 or 176 \nRestriction: MUS 242, 348",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/248/1205",
+        "prerequisite_raw": "MUS 140 or 143 or 145 or 176",
+        "prerequisite": [
+            "or",
+            "MUS 140",
+            "MUS 143",
+            "MUS 145",
+            "MUS 176"
+        ],
+        "restriction_raw": "MUS 242, 348",
+        "restriction": [
+            "and",
+            "MUS 242",
+            "MUS 348"
+        ]
+    },
+    {
+        "courseid": "MUS 271",
+        "coursename": "Jazz Performance 4",
+        "description": "Continuation of the work undertaken in MUS 270.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 270",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/271/1205",
+        "prerequisite_raw": "MUS 270",
+        "prerequisite": [
+            "and",
+            "MUS 270"
+        ]
+    },
+    {
+        "courseid": "MUS 275",
+        "coursename": "Jazz Composition and Arranging 1",
+        "description": "Composition and arranging in the jazz idiom exploring small ensemble and big band contexts. Scoring, voicing concepts and sectional writing that assist students in the development of a portfolio of work.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 274",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/275/1205",
+        "prerequisite_raw": "MUS 274",
+        "prerequisite": [
+            "and",
+            "MUS 274"
+        ]
+    },
+    {
+        "courseid": "MUS 281",
+        "coursename": "Creative Practice in Popular Music 4",
+        "description": "Continuation of work undertaken in MUS 280.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 280, 284",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/281/1205",
+        "prerequisite_raw": "MUS 280, 284",
+        "prerequisite": [
+            "and",
+            "MUS 280",
+            "MUS 284"
+        ]
+    },
+    {
+        "courseid": "MUS 282",
+        "coursename": "Popular Music Vocal Performance",
+        "description": "The development of vocal technique and interpretative skills through the in-depth study of vocal production techniques pertinent to contemporary popular music vocal performance. The emphasis will be on the development of practices to enhance the performance of original songs written by the students, as well at times techniques necessary to successfully perform songs written by others. This course prepares students who major in Popular Music with 1:1 vocal tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 183 or 196",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/282/1205",
+        "prerequisite_raw": "MUS 183 or 196",
+        "prerequisite": [
+            "or",
+            "MUS 183",
+            "MUS 196"
+        ]
+    },
+    {
+        "courseid": "MUS 283",
+        "coursename": "Popular Music Instrumental Performance Skills 3",
+        "description": "Continuation of the work undertaken in MUS 183.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 183 or JAZZ 231\nRestriction: JAZZ 232",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/283/1205",
+        "prerequisite_raw": "MUS 183 or JAZZ 231",
+        "prerequisite": [
+            "or",
+            "MUS 183",
+            "JAZZ 231"
+        ],
+        "restriction_raw": "JAZZ 232",
+        "restriction": [
+            "and",
+            "JAZZ 232"
+        ]
+    },
+    {
+        "courseid": "MUS 287",
+        "coursename": "Popular Music Theory and Musicianship 2",
+        "description": "Further training in practical musicianship and contemporary music writing skills pertinent to a popular music practitioner. Continued development of aural recognition skills with an emphasis on transcription and sight singing skills.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 284",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/287/1205",
+        "prerequisite_raw": "MUS 284",
+        "prerequisite": [
+            "and",
+            "MUS 284"
+        ]
+    },
+    {
+        "courseid": "MUS 291A",
+        "coursename": "Classical Ensembles 2",
+        "description": "The development of performance skills through ensemble work including chamber music, string orchestra, wind orchestra, flute choir, contemporary ensembles and other combinations.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 291 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/291A/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 291 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 291 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 292A",
+        "coursename": "Performance Skills for Instrumentalists 2",
+        "description": "The development of a range of instrumental performance skills beyond those gained in the instrumental studio including collaborative piano, repertoire studies, ensemble techniques, basic pedagogy, keyboard skills, accompanying and other applications.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 292 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/292A/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 292 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 292 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 293A",
+        "coursename": "Performance Skills for Singers 2",
+        "description": "The introduction of vocal practices that help voice students develop and sustain a professional vocal career. This course aims to give vocal students the knowledge and practical experience necessary to develop and maintain vocal health in diverse performing contexts.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 293 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/293A/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 293 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 293 A and B"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 204",
+        "coursename": "Urban Planning Social Theory and Practice",
+        "description": "A critical analysis of the urban social issues, urban social theory, social justice and deprivation, and gender issues.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 101-105",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/204/1205",
+        "prerequisite_raw": "URBPLAN 101-105",
+        "prerequisite": [
+            "URBPLAN 101-105"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 205",
+        "coursename": "Transportation Planning",
+        "description": "A critical analysis of transportation planning, modelling and its relationship with land use activities in the urban environment.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 101-105, or GEOG 101, 102, 140 or GISCI 140, and URBPLAN 103",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/205/1205",
+        "prerequisite_raw": "URBPLAN 101-105, or GEOG 101, 102, 140 or GISCI 140, and URBPLAN 103",
+        "prerequisite": [
+            "or",
+            "URBPLAN 101-105",
+            [
+                "and",
+                [
+                    "or",
+                    "GEOG 101",
+                    "GEOG 102",
+                    "GEOG 140",
+                    "GISCI 140"
+                ],
+                "URBPLAN 103"
+            ]
+        ]
+    },
+    {
+        "courseid": "URBPLAN 211",
+        "coursename": "Urban Planning Studio Four",
+        "description": "Examines the complex interrelationships of urban planning issues required to achieve effective and sustainable design solutions at the town/city spatial scale.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 110, 111",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/211/1205",
+        "prerequisite_raw": "URBPLAN 110, 111",
+        "prerequisite": [
+            "and",
+            "URBPLAN 110",
+            "URBPLAN 111"
+        ]
+    },
+    {
+        "courseid": "MUS 290B",
+        "coursename": "Auxiliary Performance Study 2",
+        "description": "Individual tuition on an approved instrument or voice. Suited for a practical component for Music Studies or Composition students or as an approved instrument for Classical, Jazz or Popular Music students.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 190 or an audition and Departmental approval.\nTo complete this course students must enrol in MUS 290 A and B, or MUS 290",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/290B/1205",
+        "prerequisite_raw": "MUS 190 or an audition and Departmental approval.",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "MUS 190",
+                "an audition"
+            ],
+            "Departmental approval."
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 290 A and B, or MUS 290",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "MUS 290A",
+                    "MUS 290B"
+                ],
+                "MUS 290"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 291B",
+        "coursename": "Classical Ensembles 2",
+        "description": "The development of performance skills through ensemble work including chamber music, string orchestra, wind orchestra, flute choir, contemporary ensembles and other combinations.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 291 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/291B/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 291 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 291 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 292B",
+        "coursename": "Performance Skills for Instrumentalists 2",
+        "description": "The development of a range of instrumental performance skills beyond those gained in the instrumental studio including collaborative piano, repertoire studies, ensemble techniques, basic pedagogy, keyboard skills, accompanying and other applications.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 292 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/292B/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 292 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 292 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 293B",
+        "coursename": "Performance Skills for Singers 2",
+        "description": "The introduction of vocal practices that help voice students develop and sustain a professional vocal career. This course aims to give vocal students the knowledge and practical experience necessary to develop and maintain vocal health in diverse performing contexts.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Departmental approval\nTo complete this course students must enrol in MUS 293 A and B",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/293B/1205",
+        "prerequisite_raw": "Departmental approval",
+        "prerequisite": [
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 293 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 293 A and B"
+        ]
+    },
+    {
+        "courseid": "MUS 297B",
+        "coursename": "Jazz Ensembles 2",
+        "description": "The application of instrumental and improvisational techniques through performance practice. This course develops stylistic, interpretive and literary musical skills through a variety of large and small ensembles. Students are placed by audition into a small group combo and a large group.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 197 or Departmental approval\nTo complete this course students must enrol in MUS 297 A and B",
+        "url": "",
+        "prerequisite_raw": "MUS 197 or Departmental approval",
+        "prerequisite": [
+            "or",
+            "MUS 197",
+            "Departmental approval"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in MUS 297 A and B",
+        "other_requirements": [
+            "To complete this course students must enrol in MUS 297 A and B"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 300",
+        "coursename": "Design 5",
+        "description": "The Experimental: Students will be exposed to experimental approaches to architectural design that seek to expand the field of architecture. Highlights the role and agency of media in explorative architectural pursuits.",
+        "subject": "Architectural Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHDES 200",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/300/1205",
+        "prerequisite_raw": "ARCHDES 200",
+        "prerequisite": [
+            "and",
+            "ARCHDES 200"
+        ]
+    },
+    {
+        "courseid": "ARCHDES 301",
+        "coursename": "Design 6",
+        "description": "The Integrated: The culmination of all aspects \u2013 conceptual, formal, material, tectonic, environmental, structural \u2013 of architectural design within the context of a larger network of infrastructural services. Also requires an understanding of the full range of drawings describing the workings of the building as both an active 'machine' and place for human comfort.",
+        "subject": "Architectural Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHDES 200, and 201 or 300",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHDES/301/1205",
+        "prerequisite_raw": "ARCHDES 200, and 201 or 300",
+        "prerequisite": [
+            "and",
+            "ARCHDES 200",
+            [
+                "or",
+                "ARCHDES 201",
+                "ARCHDES 300"
+            ]
+        ]
+    },
+    {
+        "courseid": "ARCHPRM 305",
+        "coursename": "Professional Studies 1",
+        "description": "Professional practice and the practical demands of managing construction. Explores the roles of architect, client, builder and consultants; land, building, planning and environmental legislation; the consenting processes that precede construction; documentation; cost and quality management; procurement; contract law; construction contracts; site observation; contract administration and progress payments; completion; final accounts; and post-project procedures.",
+        "subject": "Architectural Professional Stu",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 207 or 208 or 210\nRestriction: ARCHPRM 304, 700",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHPRM/305/1205",
+        "prerequisite_raw": "ARCHTECH 207 or 208 or 210",
+        "prerequisite": [
+            "or",
+            "ARCHTECH 207",
+            "ARCHTECH 208",
+            "ARCHTECH 210"
+        ],
+        "restriction_raw": "ARCHPRM 304, 700",
+        "restriction": [
+            "and",
+            "ARCHPRM 304",
+            "ARCHPRM 700"
+        ]
+    },
+    {
+        "courseid": "ARCHTECH 314",
+        "coursename": "Environmental Design 2",
+        "description": "Indoor environmental quality for complex, large scale and multi-storey buildings. Requirements of the New Zealand Building Code for energy efficiency and human comfort. Design strategies and innovative materials for high-performance buildings. Qualitative and quantitative approach to sustainable practices. Simulation tools, measurements and techniques. Natural resources, materials optimisation and building reuse. Sustainability and resilience at the urban scale.",
+        "subject": "Architectural Technology",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: ARCHTECH 208 or 210\nRestriction: ARCHTECH 307",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHTECH/314/1205",
+        "prerequisite_raw": "ARCHTECH 208 or 210",
+        "prerequisite": [
+            "or",
+            "ARCHTECH 208",
+            "ARCHTECH 210"
+        ],
+        "restriction_raw": "ARCHTECH 307",
+        "restriction": [
+            "and",
+            "ARCHTECH 307"
+        ]
+    },
+    {
+        "courseid": "DANCE 302",
+        "coursename": "Dance in Aotearoa New Zealand",
+        "description": "An examination of dance in New Zealand including M\u0101ori, Pacific Island, European, and Asian influences. Emphasis will be on developments during the twentieth century of traditional form into contemporary practice, indigenous forms in NZ society, the developments in ballet, contemporary and popular dance.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 212, or DANCE 200 for students in Transnational Cultures and Creative Practice",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/302/1205",
+        "prerequisite_raw": "DANCE 212, or DANCE 200 for students in Transnational Cultures and Creative Practice",
+        "prerequisite": [
+            "or",
+            "DANCE 212",
+            [
+                "and",
+                "DANCE 200 for students in Transnational Cultures",
+                "Creative Practice"
+            ]
+        ]
+    },
+    {
+        "courseid": "DANCE 310",
+        "coursename": "Contemporary Dance and Choreography 3",
+        "description": "The study of contemporary dance practices through the choreography and techniques of contemporary dance makers.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 210",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/310/1205",
+        "prerequisite_raw": "DANCE 210",
+        "prerequisite": [
+            "and",
+            "DANCE 210"
+        ]
+    },
+    {
+        "courseid": "DANCE 331",
+        "coursename": "Dance Education Research",
+        "description": "Analysis of dance teaching and learning philosophies, issues and theories as they are translated from texts and curriculum into classroom and community practice. This course does not meet the requirements for teacher registration in New Zealand.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: DANCE 231",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/331/1205",
+        "prerequisite_raw": "DANCE 231",
+        "prerequisite": [
+            "and",
+            "DANCE 231"
+        ]
+    },
+    {
+        "courseid": "DANCE 351",
+        "coursename": "Special Topic: Dance Technique",
+        "description": "",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: Any 30 points at Stage II in Dance Studies",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/351/1205",
+        "prerequisite_raw": "Any 30 points at Stage II in Dance Studies",
+        "prerequisite": [
+            "30:Stage II",
+            "Dance Studies"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 309",
+        "coursename": "Studio Practice 4",
+        "description": "Extends the self-directed aspect of FINEARTS 308 through work on one or two long-term personal projects. A key focus is the identification of, and response to, a contextual issue or mode of practice relevant to contemporary art. Students will begin to develop an understanding of their own practice within the context of a wider field of local and international contemporary art practices. Students will also engage in focused contextual study in an area relevant to their interests.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 308 or 310\r\nRestriction: FINEARTS 303, 307",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/309/1205",
+        "prerequisite_raw": "FINEARTS 308 or 310",
+        "prerequisite": [
+            "or",
+            "FINEARTS 308",
+            "FINEARTS 310"
+        ],
+        "restriction_raw": "FINEARTS 303, 307",
+        "restriction": [
+            "and",
+            "FINEARTS 303",
+            "FINEARTS 307"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 311",
+        "coursename": "Studio Practice 4",
+        "description": "Extends the self-directed aspect of FINEARTS 308 through work on one or two long-term personal projects. A key focus is the identification of, and response to, a contextual issue or mode of practice relevant to contemporary art. Students will begin to develop an understanding of their own practice within the context of a wider field of local and global contemporary art, and contemporary M\u0101ori Art practices.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: FINEARTS 308\r\nRestriction: FINEARTS 303, 307, 309",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/311/1205",
+        "prerequisite_raw": "FINEARTS 308",
+        "prerequisite": [
+            "and",
+            "FINEARTS 308"
+        ],
+        "restriction_raw": "FINEARTS 303, 307, 309",
+        "restriction": [
+            "and",
+            "FINEARTS 303",
+            "FINEARTS 307",
+            "FINEARTS 309"
+        ]
+    },
+    {
+        "courseid": "MUS 311",
+        "coursename": "Composition 6",
+        "description": "A continuation of work undertaken in MUS 310.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 310",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/311/1205",
+        "prerequisite_raw": "MUS 310",
+        "prerequisite": [
+            "and",
+            "MUS 310"
+        ]
+    },
+    {
+        "courseid": "MUS 314",
+        "coursename": "Orchestration",
+        "description": "A continuation and expansion of the topics addressed in MUS 214. Studies will be broadened to include a stronger emphasis on orchestration, including technique and repertoire.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 214",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/314/1205",
+        "prerequisite_raw": "MUS 214",
+        "prerequisite": [
+            "and",
+            "MUS 214"
+        ]
+    },
+    {
+        "courseid": "MUS 315",
+        "coursename": "Sonic Arts",
+        "description": "An examination of compositional concepts and techniques relating to acousmatic music and performance-based sonic art. Topics will be investigated through engagement in individually negotiated creative projects supported with technical exercises and a review of relevant repertoire and literature.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 211 or 219",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/315/1205",
+        "prerequisite_raw": "MUS 211 or 219",
+        "prerequisite": [
+            "or",
+            "MUS 211",
+            "MUS 219"
+        ]
+    },
+    {
+        "courseid": "MUS 320",
+        "coursename": "Performance 5",
+        "description": "Further performance work, involving weekly individual lessons and performance classes. (See course outline and instrumental/vocal syllabus for specific curriculum requirements).",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 221",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/320/1205",
+        "prerequisite_raw": "MUS 221",
+        "prerequisite": [
+            "and",
+            "MUS 221"
+        ]
+    },
+    {
+        "courseid": "MUS 321",
+        "coursename": "Performance 6",
+        "description": "Continuation of work undertaken in MUS 320.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 320",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/321/1205",
+        "prerequisite_raw": "MUS 320",
+        "prerequisite": [
+            "and",
+            "MUS 320"
+        ]
+    },
+    {
+        "courseid": "MUS 322",
+        "coursename": "Performance Skills 4",
+        "description": "Further development of a wide range of performance skills beyond those gained in the instrumental/vocal studio, including ensemble techniques, conducting, languages for singers, pedagogy, orchestral audition skills, second instrument study, musicians' health.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 223",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/322/1205",
+        "prerequisite_raw": "MUS 223",
+        "prerequisite": [
+            "and",
+            "MUS 223"
+        ]
+    },
+    {
+        "courseid": "MUS 323",
+        "coursename": "Performance Skills 5",
+        "description": "Further development of a wide range of performance skills beyond those gained in the instrumental/vocal studio, including ensemble techniques, conducting, languages for singers, pedagogy, orchestral audition skills, second instrument study, musicians' health.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 322",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/323/1205",
+        "prerequisite_raw": "MUS 322",
+        "prerequisite": [
+            "and",
+            "MUS 322"
+        ]
+    },
+    {
+        "courseid": "MUS 331",
+        "coursename": "Music Production 4",
+        "description": "A continuation and expansion of the topics addressed in MUS 330 including collaborative projects that concentrate on the production of a popular music 'single', including the professional and legal issues associated with high-level studio production. Coursework will require coordination with performers both within and outside the class.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 318 or 330\nRestriction: MUS 319",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/331/1205",
+        "prerequisite_raw": "MUS 318 or 330",
+        "prerequisite": [
+            "or",
+            "MUS 318",
+            "MUS 330"
+        ],
+        "restriction_raw": "MUS 319",
+        "restriction": [
+            "and",
+            "MUS 319"
+        ]
+    },
+    {
+        "courseid": "MUS 340",
+        "coursename": "Sound, Style and Syntax",
+        "description": "A study and in-depth analysis of repertoire from the eighteenth to the twenty-first centuries.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 140 and 201, or 143 and 204",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/340/1205",
+        "prerequisite_raw": "MUS 140 and 201, or 143 and 204",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "MUS 140",
+                "MUS 201"
+            ],
+            [
+                "and",
+                "MUS 143",
+                "MUS 204"
+            ]
+        ]
+    },
+    {
+        "courseid": "MUS 348",
+        "coursename": "Music on Stage and Screen",
+        "description": "Considers the role of music in one or more of the dramatic arts \u2013 opera, musical, ballet, modern dance, film \u2013 in any given historical period. Offers opportunity to study specific repertoire in some detail, as well as to investigate music\u2019s contribution to dramatic spectacle, characterisation, narrative and non-narrative structures.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 140 or 143 or 145, and 30 points from Stage II in Music\nRestriction: MUS 242, 248",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/348/1205",
+        "prerequisite_raw": "MUS 140 or 143 or 145, and 30 points from Stage II in Music",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "MUS 140",
+                "MUS 143",
+                "MUS 145"
+            ],
+            "30"
+        ],
+        "restriction_raw": "MUS 242, 248",
+        "restriction": [
+            "and",
+            "MUS 242",
+            "MUS 248"
+        ]
+    },
+    {
+        "courseid": "MUS 358",
+        "coursename": "Special Topic: Musical Interface Design",
+        "description": "Design, craft, and development of new technologies for music performance. Students will develop skills required to engage in the creation of interactive installations, digital musical instruments, augmented instruments, and mobile apps. Topics include: theory and practice of musical interface design, audio programming, converting body gestures into sound via digital mapping.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points at Stage II in Music or Departmental approval",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/358/1205",
+        "prerequisite_raw": "30 points at Stage II in Music or Departmental approval",
+        "prerequisite": [
+            "30:Stage II",
+            "Music",
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "MUS 365",
+        "coursename": "Music Industry and Business",
+        "description": "An overview of the music industry including music production, distribution and reception, music marketing and music project management. An examination of business practices in music including developing and managing events, tours, promotion, the Internet, the role of digital media, organising events and festivals and setting up successful pedagogical studios.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points at Stage II in Music",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/365/1205",
+        "prerequisite_raw": "30 points at Stage II in Music",
+        "prerequisite": [
+            "30:Stage II",
+            "Music"
+        ]
+    },
+    {
+        "courseid": "MUS 371",
+        "coursename": "Jazz Performance 6",
+        "description": "Continuation of the work undertaken in MUS 370 along with ensemble performances. Students prepare for a 50-minute public recital of their original arrangements, compositions and improvisations.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 370",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/371/1205",
+        "prerequisite_raw": "MUS 370",
+        "prerequisite": [
+            "and",
+            "MUS 370"
+        ]
+    },
+    {
+        "courseid": "MUS 376",
+        "coursename": "Jazz Research",
+        "description": "The preparation and presentation of essays and practical seminars on a performer or period of stylistic development related to principal instrument or major study.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 176 or 276",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/376/1205",
+        "prerequisite_raw": "MUS 176 or 276",
+        "prerequisite": [
+            "or",
+            "MUS 176",
+            "MUS 276"
+        ]
+    },
+    {
+        "courseid": "MUS 381",
+        "coursename": "Creative Practice in Popular Music 6",
+        "description": "Continuation of work undertaken in MUS 380.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 380",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/381/1205",
+        "prerequisite_raw": "MUS 380",
+        "prerequisite": [
+            "and",
+            "MUS 380"
+        ]
+    },
+    {
+        "courseid": "MUS 382",
+        "coursename": "Popular Music Performance Project",
+        "description": "More advanced development of instrumental technique and interpretative skills through the in-depth study of scales, rhythm, harmony and the relevant musical analyses of set works. Students will arrange and compose for their instrument employing music recording and production techniques. In addition, students will develop skills in improvisation, transcription and sight reading. This course prepares students who major in Popular Music with 1:1 instrumental tuition and group based ensemble classes.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 282",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/382/1205",
+        "prerequisite_raw": "MUS 282",
+        "prerequisite": [
+            "and",
+            "MUS 282"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 302",
+        "coursename": "Heritage/Cultural Issues for Urban Planning",
+        "description": "A critical analysis of the history, theory and practice of heritage planning in New Zealand and relevant international contexts.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 201-205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/302/1205",
+        "prerequisite_raw": "URBPLAN 201-205",
+        "prerequisite": [
+            "URBPLAN 201-205"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 304",
+        "coursename": "Urban Land Use Economics",
+        "description": "Examines the principles of urban land economics focusing on economic development, property markets and property development.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 201-205",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/304/1205",
+        "prerequisite_raw": "URBPLAN 201-205",
+        "prerequisite": [
+            "URBPLAN 201-205"
+        ]
+    },
+    {
+        "courseid": "URBPLAN 306",
+        "coursename": "Global Contexts and Contemporary Urban Planning Issues",
+        "description": "Examines how comparative urban planning systems address contemporary urban planning issues in both the New Zealand and international contexts.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 201-205, or 30 points at Stage II in Global Environment and Sustainable Development",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/306/1205",
+        "prerequisite_raw": "URBPLAN 201-205, or 30 points at Stage II in Global Environment and Sustainable Development",
+        "prerequisite": [
+            "or",
+            "URBPLAN 201-205",
+            [
+                "30:Stage II",
+                "Global Environment and Sustainable Development"
+            ]
+        ]
+    },
+    {
+        "courseid": "URBPLAN 311",
+        "coursename": "Urban Planning Studio Six",
+        "description": "Community engagement, data collection and analysis using a project-based approach.",
+        "subject": "Urban Planning",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: URBPLAN 210, 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/311/1205",
+        "prerequisite_raw": "URBPLAN 210, 211",
+        "prerequisite": [
+            "and",
+            "URBPLAN 210",
+            "URBPLAN 211"
+        ]
+    },
+    {
+        "courseid": "MUS 333",
+        "coursename": "Music Production Project 2",
+        "description": "An advanced music production and engineering research project, in which an investigation into professional, technological and industrial issues is conducted through practical experience in a professional setting.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: MUS 219 or 330\nRestriction: MUS 356",
+        "url": "",
+        "prerequisite_raw": "MUS 219 or 330",
+        "prerequisite": [
+            "or",
+            "MUS 219",
+            "MUS 330"
+        ],
+        "restriction_raw": "MUS 356",
+        "restriction": [
+            "and",
+            "MUS 356"
+        ]
+    },
+    {
+        "courseid": "MUS 359",
+        "coursename": "Special Topic",
+        "description": "",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 30 points at Stage II in Music",
+        "url": "",
+        "prerequisite_raw": "30 points at Stage II in Music",
+        "prerequisite": [
+            "30:Stage II",
+            "Music"
+        ]
+    }
+]

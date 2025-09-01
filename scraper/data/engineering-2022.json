@@ -1,0 +1,2693 @@
+[
+    {
+        "courseid": "CHEMMAT 121",
+        "coursename": "Materials Science",
+        "description": "Introduction to materials science starting with the fundamentals of atomic structure and bonding and how this builds up a microstructure to create a solid. Metals, polymers, ceramics, electronic materials, composite and biomaterials will be covered and the properties, advantages and disadvantages of each discussed. Considerations such as corrosion, degradation and failure will be studied with a focus on improving design and creating new materials for our future world.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/121/1220",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 121",
+        "coursename": "Engineering Mechanics",
+        "description": "An introduction to planar mechanics including: free body diagrams, planar equilibrium of rigid bodies, friction, distributed forces, internal forces, shear force and bending moment diagrams, kinematics and kinetics of particles, work and energy, relative motion, kinematics and kinetics of rigid bodies.",
+        "subject": "Engineering General",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Restriction: CIVIL 210, MECHENG 222",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/121/1220",
+        "restriction_raw": "CIVIL 210, MECHENG 222",
+        "restriction": [
+            "and",
+            "CIVIL 210",
+            "MECHENG 222"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 131",
+        "coursename": "Introduction to Engineering Computation and Software Development",
+        "description": "Introduction to problem solving in engineering through the use of the software package MATLAB, and the programming language C.",
+        "subject": "Engineering General",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Restriction: ENGSCI 233, 331",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/131/1220",
+        "restriction_raw": "ENGSCI 233, 331",
+        "restriction": [
+            "and",
+            "ENGSCI 233",
+            "ENGSCI 331"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 140",
+        "coursename": "Energy and Society",
+        "description": "How will we power the modern world? An introduction to chemistry and biology and their application to solving problems in energy, its transformation and use. Treatment of associated risks and uncertainties applied to decision making in energy will develop understanding of perspective taking, the social licence to operate, and the role of professional engineering skills in the community and society.",
+        "subject": "Engineering General",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/140/1220",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGSCI 111",
+        "coursename": "Mathematical Modelling 1",
+        "description": "Introduction to mathematical modelling. Differentiation and integration (polynomials, trigonometric, exponential, logarithmic, and rational functions). Integration by parts, substitution and partial fractions. Differential equations and their solutions (including Euler's method). Vector and matrix algebra, transformations, solving systems of linear equations. Modelling using probability.",
+        "subject": "Engineering Science",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Restriction: ENGSCI 211, 213, 311, 313, 314, MATHS 150, 153",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/111/1220",
+        "restriction_raw": "ENGSCI 211, 213, 311, 313, 314, MATHS 150, 153",
+        "restriction": [
+            "and",
+            "ENGSCI 211",
+            "ENGSCI 213",
+            "ENGSCI 311",
+            "ENGSCI 313",
+            "ENGSCI 314",
+            "MATHS 150",
+            "MATHS 153"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 101",
+        "coursename": "Electrical and Digital Systems",
+        "description": "An introduction to electrical, computer and electronic systems and technology. Digital circuits and analysis techniques, computer organisation. Analog circuits and analysis techniques. Inductive power transfer, power systems and electric machines. Communication systems.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Restriction: ELECTENG 202, 204, 208, 210",
+        "url": "",
+        "restriction_raw": "ELECTENG 202, 204, 208, 210",
+        "restriction": [
+            "and",
+            "ELECTENG 202",
+            "ELECTENG 204",
+            "ELECTENG 208",
+            "ELECTENG 210"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Engineering General",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Restriction: BIOMENG 299, CHEMMAT 299, CIVIL 299, COMPSYS 299, ELECTENG 299, ENGSCI 299, MECHENG 299, MECHTRON 299, SOFTENG 299, STRCTENG 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/299/1220",
+        "restriction_raw": "BIOMENG 299, CHEMMAT 299, CIVIL 299, COMPSYS 299, ELECTENG 299, ENGSCI 299, MECHENG 299, MECHTRON 299, SOFTENG 299, STRCTENG 299",
+        "restriction": [
+            "and",
+            "BIOMENG 299",
+            "CHEMMAT 299",
+            "CIVIL 299",
+            "COMPSYS 299",
+            "ELECTENG 299",
+            "ENGSCI 299",
+            "MECHENG 299",
+            "MECHTRON 299",
+            "SOFTENG 299",
+            "STRCTENG 299"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 211",
+        "coursename": "Mathematical Modelling 2",
+        "description": "First and second order ordinary differential equations and solutions. Laplace transforms. Taylor series and series in general. Multivariable and vector calculus including divergence, gradient and curl. Further linear algebra. Eigenvalues and eigenvectors. Fourier series. Application of the techniques through appropriate modelling examples. Introductory data analysis and statistics.",
+        "subject": "Engineering Science",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 150, or ENGSCI 111, or a B+ grade or higher in MATHS 108 or 110 or 150 or 153, or a B+ grade or higher in MATHS 120 and 130\nRestriction: ENGSCI 213",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/211/1220",
+        "prerequisite_raw": "ENGGEN 150, or ENGSCI 111, or a B+ grade or higher in MATHS 108 or 110 or 150 or 153, or a B+ grade or higher in MATHS 120 and 130",
+        "prerequisite": [
+            "or",
+            "ENGGEN 150",
+            "ENGSCI 111",
+            [
+                "B+",
+                [
+                    "or",
+                    "MATHS 108",
+                    "MATHS 110",
+                    "MATHS 150",
+                    "MATHS 153"
+                ]
+            ],
+            [
+                "B+",
+                [
+                    "and",
+                    "MATHS 120",
+                    "MATHS 130"
+                ]
+            ]
+        ],
+        "restriction_raw": "ENGSCI 213",
+        "restriction": [
+            "and",
+            "ENGSCI 213"
+        ]
+    },
+    {
+        "courseid": "CIVIL 211",
+        "coursename": "Structures and Design 1",
+        "description": "Introduction to structural design \u2013 philosophy, loads, codes; design of simple structural elements in various materials.",
+        "subject": "Civil Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CIVIL 250",
+        "coursename": "Civil Engineering Materials and Design",
+        "description": "Properties and manufacturing of concrete, steel and timber structural products. Design principles and examples for concrete, steel and timber members.",
+        "subject": "Civil Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CIVIL 312",
+        "coursename": "Structures and Design 2",
+        "description": "Structural analysis of indeterminate structures. Moment-area method for deformations. Loading actions as per NZS 1170 and load collation. Design of structural members in timber portal frames.",
+        "subject": "Civil Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/312/1220",
+        "prerequisite_raw": "CIVIL 211",
+        "prerequisite": [
+            "and",
+            "CIVIL 211"
+        ]
+    },
+    {
+        "courseid": "CIVIL 313",
+        "coursename": "Structures and Design 3",
+        "description": "Design of structures in reinforced concrete, prestressed concrete and structural steel. Computer analysis of structures; use of a commercial analysis program. Design project.",
+        "subject": "Civil Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/313/1220",
+        "prerequisite_raw": "CIVIL 211",
+        "prerequisite": [
+            "and",
+            "CIVIL 211"
+        ]
+    },
+    {
+        "courseid": "CIVIL 324",
+        "coursename": "Geomechanics 3",
+        "description": "Shear strength of soil \u2013 triaxial testing, measurement of pore water pressures, and interpretation of test data. Effective and total stress paths for drained and undrained loading in laboratory tests and field applications. Consolidation. Application of elastic solutions in geomechanics. Geotechnical numerical modelling.",
+        "subject": "Civil Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 322 or equivalent\r\nRestriction: CIVIL 420, 728",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/324/1220",
+        "prerequisite_raw": "CIVIL 322 or equivalent",
+        "prerequisite": [
+            "or",
+            "CIVIL 322",
+            "equivalent"
+        ],
+        "restriction_raw": "CIVIL 420, 728",
+        "restriction": [
+            "and",
+            "CIVIL 420",
+            "CIVIL 728"
+        ]
+    },
+    {
+        "courseid": "CIVIL 332",
+        "coursename": "Fluid Mechanics 2",
+        "description": "Laminar and turbulent flow. Ideal fluid flows. Boundary layer theory and separation, drag and lift. River morphology and flows. River pollution. Unsteady flow in channels.",
+        "subject": "Civil Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/332/1220",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGSCI 311",
+        "coursename": "Mathematical Modelling 3",
+        "description": "A selection from: ordinary differential equations, systems of equations, analytical and numerical methods, non-linear ODEs, partial differential equations, separation of variables, numerical methods for solving PDEs, models for optimisation, industrial statistics, data analysis, regression, experimental design reliability methods.",
+        "subject": "Engineering Science",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 211\r\nRestriction: ENGSCI 313, 314",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/311/1220",
+        "prerequisite_raw": "ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "ENGSCI 313, 314",
+        "restriction": [
+            "and",
+            "ENGSCI 313",
+            "ENGSCI 314"
+        ]
+    },
+    {
+        "courseid": "ENVENG 342",
+        "coursename": "Environmental Engineering Design",
+        "description": "The applications of design practice in environmental engineering with a number of design projects. Elements of water and wastewater engineering. Landfill design and air pollution control.",
+        "subject": "Environmental Engineering",
+        "term": "SS",
+        "year": "2022",
+        "requirements": "Restriction: ENVENG 405",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENVENG/342/1220",
+        "restriction_raw": "ENVENG 405",
+        "restriction": [
+            "ENVENG 405"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 115",
+        "coursename": "Principles of Engineering Design",
+        "description": "An introduction to the principles of design as a fundamental part of engineering practice and a foundation for subsequent design courses. Students are also introduced to essential drawing skills and CAD, and complete group-based design projects. Topics include systems life cycle, design, and introductions to professional issues such as health and safety, ethics, sustainability, cultural diversity, communication, leadership, and teamwork.",
+        "subject": "Engineering General",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/115/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 121",
+        "coursename": "Engineering Mechanics",
+        "description": "An introduction to planar mechanics including: free body diagrams, planar equilibrium of rigid bodies, friction, distributed forces, internal forces, shear force and bending moment diagrams, kinematics and kinetics of particles, work and energy, relative motion, kinematics and kinetics of rigid bodies.",
+        "subject": "Engineering General",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: CIVIL 210, MECHENG 222",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/121/1223",
+        "restriction_raw": "CIVIL 210, MECHENG 222",
+        "restriction": [
+            "and",
+            "CIVIL 210",
+            "MECHENG 222"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 140",
+        "coursename": "Energy and Society",
+        "description": "How will we power the modern world? An introduction to chemistry and biology and their application to solving problems in energy, its transformation and use. Treatment of associated risks and uncertainties applied to decision making in energy will develop understanding of perspective taking, the social licence to operate, and the role of professional engineering skills in the community and society.",
+        "subject": "Engineering General",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/140/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 199",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the Faculty of Engineering.",
+        "subject": "Engineering General",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/199/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGSCI 111",
+        "coursename": "Mathematical Modelling 1",
+        "description": "Introduction to mathematical modelling. Differentiation and integration (polynomials, trigonometric, exponential, logarithmic, and rational functions). Integration by parts, substitution and partial fractions. Differential equations and their solutions (including Euler's method). Vector and matrix algebra, transformations, solving systems of linear equations. Modelling using probability.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGSCI 211, 213, 311, 313, 314, MATHS 150, 153",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/111/1223",
+        "restriction_raw": "ENGSCI 211, 213, 311, 313, 314, MATHS 150, 153",
+        "restriction": [
+            "and",
+            "ENGSCI 211",
+            "ENGSCI 213",
+            "ENGSCI 311",
+            "ENGSCI 313",
+            "ENGSCI 314",
+            "MATHS 150",
+            "MATHS 153"
+        ]
+    },
+    {
+        "courseid": "GLOBAL 101",
+        "coursename": "Global Issues, Sustainable Futures",
+        "description": "The basis for sustainability \u2013 social issues such as population and consumption, environmental issues such as climate change, limited resources and environmental degradation. Discusses the roles that various disciplines (law, business, engineering and urban planning) will play in developing solutions, including consideration of human rights and good governance, new concepts in economics and business management which will lead to sustainable businesses, developments in science and technology which will change how we manage resources and new visions for cities and communities which will support sustainable ways of life.",
+        "subject": "Global Studies",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: GENED 101G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/GLOBAL/101/1223",
+        "restriction_raw": "GENED 101G",
+        "restriction": [
+            "and",
+            "GENED 101G"
+        ]
+    },
+    {
+        "courseid": "BIOMENG 221",
+        "coursename": "Mechanics of Engineered and Biological Materials",
+        "description": "Introduction to the laws of conservation of mass, linear momentum, angular momentum and energy and their application to engineering problems. Topics include control volume analysis, fluid statics, Bernoulli\u2019s equation, heat conduction, diffusion, linear elasticity, stresses and strains specific to direct and torsional loading, material constitutive relationships (including anisotropy, nonlinearity, and viscoelasticity), axial and transverse loading, and pressure loading of engineering structures and biomaterials.",
+        "subject": "Biomedical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 150, or ENGSCI 111, or B+ or higher in MATHS 108 or 110 or 150 or 153, or B+ or higher in MATHS 120 and 130",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BIOMENG/221/1223",
+        "prerequisite_raw": "ENGGEN 150, or ENGSCI 111, or B+ or higher in MATHS 108 or 110 or 150 or 153, or B+ or higher in MATHS 120 and 130",
+        "prerequisite": [
+            "or",
+            "ENGGEN 150",
+            "ENGSCI 111",
+            [
+                "B+",
+                [
+                    "or",
+                    "MATHS 108",
+                    "MATHS 110",
+                    "MATHS 150",
+                    "MATHS 153"
+                ]
+            ],
+            [
+                "B+",
+                [
+                    "and",
+                    "MATHS 120",
+                    "MATHS 130"
+                ]
+            ]
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 201",
+        "coursename": "Process Engineering 1: Introduction",
+        "description": "Materials and energy balances with and without chemical reaction, materials and energy balances in multiphase systems such as crystallisation, evaporation, drying, humidification, dehumidification, absorption, distillation, extraction and filtration. An introduction to the most important unit operations in the chemical industry, design concept and safety as applied to processing.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEM 110 or 120 or ENGGEN 140\nRestriction: CHEMMAT 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/201/1223",
+        "prerequisite_raw": "CHEM 110 or 120 or ENGGEN 140",
+        "prerequisite": [
+            "or",
+            "CHEM 110",
+            "CHEM 120",
+            "ENGGEN 140"
+        ],
+        "restriction_raw": "CHEMMAT 211",
+        "restriction": [
+            "and",
+            "CHEMMAT 211"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 204",
+        "coursename": "Materials",
+        "description": "Solid state transformation \u2013 diffusion, vacancies, solidification, nucleation and growth. Dislocations and plastic deformation, strengthening mechanisms. Mechanical performance of materials. Iron-carbon alloy systems and transformations (including pearlitic, austenitic, bainitic and martensitic), effects of alloying elements. Analytical methods: X-ray diffraction and electron microscopy.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 121\nRestriction: CHEMMAT 221",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/204/1223",
+        "prerequisite_raw": "CHEMMAT 121",
+        "prerequisite": [
+            "and",
+            "CHEMMAT 121"
+        ],
+        "restriction_raw": "CHEMMAT 221",
+        "restriction": [
+            "and",
+            "CHEMMAT 221"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 206",
+        "coursename": "Applied Chemistry",
+        "description": "Fundamental chemistry required for chemical engineering and materials engineering. Topics may include phase equilibrium, reaction kinetics, thermodynamics, surface chemistry, electrochemistry and polymer chemistry. This course will have an emphasis on problem definition and solution.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: 15 points from ENGGEN 140, CHEM 110, 120\nRestriction: CHEMMAT 242",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/206/1223",
+        "prerequisite_raw": "15 points from ENGGEN 140, CHEM 110, 120",
+        "prerequisite": [
+            "15",
+            "ENGGEN 140",
+            "CHEM 110",
+            "CHEM 120"
+        ],
+        "restriction_raw": "CHEMMAT 242",
+        "restriction": [
+            "and",
+            "CHEMMAT 242"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "CIVIL 201",
+        "coursename": "Land Information Systems",
+        "description": "Aspects of elementary engineering surveying as used for gathering site information for the design and setting out of works. Land information systems, modern methods of gathering, processing and presenting information for engineering purposes.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/201/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CIVIL 202",
+        "coursename": "Fluid Mechanics and Pipe Flow",
+        "description": "Fluid properties and definitions, hydrostatics and stability of floating bodies. Fluid flow, energy, continuity and momentum relationships. Dimensional analysis and similarity. Pipe flow: Fluid resistance, friction factor, steady-state pipe flow, simple pipe systems and pipe network analysis, water hammer.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: CIVIL 230, 331",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/202/1223",
+        "restriction_raw": "CIVIL 230, 331",
+        "restriction": [
+            "and",
+            "CIVIL 230",
+            "CIVIL 331"
+        ]
+    },
+    {
+        "courseid": "CIVIL 203",
+        "coursename": "Transport Design and Geomatics",
+        "description": "Introduction to Transportation Engineering (mobility for people and goods, sea, land and air transportation systems). Design and construction of longitudinal infrastructure (plans, longitudinal sections and cross sections, earthworks, quantities, mass haul). Transport geometric design (horizontal, vertical and cross sectional design). Geomatic surveying systems (levelling, theodolites, GPS, drones, digital topographical survey systems and remote sensing).",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: CIVIL 201, 360",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/203/1223",
+        "restriction_raw": "CIVIL 201, 360",
+        "restriction": [
+            "and",
+            "CIVIL 201",
+            "CIVIL 360"
+        ]
+    },
+    {
+        "courseid": "CIVIL 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "COMPSYS 201",
+        "coursename": "Fundamentals of Computer Engineering",
+        "description": "Digital systems and binary coding; binary numbers; Boolean algebra and computer logic; combinational logic circuits; sequential logic circuits; hardware description language; digital design flow; register transfer level descriptions and design; data paths and control units; from circuits to microprocessors; basic computer organisation; introduction to modern microprocessors; timers and interfacing; C and assembly language for microprocessors; designing digital systems using microprocessors.",
+        "subject": "Computer Systems Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSYS/201/1223",
+        "prerequisite_raw": "ELECTENG 101",
+        "prerequisite": [
+            "and",
+            "ELECTENG 101"
+        ]
+    },
+    {
+        "courseid": "COMPSYS 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Computer Systems Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSYS/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ELECTENG/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Engineering General",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: BIOMENG 299, CHEMMAT 299, CIVIL 299, COMPSYS 299, ELECTENG 299, ENGSCI 299, MECHENG 299, MECHTRON 299, SOFTENG 299, STRCTENG 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/299/1223",
+        "restriction_raw": "BIOMENG 299, CHEMMAT 299, CIVIL 299, COMPSYS 299, ELECTENG 299, ENGSCI 299, MECHENG 299, MECHTRON 299, SOFTENG 299, STRCTENG 299",
+        "restriction": [
+            "and",
+            "BIOMENG 299",
+            "CHEMMAT 299",
+            "CIVIL 299",
+            "COMPSYS 299",
+            "ELECTENG 299",
+            "ENGSCI 299",
+            "MECHENG 299",
+            "MECHTRON 299",
+            "SOFTENG 299",
+            "STRCTENG 299"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 211",
+        "coursename": "Mathematical Modelling 2",
+        "description": "First and second order ordinary differential equations and solutions. Laplace transforms. Taylor series and series in general. Multivariable and vector calculus including divergence, gradient and curl. Further linear algebra. Eigenvalues and eigenvectors. Fourier series. Application of the techniques through appropriate modelling examples. Introductory data analysis and statistics.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 150, or ENGSCI 111, or a B+ grade or higher in MATHS 108 or 110 or 150 or 153, or a B+ grade or higher in MATHS 120 and 130\nRestriction: ENGSCI 213",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/211/1223",
+        "prerequisite_raw": "ENGGEN 150, or ENGSCI 111, or a B+ grade or higher in MATHS 108 or 110 or 150 or 153, or a B+ grade or higher in MATHS 120 and 130",
+        "prerequisite": [
+            "or",
+            "ENGGEN 150",
+            "ENGSCI 111",
+            [
+                "B+",
+                [
+                    "or",
+                    "MATHS 108",
+                    "MATHS 110",
+                    "MATHS 150",
+                    "MATHS 153"
+                ]
+            ],
+            [
+                "B+",
+                [
+                    "and",
+                    "MATHS 120",
+                    "MATHS 130"
+                ]
+            ]
+        ],
+        "restriction_raw": "ENGSCI 213",
+        "restriction": [
+            "and",
+            "ENGSCI 213"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 233",
+        "coursename": "Computational Techniques and Computer Systems",
+        "description": "Introduction to computer architecture and computational techniques. Data representation, memory, hardware, interfacing, and limitations. Numerical computation and algorithms, coding design and paradigms.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101 and ENGGEN 131, and ENGGEN 150 or ENGSCI 111\nCorequisite: ENGSCI 211 or 213",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/233/1223",
+        "prerequisite_raw": "ELECTENG 101 and ENGGEN 131, and ENGGEN 150 or ENGSCI 111",
+        "prerequisite": [
+            "and",
+            "ELECTENG 101",
+            "ENGGEN 131",
+            [
+                "or",
+                "ENGGEN 150",
+                "ENGSCI 111"
+            ]
+        ],
+        "corequisite_raw": "ENGSCI 211 or 213",
+        "corequisite": [
+            "or",
+            "ENGSCI 211",
+            "ENGSCI 213"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 255",
+        "coursename": "Modelling and Analytics in Operations Research",
+        "description": "Emphasises the relationship between business and industrial applications and their associated operations research models. Software packages will be used to solve practical problems. Topics such as: linear programming, transportation and assignment models, network algorithms, queues, inventory models, simulation, analytics and visualisation will be considered.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: 15 points at Stage I in Statistics or Mathematics or Engineering\nRestriction: STATS 255",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/255/1223",
+        "prerequisite_raw": "15 points at Stage I in Statistics or Mathematics or Engineering",
+        "prerequisite": [
+            "15:Stage I",
+            "Statistics",
+            "Mathematics",
+            "Engineering"
+        ],
+        "restriction_raw": "STATS 255",
+        "restriction": [
+            "and",
+            "STATS 255"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "MECHENG 201",
+        "coursename": "Introduction to Mechatronics",
+        "description": "Introduces mechatronics to mechanical and mechatronics engineers. Covers sensors and actuators, analogue and digital circuit elements for signal processing and programming.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101, ENGGEN 131",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/201/1223",
+        "prerequisite_raw": "ELECTENG 101, ENGGEN 131",
+        "prerequisite": [
+            "and",
+            "ELECTENG 101",
+            "ENGGEN 131"
+        ]
+    },
+    {
+        "courseid": "MECHENG 235",
+        "coursename": "Design and Manufacture 1",
+        "description": "The engineering design process as a teamwork and problem-solving activity involving analysis, synthesis, evaluation and critical thinking. Design methodology and communicating design intent through written and graphical means. Introduction to selected motive power sources, machine elements for mechanical power systems, and production and fabrication processes.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 115",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/235/1223",
+        "prerequisite_raw": "ENGGEN 115",
+        "prerequisite": [
+            "and",
+            "ENGGEN 115"
+        ]
+    },
+    {
+        "courseid": "MECHENG 242",
+        "coursename": "Mechanics of Materials 1",
+        "description": "Principles of elastic material behaviour in the design of load carrying elements. Statically determinate stress systems; stress\u2013strain relations. Bending of beams: stress\u2013moment and moment\u2013curvature relations; beam deflections; buckling of struts. Shear in joints, couplings, beams and circular shafts. General analysis of plane stress. Introduction to failure criteria by yield and fracture.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 121 or 150",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/242/1223",
+        "prerequisite_raw": "ENGGEN 121 or 150",
+        "prerequisite": [
+            "or",
+            "ENGGEN 121",
+            "ENGGEN 150"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Software Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOFTENG/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "STRCTENG 200",
+        "coursename": "Introductory Structural Mechanics",
+        "description": "Introduction to structural analysis for civil engineers. Equilibrium, internal actions and deformations, structural forms, structural systems, analysis of determinate systems, plane section properties, elasticity, engineering beam theory, failure theories. Prepares students to embark on further studies in structural design.",
+        "subject": "Structural Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 121\nRestriction: CIVIL 210",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/200/1223",
+        "prerequisite_raw": "ENGGEN 121",
+        "prerequisite": [
+            "and",
+            "ENGGEN 121"
+        ],
+        "restriction_raw": "CIVIL 210",
+        "restriction": [
+            "and",
+            "CIVIL 210"
+        ]
+    },
+    {
+        "courseid": "STRCTENG 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Structural Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Restriction: ENGGEN 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/299/1223",
+        "restriction_raw": "ENGGEN 299",
+        "restriction": [
+            "and",
+            "ENGGEN 299"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 291",
+        "coursename": "Fundamentals of Electrical Engineering",
+        "description": "AC and DC circuit analysis in the context of linear electrical and electronic systems. Time and frequency domain approaches to describing and analysing electrical networks and systems.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101\nRestriction: ELECTENG 202",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 101",
+        "prerequisite": [
+            "and",
+            "ELECTENG 101"
+        ],
+        "restriction_raw": "ELECTENG 202",
+        "restriction": [
+            "and",
+            "ELECTENG 202"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 281",
+        "coursename": "Object-Oriented Programming",
+        "description": "Computer programming using objects as the mechanism for modularity, abstraction, and code reuse. Review of control structures for conditionals and iteration. Instance variables, methods, and encapsulation. Interfaces, inheritance, polymorphism, and abstract classes. Exception handling. Introduction to basic data structures and basic algorithms including sorting and searching.",
+        "subject": "Software Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSCI 101 or ENGGEN 131 \nRestriction: COMPSYS 202, MECHENG 270, SOFTENG 251",
+        "url": "",
+        "prerequisite_raw": "COMPSCI 101 or ENGGEN 131",
+        "prerequisite": [
+            "or",
+            "COMPSCI 101",
+            "ENGGEN 131"
+        ],
+        "restriction_raw": "COMPSYS 202, MECHENG 270, SOFTENG 251",
+        "restriction": [
+            "and",
+            "COMPSYS 202",
+            "MECHENG 270",
+            "SOFTENG 251"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 282",
+        "coursename": "Software Engineering Theory",
+        "description": "Theoretical foundations of software engineering, including sets, formal languages, operations on languages, deterministic and nondeterministic automata, designing automata, determinisation, regular expressions, logic, induction, recursion, program correctness, computability, counting, elements of graph algorithms.",
+        "subject": "Software Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSCI 101 or ENGGEN 131 \nRestriction: SOFTENG 211",
+        "url": "",
+        "prerequisite_raw": "COMPSCI 101 or ENGGEN 131",
+        "prerequisite": [
+            "or",
+            "COMPSCI 101",
+            "ENGGEN 131"
+        ],
+        "restriction_raw": "SOFTENG 211",
+        "restriction": [
+            "and",
+            "SOFTENG 211"
+        ]
+    },
+    {
+        "courseid": "BIOMENG 321",
+        "coursename": "Continuum Modelling in Bioengineering",
+        "description": "An introduction to continuum modelling approaches to bioengineering problems across a range of spatial scales. Topics include: tensor analysis, molecular and cellular mechanics of striated muscle; finite deformation elasticity and constitutive relations for soft biological materials; conservation equations for momentum, mass and heat transfer in fluids; viscous flow; boundary layers; pure conduction and diffusion; advective transport of mass and heat.",
+        "subject": "Biomedical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOMENG 221, ENGSCI 211\nRestriction: ENGSCI 343",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BIOMENG/321/1223",
+        "prerequisite_raw": "BIOMENG 221, ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "BIOMENG 221",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "ENGSCI 343",
+        "restriction": [
+            "and",
+            "ENGSCI 343"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 301",
+        "coursename": "Transfer Processes 2",
+        "description": "Principles of continuous and staged processes. Mass transfer in various media, systems and phases. Interrelating equipment design to mass transfer processes. Studies of selected separation processes such as absorption, solvent extraction, distillation, and membrane processes.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 203 or 213, and CHEMMAT 242 or 206\nRestriction: CHEMMAT 312",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/301/1223",
+        "prerequisite_raw": "CHEMMAT 203 or 213, and CHEMMAT 242 or 206",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "CHEMMAT 203",
+                "CHEMMAT 213"
+            ],
+            [
+                "or",
+                "CHEMMAT 242",
+                "CHEMMAT 206"
+            ]
+        ],
+        "restriction_raw": "CHEMMAT 312",
+        "restriction": [
+            "and",
+            "CHEMMAT 312"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 305",
+        "coursename": "Materials Processing and Performance",
+        "description": "Materials processing and performance are critical components of a materials science and engineering degree. This course examines the processing and performance of metals, polymers and ceramics. Topics include metal-making, casting, forming, and forms of degradation, such as corrosion. Emphasis is placed on materials applications for process engineering.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 204 or 221 \nRestriction: CHEMMAT 321, 322, 421",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/305/1223",
+        "prerequisite_raw": "CHEMMAT 204 or 221",
+        "prerequisite": [
+            "or",
+            "CHEMMAT 204",
+            "CHEMMAT 221"
+        ],
+        "restriction_raw": "CHEMMAT 321, 322, 421",
+        "restriction": [
+            "and",
+            "CHEMMAT 321",
+            "CHEMMAT 322",
+            "CHEMMAT 421"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 306",
+        "coursename": "Process Design 2",
+        "description": "The nature and function of design \u2013 process conception, alternatives, constraints and their simulation. Raw materials, safety and environmental considerations. Flow sheet representation of information. Separation systems, heat exchanger networks, and specification of equipment. Process economics and project documentation.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 201 or 211, and CHEMMAT 205 or 232\nRestriction: CHEMMAT 331, 756",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/306/1223",
+        "prerequisite_raw": "CHEMMAT 201 or 211, and CHEMMAT 205 or 232",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "CHEMMAT 201",
+                "CHEMMAT 211"
+            ],
+            [
+                "or",
+                "CHEMMAT 205",
+                "CHEMMAT 232"
+            ]
+        ],
+        "restriction_raw": "CHEMMAT 331, 756",
+        "restriction": [
+            "and",
+            "CHEMMAT 331",
+            "CHEMMAT 756"
+        ]
+    },
+    {
+        "courseid": "CIVIL 300",
+        "coursename": "Geotechnical Engineering",
+        "description": "Compaction, settlement and rate of consolidation. Stability analysis in geotechnical engineering, including slope stability, earth pressures on retaining structures and bearing capacity of shallow foundations.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 200\nRestriction: CIVIL 322",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/300/1223",
+        "prerequisite_raw": "CIVIL 200",
+        "prerequisite": [
+            "and",
+            "CIVIL 200"
+        ],
+        "restriction_raw": "CIVIL 322",
+        "restriction": [
+            "and",
+            "CIVIL 322"
+        ]
+    },
+    {
+        "courseid": "CIVIL 314",
+        "coursename": "Structural Dynamics",
+        "description": "Dynamics of single and multi-degree-of-freedom systems. Ground motion, response spectra, time-history and spectral modal analysis; introduction to seismic design.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/314/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CIVIL 322",
+        "coursename": "Geomechanics 2",
+        "description": "Stability analysis in geotechnical engineering; slope stability, soil pressures on retaining structures, bearing capacity. Consolidation and settlement.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 221",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/322/1223",
+        "prerequisite_raw": "CIVIL 221",
+        "prerequisite": [
+            "and",
+            "CIVIL 221"
+        ]
+    },
+    {
+        "courseid": "CIVIL 331",
+        "coursename": "Hydraulic Engineering",
+        "description": "Pipe flow \u2013 fluid resistance, friction factor, simple pipe flow and minor losses, steady-state pipe flow and pipe networks. Open channel flow \u2013 energy and momentum, uniform flow and flow resistance, critical flow, specific energy and flow force, backwater analysis, channel transitions.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 230 or equivalent",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/331/1223",
+        "prerequisite_raw": "CIVIL 230 or equivalent",
+        "prerequisite": [
+            "or",
+            "CIVIL 230",
+            "equivalent"
+        ]
+    },
+    {
+        "courseid": "CIVIL 360",
+        "coursename": "Transportation Engineering 1",
+        "description": "Highway alignment geometrics (horizontal, vertical and cross sectional design). Basis of the main pavement design techniques, pavement materials, stabilisation, compaction and bituminous surfacings.",
+        "subject": "Civil Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/360/1223",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 303",
+        "coursename": "Managing Projects and Innovation",
+        "description": "Introduction to theory and practice of managing projects, innovation, product development and service delivery. Students work in interdisciplinary teams to complete a project based on a complex real-world systems scenario. Project management and innovation topics are integrated with design studies covered in previous courses, and extended to wider business issues of risk and opportunities, entrepreneurship, financial management, and regulatory issues.",
+        "subject": "Engineering General",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 199, 204",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/303/1223",
+        "prerequisite_raw": "ENGGEN 199, 204",
+        "prerequisite": [
+            "and",
+            "ENGGEN 199",
+            "ENGGEN 204"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 313",
+        "coursename": "Mathematical Modelling 3ECE",
+        "description": "Complex Analysis, including complex numbers, analytic functions, complex integration, Cauchy's theorem, Laurent series, residue theory; Laplace transforms; Modelling with partial differential equations, including electronic and electrical applications; Fourier Analysis, Fourier transform, Fast Fourier transform; Optimisation, including unconstrained and constrained models, linear programming and nonlinear optimisation.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 211\r\nRestriction: ENGSCI 311, 314",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/313/1223",
+        "prerequisite_raw": "ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "ENGSCI 311, 314",
+        "restriction": [
+            "and",
+            "ENGSCI 311",
+            "ENGSCI 314"
+        ]
+    },
+    {
+        "courseid": "ENVENG 300",
+        "coursename": "Natural and Built Environment Processes",
+        "description": "Chemical and Biological treatment processes. Surface water quality modelling. Soil chemistry. Contaminant fate and transport in soil and groundwater. Contaminated sites remediation.",
+        "subject": "Environmental Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENVENG 200\nRestriction: ENVENG 341",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENVENG/300/1223",
+        "prerequisite_raw": "ENVENG 200",
+        "prerequisite": [
+            "and",
+            "ENVENG 200"
+        ],
+        "restriction_raw": "ENVENG 341",
+        "restriction": [
+            "and",
+            "ENVENG 341"
+        ]
+    },
+    {
+        "courseid": "MECHENG 313",
+        "coursename": "Design of Real-Time Software",
+        "description": "Introduces the principles of software design in a real-time environment. Main topics include computer/microcontroller architecture, programming in a real-time environment, software design and data acquisition systems.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MECHENG 270",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/313/1223",
+        "prerequisite_raw": "MECHENG 270",
+        "prerequisite": [
+            "and",
+            "MECHENG 270"
+        ]
+    },
+    {
+        "courseid": "MECHENG 322",
+        "coursename": "Control Systems",
+        "description": "An introduction to classical control of mechanical and mechatronic systems. Topics include: transfer functions, block diagrams, time response characteristics, stability, frequency response characteristics, and controller design (e.g., pole placement, lead-lag compensation, PID). Applications in MATLAB/Simulink and with physical systems.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 211, MECHENG 222",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/322/1223",
+        "prerequisite_raw": "ENGSCI 211, MECHENG 222",
+        "prerequisite": [
+            "and",
+            "ENGSCI 211",
+            "MECHENG 222"
+        ]
+    },
+    {
+        "courseid": "MECHENG 334",
+        "coursename": "Design and Manufacture 3",
+        "description": "Good practice and standard methods in mechanical engineering design. Conceptual and detailed design in projects involving machine elements, engineering sciences and engineering mechanics. Some of the advanced computer-aided tools (e.g., CAD, CAM, CAE) will be introduced and utilised in some projects.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MECHENG 235, 236, 242",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/334/1223",
+        "prerequisite_raw": "MECHENG 235, 236, 242",
+        "prerequisite": [
+            "and",
+            "MECHENG 235",
+            "MECHENG 236",
+            "MECHENG 242"
+        ]
+    },
+    {
+        "courseid": "MECHENG 340",
+        "coursename": "Mechanics of Materials 2",
+        "description": "Complex material behaviour and structural analysis, extending capability from two to three dimensions. States of stress and strain at a point in a general three-dimensional stress system. Generalised stress\u2013strain relations for linearly elastic isotropic materials. Failure theories for ductile and brittle materials, elementary plasticity, and fatigue. Analytical techniques and numerical analysis of complex mechanical elements.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: MECHENG 242",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/340/1223",
+        "prerequisite_raw": "MECHENG 242",
+        "prerequisite": [
+            "and",
+            "MECHENG 242"
+        ]
+    },
+    {
+        "courseid": "MECHENG 370",
+        "coursename": "Electronics and Signal Processing",
+        "description": "An introduction to the design, analysis and implementation of electronic circuits or systems for various applications such as signal generation and processing, interfacing, and high power electronics.",
+        "subject": "Mechanical Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101 or MECHENG 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/370/1223",
+        "prerequisite_raw": "ELECTENG 101 or MECHENG 201",
+        "prerequisite": [
+            "or",
+            "ELECTENG 101",
+            "MECHENG 201"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 350",
+        "coursename": "Human Computer Interaction",
+        "description": "Human behaviour and humans\u2019 expectations of computers. Computer interfaces and the interaction between humans and computers. The significance of the user interface, interface design and user centred design process in software development. Interface usability evaluation methodologies and practice. Includes an evaluation project, group design project, and implementation using current techniques and tools.",
+        "subject": "Software Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: SOFTENG 206\r\nRestriction: COMPSCI 345, 370",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOFTENG/350/1223",
+        "prerequisite_raw": "SOFTENG 206",
+        "prerequisite": [
+            "and",
+            "SOFTENG 206"
+        ],
+        "restriction_raw": "COMPSCI 345, 370",
+        "restriction": [
+            "and",
+            "COMPSCI 345",
+            "COMPSCI 370"
+        ]
+    },
+    {
+        "courseid": "STRCTENG 300",
+        "coursename": "Design Loads and Dynamic Response of Structures",
+        "description": "Determination of design loads according to AS/NZS1170 and the response of structures under dynamic loadings.",
+        "subject": "Structural Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 210 or STRCTENG 200\nRestriction: CIVIL 314",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/300/1223",
+        "prerequisite_raw": "CIVIL 210 or STRCTENG 200",
+        "prerequisite": [
+            "or",
+            "CIVIL 210",
+            "STRCTENG 200"
+        ],
+        "restriction_raw": "CIVIL 314",
+        "restriction": [
+            "and",
+            "CIVIL 314"
+        ]
+    },
+    {
+        "courseid": "STRCTENG 301",
+        "coursename": "Timber Structures Design",
+        "description": "Structural analytical techniques including computer based approaches to simple indeterminate structures. Design procedures for members and structural systems of timber and engineered wood products. Design project.",
+        "subject": "Structural Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 210 or STRCTENG 200\nRestriction: CIVIL 312",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/301/1223",
+        "prerequisite_raw": "CIVIL 210 or STRCTENG 200",
+        "prerequisite": [
+            "or",
+            "CIVIL 210",
+            "STRCTENG 200"
+        ],
+        "restriction_raw": "CIVIL 312",
+        "restriction": [
+            "and",
+            "CIVIL 312"
+        ]
+    },
+    {
+        "courseid": "STRCTENG 304",
+        "coursename": "Structural Design for Civil Engineers",
+        "description": "Structural loading for gravity and wind in accordance with the loading code AS/NZS1170. Design principles and examples for concrete and timber members and design for timber framed buildings using NZS3604. Introduction to seismic building behaviour at a conceptual level.",
+        "subject": "Structural Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 210 or STRCTENG 200\nRestriction: CIVIL 312, 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/304/1223",
+        "prerequisite_raw": "CIVIL 210 or STRCTENG 200",
+        "prerequisite": [
+            "or",
+            "CIVIL 210",
+            "STRCTENG 200"
+        ],
+        "restriction_raw": "CIVIL 312, 313",
+        "restriction": [
+            "and",
+            "CIVIL 312",
+            "CIVIL 313"
+        ]
+    },
+    {
+        "courseid": "COMPSYS 302",
+        "coursename": "Design: Software Practice",
+        "description": "A project-based course to gain experience in software design emphasising problem solving techniques and applications in computer systems engineering. The course includes practical, real-world project(s) involving a representative subset of the following topics: algorithm and data structure selection and implementation, parsing and translation, object-oriented and multi-threaded programming, scripting languages, peer-to-peer communication over internet.",
+        "subject": "Computer Systems Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 202 or SOFTENG 281",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 202 or SOFTENG 281",
+        "prerequisite": [
+            "or",
+            "COMPSYS 202",
+            "SOFTENG 281"
+        ]
+    },
+    {
+        "courseid": "COMPSYS 305",
+        "coursename": "Digital Systems Design",
+        "description": "Digital Systems implementation technologies with emphasis on hardware description languages and design abstraction levels; structural, architectural and behavioural modelling; register-transfer level design; datapath and control units; functional and timing simulations; FPGA-based implementation design flow and case studies.",
+        "subject": "Computer Systems Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 201",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 307",
+        "coursename": "Fields and Waves",
+        "description": "Transmission lines subjected to AC excitation, the Smith chart, introduction to matching network design and introduction to antennas for radio systems. Maxwell\u2019s equations in differential and integral form, divergence and Stokes\u2019 theorems, skin effect and uniform plane waves (lossless/lossy media, reflection and transmission, polarisation). Case studies in computational electromagnetics.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 204",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 204",
+        "prerequisite": [
+            "and",
+            "ELECTENG 204"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 310",
+        "coursename": "Electrical Engineering Design 1",
+        "description": "An appreciation of the design process as applied to various electrical and electronic engineering systems. Design skills are enhanced through a variety of engineering projects which typically introduce students to modelling, simulation and analogue and digital electronic hardware design.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201, and COMPSYS 209 or ELECTENG 209, and ELECTENG 202 or 291, and COMPSYS 202 or SOFTENG 281",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 201, and COMPSYS 209 or ELECTENG 209, and ELECTENG 202 or 291, and COMPSYS 202 or SOFTENG 281",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201",
+            [
+                "or",
+                "COMPSYS 209",
+                "ELECTENG 209"
+            ],
+            [
+                "or",
+                "ELECTENG 202",
+                "ELECTENG 291"
+            ],
+            [
+                "or",
+                "COMPSYS 202",
+                "SOFTENG 281"
+            ]
+        ]
+    },
+    {
+        "courseid": "ENGSCI 311",
+        "coursename": "Mathematical Modelling 3",
+        "description": "A selection from: ordinary differential equations, systems of equations, analytical and numerical methods, non-linear ODEs, partial differential equations, separation of variables, numerical methods for solving PDEs, models for optimisation, industrial statistics, data analysis, regression, experimental design reliability methods.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 211\r\nRestriction: ENGSCI 313, 314",
+        "url": "",
+        "prerequisite_raw": "ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "ENGSCI 313, 314",
+        "restriction": [
+            "and",
+            "ENGSCI 313",
+            "ENGSCI 314"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 314",
+        "coursename": "Mathematical Modelling 3ES",
+        "description": "Mathematical modelling using ordinary and partial differential equations, calculus of variations and statistical methods. Topics include: eigenvalues, eigenvectors, systems of equations, stability, separation of variables, wave and heat equations, Euler-Lagrange equation, Hamilton\u2019s Principle, probability, random variables, common distributions, Poisson process, exploratory data analysis, confidence intervals, hypotheses tests, linear models including one-way and two-way ANOVA, ANCOVA and multiple regression, introduction to logistic regression.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 211\r\nRestriction: ENGSCI 311, 313, 321",
+        "url": "",
+        "prerequisite_raw": "ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "ENGSCI 311, 313, 321",
+        "restriction": [
+            "and",
+            "ENGSCI 311",
+            "ENGSCI 313",
+            "ENGSCI 321"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 343",
+        "coursename": "Mathematical and Computational Modelling in Mechanics",
+        "description": "Development of macroscopic models of physical systems using fundamental mathematical techniques and physical laws. Topics include vector and tensor calculus including indicial notation and integral theorems, conservation laws, control volumes and constitutive equations, continuum assumptions, isotropy and homogeneity. Possible applications include deformation, strain and stress, fluid flow, electromagnetism, reactive chemical transport, and kinetics.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOMENG 221 or MECHENG 242, and ENGSCI 211 or 213\nRestriction: BIOMENG 321",
+        "url": "",
+        "prerequisite_raw": "BIOMENG 221 or MECHENG 242, and ENGSCI 211 or 213",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "BIOMENG 221",
+                "MECHENG 242"
+            ],
+            [
+                "or",
+                "ENGSCI 211",
+                "ENGSCI 213"
+            ]
+        ],
+        "restriction_raw": "BIOMENG 321",
+        "restriction": [
+            "and",
+            "BIOMENG 321"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 391",
+        "coursename": "Optimisation in Operations Research",
+        "description": "Linear programming, the revised simplex method and its computational aspects, duality and the dual simplex method, sensitivity and post-optimal analysis. Network optimisation models and maximum flow algorithms. Transportation, assignment and transhipment models, and the network simplex method. Introduction to integer programming.",
+        "subject": "Engineering Science",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: 15 points from ENGGEN 150, ENGSCI 111, MATHS 208, 250, 253, and 15 points from COMPSCI 101, ENGGEN 131, MATHS 162, STATS 220\nRestriction: ENGSCI 765",
+        "url": "",
+        "prerequisite_raw": "15 points from ENGGEN 150, ENGSCI 111, MATHS 208, 250, 253, and 15 points from COMPSCI 101, ENGGEN 131, MATHS 162, STATS 220",
+        "prerequisite": [
+            "and",
+            [
+                "15",
+                "ENGGEN 150",
+                "ENGSCI 111",
+                "MATHS 208",
+                "MATHS 250",
+                "MATHS 253"
+            ],
+            [
+                "15",
+                "COMPSCI 101",
+                "ENGGEN 131",
+                "MATHS 162",
+                "STATS 220"
+            ]
+        ],
+        "restriction_raw": "ENGSCI 765",
+        "restriction": [
+            "and",
+            "ENGSCI 765"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 351",
+        "coursename": "Fundamentals of Database Systems",
+        "description": "Relational model, Relational algebra, Relational calculus, SQL, SQL and programming languages, Entity-Relationship model, Normalisation, Query processing, Query optimisation, Distributed databases, Transaction management, Concurrency control, Database recovery.",
+        "subject": "Software Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: SOFTENG 251 or 281\nRestriction: COMPSCI 351",
+        "url": "",
+        "prerequisite_raw": "SOFTENG 251 or 281",
+        "prerequisite": [
+            "or",
+            "SOFTENG 251",
+            "SOFTENG 281"
+        ],
+        "restriction_raw": "COMPSCI 351",
+        "restriction": [
+            "and",
+            "COMPSCI 351"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 370",
+        "coursename": "Operating Systems",
+        "description": "History of operating systems. Multi-user systems. Scheduling. Concurrent processes, threads and synchronisation. Memory allocation and virtual memory. Managing files, disks and other peripherals. Security, protection and archiving. Engineering distributed systems; location, migration and replication transparency. Real-time programming and embedded systems.",
+        "subject": "Software Engineering",
+        "term": "S1",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201, and SOFTENG 251 or 281\nRestriction: COMPSCI 340",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 201, and SOFTENG 251 or 281",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201",
+            [
+                "or",
+                "SOFTENG 251",
+                "SOFTENG 281"
+            ]
+        ],
+        "restriction_raw": "COMPSCI 340",
+        "restriction": [
+            "and",
+            "COMPSCI 340"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 121",
+        "coursename": "Materials Science",
+        "description": "Introduction to materials science starting with the fundamentals of atomic structure and bonding and how this builds up a microstructure to create a solid. Metals, polymers, ceramics, electronic materials, composite and biomaterials will be covered and the properties, advantages and disadvantages of each discussed. Considerations such as corrosion, degradation and failure will be studied with a focus on improving design and creating new materials for our future world.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/121/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 115",
+        "coursename": "Principles of Engineering Design",
+        "description": "An introduction to the principles of design as a fundamental part of engineering practice and a foundation for subsequent design courses. Students are also introduced to essential drawing skills and CAD, and complete group-based design projects. Topics include systems life cycle, design, and introductions to professional issues such as health and safety, ethics, sustainability, cultural diversity, communication, leadership, and teamwork.",
+        "subject": "Engineering General",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/115/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 131",
+        "coursename": "Introduction to Engineering Computation and Software Development",
+        "description": "Introduction to problem solving in engineering through the use of the software package MATLAB, and the programming language C.",
+        "subject": "Engineering General",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: ENGSCI 233, 331",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/131/1225",
+        "restriction_raw": "ENGSCI 233, 331",
+        "restriction": [
+            "and",
+            "ENGSCI 233",
+            "ENGSCI 331"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 199",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the Faculty of Engineering.",
+        "subject": "Engineering General",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/199/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ELECTENG 101",
+        "coursename": "Electrical and Digital Systems",
+        "description": "An introduction to electrical, computer and electronic systems and technology. Digital circuits and analysis techniques, computer organisation. Analog circuits and analysis techniques. Inductive power transfer, power systems and electric machines. Communication systems.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: ELECTENG 202, 204, 208, 210",
+        "url": "",
+        "restriction_raw": "ELECTENG 202, 204, 208, 210",
+        "restriction": [
+            "and",
+            "ELECTENG 202",
+            "ELECTENG 204",
+            "ELECTENG 208",
+            "ELECTENG 210"
+        ]
+    },
+    {
+        "courseid": "BIOMENG 241",
+        "coursename": "Instrumentation and Design",
+        "description": "An introduction to engineering instrumentation related to the measurement of biological signals. Topics include: Fundamentals of measurement systems (electric circuits, basic electronics, frequency domain signal analysis and transient analysis, measurement systems). This course will cover the design methodology of instrumentation systems and include an instrumentation design project.",
+        "subject": "Biomedical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BIOMENG/241/1225",
+        "prerequisite_raw": "ELECTENG 101",
+        "prerequisite": [
+            "and",
+            "ELECTENG 101"
+        ]
+    },
+    {
+        "courseid": "BIOMENG 261",
+        "coursename": "Tissue and Biomolecular Engineering",
+        "description": "Overview of molecular and tissue engineering principles emphasising biochemical kinetics, gene regulation, cell behaviour and biomedical ethics. Laboratory practice and design project in cell culture and molecular biology techniques. Topics include enzymes and regulation of metabolic pathways, thermodynamic principles of biochemical reactions, systems biology and regulatory motifs in biochemical networks, cell culture techniques, research and medical ethics.",
+        "subject": "Biomedical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOSCI 107, ENGSCI 211\nRestriction: BIOMENG 361",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BIOMENG/261/1225",
+        "prerequisite_raw": "BIOSCI 107, ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "BIOSCI 107",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "BIOMENG 361",
+        "restriction": [
+            "and",
+            "BIOMENG 361"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 202",
+        "coursename": "Process Engineering 2: Energy and Processing",
+        "description": "Introduction to thermodynamics for process engineering. The first and second laws of thermodynamics. Application of thermodynamic concepts in closed systems, flow processes and cycles, refrigeration and liquefaction. Classical chemical thermodynamics including concepts of chemical potential, fugacity and activities; their applications to vapour-liquid equilibria and reacting systems. Multi-component physical equilibria. Multiple reaction equilibria and system-free energy minimisation. Practical examples and applications.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: CHEMMAT 212",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/202/1225",
+        "restriction_raw": "CHEMMAT 212",
+        "restriction": [
+            "and",
+            "CHEMMAT 212"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 205",
+        "coursename": "Process Design 1",
+        "description": "Mechanics of solids and analysis of stress and strain. Introduction to materials selection. Design of thin walled pressure vessels. Application to the design of vessels, tanks, reactors, piping and heat transfer equipment. Introduction to the chemical industry, unit operations, line diagrams and process equipment. Report writing and oral communication skills.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 121 or equivalent\nRestriction: CHEMMAT 231, 232",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/205/1225",
+        "prerequisite_raw": "ENGGEN 121 or equivalent",
+        "prerequisite": [
+            "or",
+            "ENGGEN 121",
+            "equivalent"
+        ],
+        "restriction_raw": "CHEMMAT 231, 232",
+        "restriction": [
+            "and",
+            "CHEMMAT 231",
+            "CHEMMAT 232"
+        ]
+    },
+    {
+        "courseid": "CIVIL 200",
+        "coursename": "Introduction to Geotechnical Engineering",
+        "description": "The basic concepts and principles governing the mechanical behaviour of soil. Engineering geology, site investigation and soil classification. The principle of effective stress, permeability and seepage, and soil shear strength.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: CIVIL 220, 221",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/200/1225",
+        "restriction_raw": "CIVIL 220, 221",
+        "restriction": [
+            "and",
+            "CIVIL 220",
+            "CIVIL 221"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 204",
+        "coursename": "Engineering Electromagnetics",
+        "description": "Electrostatics (Coulomb\u2019s and Gauss\u2019s Laws, scalar potential, energy, capacitance, dielectrics), magnetostatics (Biot-Savart and Ampere\u2019s Laws, moving conductors, magnetic forces/torques, ferromagnetic hysteresis, inductance, magnetic materials), electromagnetic induction (Faraday\u2019s and Lenz\u2019s Laws). Transmission lines subjected to pulse excitation, magnetic circuits and single-phase transformers. Introduction to computational electromagnetics.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ELECTENG/204/1225",
+        "prerequisite_raw": "ELECTENG 101",
+        "prerequisite": [
+            "and",
+            "ELECTENG 101"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 204",
+        "coursename": "Professional Skills and Communication",
+        "description": "A system-wide view of the role of the professional engineer in society and business. The skills of advocacy, and individual and group-based communication are put into practice. Scenarios representative of real-world issues are addressed through team-based projects and problem solving. The professional issues introduced in ENGGEN 115 (health and safety, ethics, sustainability, cultural diversity, communication, leadership, and teamwork) are continued and developed.",
+        "subject": "Engineering General",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 115, 199",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/204/1225",
+        "prerequisite_raw": "ENGGEN 115, 199",
+        "prerequisite": [
+            "and",
+            "ENGGEN 115",
+            "ENGGEN 199"
+        ]
+    },
+    {
+        "courseid": "ENGGEN 299",
+        "coursename": "Workshop Practice",
+        "description": "",
+        "subject": "Engineering General",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: BIOMENG 299, CHEMMAT 299, CIVIL 299, COMPSYS 299, ELECTENG 299, ENGSCI 299, MECHENG 299, MECHTRON 299, SOFTENG 299, STRCTENG 299",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/299/1225",
+        "restriction_raw": "BIOMENG 299, CHEMMAT 299, CIVIL 299, COMPSYS 299, ELECTENG 299, ENGSCI 299, MECHENG 299, MECHTRON 299, SOFTENG 299, STRCTENG 299",
+        "restriction": [
+            "and",
+            "BIOMENG 299",
+            "CHEMMAT 299",
+            "CIVIL 299",
+            "COMPSYS 299",
+            "ELECTENG 299",
+            "ENGSCI 299",
+            "MECHENG 299",
+            "MECHTRON 299",
+            "SOFTENG 299",
+            "STRCTENG 299"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 205",
+        "coursename": "Special Topic",
+        "description": "",
+        "subject": "Engineering Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/205/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGSCI 263",
+        "coursename": "Engineering Science Design I",
+        "description": "Introduction to concepts of model design for engineering problems, including model formulation, solution procedures, validation, and shortcomings, with examples from topics in computational mechanics, operations research and data science. Further development of problem-solving skills and group project work. The use of computational models to support design-focused decision making while considering ethical and societal factors.",
+        "subject": "Engineering Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 115, and ENGGEN 150 or ENGSCI 111\nCorequisite: ENGSCI 211 or 213",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/263/1225",
+        "prerequisite_raw": "ENGGEN 115, and ENGGEN 150 or ENGSCI 111",
+        "prerequisite": [
+            "and",
+            "ENGGEN 115",
+            [
+                "or",
+                "ENGGEN 150",
+                "ENGSCI 111"
+            ]
+        ],
+        "corequisite_raw": "ENGSCI 211 or 213",
+        "corequisite": [
+            "or",
+            "ENGSCI 211",
+            "ENGSCI 213"
+        ]
+    },
+    {
+        "courseid": "ENVENG 200",
+        "coursename": "Fundamentals of Environmental Engineering",
+        "description": "Introduction to environmental engineering principles. Role of environmental engineers in the twenty-first century. Environmental measurements, environmental standards and impact assessment. Material mass balance. Drinking water, wastewater and stormwater treatment. Air quality parameters. Solid waste management. Sustainability. Environmental Impact Assessment.",
+        "subject": "Environmental Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 140\nRestriction: ENVENG 244",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENVENG/200/1225",
+        "prerequisite_raw": "ENGGEN 140",
+        "prerequisite": [
+            "and",
+            "ENGGEN 140"
+        ],
+        "restriction_raw": "ENVENG 244",
+        "restriction": [
+            "and",
+            "ENVENG 244"
+        ]
+    },
+    {
+        "courseid": "MECHENG 211",
+        "coursename": "Thermofluids",
+        "description": "The fundamentals of fluid mechanics, thermodynamics and heat transfer with practical applications to engineering devices and systems.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/211/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MECHENG 222",
+        "coursename": "Dynamics",
+        "description": "Kinematics of particles, rectilinear and curvilinear motion, kinematics of rigid bodies in the plane. Kinetics of particles, systems of particles and rigid bodies. Impulse and momentum, mechanism motion in the plane. Vibration of a particle.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGGEN 121 or 150",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/222/1225",
+        "prerequisite_raw": "ENGGEN 121 or 150",
+        "prerequisite": [
+            "or",
+            "ENGGEN 121",
+            "ENGGEN 150"
+        ]
+    },
+    {
+        "courseid": "MECHENG 236",
+        "coursename": "Design and Manufacture 2",
+        "description": "Machine elements and their use in engineering design, including internal combustion engines, clutches, brakes, and basic hydraulic and pneumatics systems and components. Material-based production processes and fabrication methods. Design reliability and safety. Basic principles of \"Design for X\".",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MECHENG 235",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/236/1225",
+        "prerequisite_raw": "MECHENG 235",
+        "prerequisite": [
+            "and",
+            "MECHENG 235"
+        ]
+    },
+    {
+        "courseid": "MECHENG 270",
+        "coursename": "Software Design",
+        "description": "Fundamentals of software design and high-level programming making use of case studies and programming projects. Includes: requirements analysis, specification methods, software architecture, software development environments, software quality, modularity, maintenance, reusability and reliability; models of software development.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: COMPSYS 202, SOFTENG 281",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/270/1225",
+        "restriction_raw": "COMPSYS 202, SOFTENG 281",
+        "restriction": [
+            "and",
+            "COMPSYS 202",
+            "SOFTENG 281"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 206",
+        "coursename": "Software Engineering Design 1",
+        "description": "Project work. Skills and tools in systematic development of software, including testing, version control, build systems, working with others.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: SOFTENG 251 or 281",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOFTENG/206/1225",
+        "prerequisite_raw": "SOFTENG 251 or 281",
+        "prerequisite": [
+            "or",
+            "SOFTENG 251",
+            "SOFTENG 281"
+        ]
+    },
+    {
+        "courseid": "STRCTENG 201",
+        "coursename": "Civil Engineering Materials and Design",
+        "description": "Properties and manufacturing of civil engineering material including concrete, steel, timber structural products and roading material. Design principles and examples for concrete, steel and timber members.",
+        "subject": "Structural Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: CIVIL 250",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/201/1225",
+        "restriction_raw": "CIVIL 250",
+        "restriction": [
+            "and",
+            "CIVIL 250"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 203",
+        "coursename": "Process Engineering 3: Transfer Processes",
+        "description": "Fluid properties and statics (specific gravity, viscosity, surface tension, flow types, manometry). Modelling fluid motion (Bernoulli equation. Dimensional analysis and similitude: Reynolds Number, Friction factor, Prandtl number). Flow measurement (pumps/pumping and valves). Heat transfer including: steady state conduction, convection and radiation; and effects of geometry, force and natural convection. Heat transfer processes (correlation with flow processes, heat transfer coefficients). Applications.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: CHEMMAT 213",
+        "url": "",
+        "restriction_raw": "CHEMMAT 213",
+        "restriction": [
+            "and",
+            "CHEMMAT 213"
+        ]
+    },
+    {
+        "courseid": "COMPSYS 209",
+        "coursename": "Computer Systems Design",
+        "description": "Project-based course introducing real-world design aspects of hardware and software components of computer systems using appropriate design methodology. Practical skills will be gained in computer aided design tools, printed circuit board design and construction.",
+        "subject": "Computer Systems Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201, ELECTENG 291, SOFTENG 250 or 281\nRestriction: ELECTENG 209",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 201, ELECTENG 291, SOFTENG 250 or 281",
+        "prerequisite": [
+            "or",
+            "COMPSYS 201",
+            "ELECTENG 291",
+            "SOFTENG 250",
+            "SOFTENG 281"
+        ],
+        "restriction_raw": "ELECTENG 209",
+        "restriction": [
+            "and",
+            "ELECTENG 209"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 209",
+        "coursename": "Analogue and Digital Design",
+        "description": "Project-based course introducing the process of electrical engineering design. Students will research a diverse range of practical problems and develop solutions and prototypes, test and evaluate hardware and software solutions, and communicate the design and results.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201 and ELECTENG 202, or COMPSYS 201 and ELECTENG 291, or PHYSICS 140 and 244",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 201 and ELECTENG 202, or COMPSYS 201 and ELECTENG 291, or PHYSICS 140 and 244",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "COMPSYS 201",
+                "ELECTENG 202"
+            ],
+            [
+                "and",
+                "COMPSYS 201",
+                "ELECTENG 291"
+            ],
+            [
+                "and",
+                "PHYSICS 140",
+                "PHYSICS 244"
+            ]
+        ]
+    },
+    {
+        "courseid": "ELECTENG 292",
+        "coursename": "Electronics",
+        "description": "Electronic devices and circuits for solving engineering problems. Analysis of linear and non-linear microelectronic circuits and their practical applications.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 202 or 291, or PHYSICS 121 and 244\nRestriction: ELECTENG 210",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 202 or 291, or PHYSICS 121 and 244",
+        "prerequisite": [
+            "or",
+            "ELECTENG 202",
+            "ELECTENG 291",
+            [
+                "and",
+                "PHYSICS 121",
+                "PHYSICS 244"
+            ]
+        ],
+        "restriction_raw": "ELECTENG 210",
+        "restriction": [
+            "and",
+            "ELECTENG 210"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 283",
+        "coursename": "Software Quality Assurance",
+        "description": "Software verification and validation. Static and dynamic quality assurance activities as part of the software lifecycle. Unit, integration, system, and usability testing. Metrics to quantify strength of testing and complexity of programs. Techniques for engineering of software systems including requirements, specification, validation, verification. Modelling paradigms including information, behaviour, domain, function and constraint models. Specification languages.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 202 or SOFTENG 251 or 281 \nRestriction: SOFTENG 254",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 202 or SOFTENG 251 or 281",
+        "prerequisite": [
+            "or",
+            "COMPSYS 202",
+            "SOFTENG 251",
+            "SOFTENG 281"
+        ],
+        "restriction_raw": "SOFTENG 254",
+        "restriction": [
+            "and",
+            "SOFTENG 254"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 284",
+        "coursename": "Data Structures and Algorithms",
+        "description": "Data structures including linked-lists, stacks, queues, trees, hash tables; graph representations and algorithms, including minimum spanning trees, traversals, shortest paths; introduction to algorithmic design strategies; correctness and performance analysis.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 202 or SOFTENG 251 or 281\nRestriction: SOFTENG 250",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 202 or SOFTENG 251 or 281",
+        "prerequisite": [
+            "or",
+            "COMPSYS 202",
+            "SOFTENG 251",
+            "SOFTENG 281"
+        ],
+        "restriction_raw": "SOFTENG 250",
+        "restriction": [
+            "and",
+            "SOFTENG 250"
+        ]
+    },
+    {
+        "courseid": "BIOMENG 341",
+        "coursename": "Bioinstrumentation and Design",
+        "description": "Sensors and actuators (temperature, position, force, pressure, flow, bioelectric, optical sensors and instruments). Signals, systems and controls (s-domain signal notation, transfer functions, frequency response functions, block diagrams, the Laplace transform, first and second order systems, characterisation methods, fundamentals of control). Bioinstrumentation design methodology, Biomedical instrumentation design project.",
+        "subject": "Biomedical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOMENG 241",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BIOMENG/341/1225",
+        "prerequisite_raw": "BIOMENG 241",
+        "prerequisite": [
+            "and",
+            "BIOMENG 241"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 302",
+        "coursename": "Advanced Process Engineering",
+        "description": "An in-depth analysis of selected topics that influence the design, operation, and performance of process plants. Topics include: particulate technology, particle mechanics and particle motions, non-Newtonian fluid flow, two-phase solid-liquid and gas-liquid flow, computational fluid dynamics, flow through porous media and packed beds, filtration, centrifugation, fluidisation, variable-analysis of variations in materials and product processing, membrane separation methods and optimisation techniques.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 203 or 213\nRestriction: CHEMMAT 313, 316, 411",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/302/1225",
+        "prerequisite_raw": "CHEMMAT 203 or 213",
+        "prerequisite": [
+            "or",
+            "CHEMMAT 203",
+            "CHEMMAT 213"
+        ],
+        "restriction_raw": "CHEMMAT 313, 316, 411",
+        "restriction": [
+            "and",
+            "CHEMMAT 313",
+            "CHEMMAT 316",
+            "CHEMMAT 411"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 303",
+        "coursename": "Chemical Reactor Engineering",
+        "description": "Kinetics of multiple reactions, analysis of basic reactors \u2013 batch, plug flow, and continuous stirred tank. Performance under isothermal, adiabatic, and varying temperature. Effect of semi-continuous, counterflow and recycle on performance. Heterogeneous reactions and catalysis, diffusion and reaction in porous catalysts, effects of external mass transfer resistance, fixed and fluidised bed reactors, gas-liquid reactors. Reactor engineering for biological and electrochemical systems.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 202 and 206, or CHEMMAT 212 and 242\nRestriction: CHEMMAT 315",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/303/1225",
+        "prerequisite_raw": "CHEMMAT 202 and 206, or CHEMMAT 212 and 242",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "CHEMMAT 202",
+                "CHEMMAT 206"
+            ],
+            [
+                "and",
+                "CHEMMAT 212",
+                "CHEMMAT 242"
+            ]
+        ],
+        "restriction_raw": "CHEMMAT 315",
+        "restriction": [
+            "and",
+            "CHEMMAT 315"
+        ]
+    },
+    {
+        "courseid": "CHEMMAT 304",
+        "coursename": "The Future of Energy",
+        "description": "Discussion of topical and significant developments in the field of energy transformation, usage and storage in the context of climate change, both globally and in New Zealand. Topics include: energy efficiency, energy storage and applications, sustainability, non-renewable and renewable power generation.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CHEMMAT 201 or 211\nRestriction: CHEMMAT 317",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/304/1225",
+        "prerequisite_raw": "CHEMMAT 201 or 211",
+        "prerequisite": [
+            "or",
+            "CHEMMAT 201",
+            "CHEMMAT 211"
+        ],
+        "restriction_raw": "CHEMMAT 317",
+        "restriction": [
+            "and",
+            "CHEMMAT 317"
+        ]
+    },
+    {
+        "courseid": "CIVIL 301",
+        "coursename": "Foundation Engineering",
+        "description": "Design of foundations, both shallow and pile, for buildings and other structures. Assessment of foundation ultimate capacity and working load settlement. Site investigation methods, with particular emphasis on the use of penetrometer tests to estimate soil parameter values. Current foundation construction methods.\nDesign of embedded retaining walls. Special aspects of house foundation design and construction. Observed foundation performance.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 300, and STRCTENG 300 or 301 or 304\nRestriction: CIVIL 721",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/301/1225",
+        "prerequisite_raw": "CIVIL 300, and STRCTENG 300 or 301 or 304",
+        "prerequisite": [
+            "and",
+            "CIVIL 300",
+            [
+                "or",
+                "STRCTENG 300",
+                "STRCTENG 301",
+                "STRCTENG 304"
+            ]
+        ],
+        "restriction_raw": "CIVIL 721",
+        "restriction": [
+            "and",
+            "CIVIL 721"
+        ]
+    },
+    {
+        "courseid": "CIVIL 302",
+        "coursename": "Hydrology and Open Channel Flow",
+        "description": "Engineering hydrology: Hydrologic processes, analysis of rainfall-runoff relationships, statistical analysis of hydrological data, groundwater flow. Open channel flow: energy and momentum, uniform flow and flow resistance, critical flow, specific energy and flow force, backwater analysis, channel transitions.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 202\nRestriction: CIVIL 331, ENVENG 333",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/302/1225",
+        "prerequisite_raw": "CIVIL 202",
+        "prerequisite": [
+            "and",
+            "CIVIL 202"
+        ],
+        "restriction_raw": "CIVIL 331, ENVENG 333",
+        "restriction": [
+            "and",
+            "CIVIL 331",
+            "ENVENG 333"
+        ]
+    },
+    {
+        "courseid": "CIVIL 303",
+        "coursename": "Transport Operations and Pavements",
+        "description": "Traffic engineering, transportation planning and road pavement design. Topics include the main transport planning and traffic design techniques, criteria and fundamentals used in transportation engineering practice, traffic studies, public transport and active modes and transport modelling (micro and macro simulation). Additionally, pavement design, surfacings, traffic loading, mechanistic approaches and rehabilitation of road pavements are included.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 203\nRestriction: CIVIL 360, 361",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/303/1225",
+        "prerequisite_raw": "CIVIL 203",
+        "prerequisite": [
+            "and",
+            "CIVIL 203"
+        ],
+        "restriction_raw": "CIVIL 360, 361",
+        "restriction": [
+            "and",
+            "CIVIL 360",
+            "CIVIL 361"
+        ]
+    },
+    {
+        "courseid": "CIVIL 304",
+        "coursename": "Climate Adaptation Design",
+        "description": "Fundamental understanding of the impact of climate change on horizontal infrastructure and the adaptation design and strategies to respond to these changes. Topic areas include the impact of climate on infrastructure, vulnerability studies and adaptation design and management techniques. Studies in knowledge areas of design, management and resilience of transport (roads, ports and wharves), water provision, stormwater and wastewater systems.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 203\nCorequisite: CIVIL 303\nRestriction: CIVIL 360, 759",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/304/1225",
+        "prerequisite_raw": "CIVIL 203",
+        "prerequisite": [
+            "and",
+            "CIVIL 203"
+        ],
+        "corequisite_raw": "CIVIL 303",
+        "corequisite": [
+            "and",
+            "CIVIL 303"
+        ],
+        "restriction_raw": "CIVIL 360, 759",
+        "restriction": [
+            "and",
+            "CIVIL 360",
+            "CIVIL 759"
+        ]
+    },
+    {
+        "courseid": "CIVIL 305",
+        "coursename": "Construction Informatics",
+        "description": "The application of digital and automation technologies (such as building information modelling, virtual reality/augmented reality, internet of things, laser scanning, drones, artificial intelligence, big data, robotics) in civil engineering and management.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/305/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CIVIL 361",
+        "coursename": "Transportation Engineering 2",
+        "description": "Planning for land transport facilities and urban development. Arrangement of street networks and environmental areas. Basic operational analyses at priority and signalised intersections for vehicles and pedestrians. Highway capacity analyses. Parking design. Introduction to transportation planning modelling.",
+        "subject": "Civil Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CIVIL/361/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "COMPSYS 301",
+        "coursename": "Design: Hardware Software Systems",
+        "description": "An appreciation of the engineering design process as applied to computer systems. Design skills are enhanced through engineering projects which typically include elements of: computer hardware design, computer software design, system design and control, sensing, actuation and interfacing.",
+        "subject": "Computer Systems Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 305, and COMPSYS 209 or ELECTENG 209, and COMPSYS 202 or SOFTENG 281",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSYS/301/1225",
+        "prerequisite_raw": "COMPSYS 305, and COMPSYS 209 or ELECTENG 209, and COMPSYS 202 or SOFTENG 281",
+        "prerequisite": [
+            "and",
+            "COMPSYS 305",
+            [
+                "or",
+                "COMPSYS 209",
+                "ELECTENG 209"
+            ],
+            [
+                "or",
+                "COMPSYS 202",
+                "SOFTENG 281"
+            ]
+        ]
+    },
+    {
+        "courseid": "COMPSYS 303",
+        "coursename": "Microcomputers and Embedded Systems",
+        "description": "Embedded applications. Microprocessors, microcontrollers, architecture, organisation, programming memories, I/O interfacing. Sensors, actuators, analog interfaces. Hardware/Software partitioning and interfacing. Concurrency. Implementing data transformations and reactivity. Case studies.",
+        "subject": "Computer Systems Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201, and COMPSYS 202 or SOFTENG 251 or 281",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSYS/303/1225",
+        "prerequisite_raw": "COMPSYS 201, and COMPSYS 202 or SOFTENG 251 or 281",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201",
+            [
+                "or",
+                "COMPSYS 202",
+                "SOFTENG 251",
+                "SOFTENG 281"
+            ]
+        ]
+    },
+    {
+        "courseid": "COMPSYS 304",
+        "coursename": "Computer Architecture",
+        "description": "Modern processor architectures. Principles of modern processor design; pipelining; memory hierarchies; I/O and network interfacing; compiler and OS support; embedded processors; performance; multiprocessing.",
+        "subject": "Computer Systems Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201\nRestriction: COMPSCI 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSYS/304/1225",
+        "prerequisite_raw": "COMPSYS 201",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201"
+        ],
+        "restriction_raw": "COMPSCI 313",
+        "restriction": [
+            "and",
+            "COMPSCI 313"
+        ]
+    },
+    {
+        "courseid": "COMPSYS 306",
+        "coursename": "Artificial Intelligence and Machine Learning",
+        "description": "Fundamentals of artificial intelligence, including topics from artificial neural networks, fuzzy models, genetic algorithms. Using machine learning as an application of artificial intelligence to use data for training and inference, including topics from convolutional neural networks, deep learning, pattern classification and recognition.",
+        "subject": "Computer Systems Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201, and COMPSYS 202 or SOFTENG 281",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSYS/306/1225",
+        "prerequisite_raw": "COMPSYS 201, and COMPSYS 202 or SOFTENG 281",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201",
+            [
+                "or",
+                "COMPSYS 202",
+                "SOFTENG 281"
+            ]
+        ]
+    },
+    {
+        "courseid": "ELECTENG 305",
+        "coursename": "Applied Electronics",
+        "description": "An advanced treatment of electronic circuits including a rigorous treatment of feedback, device limitations, noise effects, stability, and design considerations. Emphasis on common practical circuits taken from analog and switching applications.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 202 or 291, and 210 or 292",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ELECTENG/305/1225",
+        "prerequisite_raw": "ELECTENG 202 or 291, and 210 or 292",
+        "prerequisite": [
+            "and",
+            [
+                "or",
+                "ELECTENG 202",
+                "ELECTENG 291"
+            ],
+            [
+                "or",
+                "ELECTENG 210",
+                "ELECTENG 292"
+            ]
+        ]
+    },
+    {
+        "courseid": "ENGSCI 311",
+        "coursename": "Mathematical Modelling 3",
+        "description": "A selection from: ordinary differential equations, systems of equations, analytical and numerical methods, non-linear ODEs, partial differential equations, separation of variables, numerical methods for solving PDEs, models for optimisation, industrial statistics, data analysis, regression, experimental design reliability methods.",
+        "subject": "Engineering Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 211\r\nRestriction: ENGSCI 313, 314",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/311/1225",
+        "prerequisite_raw": "ENGSCI 211",
+        "prerequisite": [
+            "and",
+            "ENGSCI 211"
+        ],
+        "restriction_raw": "ENGSCI 313, 314",
+        "restriction": [
+            "and",
+            "ENGSCI 313",
+            "ENGSCI 314"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 331",
+        "coursename": "Computational Techniques 2",
+        "description": "Methods for computing numerical solutions of mathematical models and data analytics problems with focus on translating algorithms to computer code. A selection of topics from numerical solution of linear and non-linear equations, eigen problems, ordinary and partial differential equations, databases, inverse problems and parameter estimation.",
+        "subject": "Engineering Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 233\nCorequisite: ENGSCI 311 or 313 or 314",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/331/1225",
+        "prerequisite_raw": "ENGSCI 233",
+        "prerequisite": [
+            "and",
+            "ENGSCI 233"
+        ],
+        "corequisite_raw": "ENGSCI 311 or 313 or 314",
+        "corequisite": [
+            "or",
+            "ENGSCI 311",
+            "ENGSCI 313",
+            "ENGSCI 314"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 344",
+        "coursename": "Computational Design for Physical Systems",
+        "description": "Computational engineering solutions to problems involving complex physical systems, using numerical tools commonly used in engineering practice. This will develop skills in: analysing complexity and selecting an appropriate model representation of the physical problem; choosing the correct computational tool with which to solve the model; designing and executing appropriate numerical experiments using the chosen tool; validating, interpreting and communicating the simulation results.",
+        "subject": "Engineering Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: BIOMENG 321 or ENGSCI 343\nRestriction: ENGSCI 746",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/344/1225",
+        "prerequisite_raw": "BIOMENG 321 or ENGSCI 343",
+        "prerequisite": [
+            "or",
+            "BIOMENG 321",
+            "ENGSCI 343"
+        ],
+        "restriction_raw": "ENGSCI 746",
+        "restriction": [
+            "and",
+            "ENGSCI 746"
+        ]
+    },
+    {
+        "courseid": "ENGSCI 355",
+        "coursename": "Simulation Modelling for Process Design",
+        "description": "Use of simulation models to design complex processes, with an emphasis on practical problem solving and laboratory-based learning.",
+        "subject": "Engineering Science",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ENGSCI 255 or STATS 255\nRestriction: OPSRES 385",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/355/1225",
+        "prerequisite_raw": "ENGSCI 255 or STATS 255",
+        "prerequisite": [
+            "or",
+            "ENGSCI 255",
+            "STATS 255"
+        ],
+        "restriction_raw": "OPSRES 385",
+        "restriction": [
+            "and",
+            "OPSRES 385"
+        ]
+    },
+    {
+        "courseid": "ENVENG 331",
+        "coursename": "Three Waters: Quality and Treatment",
+        "description": "Drinking-water treatment, stormwater and agricultural runoffs, biological wastewater treatment, small-scale water treatment systems, nutrient removal, micropollutants, emerging contaminants, water quality standards.",
+        "subject": "Environmental Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENVENG/331/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MECHENG 306",
+        "coursename": "Design of Sensing and Actuating Systems",
+        "description": "A range of projects on mechatronic elements and systems, involving sensors, actuators and microcontrollers, as well as their interfacing. The design of mechatronic sub-systems, including interfacing, signal conditioning and processing, sensors, actuators, control technologies, software, systems modelling, simulation, analysis and design.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Restriction: MECHENG 312",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/306/1225",
+        "restriction_raw": "MECHENG 312",
+        "restriction": [
+            "and",
+            "MECHENG 312"
+        ]
+    },
+    {
+        "courseid": "MECHENG 311",
+        "coursename": "Thermal Engineering",
+        "description": "Second Law of Thermodynamics, entropy. Cycles and applications. Heat transfer, heat exchangers.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MECHENG 211",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/311/1225",
+        "prerequisite_raw": "MECHENG 211",
+        "prerequisite": [
+            "and",
+            "MECHENG 211"
+        ]
+    },
+    {
+        "courseid": "MECHENG 325",
+        "coursename": "Dynamics of Fluids and Structures",
+        "description": "3D rigid body dynamics - inertia tensor, Euler's equations, gyroscopic motion. Vibration of single and two degree of freedom systems. Applications to vibration engineering. Introductory acoustics and spectral analysis. Mass, linear momentum, angular momentum and energy equations. Application to internal and external flows, boundary layers, pumps, turbines and lifting bodies. Experimental and numerical methods, dimensional analysis, similarity, and flow measurement.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: MECHENG 211, 222",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/325/1225",
+        "prerequisite_raw": "MECHENG 211, 222",
+        "prerequisite": [
+            "and",
+            "MECHENG 211",
+            "MECHENG 222"
+        ]
+    },
+    {
+        "courseid": "MECHENG 352",
+        "coursename": "Manufacturing Systems",
+        "description": "An introduction to the procedures and technological aspects of a typical manufacturing system; basic concepts and practice of plant and work design, automation, CADCAM, planning and simulation; selected IoT technologies; and project-based introduction to the tools and techniques applied by professional engineers in a modern manufacturing setting.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/352/1225",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MECHENG 371",
+        "coursename": "Digital Circuit Design",
+        "description": "Fundamental concepts in the design of combinational and sequential logic circuits. Modern approach to design using CAD tools that exploit the advantage of automation. Students will be exposed to the use of FPGA to rapid prototype digital systems using schematic and hardware description language entries.",
+        "subject": "Mechanical Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 101 or MECHENG 201",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MECHENG/371/1225",
+        "prerequisite_raw": "ELECTENG 101 or MECHENG 201",
+        "prerequisite": [
+            "or",
+            "ELECTENG 101",
+            "MECHENG 201"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 306",
+        "coursename": "Software Engineering Design 2",
+        "description": "Working in project teams to develop software to meet changing requirements for a large application. Project Planning. Requirements gathering. Estimating, costing and tracking. Acceptance and unit testing. Evolutionary design and development. Collaborative development tools.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: SOFTENG 206, and SOFTENG 254 or 283",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOFTENG/306/1225",
+        "prerequisite_raw": "SOFTENG 206, and SOFTENG 254 or 283",
+        "prerequisite": [
+            "and",
+            "SOFTENG 206",
+            [
+                "or",
+                "SOFTENG 254",
+                "SOFTENG 283"
+            ]
+        ]
+    },
+    {
+        "courseid": "STRCTENG 303",
+        "coursename": "Concrete Structures Design",
+        "description": "Design of reinforced concrete members including beams, columns, walls, foundations. Introduction to prestressed and precast concrete design and applications. Use of the NZ Concrete Structures Standard, NZS 3101.",
+        "subject": "Structural Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 210 or STRCTENG 200\nRestriction: CIVIL 313",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STRCTENG/303/1225",
+        "prerequisite_raw": "CIVIL 210 or STRCTENG 200",
+        "prerequisite": [
+            "or",
+            "CIVIL 210",
+            "STRCTENG 200"
+        ],
+        "restriction_raw": "CIVIL 313",
+        "restriction": [
+            "and",
+            "CIVIL 313"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 309",
+        "coursename": "Power Apparatus and Systems",
+        "description": "Introduces students to three-phase electric machines and power system components. Covers theory, modelling and practical aspects for synchronous machines, induction machines, transformer connections, transmission lines and substation components.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 204",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 204",
+        "prerequisite": [
+            "and",
+            "ELECTENG 204"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 311",
+        "coursename": "Electrical Engineering Design 2",
+        "description": "The formal introduction to the design process is completed by one or more open-ended projects which typically include elements of design from concept to working prototype.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 310",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 310",
+        "prerequisite": [
+            "and",
+            "ELECTENG 310"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 331",
+        "coursename": "Signals and Systems",
+        "description": "Introduction to continuous-time and discrete-time signals and systems. Spectral analysis and representation of analog and digital signals, and linear, time-invariant systems. Conversion between analog and digital signals. Systems for manipulating and filtering signals in hardware and software.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 202 or 291, or PHYSICS 140 and 244\nRestriction: ELECTENG 303",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 202 or 291, or PHYSICS 140 and 244",
+        "prerequisite": [
+            "or",
+            "ELECTENG 202",
+            "ELECTENG 291",
+            [
+                "and",
+                "PHYSICS 140",
+                "PHYSICS 244"
+            ]
+        ],
+        "restriction_raw": "ELECTENG 303",
+        "restriction": [
+            "and",
+            "ELECTENG 303"
+        ]
+    },
+    {
+        "courseid": "ELECTENG 332",
+        "coursename": "Control Systems",
+        "description": "Introduction to modelling in the time-domain and frequency domain. The fundamental body of knowledge underlying the control and enhancement of system behaviour, with application to the analysis and control of systems.",
+        "subject": "Electrical a Electronic Engine",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: ELECTENG 202 or 291\nRestriction: ELECTENG 303",
+        "url": "",
+        "prerequisite_raw": "ELECTENG 202 or 291",
+        "prerequisite": [
+            "or",
+            "ELECTENG 202",
+            "ELECTENG 291"
+        ],
+        "restriction_raw": "ELECTENG 303",
+        "restriction": [
+            "and",
+            "ELECTENG 303"
+        ]
+    },
+    {
+        "courseid": "ENVENG 333",
+        "coursename": "Engineering Hydrology",
+        "description": "Hydrologic processes, analysis of rainfall-runoff relationships. Statistical analysis of hydrological data. Groundwater movement.",
+        "subject": "Environmental Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOFTENG 310",
+        "coursename": "Software Evolution and Maintenance",
+        "description": "Design and maintenance of multi-version software, debugging techniques, design and documentation for software re-use, programme migration and transformation, refactoring, tools for software evolution and maintenance.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: SOFTENG 254 or 283",
+        "url": "",
+        "prerequisite_raw": "SOFTENG 254 or 283",
+        "prerequisite": [
+            "or",
+            "SOFTENG 254",
+            "SOFTENG 283"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 325",
+        "coursename": "Software Architecture",
+        "description": "Taxonomy of software architecture patterns, including client/server and multi-tier. Understanding quality attributes. Methodologies for design of software architectures. Technologies for architecture level development, including middleware.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 302 or SOFTENG 254 or 283",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 302 or SOFTENG 254 or 283",
+        "prerequisite": [
+            "or",
+            "COMPSYS 302",
+            "SOFTENG 254",
+            "SOFTENG 283"
+        ]
+    },
+    {
+        "courseid": "SOFTENG 364",
+        "coursename": "Networks and Security",
+        "description": "Physical networks, TCP/IP protocols, switching methods, network layering and components, network services. Information security, computer and network security threats, defence mechanisms and encryption.",
+        "subject": "Software Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: COMPSYS 201, and SOFTENG 251 or 281",
+        "url": "",
+        "prerequisite_raw": "COMPSYS 201, and SOFTENG 251 or 281",
+        "prerequisite": [
+            "and",
+            "COMPSYS 201",
+            [
+                "or",
+                "SOFTENG 251",
+                "SOFTENG 281"
+            ]
+        ]
+    },
+    {
+        "courseid": "STRCTENG 302",
+        "coursename": "Steel Structures Design",
+        "description": "Mechanical properties of steel and contextualises the application of steel and steel/concrete into buildings and bridges. Comprehensive introduction to design of structural steel members and connections and their use in structures. Application to vertical load carrying systems and steel building behaviour in earthquake and fire.",
+        "subject": "Structural Engineering",
+        "term": "S2",
+        "year": "2022",
+        "requirements": "Prerequisite: CIVIL 210 or STRCTENG 200\nRestriction: CIVIL 313",
+        "url": "",
+        "prerequisite_raw": "CIVIL 210 or STRCTENG 200",
+        "prerequisite": [
+            "or",
+            "CIVIL 210",
+            "STRCTENG 200"
+        ],
+        "restriction_raw": "CIVIL 313",
+        "restriction": [
+            "and",
+            "CIVIL 313"
+        ]
+    }
+]

@@ -1,0 +1,1785 @@
+[
+    {
+        "courseid": "ENGLISH 121G",
+        "coursename": "Reading/Writing/Text",
+        "description": "Develops University-wide skills of reading, writing and analysis. Addresses the needs of students in both English and other disciplines where both writing and reading have an important role in learning. The course fosters personal writing skills and also introduces writing as a subject of study in itself.",
+        "subject": "English",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGLISH/121G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "FRENCH 101G",
+        "coursename": "Introductory French Language 1",
+        "description": "Introduces students to spoken and written French. It is delivered through two 90-minute sessions per week on campus, blended with an on-line component that uses up-to-date methodology and extensive multimedia materials. It is open to beginners or near beginners. Students who have achieved 24 recent credits in Level 1 NCEA French or 12-16 recent credits in Level 2 NCEA French (or equivalent previous study) should enrol in FRENCH 102. FRENCH 101 does not count towards a major in French. May not be taken if a more advanced language acquisition course in this subject has previously been passed.",
+        "subject": "French",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FRENCH/101G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "GERMAN 101G",
+        "coursename": "German Language Introductory 1",
+        "description": "Written and oral use of German for students with no previous knowledge of the language or with fewer than 16 credits in NCEA Level 2 German.",
+        "subject": "German",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/GERMAN/101G/1200",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "JAPANESE 130G",
+        "coursename": "Japanese Language 1A",
+        "description": "An integrated basic course in modern Japanese covering reading, writing, speaking and listening.",
+        "subject": "Japanese",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/JAPANESE/130G/1200",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "KOREAN 110G",
+        "coursename": "Korean for Beginners 1",
+        "description": "Basic written and spoken skills in modern Korean. Through the practice of listening to and reading basic Korean sentences, fundamental grammar and vocabulary are taught so that students will be able to carry out basic conversation and comprehend simple Korean texts.",
+        "subject": "Korean",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: KOREAN 100, 250. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/KOREAN/110G/1200",
+        "restriction_raw": "KOREAN 100, 250. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "and",
+            "KOREAN 100",
+            "KOREAN 250. May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "MAORI 101G",
+        "coursename": "Introduction to Written M\u0101ori",
+        "description": "An introduction to listening, reading, writing and translation techniques used in the composition, reading and understanding of basic M\u0101ori. Designed for students with little or no knowledge of the language, and for those with some fluency wishing to understand simple sentence structure and composition.",
+        "subject": "M\u0101ori Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MAORI/101G/1200",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "MAORI 130G",
+        "coursename": "Te Ao M\u0101ori: The M\u0101ori World",
+        "description": "An introduction to M\u0101ori analyses of topics that are often discussed and sometimes controversial, and that continue to shape contemporary life in New Zealand. Topics include aspects of world view, philosophy and social organisation; the Declaration of Independence, the Treaty of Waitangi and European immigration; and contemporary issues including Treaty claims, ownership of the foreshore and seabed and constitutional issues.",
+        "subject": "M\u0101ori Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MAORI/130G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHIL 105G",
+        "coursename": "Critical Thinking",
+        "description": "Dialogue, argument and discussion are analysed. Distinctions are drawn between persuasive, logically good and materially good arguments. The focus is on well reasoned persuasive dialogue, and mistakes in persuasive reasoning. Topics include the point of an argument, strength of arguments, fallacious reasoning, relevance of reasons, and burden of proof.",
+        "subject": "Philosophy",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHIL/105G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCIOL 101G",
+        "coursename": "Understanding Aotearoa New Zealand",
+        "description": "Provides an introduction to the sociological analysis of New Zealand society. Looks at familiar events, institutions, social processes from a sociological point of view and offers ways to understand them in new and different ways. Focuses on the structure of New Zealand society and on social and political changes which affect the lives of New Zealanders and shape their society.",
+        "subject": "Sociology",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCIOL/101G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ANTHRO 106G",
+        "coursename": "Issues and History in Popular Music",
+        "description": "A survey of popular music styles, artists, sub-cultures and issues that explores facets such as genre, the music industry, music and politics, music videos, the sales process, race and identity, and gender theory. Core theory and writers in popular music studies are introduced and popular music is used to explore societal changes in class, ethnicity, gender, sexuality, youth, and global economic and cultural processes. Note: Does not meet the General Education requirement for BMus or BMus conjoints.",
+        "subject": "Anthropology",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: POPMUS 106, 106G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ANTHRO/106G/1203",
+        "restriction_raw": "POPMUS 106, 106G",
+        "restriction": [
+            "and",
+            "POPMUS 106",
+            "POPMUS 106G"
+        ]
+    },
+    {
+        "courseid": "ARTHIST 115G",
+        "coursename": "Global Art Histories",
+        "description": "A broad survey of visual art spanning from the early modern period to the contemporary. Students will be introduced to a range of art practices situated within a global context and will consider art works produced in M\u0101ori and Pacific cultures alongside Indian, South Asian, Middle Eastern, European and American traditions.",
+        "subject": "Art History",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARTHIST/115G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CHINESE 100G",
+        "coursename": "Beginning Modern Chinese 1",
+        "description": "Introduces students to modern Standard Chinese (Mandarin, <i>Putonghua</i>) through exercises and activities to develop speaking, listening, reading and writing skills. Also introduces the social and cultural background of the language.",
+        "subject": "Chinese",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHINESE/100G/1203",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "CLASSICS 110G",
+        "coursename": "Classical Mythology",
+        "description": "A study of ancient Greek and Roman mythology \u2013 its gods, heroes and monsters \u2013 through the works of major writers and artists from the Greco-Roman world.",
+        "subject": "Classical Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CLASSICS/110G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DRAMA 100G",
+        "coursename": "Presentation and Performance Skills: Taking the Stage",
+        "description": "Focuses on enhancing oral communication and performance skills through interactive workshops with speakers and performers highlighting the transferable skills of acting in three main areas: public speaking, improvising and group-devised performance.",
+        "subject": "Drama",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DRAMA/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGLISH 102G",
+        "coursename": "Great Books: Seduction and Betrayal",
+        "description": "Surveys a selection of literary masterpieces by major authors from different periods in the history of English literature. Selection of texts is organised around the theme of seduction and betrayal, understood more particularly as a story-arc exploring attitudes to love and sex, to politics and ambition, to ethical conduct, and to the activity of reading itself.",
+        "subject": "English",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGLISH/102G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGLISH 121G",
+        "coursename": "Reading/Writing/Text",
+        "description": "Develops University-wide skills of reading, writing and analysis. Addresses the needs of students in both English and other disciplines where both writing and reading have an important role in learning. The course fosters personal writing skills and also introduces writing as a subject of study in itself.",
+        "subject": "English",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGLISH/121G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EUROPEAN 100G",
+        "coursename": "Europe and the World",
+        "description": "An introduction to the study of Europe, organised around a number of major themes, including linguistic and ethnic groupings, historical periods, literary and cultural movements, religious and philosophical traditions, and political and cultural figures. An ideal course for students wishing to explore European culture and civilisation.",
+        "subject": "European Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EUROPEAN/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "FRENCH 101G",
+        "coursename": "Introductory French Language 1",
+        "description": "Introduces students to spoken and written French. It is delivered through two 90-minute sessions per week on campus, blended with an on-line component that uses up-to-date methodology and extensive multimedia materials. It is open to beginners or near beginners. Students who have achieved 24 recent credits in Level 1 NCEA French or 12-16 recent credits in Level 2 NCEA French (or equivalent previous study) should enrol in FRENCH 102. FRENCH 101 does not count towards a major in French. May not be taken if a more advanced language acquisition course in this subject has previously been passed.",
+        "subject": "French",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FRENCH/101G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "GERMAN 101G",
+        "coursename": "German Language Introductory 1",
+        "description": "Written and oral use of German for students with no previous knowledge of the language or with fewer than 16 credits in NCEA Level 2 German.",
+        "subject": "German",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/GERMAN/101G/1203",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "HISTORY 103G",
+        "coursename": "Global History",
+        "description": "It is only since the fifteenth century that a truly global dimension to history can be identified. This course examines key determinants that have bound the fate of peoples together including the emergence of world trade networks, the growth of world religions, the spread of epidemic diseases, the formation of empires, and the migration of peoples across continents.",
+        "subject": "History",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/HISTORY/103G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ITALIAN 100G",
+        "coursename": "Introductory Italian Language",
+        "description": "Learn basic Italian language structures and communication skills, including common words and basic phrases concerning everyday life. Acquire skills of interacting verbally by asking and answering straightforward questions on familiar topics. The course is delivered through a combination of class instruction and interactive online activities. For students with no previous knowledge of Italian.",
+        "subject": "Italian",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: ITALIAN 106. May not be taken if an equivalent or more advanced language acquisition course in this subject has previously been passed.",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ITALIAN/100G/1203",
+        "restriction_raw": "ITALIAN 106. May not be taken if an equivalent or more advanced language acquisition course in this subject has previously been passed.",
+        "restriction": [
+            "or",
+            "ITALIAN 106. May not be taken if an equivalent",
+            "more advanced language acquisition course in this subject has previously been passed."
+        ]
+    },
+    {
+        "courseid": "ITALIAN 106G",
+        "coursename": "Italian Language for Beginners 1",
+        "description": "Students learn to speak, read and write Italian, studying aspects of contemporary Italian society and thought. This course does not count towards a major in Italian. For students with no previous knowledge of Italian.",
+        "subject": "Italian",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ITALIAN/106G/1203",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "JAPANESE 130G",
+        "coursename": "Japanese Language 1A",
+        "description": "An integrated basic course in modern Japanese covering reading, writing, speaking and listening.",
+        "subject": "Japanese",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/JAPANESE/130G/1203",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "KOREAN 110G",
+        "coursename": "Korean for Beginners 1",
+        "description": "Basic written and spoken skills in modern Korean. Through the practice of listening to and reading basic Korean sentences, fundamental grammar and vocabulary are taught so that students will be able to carry out basic conversation and comprehend simple Korean texts.",
+        "subject": "Korean",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: KOREAN 100, 250. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/KOREAN/110G/1203",
+        "restriction_raw": "KOREAN 100, 250. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "and",
+            "KOREAN 100",
+            "KOREAN 250. May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "LATIN 100G",
+        "coursename": "Introduction to Latin Language 1",
+        "description": "An introduction to the vocabulary and the grammar of simple sentences in Latin.",
+        "subject": "Latin",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/LATIN/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MAORI 130G",
+        "coursename": "Te Ao M\u0101ori: The M\u0101ori World",
+        "description": "An introduction to M\u0101ori analyses of topics that are often discussed and sometimes controversial, and that continue to shape contemporary life in New Zealand. Topics include aspects of world view, philosophy and social organisation; the Declaration of Independence, the Treaty of Waitangi and European immigration; and contemporary issues including Treaty claims, ownership of the foreshore and seabed and constitutional issues.",
+        "subject": "M\u0101ori Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MAORI/130G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PACIFIC 100G",
+        "coursename": "Introduction to Pacific Studies",
+        "description": "Introduces students to the discipline of Pacific Studies, framed by Pacific ways of knowing and doing and the expression and understanding of Pacific cultures. Topics covered include: health and wellbeing, ethnic and gender identities, spirituality, history, politics, sports and society, languages, performing arts, leadership and innovation and sustainability.",
+        "subject": "Pacific Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PACIFIC/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHIL 105G",
+        "coursename": "Critical Thinking",
+        "description": "Dialogue, argument and discussion are analysed. Distinctions are drawn between persuasive, logically good and materially good arguments. The focus is on well reasoned persuasive dialogue, and mistakes in persuasive reasoning. Topics include the point of an argument, strength of arguments, fallacious reasoning, relevance of reasons, and burden of proof.",
+        "subject": "Philosophy",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHIL/105G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "RUSSIAN 100G",
+        "coursename": "Beginners' Russian 1",
+        "description": "A beginner's course using multi-media (computer) materials that presumes no prior knowledge of Russian, with emphasis on a range of language skills \u2013listening comprehension, speaking, reading, writing, and the essential grammar of Russian.",
+        "subject": "Russian",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/RUSSIAN/100G/1203",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "THEOREL 106G",
+        "coursename": "Islam and the Contemporary World",
+        "description": "Since the religion of Islam has become a very significant aspect of contemporary global and local societies, this course seeks to introduce students to an understanding of key aspects of Islam and an analysis of its significant contribution to New Zealand society as well as to societies and cultures across the world.",
+        "subject": "Theological & Religious Studs",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: THEOLOGY 106, 106G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/THEOREL/106G/1203",
+        "restriction_raw": "THEOLOGY 106, 106G",
+        "restriction": [
+            "and",
+            "THEOLOGY 106",
+            "THEOLOGY 106G"
+        ]
+    },
+    {
+        "courseid": "TONGAN 101G",
+        "coursename": "Tongan Language 1",
+        "description": "Gives students an introduction to the structure of Tongan as well as allowing them to develop basic language skills in listening, speaking, reading and writing. Designed for students with little or no knowledge of the language, and for those with some fluency wishing to understand simple sentence structure and composition.",
+        "subject": "Tongan",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/TONGAN/101G/1203",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "LINGUIST 101G",
+        "coursename": "Language, Mind and Society",
+        "description": "A survey of three areas: the interaction between language structure and use on the one hand, and social structure and social norms on the other (sociolinguistics); the relationship between linguistic and cultural knowledge (anthropological linguistics); and the inter-relationship of language and other cognitive structures, especially as it is revealed through language acquisition (psycholinguistics).",
+        "subject": "Linguistics",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SAMOAN 101G",
+        "coursename": "Samoan Language 1",
+        "description": "Gives students an introduction to the structure of Samoan as well as allowing them to develop basic language skills in listening, speaking, reading and writing. Designed for students with little or no knowledge of the language, and for those with some fluency wishing to understand simple sentence structure and composition.",
+        "subject": "Samoan",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "SPANISH 104G",
+        "coursename": "Beginners' Spanish 1",
+        "description": "Provides a solid grounding in the basic grammar and vocabulary of Spanish for beginners or near beginners, emphasising communicative competence in the present tense. Develops speaking, listening, reading and writing skills, and prepares students at the A1 Level of the Common European Framework of Reference for Languages.",
+        "subject": "Spanish",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: SPANISH 107. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "",
+        "restriction_raw": "SPANISH 107. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "SPANISH 107. May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "ARTHIST 114G",
+        "coursename": "Understanding Art: Leonardo to Warhol",
+        "description": "Is seeing learned? Can an image be read in the same way as a text? Understanding images from different historic periods, from Leonardo da Vinci to Andy Warhol, is central to everyday life. Visual literacy is fundamental to all disciplines. This course provides students with tools for making sense of various kinds of images and objects: photographs, advertisements, paintings, film, television, monuments, buildings, maps, landscape, digital and internet images.",
+        "subject": "Art History",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: ARTHIST 109",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARTHIST/114G/1205",
+        "restriction_raw": "ARTHIST 109",
+        "restriction": [
+            "and",
+            "ARTHIST 109"
+        ]
+    },
+    {
+        "courseid": "ASIAN 140G",
+        "coursename": "New Zealand and Asia",
+        "description": "Explores Asia and its interrelationship with New Zealand, including Asia's growing presence in New Zealand in all its manifestations, and the evolving political, social, economic, cultural, and strategic relations between this country and Asia. Topics will include historical and contemporary ties with Asia, Asian migration, literature, media and films. The course will focus especially on South-East and East Asia.",
+        "subject": "Asian Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ASIAN/140G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CAREER 100G",
+        "coursename": "Crafting your Career",
+        "description": "What is employability? The world of work is changing rapidly. Crafting your Career uses project-based, collaborative, problem-solving exercises to assist students in readying themselves for life after the degree. The course aims to build students\u2019 work-readiness by enhancing their understanding of a variety of workplaces, while developing the skills employers regard as essential to career success.",
+        "subject": "",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 60 points passed\nRestriction: ARTSGEN 102, POPLHLTH 300, 302",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CAREER/100G/1205",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "ARTSGEN 102, POPLHLTH 300, 302",
+        "restriction": [
+            "and",
+            "ARTSGEN 102",
+            "POPLHLTH 300",
+            "POPLHLTH 302"
+        ]
+    },
+    {
+        "courseid": "COMMS 104G",
+        "coursename": "Advertising and Society",
+        "description": "A critical examination of advertising and advertisements focusing on the role advertising plays in consumer culture. Advertisements from a diverse range of media are studied in order to analyse how advertisements construct and disseminate meaning. The course investigates how advertising engages with the logic of wider cultural and global transformations with consideration given to both consumer and industry perspectives.",
+        "subject": "Communication",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: FTVMS 110, 110G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMMS/104G/1205",
+        "restriction_raw": "FTVMS 110, 110G",
+        "restriction": [
+            "and",
+            "FTVMS 110",
+            "FTVMS 110G"
+        ]
+    },
+    {
+        "courseid": "DRAMA 100G",
+        "coursename": "Presentation and Performance Skills: Taking the Stage",
+        "description": "Focuses on enhancing oral communication and performance skills through interactive workshops with speakers and performers highlighting the transferable skills of acting in three main areas: public speaking, improvising and group-devised performance.",
+        "subject": "Drama",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DRAMA/100G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGLISH 121G",
+        "coursename": "Reading/Writing/Text",
+        "description": "Develops University-wide skills of reading, writing and analysis. Addresses the needs of students in both English and other disciplines where both writing and reading have an important role in learning. The course fosters personal writing skills and also introduces writing as a subject of study in itself.",
+        "subject": "English",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGLISH/121G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "FRENCH 101G",
+        "coursename": "Introductory French Language 1",
+        "description": "Introduces students to spoken and written French. It is delivered through two 90-minute sessions per week on campus, blended with an on-line component that uses up-to-date methodology and extensive multimedia materials. It is open to beginners or near beginners. Students who have achieved 24 recent credits in Level 1 NCEA French or 12-16 recent credits in Level 2 NCEA French (or equivalent previous study) should enrol in FRENCH 102. FRENCH 101 does not count towards a major in French. May not be taken if a more advanced language acquisition course in this subject has previously been passed.",
+        "subject": "French",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FRENCH/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "GERMAN 101G",
+        "coursename": "German Language Introductory 1",
+        "description": "Written and oral use of German for students with no previous knowledge of the language or with fewer than 16 credits in NCEA Level 2 German.",
+        "subject": "German",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/GERMAN/101G/1205",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "ITALIAN 100G",
+        "coursename": "Introductory Italian Language",
+        "description": "Learn basic Italian language structures and communication skills, including common words and basic phrases concerning everyday life. Acquire skills of interacting verbally by asking and answering straightforward questions on familiar topics. The course is delivered through a combination of class instruction and interactive online activities. For students with no previous knowledge of Italian.",
+        "subject": "Italian",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: ITALIAN 106. May not be taken if an equivalent or more advanced language acquisition course in this subject has previously been passed.",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ITALIAN/100G/1205",
+        "restriction_raw": "ITALIAN 106. May not be taken if an equivalent or more advanced language acquisition course in this subject has previously been passed.",
+        "restriction": [
+            "or",
+            "ITALIAN 106. May not be taken if an equivalent",
+            "more advanced language acquisition course in this subject has previously been passed."
+        ]
+    },
+    {
+        "courseid": "MAORI 101G",
+        "coursename": "Introduction to Written M\u0101ori",
+        "description": "An introduction to listening, reading, writing and translation techniques used in the composition, reading and understanding of basic M\u0101ori. Designed for students with little or no knowledge of the language, and for those with some fluency wishing to understand simple sentence structure and composition.",
+        "subject": "M\u0101ori Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MAORI/101G/1205",
+        "restriction_raw": "May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "MAORI 130G",
+        "coursename": "Te Ao M\u0101ori: The M\u0101ori World",
+        "description": "An introduction to M\u0101ori analyses of topics that are often discussed and sometimes controversial, and that continue to shape contemporary life in New Zealand. Topics include aspects of world view, philosophy and social organisation; the Declaration of Independence, the Treaty of Waitangi and European immigration; and contemporary issues including Treaty claims, ownership of the foreshore and seabed and constitutional issues.",
+        "subject": "M\u0101ori Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MAORI/130G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHIL 105G",
+        "coursename": "Critical Thinking",
+        "description": "Dialogue, argument and discussion are analysed. Distinctions are drawn between persuasive, logically good and materially good arguments. The focus is on well reasoned persuasive dialogue, and mistakes in persuasive reasoning. Topics include the point of an argument, strength of arguments, fallacious reasoning, relevance of reasons, and burden of proof.",
+        "subject": "Philosophy",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHIL/105G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POLITICS 107G",
+        "coursename": "New Zealand Politics",
+        "description": "An introduction to understanding who governs New Zealand and in whose interests. Topics include national identity, institutions of government, leadership, voting and elections, the place of M\u0101ori within the political system, parties and political participation. The course draws on current research in NZ politics and provides knowledge that can be applied to a variety of careers, including law, business and public service.",
+        "subject": "Politics & International Rels",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POLITICS/107G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SOCIOL 101G",
+        "coursename": "Understanding Aotearoa New Zealand",
+        "description": "Provides an introduction to the sociological analysis of New Zealand society. Looks at familiar events, institutions, social processes from a sociological point of view and offers ways to understand them in new and different ways. Focuses on the structure of New Zealand society and on social and political changes which affect the lives of New Zealanders and shape their society.",
+        "subject": "Sociology",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SOCIOL/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "THEOREL 101G",
+        "coursename": "The Bible and Popular Culture",
+        "description": "An exploration of biblical themes, images, and metaphors in contemporary film, music and cultural arts through which religion and culture intersect. It develops tools appropriate for analysing popular culture, as it moves from the local to the national to the global.",
+        "subject": "Theological & Religious Studs",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: THEOLOGY 101, 101G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/THEOREL/101G/1205",
+        "restriction_raw": "THEOLOGY 101, 101G",
+        "restriction": [
+            "and",
+            "THEOLOGY 101",
+            "THEOLOGY 101G"
+        ]
+    },
+    {
+        "courseid": "COOKIS 101G",
+        "coursename": "Introduction to Cook Islands M\u0101ori",
+        "description": "Gives students an introduction to the structure of Cook Islands M\u0101ori as well as allowing them to develop basic skills in listening, speaking, reading and writing. Designed for students with little or no knowledge of the language, and for those with some fluency wishing to understand simple sentence structure and composition.",
+        "subject": "Cook Islands M\u0101ori",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: COOKIS 102. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "",
+        "restriction_raw": "COOKIS 102. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "COOKIS 102. May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "SPANISH 104G",
+        "coursename": "Beginners' Spanish 1",
+        "description": "Provides a solid grounding in the basic grammar and vocabulary of Spanish for beginners or near beginners, emphasising communicative competence in the present tense. Develops speaking, listening, reading and writing skills, and prepares students at the A1 Level of the Common European Framework of Reference for Languages.",
+        "subject": "Spanish",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: SPANISH 107. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "url": "",
+        "restriction_raw": "SPANISH 107. May not be taken if a more advanced language acquisition course in this subject has previously been passed",
+        "restriction": [
+            "SPANISH 107. May not be taken if a more advanced language acquisition course in this subject has previously been passed"
+        ]
+    },
+    {
+        "courseid": "TRANSLAT 100G",
+        "coursename": "Translation for Global Citizens",
+        "description": "Covers the foundations of translation and interpreting as an academic discipline and as a critically important communication enabler which serves a multicultural and multilingual society. The course is designed to equip monolingual students, as well as students with language skills, with the literacy in translation and interpreting increasingly needed to navigate today\u2019s globalised world and to detect and overcome communication gaps in diverse business and private contexts.",
+        "subject": "Translation Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "BUSINESS 151G",
+        "coursename": "Communication in a Multicultural Society",
+        "description": "Communication knowledge and skills are essential in business careers and for interpersonal and intercultural relationships. This course offers a theory-based approach combined with applied communication practices. Communication knowledge, competencies and skills are developed through exploring relationships, mediated communication, writing, team dynamics, oral presentation and technologies.",
+        "subject": "Business",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: BUSINESS 101, 291, MGMT 291",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BUSINESS/151G/1200",
+        "restriction_raw": "BUSINESS 101, 291, MGMT 291",
+        "restriction": [
+            "and",
+            "BUSINESS 101",
+            "BUSINESS 291",
+            "MGMT 291"
+        ]
+    },
+    {
+        "courseid": "ECON 151G",
+        "coursename": "Understanding the Global Economy",
+        "description": "Economics affects our daily lives and the global environment in many ways. Through the media we are constantly made aware of price increases, interest rate changes, exchange rate movements and balance of payments problems, growth and recessions, standard of living comparisons, regional trading agreements. What does it all mean and how does it all work?",
+        "subject": "Economics",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: ECON 101, 111, 152, 191",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ECON/151G/1200",
+        "restriction_raw": "ECON 101, 111, 152, 191",
+        "restriction": [
+            "and",
+            "ECON 101",
+            "ECON 111",
+            "ECON 152",
+            "ECON 191"
+        ]
+    },
+    {
+        "courseid": "INTBUS 151G",
+        "coursename": "Business across Borders",
+        "description": "Business on a global scale presents unique challenges and unrivalled opportunities to companies equipped to cross national boundaries. Set against a background of current events, the course explores the influence of international trade and multinational corporations on the contemporary global economy.",
+        "subject": "International Business",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: BUSINESS 101, INTBUS 201, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/INTBUS/151G/1200",
+        "restriction_raw": "BUSINESS 101, INTBUS 201, 202",
+        "restriction": [
+            "and",
+            "BUSINESS 101",
+            "INTBUS 201",
+            "INTBUS 202"
+        ]
+    },
+    {
+        "courseid": "ACCTG 151G",
+        "coursename": "Financial Literacy",
+        "description": "People who understand the basic principles of finance are likely to get much more mileage out of their money \u2013 whether spending, borrowing, saving or investing \u2013 than those who do not. Develop an understanding of how to be in control of spending and saving; understand borrowing; make informed investment decisions; know broadly what to insure and what not to; recognise scams and consider whether money is the key to happiness.",
+        "subject": "Accounting",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: May not be taken by students with a concurrent or prior enrolment in Accounting or Finance courses",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ACCTG/151G/1203",
+        "restriction_raw": "May not be taken by students with a concurrent or prior enrolment in Accounting or Finance courses",
+        "restriction": [
+            "or",
+            "May not be taken by students with a concurrent",
+            "prior enrolment in Accounting",
+            "Finance courses"
+        ]
+    },
+    {
+        "courseid": "BUSAN 100G",
+        "coursename": "Digital Information Literacy",
+        "description": "Introduces students to skills, technologies, and techniques for the effective use of digital information. Information in all spheres of personal and professional life is increasingly created, stored, analysed, exchanged and communicated in digital forms. Digital information literacy will help students be more productive in the digital age.",
+        "subject": "Business Analytics",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: Cannot be taken with or after INFOSYS 110-345",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BUSAN/100G/1203",
+        "restriction_raw": "Cannot be taken with or after INFOSYS 110-345",
+        "restriction": [
+            "Cannot be taken with or after",
+            "INFOSYS 110-345"
+        ]
+    },
+    {
+        "courseid": "ECON 151G",
+        "coursename": "Understanding the Global Economy",
+        "description": "Economics affects our daily lives and the global environment in many ways. Through the media we are constantly made aware of price increases, interest rate changes, exchange rate movements and balance of payments problems, growth and recessions, standard of living comparisons, regional trading agreements. What does it all mean and how does it all work?",
+        "subject": "Economics",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: ECON 101, 111, 152, 191",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ECON/151G/1203",
+        "restriction_raw": "ECON 101, 111, 152, 191",
+        "restriction": [
+            "and",
+            "ECON 101",
+            "ECON 111",
+            "ECON 152",
+            "ECON 191"
+        ]
+    },
+    {
+        "courseid": "INNOVATE 100G",
+        "coursename": "Innovation through Design",
+        "description": "Introduces design practice and tools to students in order to develop a user-centred approach to innovation. Students learn about design and, through cycles of empathy, creativity and prototyping, learn to design for innovation.",
+        "subject": "Innovation",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/INNOVATE/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MKTG 151G",
+        "coursename": "Essential Marketing",
+        "description": "Introduces fundamental marketing ideas and skillsets. Explores the world of customer value creation and marketing communications through the eyes of marketing and creative experts. Covers current topics in marketing including digital and social media, social entrepreneurship, big data analytics, green marketing and sustainability.",
+        "subject": "Marketing",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MKTG/151G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "INNOVENT 203G",
+        "coursename": "The Entrepreneurial Mindset",
+        "description": "Stimulates new ways of thinking about enterprising behaviour in a multi-disciplinary manner relevant to understanding and addressing real world challenges of today. Introduces skills needed to identify and assess opportunities, solve problems creatively, communicate persuasively, work effectively in teams, and understand individual and organisational impact.",
+        "subject": "Innovation and Entrepreneurshi",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: BUSINESS 102 or MGMT 101 or 90 points passed or 60 points from Part I of the BE(Hons) Schedule",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/INNOVENT/203G/1203",
+        "prerequisite_raw": "BUSINESS 102 or MGMT 101 or 90 points passed or 60 points from Part I of the BE(Hons) Schedule",
+        "prerequisite": [
+            "or",
+            "BUSINESS 102",
+            "MGMT 101",
+            "90",
+            "60"
+        ]
+    },
+    {
+        "courseid": "BUSINESS 151G",
+        "coursename": "Communication in a Multicultural Society",
+        "description": "Communication knowledge and skills are essential in business careers and for interpersonal and intercultural relationships. This course offers a theory-based approach combined with applied communication practices. Communication knowledge, competencies and skills are developed through exploring relationships, mediated communication, writing, team dynamics, oral presentation and technologies.",
+        "subject": "Business",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: BUSINESS 101, 291, MGMT 291",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BUSINESS/151G/1205",
+        "restriction_raw": "BUSINESS 101, 291, MGMT 291",
+        "restriction": [
+            "and",
+            "BUSINESS 101",
+            "BUSINESS 291",
+            "MGMT 291"
+        ]
+    },
+    {
+        "courseid": "ECON 151G",
+        "coursename": "Understanding the Global Economy",
+        "description": "Economics affects our daily lives and the global environment in many ways. Through the media we are constantly made aware of price increases, interest rate changes, exchange rate movements and balance of payments problems, growth and recessions, standard of living comparisons, regional trading agreements. What does it all mean and how does it all work?",
+        "subject": "Economics",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: ECON 101, 111, 152, 191",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ECON/151G/1205",
+        "restriction_raw": "ECON 101, 111, 152, 191",
+        "restriction": [
+            "and",
+            "ECON 101",
+            "ECON 111",
+            "ECON 152",
+            "ECON 191"
+        ]
+    },
+    {
+        "courseid": "INTBUS 151G",
+        "coursename": "Business across Borders",
+        "description": "Business on a global scale presents unique challenges and unrivalled opportunities to companies equipped to cross national boundaries. Set against a background of current events, the course explores the influence of international trade and multinational corporations on the contemporary global economy.",
+        "subject": "International Business",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: BUSINESS 101, INTBUS 201, 202",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/INTBUS/151G/1205",
+        "restriction_raw": "BUSINESS 101, INTBUS 201, 202",
+        "restriction": [
+            "and",
+            "BUSINESS 101",
+            "INTBUS 201",
+            "INTBUS 202"
+        ]
+    },
+    {
+        "courseid": "INNOVATE 100G",
+        "coursename": "Innovation through Design",
+        "description": "Introduces design practice and tools to students in order to develop a user-centred approach to innovation. Students learn about design and, through cycles of empathy, creativity and prototyping, learn to design for innovation.",
+        "subject": "Innovation",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "INNOVENT 203G",
+        "coursename": "The Entrepreneurial Mindset",
+        "description": "Stimulates new ways of thinking about enterprising behaviour in a multi-disciplinary manner relevant to understanding and addressing real world challenges of today. Introduces skills needed to identify and assess opportunities, solve problems creatively, communicate persuasively, work effectively in teams, and understand individual and organisational impact.",
+        "subject": "Innovation and Entrepreneurshi",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: BUSINESS 102 or MGMT 101 or 90 points passed or 60 points from Part I of the BE(Hons) Schedule",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/INNOVENT/203G/1205",
+        "prerequisite_raw": "BUSINESS 102 or MGMT 101 or 90 points passed or 60 points from Part I of the BE(Hons) Schedule",
+        "prerequisite": [
+            "or",
+            "BUSINESS 102",
+            "MGMT 101",
+            "90",
+            "60"
+        ]
+    },
+    {
+        "courseid": "DANCE 101G",
+        "coursename": "Introduction to Dance and Creative Processes",
+        "description": "To develop an understanding of our moving bodies through movement awareness, dance improvisation, choreography and creative and analytic writing. Students will undertake both theoretical and practical classes focusing on a range of practices that dancers and movement practitioners use to facilitate kinaesthetic awareness, experimentation, communication and choreography. Students will explore somatic theory and practice, improvisation scores, choreography and dance analysis. DANCE 101G not available for BDanceSt.",
+        "subject": "Dance Studies",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/101G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 144G",
+        "coursename": "Turning-points in Western Music",
+        "description": "A study of significant people, major discoveries and inventions, and key factors (artistic, intellectual, social, technical) that were important agents of change in Western music. No previous knowledge of music is assumed.",
+        "subject": "Music",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/144G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 149G",
+        "coursename": "Rock to Reggae: Tracking Popular Music in New Zealand",
+        "description": "An introduction to New Zealand\u2019s home-grown popular music, from the 1950s to the present day. A broad range of musical styles will be considered and situated within various social contexts. The issue of cultural identity in music \u2013 at national and local levels \u2013 will also be explored.",
+        "subject": "Music",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/149G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "FINEARTS 210G",
+        "coursename": "Understanding Contemporary Visual Arts Practice",
+        "description": "How does the contemporary artist and designer work? This course presents first hand, locally engaged practitioners' perspectives on creative practice. On successful completion of this course students will be able to access local, contemporary art and design with confidence, and to discuss examples of practitioners' methodologies and areas of investigation. Course work will involve active exploration of the local art world.",
+        "subject": "Fine Arts",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Prerequisite: 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/210G/1200",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "ARCHHTC 102G",
+        "coursename": "Modern Architecture and Urbanism",
+        "description": "Examines through case studies the cultural contexts that shaped the development of architecture, urban design, landscape and the environment during the twentieth century. Emphasis is placed on the historical developments that influenced changes in style and the theoretical contexts that shaped attitudes towards inhabitation, social organisation, national identity, and cultural self-expression, amongst other things.",
+        "subject": "Architectural History, Theory",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: ARCHHTC 100",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ARCHHTC/102G/1203",
+        "restriction_raw": "ARCHHTC 100",
+        "restriction": [
+            "and",
+            "ARCHHTC 100"
+        ]
+    },
+    {
+        "courseid": "DANCE 101G",
+        "coursename": "Introduction to Dance and Creative Processes",
+        "description": "To develop an understanding of our moving bodies through movement awareness, dance improvisation, choreography and creative and analytic writing. Students will undertake both theoretical and practical classes focusing on a range of practices that dancers and movement practitioners use to facilitate kinaesthetic awareness, experimentation, communication and choreography. Students will explore somatic theory and practice, improvisation scores, choreography and dance analysis. DANCE 101G not available for BDanceSt.",
+        "subject": "Dance Studies",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/101G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DESIGN 102G",
+        "coursename": "Design Futures",
+        "description": "New opportunities are continually emerging in the field of design. This course demonstrates how contemporary design practices have evolved, responded to and influenced change. Students learn how a design approach complements current practice and expands career prospects.",
+        "subject": "Design",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/102G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 144G",
+        "coursename": "Turning-points in Western Music",
+        "description": "A study of significant people, major discoveries and inventions, and key factors (artistic, intellectual, social, technical) that were important agents of change in Western music. No previous knowledge of music is assumed.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/144G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 149G",
+        "coursename": "Rock to Reggae: Tracking Popular Music in New Zealand",
+        "description": "An introduction to New Zealand\u2019s home-grown popular music, from the 1950s to the present day. A broad range of musical styles will be considered and situated within various social contexts. The issue of cultural identity in music \u2013 at national and local levels \u2013 will also be explored.",
+        "subject": "Music",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/149G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "URBPLAN 101G",
+        "coursename": "Introduction to Urban Planning",
+        "description": "An introduction to the city, urban planning and sustainability; professional roles, practices and ethics.",
+        "subject": "Urban Planning",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: PLANNING 100G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/URBPLAN/101G/1203",
+        "restriction_raw": "PLANNING 100G",
+        "restriction": [
+            "and",
+            "PLANNING 100G"
+        ]
+    },
+    {
+        "courseid": "DANCE 101G",
+        "coursename": "Introduction to Dance and Creative Processes",
+        "description": "To develop an understanding of our moving bodies through movement awareness, dance improvisation, choreography and creative and analytic writing. Students will undertake both theoretical and practical classes focusing on a range of practices that dancers and movement practitioners use to facilitate kinaesthetic awareness, experimentation, communication and choreography. Students will explore somatic theory and practice, improvisation scores, choreography and dance analysis. DANCE 101G not available for BDanceSt.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DESIGN 102G",
+        "coursename": "Design Futures",
+        "description": "New opportunities are continually emerging in the field of design. This course demonstrates how contemporary design practices have evolved, responded to and influenced change. Students learn how a design approach complements current practice and expands career prospects.",
+        "subject": "Design",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DESIGN/102G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 144G",
+        "coursename": "Turning-points in Western Music",
+        "description": "A study of significant people, major discoveries and inventions, and key factors (artistic, intellectual, social, technical) that were important agents of change in Western music. No previous knowledge of music is assumed.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/144G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MUS 149G",
+        "coursename": "Rock to Reggae: Tracking Popular Music in New Zealand",
+        "description": "An introduction to New Zealand\u2019s home-grown popular music, from the 1950s to the present day. A broad range of musical styles will be considered and situated within various social contexts. The issue of cultural identity in music \u2013 at national and local levels \u2013 will also be explored.",
+        "subject": "Music",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MUS/149G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "DANCE 200G",
+        "coursename": "Dance and Culture",
+        "description": "Examines the interrelationship between dance and wider political and cultural movements through practical dance classes and theoretical investigations into diverse cultural environments around the world. Students physically and theoretically engage in the study of various dance forms such as Tango, Salsa, Dabkeh, traditional Chinese dance and Bharata Natyam.",
+        "subject": "Dance Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DANCE/200G/1205",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "FINEARTS 210G",
+        "coursename": "Understanding Contemporary Visual Arts Practice",
+        "description": "How does the contemporary artist and designer work? This course presents first hand, locally engaged practitioners' perspectives on creative practice. On successful completion of this course students will be able to access local, contemporary art and design with confidence, and to discuss examples of practitioners' methodologies and areas of investigation. Course work will involve active exploration of the local art world.",
+        "subject": "Fine Arts",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 60 points passed",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/FINEARTS/210G/1205",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 100G",
+        "coursename": "The Creative Process",
+        "description": "Theories and practices of creativity will be examined and practically explored through a variety of disciplines, such as the arts, biology, psychology, sociology, philosophy and education. What is creativity? Can creativity be learnt? What happens in the brain when we are creative? These are some of the questions addressed in this course.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 105G",
+        "coursename": "Teaching: Tales and Traditions",
+        "description": "Introduction to key ideas on teachers and teaching. Explores teaching traditions, their origins, stories of teaching in New Zealand; stories of teachers that generate change; and how teaching and teachers are understood in a variety of disciplines such as Science, Health, Arts, and Sport. Considers the following: How should we teach? What counts as knowledge? What contradictions do teachers encounter?",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/105G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 121G",
+        "coursename": "How People Learn",
+        "description": "Focuses on learning in formal and informal settings and addresses such questions as: why do some things seem easier to learn than others, why do we forget things we once knew, and why do some people learn faster or better than others? Examines the nature of intelligence and how to help personal learning or the learning of others.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: EDUC 111, 117",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/121G/1203",
+        "restriction_raw": "EDUC 111, 117",
+        "restriction": [
+            "and",
+            "EDUC 111",
+            "EDUC 117"
+        ]
+    },
+    {
+        "courseid": "DISABLTY 113G",
+        "coursename": "Making Disabilities: The Construction of Ideas",
+        "description": "Examines the expression of social and cultural ideas of disability in popular culture through film, television and print media. The course aims to develop skills to examine the construction and maintenance of concepts of disability and disabling identities in popular culture. The consequences of these processes are also discussed and their implications for perpetuating social devaluation, discrimination, and disadvantage.",
+        "subject": "Disability Studies",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/DISABLTY/113G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 122G",
+        "coursename": "Learning Sexualities",
+        "description": "How and what do we learn about sexualities in New Zealand? Learning about sexualities is viewed as occurring both formally (e.g., through sexuality education) and informally (e.g., through the media) in a diversity of social sites. Schools are examined as one significant site where students are offered sexual meanings. The historical derivation and current context of contemporary education about sexuality along with its social effects are investigated.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EDUC/122G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "YOUTHWRK 152G",
+        "coursename": "Understanding New Zealand Youth",
+        "description": "Examines the concept of 'youth' and the historical, economic and political contexts in which young people live and are schooled in New Zealand society. The concept of youth is explored as a fundamental aspect of human development, identity and culture. The ways that we learn about what it is to be a young person in New Zealand today, including sport, body image, media, music, technology and social networking will be explored.",
+        "subject": "Youth Work",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/YOUTHWRK/152G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CHEMMAT 100G",
+        "coursename": "Materials of the Modern World",
+        "description": "Every aspect of daily living is influenced in some way by the materials that surround us. Ceramics, metals, polymers, and composites; each has its own properties which have, over time, influenced the development of modern technological societies. Take a moment to imagine a world without metal, for example, to see how central the science of materials is to everyday life. This course will explore, at a non-specialist level, the basic principles governing the properties and behaviour of a wide variety of common materials and examine their applications and limitations.",
+        "subject": "Chemical a Materials Engineeri",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEMMAT/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENGGEN 100G",
+        "coursename": "Technological Choices for the Future",
+        "description": "A consideration of technological choices to support informed decision making in the use of technology in modern society. The course focuses on important questions such as: What is the future direction of power generation in New Zealand? How can we create a sustainable future? Where will current developments in robotics and mobile communications lead us?",
+        "subject": "Engineering General",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENGGEN/100G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "LAW 121G",
+        "coursename": "Law and Society",
+        "description": "An introduction to theories of the nature, functions and origins of law and legal systems, including sources of law; comparative concepts of law; an overview of constitutional and legal arrangements in New Zealand, including the role of the courts; the operation of the legal system in historical and contemporary New Zealand with a focus on concepts of property rights, the Treaty of Waitangi, Treaty Settlements and proposals for constitutional change. Note: Does not meet the General Education requirement for LLB, LLB(Hons), LLB conjoints or LLB(Hons) conjoints.",
+        "subject": "Law",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: LAW 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/LAW/121G/1203",
+        "restriction_raw": "LAW 101",
+        "restriction": [
+            "and",
+            "LAW 101"
+        ]
+    },
+    {
+        "courseid": "LAW 121G",
+        "coursename": "Law and Society",
+        "description": "An introduction to theories of the nature, functions and origins of law and legal systems, including sources of law; comparative concepts of law; an overview of constitutional and legal arrangements in New Zealand, including the role of the courts; the operation of the legal system in historical and contemporary New Zealand with a focus on concepts of property rights, the Treaty of Waitangi, Treaty Settlements and proposals for constitutional change. Note: Does not meet the General Education requirement for LLB, LLB(Hons), LLB conjoints or LLB(Hons) conjoints.",
+        "subject": "Law",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: LAW 101",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/LAW/121G/1205",
+        "restriction_raw": "LAW 101",
+        "restriction": [
+            "and",
+            "LAW 101"
+        ]
+    },
+    {
+        "courseid": "MEDSCI 100G",
+        "coursename": "Human Mind and Body Relationships",
+        "description": "Humans share with other living things the features of physical self-generation and adaptation to the environment. Humans also live in a mental (mind) world and maintain relationships with our perceived environments. Minds and bodies mutually affect one another. This mind/body dance, which is explored in this course, is what gives rise to all of human behaviour from simple daily activities to the highest forms of creativity.",
+        "subject": "Medical Science",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MEDSCI 101G",
+        "coursename": "Environmental Threats to Human Health",
+        "description": "Our environment sustains our lives but at times threatens our health. These threats may occur naturally, or arise from damage we have inflicted on the environment. This course considers health impacts of climate change, pollution, lifestyle choices, poverty and affluence, workplace hazards, emerging infectious diseases, and dangers affecting cancer risk.",
+        "subject": "Medical Science",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MEDSCI/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "OPTOM 101G",
+        "coursename": "How We See",
+        "description": "Overview of the interdisciplinary study of human vision. The course introduces the biological/physiological organisation of the visual system, discusses the subjective nature of perception, and the implications of studies of biological visual systems for machine vision. Interdisciplinary understandings of vision will be enriched by the examination of historical paintings and artists\u2019 visual experiences.",
+        "subject": "Optometry and Vision Science",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/OPTOM/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHARMACY 111G",
+        "coursename": "Drugs and Society",
+        "description": "The use of drugs in society including historical perspectives. Selected examples of the use of medicines in disease, recreational drug use and drug misuse, and cultural and ethnic influences on drug use. Differences between conventional and complementary medicines. The role of the pharmaceutical industry in drug discovery, manufacture and promotion. Legal and ethical issues pertaining to access to pharmaceuticals.",
+        "subject": "Pharmacy",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PHARMACY/111G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "POPLHLTH 103G",
+        "coursename": "Epidemics: Black Death to Bioterrorism",
+        "description": "Epidemics have devastated human populations and will continue to do so. This course looks at how epidemics can run rampant through society and how we can control them. It will include examples from the past and present, as well as outline future threats. A diversity of epidemics will be covered, from the plague, gambling, depression, pandemics, nun-biting and alien abduction.",
+        "subject": "Population Health",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/POPLHLTH/103G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "CHEM 100G",
+        "coursename": "Molecules that Changed the World",
+        "description": "The impact of chemistry on the modern world will be explored by focusing on the stories of specific molecules, including penicillin, DDT and nylon. Their discovery, the underlying chemical principles that explain their behaviour, their impact on our lives including social and scientific issues that arise from their use, and their likely impact on the future will be investigated. No formal prerequisite, but the course assumes a science background at Year 11 or higher.",
+        "subject": "Chemistry",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/CHEM/100G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "COMPSCI 111G",
+        "coursename": "An Introduction to Practical Computing",
+        "description": "A practical introduction to computing. Topics include: web design, an overview of computer hardware and operating systems, effective use of common applications, using the internet as a communication medium, applying programming concepts, and social implications of technology.",
+        "subject": "Computer Science",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSCI/111G/1200",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EXERSCI 100G",
+        "coursename": "Exercise and Fitness: Myths and Reality",
+        "description": "An introduction to the principles of physical exercise, with a focus on understanding how the body moves and responds to exercise, how performance can be measured, and how fitness can be developed and maintained to optimise health. Particular emphasis will be placed on the debunking of common myths about exercise, and offering evidence-based advice on the benefits of appropriate physical activity.",
+        "subject": "Exercise Sciences",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: BIOSCI 107, EXERSCI 101, 105, SPORTSCI 100G, 101, 105, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EXERSCI/100G/1200",
+        "restriction_raw": "BIOSCI 107, EXERSCI 101, 105, SPORTSCI 100G, 101, 105, MEDSCI 142",
+        "restriction": [
+            "and",
+            "BIOSCI 107",
+            "EXERSCI 101",
+            "EXERSCI 105",
+            "SPORTSCI 100G",
+            "SPORTSCI 101",
+            "SPORTSCI 105",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "STATS 101G",
+        "coursename": "Introduction to Statistics",
+        "description": "Intended for anyone who will ever have to collect or make sense of data, either in their career or private life. Steps involved in conducting a statistical investigation are studied with the main emphasis being on data analysis and the background concepts necessary for successfully analysing data, extrapolating from patterns in data to more generally applicable conclusions and communicating results to others. Other topics include probability; confidence intervals, statistical significance, t-tests, and p-values; nonparametric methods; one-way analysis of variance, simple linear regression, correlation, tables of counts and the chi-square test.",
+        "subject": "Statistics",
+        "term": "SS",
+        "year": "2020",
+        "requirements": "Restriction: STATS 102, 107, 108, 191",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STATS/101G/1200",
+        "restriction_raw": "STATS 102, 107, 108, 191",
+        "restriction": [
+            "and",
+            "STATS 102",
+            "STATS 107",
+            "STATS 108",
+            "STATS 191"
+        ]
+    },
+    {
+        "courseid": "ASTRO 100G",
+        "coursename": "Planets, Stars and Galaxies",
+        "description": "The story of our place in the Universe. Key topics are the exploration of the solar system, searches for planets around other stars, the structure and evolution of stars and galaxies, high-energy astrophysics, and the origin and overall properties of the Universe. No background in physics or mathematics is assumed.",
+        "subject": "",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: PHYSICS 107, 107G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ASTRO/100G/1203",
+        "restriction_raw": "PHYSICS 107, 107G",
+        "restriction": [
+            "and",
+            "PHYSICS 107",
+            "PHYSICS 107G"
+        ]
+    },
+    {
+        "courseid": "COMPSCI 111G",
+        "coursename": "An Introduction to Practical Computing",
+        "description": "A practical introduction to computing. Topics include: web design, an overview of computer hardware and operating systems, effective use of common applications, using the internet as a communication medium, applying programming concepts, and social implications of technology.",
+        "subject": "Computer Science",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSCI/111G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENVSCI 101G",
+        "coursename": "Environment, Science and Management",
+        "description": "Explores the science behind key environmental issues to recognise the role environmental science plays in understanding the interaction between humans and the environment. The complexity of environmental problems and the difficult task of integrating science, knowledge and values are discussed.",
+        "subject": "Environmental Science",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENVSCI/101G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MARINE 100G",
+        "coursename": "The Oceans Around Us",
+        "description": "An interdisciplinary approach to understanding the importance of our oceans as the driver of our climate, source of sustenance, and focus of domestic and international political, economic and legal negotiations. It is framed around physical and biological processes in the ocean which raise questions for ocean management in NZ and internationally, allowing real-world debate about the future of the ocean realm.",
+        "subject": "Marine Science",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MARINE/100G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MATHS 190G",
+        "coursename": "Great Ideas Shaping our World",
+        "description": "Mathematics contains many powerful and beautiful ideas that have shaped the way we understand our world. This course explores some of the grand successes of mathematical thinking. No formal mathematics background is required, just curiosity about topics such as infinity, paradoxes, cryptography, knots and fractals.",
+        "subject": "Mathematics",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MATHS/190G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PSYCH 109G",
+        "coursename": "Mind, Brain and Behaviour",
+        "description": "Topics covered may include: the nature of sensory and perceptual processes, the cause of perceptual illusions, the structure and function of the human brain, approaches to animal and human learning, models of human language and memory, and the design of psychological experiments. A laboratory component, in which students are required to participate as subjects, forms part of the course.",
+        "subject": "Psychology",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PSYCH/109G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SCIGEN 101G",
+        "coursename": "Communicating in a Knowledge Society",
+        "description": "Effective communication is required for specialists in all fields to engage meaningfully with society. In this course students gain an understanding of the important role communication plays in a knowledge society. Through case studies and practical experience students learn about the responsibilities and skills required to communicate with a variety of audiences. They learn how to effectively manage and present data and practice oral, written, visual and electronic communication.",
+        "subject": "Science General",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SCIGEN/101G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "STATS 101G",
+        "coursename": "Introduction to Statistics",
+        "description": "Intended for anyone who will ever have to collect or make sense of data, either in their career or private life. Steps involved in conducting a statistical investigation are studied with the main emphasis being on data analysis and the background concepts necessary for successfully analysing data, extrapolating from patterns in data to more generally applicable conclusions and communicating results to others. Other topics include probability; confidence intervals, statistical significance, t-tests, and p-values; nonparametric methods; one-way analysis of variance, simple linear regression, correlation, tables of counts and the chi-square test.",
+        "subject": "Statistics",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: STATS 102, 107, 108, 191",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STATS/101G/1203",
+        "restriction_raw": "STATS 102, 107, 108, 191",
+        "restriction": [
+            "and",
+            "STATS 102",
+            "STATS 107",
+            "STATS 108",
+            "STATS 191"
+        ]
+    },
+    {
+        "courseid": "EARTHSCI 105G",
+        "coursename": "Natural Hazards in New Zealand",
+        "description": "New Zealanders are exposed to extreme natural events and processes including earthquakes, volcanic eruptions, weather bombs, storm surge, tsunami, flooding, landslides and erosion. The physical context for each hazard is provided, drawing on the disciplines of geology, geomorphology and climatology. The frequency and magnitude of natural hazards for New Zealand are considered using different sources. Impacts on modern society are discussed using case studies and scenario modelling.",
+        "subject": "Earth Sciences",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Restriction: GEOG 105, 105G, GEOLOGY 110",
+        "url": "",
+        "restriction_raw": "GEOG 105, 105G, GEOLOGY 110",
+        "restriction": [
+            "and",
+            "GEOG 105",
+            "GEOG 105G",
+            "GEOLOGY 110"
+        ]
+    },
+    {
+        "courseid": "PHYSICS 107G",
+        "coursename": "Planets, Stars and Galaxies",
+        "description": "This course tells the story of our place in the Universe. Key topics are the exploration of the solar system, searches for planets around other stars, the structure and evolution of stars and galaxies, high-energy astrophysics, and the origin and overall properties of the Universe. No background in physics or mathematics is assumed.",
+        "subject": "Physics",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EARTHSCI 205G",
+        "coursename": "New Zealand: Half a Billion Years on the Edge",
+        "description": "Take a 500 million year journey through time following the geologic and biologic development of New Zealand from humble beginnings on the edge of the ancient supercontinent Gondwana to the present day geologically dynamic land mass beset by volcanic eruptions, earthquakes and massive erosion as a consequence of being located on the edge of the Earth's largest tectonic plate.",
+        "subject": "Earth Sciences",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "Prerequisite: 75 points passed\nRestriction: GEOLOGY 205, 205G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EARTHSCI/205G/1203",
+        "prerequisite_raw": "75 points passed",
+        "prerequisite": [
+            "75"
+        ],
+        "restriction_raw": "GEOLOGY 205, 205G",
+        "restriction": [
+            "and",
+            "GEOLOGY 205",
+            "GEOLOGY 205G"
+        ]
+    },
+    {
+        "courseid": "SCIGEN 201G",
+        "coursename": "Innovating in a Knowledge Society",
+        "description": "Interdisciplinary examination of science innovation at policy, organisational and project levels including context, impacts and roles of business and research organisations, and ways innovations are presented and received. Case study analysis of the business environment including how innovation is both enabled and constrained in science-based organisations and society, and innovation strategies in science\u2013based organisations.",
+        "subject": "Science General",
+        "term": "S1",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SCIGEN/201G/1203",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ASTRO 100G",
+        "coursename": "Planets, Stars and Galaxies",
+        "description": "The story of our place in the Universe. Key topics are the exploration of the solar system, searches for planets around other stars, the structure and evolution of stars and galaxies, high-energy astrophysics, and the origin and overall properties of the Universe. No background in physics or mathematics is assumed.",
+        "subject": "",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: PHYSICS 107, 107G",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ASTRO/100G/1205",
+        "restriction_raw": "PHYSICS 107, 107G",
+        "restriction": [
+            "and",
+            "PHYSICS 107",
+            "PHYSICS 107G"
+        ]
+    },
+    {
+        "courseid": "BIOSCI 100G",
+        "coursename": "Antarctica: The Frozen Continent",
+        "description": "A general introduction to Antarctica and its environs including the Southern Ocean and the sub-Antarctic islands. Emphasis will be placed on the evolution of Antarctica and how resident plants, animals and micro-organisms have adapted to cope with the extreme environment. Specific topics to be addressed include: the history of Antarctic exploration and its impact on the development of Antarctic science, Antarctic ecosystems, Antarctica as a wilderness region, and the impact of humans including the exploitation of resources and the effects of pollution. This course is suitable for students with both science and non-science backgrounds.",
+        "subject": "Biological Sciences",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/100G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "COMPSCI 111G",
+        "coursename": "An Introduction to Practical Computing",
+        "description": "A practical introduction to computing. Topics include: web design, an overview of computer hardware and operating systems, effective use of common applications, using the internet as a communication medium, applying programming concepts, and social implications of technology.",
+        "subject": "Computer Science",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/COMPSCI/111G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ENVSCI 101G",
+        "coursename": "Environment, Science and Management",
+        "description": "Explores the science behind key environmental issues to recognise the role environmental science plays in understanding the interaction between humans and the environment. The complexity of environmental problems and the difficult task of integrating science, knowledge and values are discussed.",
+        "subject": "Environmental Science",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ENVSCI/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EXERSCI 100G",
+        "coursename": "Exercise and Fitness: Myths and Reality",
+        "description": "An introduction to the principles of physical exercise, with a focus on understanding how the body moves and responds to exercise, how performance can be measured, and how fitness can be developed and maintained to optimise health. Particular emphasis will be placed on the debunking of common myths about exercise, and offering evidence-based advice on the benefits of appropriate physical activity.",
+        "subject": "Exercise Sciences",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: BIOSCI 107, EXERSCI 101, 105, SPORTSCI 100G, 101, 105, MEDSCI 142",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/EXERSCI/100G/1205",
+        "restriction_raw": "BIOSCI 107, EXERSCI 101, 105, SPORTSCI 100G, 101, 105, MEDSCI 142",
+        "restriction": [
+            "and",
+            "BIOSCI 107",
+            "EXERSCI 101",
+            "EXERSCI 105",
+            "SPORTSCI 100G",
+            "SPORTSCI 101",
+            "SPORTSCI 105",
+            "MEDSCI 142"
+        ]
+    },
+    {
+        "courseid": "GEOG 103G",
+        "coursename": "Mapping Our World",
+        "description": "An introduction to contemporary geospatial technologies such as web-mapping, GPS and tracking devices and GIS. Covers key concepts and principles behind these tools and their use, along with practical experiences through laboratories. Critical and theoretical perspectives on the tools, their use, and their social impacts will be discussed.",
+        "subject": "Geography",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/GEOG/103G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "GEOG 104G",
+        "coursename": "Cities and Urbanism",
+        "description": "What makes a great city? This course explores 'urbanism' in both historical and contemporary cities to determine the essence of urbanity and the way that citizens (and visitors) experience city life. The dynamics and character of cities are considered in terms of their built environment, environmental systems, population, social diversity, and planning policies and practices.",
+        "subject": "Geography",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/GEOG/104G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "MATHS 190G",
+        "coursename": "Great Ideas Shaping our World",
+        "description": "Mathematics contains many powerful and beautiful ideas that have shaped the way we understand our world. This course explores some of the grand successes of mathematical thinking. No formal mathematics background is required, just curiosity about topics such as infinity, paradoxes, cryptography, knots and fractals.",
+        "subject": "Mathematics",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/MATHS/190G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PSYCH 109G",
+        "coursename": "Mind, Brain and Behaviour",
+        "description": "Topics covered may include: the nature of sensory and perceptual processes, the cause of perceptual illusions, the structure and function of the human brain, approaches to animal and human learning, models of human language and memory, and the design of psychological experiments. A laboratory component, in which students are required to participate as subjects, forms part of the course.",
+        "subject": "Psychology",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/PSYCH/109G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SCIGEN 101G",
+        "coursename": "Communicating in a Knowledge Society",
+        "description": "Effective communication is required for specialists in all fields to engage meaningfully with society. In this course students gain an understanding of the important role communication plays in a knowledge society. Through case studies and practical experience students learn about the responsibilities and skills required to communicate with a variety of audiences. They learn how to effectively manage and present data and practice oral, written, visual and electronic communication.",
+        "subject": "Science General",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SCIGEN/101G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "STATS 101G",
+        "coursename": "Introduction to Statistics",
+        "description": "Intended for anyone who will ever have to collect or make sense of data, either in their career or private life. Steps involved in conducting a statistical investigation are studied with the main emphasis being on data analysis and the background concepts necessary for successfully analysing data, extrapolating from patterns in data to more generally applicable conclusions and communicating results to others. Other topics include probability; confidence intervals, statistical significance, t-tests, and p-values; nonparametric methods; one-way analysis of variance, simple linear regression, correlation, tables of counts and the chi-square test.",
+        "subject": "Statistics",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: STATS 102, 107, 108, 191",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STATS/101G/1205",
+        "restriction_raw": "STATS 102, 107, 108, 191",
+        "restriction": [
+            "and",
+            "STATS 102",
+            "STATS 107",
+            "STATS 108",
+            "STATS 191"
+        ]
+    },
+    {
+        "courseid": "STATS 150G",
+        "coursename": "Lies, Damned Lies, and Statistics",
+        "description": "Examines the uses, limitations and abuses of statistical information in a variety of activities such as polling, public health, sport, law, marketing and the environment. The statistical concepts and thinking underlying data-based arguments will be explored. Emphasises the interpretation and critical evaluation of statistically based reports as well as the construction of statistically sound arguments and reports. Some course material will be drawn from topics currently in the news.",
+        "subject": "Statistics",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/STATS/150G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SUSTAIN 100G",
+        "coursename": "Sustainability and Us",
+        "description": "What is sustainability? Discussion of what \u2018sustainability\u2019 means, its underpinning values, and the role individuals and organisations play in creating solutions. Students work in groups to investigate a sustainability issue on campus and design a solution, which they present via a film, poster, presentation or model. Examines sustainability issues \u2013 water and overpopulation.",
+        "subject": "Sustainability",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SUSTAIN/100G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EARTHSCI 105G",
+        "coursename": "Natural Hazards in New Zealand",
+        "description": "New Zealanders are exposed to extreme natural events and processes including earthquakes, volcanic eruptions, weather bombs, storm surge, tsunami, flooding, landslides and erosion. The physical context for each hazard is provided, drawing on the disciplines of geology, geomorphology and climatology. The frequency and magnitude of natural hazards for New Zealand are considered using different sources. Impacts on modern society are discussed using case studies and scenario modelling.",
+        "subject": "Earth Sciences",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Restriction: GEOG 105, 105G, GEOLOGY 110",
+        "url": "",
+        "restriction_raw": "GEOG 105, 105G, GEOLOGY 110",
+        "restriction": [
+            "and",
+            "GEOG 105",
+            "GEOG 105G",
+            "GEOLOGY 110"
+        ]
+    },
+    {
+        "courseid": "PHYSICS 107G",
+        "coursename": "Planets, Stars and Galaxies",
+        "description": "This course tells the story of our place in the Universe. Key topics are the exploration of the solar system, searches for planets around other stars, the structure and evolution of stars and galaxies, high-energy astrophysics, and the origin and overall properties of the Universe. No background in physics or mathematics is assumed.",
+        "subject": "Physics",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "ASTRO 200G",
+        "coursename": "Astrobiology",
+        "description": "Astrobiology examines the potential of the universe to harbour life and is interdisciplinary, combining Geology, Biology, Astronomy, Chemistry, Physics, Philosophy, Ethics. Course focus is on how these disciplines combine with technology, addressing questions of life in the universe. Key topics include origin and evolution of life, definitions and environmental limits of life, and how to search for life beyond Earth.",
+        "subject": "",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "Prerequisite: 60 points passed\nRestriction: EARTHSCI 206",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/ASTRO/200G/1205",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EARTHSCI 206",
+        "restriction": [
+            "and",
+            "EARTHSCI 206"
+        ]
+    },
+    {
+        "courseid": "SCIGEN 301G",
+        "coursename": "Engaging in a Knowledge Society",
+        "description": "Addressing complex issues requires knowledge experts to engage with a variety of people. Solutions will be gained from collaborations that co-produce knowledge in transdisciplinary partnerships that lead to new ways of thinking. This course explores meaningful ways to engage with communities, and reassesses current ways of knowing and doing.",
+        "subject": "Science General",
+        "term": "S2",
+        "year": "2020",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "https://courseoutline.auckland.ac.nz/dco/course/SCIGEN/301G/1205",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    }
+]

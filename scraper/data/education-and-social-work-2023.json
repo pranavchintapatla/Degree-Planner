@@ -1,0 +1,3286 @@
+[
+    {
+        "courseid": "EDUC 113",
+        "coursename": "Current Issues in Education",
+        "description": "Educational issues are pressing concerns in our society. The course will help develop understanding of the background of today's public debates around schooling and will introduce ways in which educational thought and research address big topics.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2023",
+        "requirements": "Restriction: EDUC 118",
+        "url": "",
+        "restriction_raw": "EDUC 118",
+        "restriction": [
+            "and",
+            "EDUC 118"
+        ]
+    },
+    {
+        "courseid": "EDUC 283",
+        "coursename": "Pedagogy \u2013 Beyond Skills and Methods",
+        "description": "Examines personal experiences and views of teaching and learning and the impact of theories of learning on classroom practices. The course also includes discussion of the relationship between pedagogy and race, class and gender; M\u0101ori pedagogy; pedagogy and student achievement; and New Zealand and international examples.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 383",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 383",
+        "restriction": [
+            "and",
+            "EDUC 383"
+        ]
+    },
+    {
+        "courseid": "EDUC 304",
+        "coursename": "Educational Philosophy and Policy",
+        "description": "Examines the competing ideologies of individualism and community, their influence in recent educational reforms in New Zealand, and their wider implications for education, society and culture. Introduces the basic concepts and themes of classical liberalism, comparing and contrasting them with versions of neo-liberalism, and outlines the case for a community-based social policy and the renewal of social democracy.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 313",
+        "coursename": "Special Study in Education",
+        "description": "Supervised inquiry in an area of education approved by the Head of the Liberal Arts Programme in the Faculty of Education and Social Work.",
+        "subject": "Education",
+        "term": "SS",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points at Stage II and Departmental approval",
+        "url": "",
+        "prerequisite_raw": "Any 45 points at Stage II and Departmental approval",
+        "prerequisite": [
+            "and",
+            [
+                "45:Stage II"
+            ],
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 109",
+        "coursename": "Languages and Literacies Education 1",
+        "description": "Examines beliefs and pedagogical practices about languages and literacies.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 102",
+        "url": "",
+        "restriction_raw": "EDCURRIC 102",
+        "restriction": [
+            "and",
+            "EDCURRIC 102"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 113",
+        "coursename": "Science and Technology Education 1",
+        "description": "Through inquiry, develop an appreciation of the role of science and technology in education and society. Apply pedagogical, curriculum and content knowledge to select appropriate approaches and resources for science and technology learning experiences to achieve valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 105, 107",
+        "url": "",
+        "restriction_raw": "EDCURRIC 105, 107",
+        "restriction": [
+            "and",
+            "EDCURRIC 105",
+            "EDCURRIC 107"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 117",
+        "coursename": "Arts Education",
+        "description": "Inquire into the place of The Arts in education and develop capability and understanding through experiences in each of the four arts disciplines. Design for learning by applying pedagogical, curriculum, content and assessment knowledge to select approaches and resources for Arts learning experiences for valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 101",
+        "url": "",
+        "restriction_raw": "EDCURRIC 101",
+        "restriction": [
+            "and",
+            "EDCURRIC 101"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 117",
+        "coursename": "Ng\u0101 Toi: He Whakatakinga",
+        "description": "Inquires into the place of Ng\u0101 Toi in education, and develops capability and understanding through experiences in each of the three Ng\u0101 Toi disciplines: Toi Ataata; Ng\u0101 Mahi a te R\u0113hia; and Toi Puoro. Designs for learning by applying pedagogical, curriculum and content knowledge to select approaches and resources for Ng\u0101 Toi learning experiences for valued outcomes for learners.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRM 101",
+        "url": "",
+        "restriction_raw": "EDCURRM 101",
+        "restriction": [
+            "and",
+            "EDCURRM 101"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 119",
+        "coursename": "Tikanga \u0101-iwi: He Whakatakinga",
+        "description": "Develops students' knowledge and skills associated with planning for teaching and learning in tikanga \u0101 iwi. Examines the history, nature and purpose of tikanga \u0101 iwi education. Develops students\u2019 knowledge of curriculum requirements, social inquiry and resources to plan for students' diverse needs. Examines how learning is monitored and assessed. Examines the specific tikanga \u0101 iwi discourse of te reo M\u0101ori.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPRAC 100",
+        "coursename": "Practicum 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: 30 points from BEd(Tchg) courses and EDPROFST 102\nRestriction: EDPRAC 101",
+        "url": "",
+        "prerequisite_raw": "30 points from BEd(Tchg) courses and EDPROFST 102",
+        "prerequisite": [
+            "30"
+        ],
+        "restriction_raw": "EDPRAC 101",
+        "restriction": [
+            "and",
+            "EDPRAC 101"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 100",
+        "coursename": "Te Ao M\u0101ori - Te K\u0101kano",
+        "description": "Introduces socio-political and historical contexts, including Te Tiriti o Waitangi, to inform understandings about M\u0101ori challenges and aspirations within contemporary New Zealand society. Examines own social and cultural locations for their impact on professional and social practices in a range of settings. Develops basic knowledge of te ao M\u0101ori including Te Reo me ng\u0101 tikanga M\u0101ori.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDUCSW 101, EDPROFST 100",
+        "url": "",
+        "restriction_raw": "EDUCSW 101, EDPROFST 100",
+        "restriction": [
+            "and",
+            "EDUCSW 101",
+            "EDPROFST 100"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 101",
+        "coursename": "Te Reo M\u0101ori 1",
+        "description": "Develops te reo M\u0101ori knowledge, skills and attitudes for learning and teaching across marautanga. Addresses issues such as strategies that support personal and professional M\u0101ori language development; historical, social and political factors that have impacted on the vitality of te reo M\u0101ori; bilingual education and M\u0101ori medium education.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDPROFM 109",
+        "url": "",
+        "restriction_raw": "EDPROFM 109",
+        "restriction": [
+            "and",
+            "EDPROFM 109"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 102",
+        "coursename": "Pakirehua Ngaio \u2013 Te Ako",
+        "description": "Addresses key influences on learning and development, building and enhancing understandings of personal experiences and identity. Examines concepts central to learning and development such as self-efficacy and self-concept. Explores key aspects within the teacher\u2019s role with an emphasis on reflection, relationship building, communication and collaboration. Introduces strategies central to the first teaching practicum. Examines te reo M\u0101ori discourse appropriate to pakirehua ngaio contexts.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 102",
+        "coursename": "Inquiry into Practice 1",
+        "description": "Addresses key influences on learning and development, building and enhancing understandings of personal experiences and identity. Examines concepts central to learning and development such as self-efficacy and self-concept. Explores key aspects within the teacher\u2019s role with an emphasis on reflection, relationship building, communication and collaboration. Introduces strategies central to the first teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 104",
+        "coursename": "Early Childhood Education in Aotearoa",
+        "description": "Explores social, historical and contemporary perspectives of early childhood education in Aotearoa. Overviews early childhood services, professional organisations, early childhood curriculum, theories of learning, and children\u2019s play and learning contexts. Examines the roles and responsibilities of teachers in relation to teaching and learning.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 105",
+        "coursename": "Teaching: Tales and Traditions",
+        "description": "Introduction to key ideas on teachers and teaching. Explores teaching traditions, their origins, stories of teaching in New Zealand; stories of teachers that generate change; and how teaching and teachers are understood in a variety of disciplines such as Science, Health, Arts, and Sport. Considers the following: How should we teach? What counts as knowledge? What contradictions do teachers encounter?",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 114",
+        "coursename": "Introduction to M\u0101ori Education",
+        "description": "An introduction to M\u0101ori education and to the education of M\u0101ori in Aotearoa. A range of critical issues related to M\u0101ori experiences both in and as a result of schooling and education in Aotearoa, and M\u0101ori educational interventions that have emerged, are examined.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDUC 103, EDPROFST 100",
+        "url": "",
+        "restriction_raw": "EDUC 103, EDPROFST 100",
+        "restriction": [
+            "and",
+            "EDUC 103",
+            "EDPROFST 100"
+        ]
+    },
+    {
+        "courseid": "EDUC 115",
+        "coursename": "Introduction to Child and Adolescent Development",
+        "description": "Study of factors influencing children's development and socialisation within the culturally and linguistically diverse context of New Zealand. Research from developmental psychology and from family and parenting will be drawn upon to explore physical, emotional, social, cognitive and language development during childhood and adolescence.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 116",
+        "coursename": "Introduction to Educational Thought",
+        "description": "Why do we go to school? What is the purpose of schooling in society and do good grades translate into good jobs? An introduction to the study of education from sociological, historical and philosophical perspectives with reference to the forces that have shaped the development of education, especially in New Zealand. Understanding social inequalities in education relating to ethnicity, gender and class form a central concern of this course.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 121",
+        "coursename": "How People Learn",
+        "description": "Focuses on learning in formal and informal settings and addresses such questions as: why do some things seem easier to learn than others, why do we forget things we once knew, and why do some people learn faster or better than others? Examines the nature of intelligence and how to help personal learning or the learning of others.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDUC 111, 117",
+        "url": "",
+        "restriction_raw": "EDUC 111, 117",
+        "restriction": [
+            "and",
+            "EDUC 111",
+            "EDUC 117"
+        ]
+    },
+    {
+        "courseid": "EDUCM 199A",
+        "coursename": "Te Reo M\u0101ori",
+        "description": "To complete this course students must attain a level of competency in te reo M\u0101ori as determined by the Faculty of Education and Social Work.",
+        "subject": "Education M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "To complete this course students must enrol in EDUCM 199 A and B, or EDUCM 199",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDUCM 199 A and B, or EDUCM 199",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDUCM 199A",
+                    "EDUCM 199B"
+                ],
+                "EDUCM 199"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDUCSW 199A",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the Faculty of Education and Social Work.",
+        "subject": "Education and Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDUCSW 199A",
+                    "EDUCSW 199B"
+                ],
+                "EDUCSW 199"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDUCSW 199B",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the Faculty of Education and Social Work.",
+        "subject": "Education and Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDUCSW 199A",
+                    "EDUCSW 199B"
+                ],
+                "EDUCSW 199"
+            ]
+        ]
+    },
+    {
+        "courseid": "HUMSERV 102",
+        "coursename": "Lifespan Development for Human Services",
+        "description": "An introduction to the theories of lifespan development. Key issues affecting human development and its relevance and application to the work of human service practitioners will be explored. The consideration of social contexts of human development will be a central theme.",
+        "subject": "Human Services",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHYSED 101",
+        "coursename": "Games and Sport Education",
+        "description": "Develops knowledge and appreciation of various game forms. Analyses game structures and processes. Develops performance competency in games through experiential learning. Explores and analyses potentially positive and negative outcomes of participating in games and sport.",
+        "subject": "Physical Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 231, EDPROF 344",
+        "url": "",
+        "restriction_raw": "EDCURRIC 231, EDPROF 344",
+        "restriction": [
+            "and",
+            "EDCURRIC 231",
+            "EDPROF 344"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 100A",
+        "coursename": "Ko Wai Au, Ko Wai Koe, Ko Wai T\u0101tou?",
+        "description": "Introduces historical and socio-political contexts, beginning with te ao M\u0101ori, tikanga M\u0101ori, and te Tiriti o Waitangi, that underpin analysis of a range of identities, diversities, aspirations, oppressions and cultures in contemporary Aotearoa. Fosters understanding of how one\u2019s cultural location and intersectional experiences can shape values and attitudes, including bias and prejudice, and the impact of 'self' on professional practice.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDPROFM 100, SOCWORK 113\nTo complete this course students must enrol in SOCWORK 100 A and B, or SOCWORK 100",
+        "url": "",
+        "restriction_raw": "EDPROFM 100, SOCWORK 113",
+        "restriction": [
+            "and",
+            "EDPROFM 100",
+            "SOCWORK 113"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 100 A and B, or SOCWORK 100",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 100A",
+                    "SOCWORK 100B"
+                ],
+                "SOCWORK 100"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 101A",
+        "coursename": "Social Work and Social Justice",
+        "description": "The Treaty of Waitangi underpins social work practice in Aotearoa. Social justice and human rights are critically considered alongside an examination of historical and contextual contributors to the development of social work. An introduction to the profession and practice of social work is provided. Relationship building and communication skills are taught within a growing awareness of self.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: SOCWORK 111, 112, 115\nTo complete this course students must enrol in SOCWORK 101 A and B, or SOCWORK 101",
+        "url": "",
+        "restriction_raw": "SOCWORK 111, 112, 115",
+        "restriction": [
+            "and",
+            "SOCWORK 111",
+            "SOCWORK 112",
+            "SOCWORK 115"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 101 A and B, or SOCWORK 101",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 101A",
+                    "SOCWORK 101B"
+                ],
+                "SOCWORK 101"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 102A",
+        "coursename": "He Tangata: People in Context",
+        "description": "Te ao M\u0101ori, ecological systems, psychological and lifespan development theories and frameworks are conceptual pillars for introducing human behaviour and experiences across the life course and the complex relationships between individuals and their social environments. Multi-dimensional aspects of human experience, identity and change are explored from a culturally conscientious, equity-oriented perspective.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: HUMSERV 101, 102\nTo complete this course students must enrol in SOCWORK 102 A and B, or SOCWORK 102",
+        "url": "",
+        "restriction_raw": "HUMSERV 101, 102",
+        "restriction": [
+            "and",
+            "HUMSERV 101",
+            "HUMSERV 102"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 102 A and B, or SOCWORK 102",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 102A",
+                    "SOCWORK 102B"
+                ],
+                "SOCWORK 102"
+            ]
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 101",
+        "coursename": "Sociocultural Foundations",
+        "description": "Explores the sociological, historical, psychological and philosophical foundations of health, sport and movement cultures. Examines how health and human movement are culturally and socially conceptualised with regard to contemporary concerns and trends. Includes studies of different cultural (P\u0101keh\u0101, M\u0101ori, Pacific, Asian) concepts of, and engagement with, health, sport and physical culture.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 135, EDUC 142",
+        "url": "",
+        "restriction_raw": "EDCURRIC 135, EDUC 142",
+        "restriction": [
+            "and",
+            "EDCURRIC 135",
+            "EDUC 142"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 104",
+        "coursename": "Biophysical Foundations of Human Movement",
+        "description": "Introduces students to the biophysical foundations of human movement. Examines the role of the neuro-muscular and musculo-skeletal systems in movement. Examines knowledge of internal and external mechanics and how this is applied to understand human movement.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 201",
+        "coursename": "Mathematics and Statistics Education 2",
+        "description": "Develops knowledge, understandings and skills that are effective in the successful teaching of mathematics and statistics. Engage with planning, teaching and assessing mathematics and statistics in responsive ways designed to improve engagement and success for diverse learners of mathematics.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRIC 108\nRestriction: EDCURRIC 204",
+        "url": "",
+        "prerequisite_raw": "EDCURRIC 108",
+        "prerequisite": [
+            "and",
+            "EDCURRIC 108"
+        ],
+        "restriction_raw": "EDCURRIC 204",
+        "restriction": [
+            "and",
+            "EDCURRIC 204"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 206",
+        "coursename": "Health and Physical Education and Social Studies Education 2",
+        "description": "Critiques pedagogies and practices in Health and Physical Education and Social Studies in relation to their effectiveness for supporting diverse akonga. Developing pedagogical, content, assessment and curriculum knowledge is utilised to design approaches for learning and teaching which promote valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRIC 119",
+        "url": "",
+        "prerequisite_raw": "EDCURRIC 119",
+        "prerequisite": [
+            "and",
+            "EDCURRIC 119"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 208",
+        "coursename": "Investigation and Exploration",
+        "description": "Critically examines curriculum approaches that promote children's exploration and learning in science, technology, engineering and mathematics. Key concepts, processes and pedagogies relating to these disciplines are considered. Explores children\u2019s learning through play and holistic understandings of infant\u2019s, toddler\u2019s and young children\u2019s learning.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 217",
+        "coursename": "Creative Arts in the Early Years",
+        "description": "Explores the role of the Arts (dance, drama, music and visual art) in contributing to infants\u2019, toddlers\u2019, and young children\u2019s critical thinking and creativity. Theories and practices of teaching and learning in Arts education are examined, including M\u0101ori and Pasifika perspectives, and connections are made to children\u2019s play, holistic wellbeing, identities and citizenship.",
+        "subject": "Education Curriculum Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRM 201",
+        "coursename": "P\u0101ngarau: He Pu\u0101waitanga",
+        "description": "Develops understanding of p\u0101ngarau and pedagogical content knowledge for teaching and learning. Designs quality programmes based on knowledge of dispositions, learning and teaching approaches, resources and curricula, and assessment activities. Uses an increasing repertoire of teaching strategies, approaches, learning activities, technologies and assessment for learning. Communicates using the specific p\u0101ngarau education discourse in te reo M\u0101ori.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRM 108\nRestriction: EDCURRM 204",
+        "url": "",
+        "prerequisite_raw": "EDCURRM 108",
+        "prerequisite": [
+            "and",
+            "EDCURRM 108"
+        ],
+        "restriction_raw": "EDCURRM 204",
+        "restriction": [
+            "and",
+            "EDCURRM 204"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 203",
+        "coursename": "Te Reo Matatini 2: Te Puanga",
+        "description": "Further develops the knowledge, skills and attitudes associated with planning, teaching and assessing for learners' language proficiency and literacy learning across te Marautanga M\u0101ori. Examines a range of pedagogical practices and beliefs, including second language learning theory and pedagogy to improve outcomes for learners.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRM 109\nRestriction: EDCURRM 202",
+        "url": "",
+        "prerequisite_raw": "EDCURRM 109",
+        "prerequisite": [
+            "and",
+            "EDCURRM 109"
+        ],
+        "restriction_raw": "EDCURRM 202",
+        "restriction": [
+            "and",
+            "EDCURRM 202"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 204",
+        "coursename": "Practicum 2",
+        "description": "Develops professional knowledge, skills and dispositions required for effective teaching and learning through an inquiry-based approach. Engages in noticing, recognising and responding to diverse learners. Practises and reflects on skills necessary to manage complex learning environments.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPRAC 100, EDPROFST 102  \nRestriction: EDPRAC 201",
+        "url": "",
+        "prerequisite_raw": "EDPRAC 100, EDPROFST 102",
+        "prerequisite": [
+            "and",
+            "EDPRAC 100",
+            "EDPROFST 102"
+        ],
+        "restriction_raw": "EDPRAC 201",
+        "restriction": [
+            "and",
+            "EDPRAC 201"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 205",
+        "coursename": "Practicum 2",
+        "description": "Develops professional knowledge, skills and dispositions required for effective teaching and learning through an inquiry-based approach. Engages in noticing, recognising and responding to diverse learners informed by or guided by curricula. Practises and reflects on skills necessary to manage complex learning environments.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPRAC 105, EDPROFST 103 \nRestriction: EDPRAC 202",
+        "url": "",
+        "prerequisite_raw": "EDPRAC 105, EDPROFST 103",
+        "prerequisite": [
+            "and",
+            "EDPRAC 105",
+            "EDPROFST 103"
+        ],
+        "restriction_raw": "EDPRAC 202",
+        "restriction": [
+            "and",
+            "EDPRAC 202"
+        ]
+    },
+    {
+        "courseid": "EDPRACM 204",
+        "coursename": "Noho \u0101 kura 2",
+        "description": "Develops professional knowledge, skills and dispositions required for effective teaching and learning through an inquiry-based approach. Engages in noticing, recognising and responding to diverse learners informed by or guided by curricula. Practises and reflects on skills necessary to manage complex learning environments. Examines the te reo M\u0101ori discourse relevant to the practicum context.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPRACM 100\nRestriction: EDPRACM 201",
+        "url": "",
+        "prerequisite_raw": "EDPRACM 100",
+        "prerequisite": [
+            "and",
+            "EDPRACM 100"
+        ],
+        "restriction_raw": "EDPRACM 201",
+        "restriction": [
+            "and",
+            "EDPRACM 201"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 203",
+        "coursename": "M\u0101tauranga: Te Whakawhanake Hapori Ako",
+        "description": "Introduces students to selected contemporary perspectives on learning. Explores strategies that develop self-regulated and self-efficacious learners, and support learning, with a focus on M\u0101ori learners. Considers rationale and conditions for establishing connections and relationships within a responsive pedagogy alongside factors that contribute to the creation of M\u0101ori medium classrooms as effective learning communities.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFM 208",
+        "coursename": "Pakirehua Ngaio \u2013 Te Whakaako",
+        "description": "Develops informed understandings about the nature of high quality, effective teaching practices for diverse akonga. Interprets teaching as inquiry with reference to relevant curricula. Identifies and examines specific teacher actions that support high quality, effective teaching and learning. Further develops understandings of strategies central to the second teaching practicum. Examines te reo M\u0101ori discourse appropriate to pakirehua ngaio contexts.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 102, EDPRACM 100 \nCorequisite: EDPRACM 204",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 102, EDPRACM 100",
+        "prerequisite": [
+            "and",
+            "EDPROFM 102",
+            "EDPRACM 100"
+        ],
+        "corequisite_raw": "EDPRACM 204",
+        "corequisite": [
+            "and",
+            "EDPRACM 204"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 207B",
+        "coursename": "Interdisciplinary Approach: TESOL",
+        "description": "An overview of second language learning and teaching that addresses the interdisciplinary nature of TESOL by developing knowledge, skills and attitudes associated with TESOL within different contexts. Addresses questions such as: What are the important principles, concepts and skills in an interdisciplinary approach to TESOL? Why is intercultural communicative language learning important? How are these concepts evident in practice?",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "This course may not be taken concurrently with EDPROFST 306 A and B, or EDPROFST 306\nTo complete this course students must enrol in EDPROFST 207 A and B, or EDPROFST 207",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 207 A and B, or EDPROFST 207",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 207A",
+                    "EDPROFST 207B"
+                ],
+                "EDPROFST 207"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 208",
+        "coursename": "Inquiry into Practice 2",
+        "description": "Develops informed understandings about the nature of high quality, effective teaching practices for diverse akonga. Interprets teaching as inquiry with reference to relevant curricula. Identifies and examines specific teacher actions that support high quality, effective teaching and learning. Further develops understandings of strategies central to the second teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 102, EDPRAC 100\nCorequisite: EDPRAC 204",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 102, EDPRAC 100",
+        "prerequisite": [
+            "and",
+            "EDPROFST 102",
+            "EDPRAC 100"
+        ],
+        "corequisite_raw": "EDPRAC 204",
+        "corequisite": [
+            "and",
+            "EDPRAC 204"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 209",
+        "coursename": "Developing Learning Communities",
+        "description": "Introduces students to selected contemporary perspectives on learning. Explores strategies that develop self-regulated and self-efficacious akonga, and support learning. Considers rationale and conditions for establishing cultural connections and relationships within a responsive pedagogy alongside factors that contribute to the creation of classrooms as effective learning communities.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: ENGSCI 211 or 213\nRestriction: ENGSCI 311, 313, 314",
+        "url": "",
+        "prerequisite_raw": "ENGSCI 211 or 213",
+        "prerequisite": [
+            "or",
+            "ENGSCI 211",
+            "ENGSCI 213"
+        ],
+        "restriction_raw": "ENGSCI 311, 313, 314",
+        "restriction": [
+            "and",
+            "ENGSCI 311",
+            "ENGSCI 313",
+            "ENGSCI 314"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 211",
+        "coursename": "Engaging with Infants and Toddlers",
+        "description": "Analyses social, historical, and contemporary issues related to education and care for infants and toddlers. Investigates relevant pedagogies through a range of theoretical, philosophical, and cultural lenses. Explores images of infants and toddlers and understandings of play and assessment. Considers infants\u2019 and toddlers\u2019 learning and wellbeing and the implications for environmental provision and ethical practice.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 104\nRestriction: EDPROFST 366",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 104",
+        "prerequisite": [
+            "and",
+            "EDPROFST 104"
+        ],
+        "restriction_raw": "EDPROFST 366",
+        "restriction": [
+            "and",
+            "EDPROFST 366"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 215",
+        "coursename": "Professional Early Childhood Practice 2",
+        "description": "Develops professional knowledge, skills and dispositions required for effective professional early childhood practice through an inquiry-based approach. Enhances practice in engaging with and responding to diverse tamariki informed by developmental knowledge. Creates opportunities to practise and reflect on skills necessary to manage complex early childhood environments.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 115",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 115",
+        "prerequisite": [
+            "and",
+            "EDPROFST 115"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 217",
+        "coursename": "TESOL in Practice I",
+        "description": "Familiarises students with a range of skills and knowledge in second language learning and teaching in different contexts. It uses pedagogical content knowledge and skills for informing future practice including maximising motivation and engagement in TESOL for diverse and multilingual learners. The course examines professional practice in educational environments using a critically reflective approach.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDPROFST 207",
+        "url": "",
+        "restriction_raw": "EDPROFST 207",
+        "restriction": [
+            "and",
+            "EDPROFST 207"
+        ]
+    },
+    {
+        "courseid": "EDUC 200",
+        "coursename": "Youth Mentoring",
+        "description": "A theoretical and applied study of youth mentoring. Students will develop an understanding of theories of youth and youth mentoring, examine current issues in youth mentoring such as cultural perspectives, developmental considerations, and contexts of youth mentoring. Students will also engage in a mentoring internship where they will demonstrate their ability to integrate and apply their developed knowledge and skills.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed and approval from the Course Director",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed and approval from the Course Director",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 204",
+        "coursename": "Philosophy and Sociology of Education",
+        "description": "An exploration of key educational themes and questions from philosophical and sociological perspectives.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 206, 208",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 206, 208",
+        "restriction": [
+            "and",
+            "EDUC 206",
+            "EDUC 208"
+        ]
+    },
+    {
+        "courseid": "EDUC 212",
+        "coursename": "Global Education Policy for All?",
+        "description": "Interrogates how and why education is positioned in contemporary times as a key vehicle for promoting sustainable development and as a fundamental human right. Specific attention is given to the politics and power dynamics behind global educational policies and frameworks, and the impacts these have on learners, educators, communities and societies throughout Oceania and beyond.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 224",
+        "coursename": "Assessment and Evaluation in Education",
+        "description": "An examination of the theoretical and practical dimensions of designing, administering, and interpreting curriculum-aligned assessment and evaluation practices and policy including an introduction to valid and reliable data collection and interpretation practices. Recent New Zealand assessment policy and practice will also be analysed.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed\r\nRestriction: EDUC 225",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 225",
+        "restriction": [
+            "and",
+            "EDUC 225"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 201",
+        "coursename": "Diversity in Aotearoa/New Zealand",
+        "description": "Explores diversity in Aotearoa New Zealand, focusing on its bicultural history and contemporary public policy. Questions power relations relating to the Treaty of Waitangi and biculturalism, extending to the nation\u2019s increasing ethnic, cultural and linguistic diversities. Critiques intersectionalities of culture, race, ethnicity, gender, socio-economic location, sexuality, disability, age and examines policy implications. Tamaki Makaurau (Auckland) is a key illustrative setting.",
+        "subject": "Education and Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDUCSW 101 or EDPROFM 100\nRestriction: EDUC 118, SOCWORK 113, 114",
+        "url": "",
+        "prerequisite_raw": "EDUCSW 101 or EDPROFM 100",
+        "prerequisite": [
+            "or",
+            "EDUCSW 101",
+            "EDPROFM 100"
+        ],
+        "restriction_raw": "EDUC 118, SOCWORK 113, 114",
+        "restriction": [
+            "and",
+            "EDUC 118",
+            "SOCWORK 113",
+            "SOCWORK 114"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 201",
+        "coursename": "Youth Mental Health Education",
+        "description": "Examines mental health education in Aotearoa New Zealand. Explores holistic, western and non-western approaches to mental health in education settings and the history of public health in schools. Examines how current education policy, resourcing and pedagogical initiatives impact the mental health and wellbeing of children and young people.",
+        "subject": "Health Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 233",
+        "url": "",
+        "restriction_raw": "EDCURRIC 233",
+        "restriction": [
+            "and",
+            "EDCURRIC 233"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 200A",
+        "coursename": "Ng\u0101 Pou for Mana-enhancing Practice",
+        "description": "Engages students in developing a framework for social work practice that supports individual, wh\u0101nau and community aspirations to ora/wellbeing and enhances individual and collective mana. Focusing centrally on wh\u0101nau-family-aiga systems, and emphasising critical intersectional analyses of the inequitable impact of socio-structural factors on wh\u0101nau and communities, it builds core social work knowledge and skills applicable across diverse settings and groups.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 101 and 102, or 111 and 115, or 181 or 182\nRestriction: SOCCHFAM 215, SOCHLTH 231\nTo complete this course students must enrol in SOCWORK 200 A and B, or SOCWORK 200",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 101 and 102, or 111 and 115, or 181 or 182",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "SOCWORK 101",
+                "SOCWORK 102"
+            ],
+            [
+                "and",
+                "SOCWORK 111",
+                "SOCWORK 115"
+            ],
+            "SOCWORK 181",
+            "SOCWORK 182"
+        ],
+        "restriction_raw": "SOCCHFAM 215, SOCHLTH 231",
+        "restriction": [
+            "and",
+            "SOCCHFAM 215",
+            "SOCHLTH 231"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 200 A and B, or SOCWORK 200",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 200A",
+                    "SOCWORK 200B"
+                ],
+                "SOCWORK 200"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 201A",
+        "coursename": "Culturally Responsive Practice",
+        "description": "An introduction to the study of the personal and professional impact of te Tiriti o Waitangi in social work practice and social workers\u2019 obligations to bicultural and, more broadly, culturally responsive practice with M\u0101ori, Pasifika and other diverse communities. Development of critical understandings of cultural responsiveness and opportunities for experiential learning in community settings.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 100 or 30 points from EDPROFM 100, SOCWORK 113, 180\nRestriction: SOCWORK 212\nTo complete this course students must enrol in SOCWORK 201 A and B, or SOCWORK 201",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 100 or 30 points from EDPROFM 100, SOCWORK 113, 180",
+        "prerequisite": [
+            "or",
+            "SOCWORK 100",
+            [
+                "30",
+                "EDPROFM 100",
+                "SOCWORK 113",
+                "SOCWORK 180"
+            ]
+        ],
+        "restriction_raw": "SOCWORK 212",
+        "restriction": [
+            "and",
+            "SOCWORK 212"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 201 A and B, or SOCWORK 201",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 201A",
+                    "SOCWORK 201B"
+                ],
+                "SOCWORK 201"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 202A",
+        "coursename": "Law, Policy and Social Action",
+        "description": "A critical exploration of the legislative and policy contexts for social work practice in Aotearoa, including the contradictions inherent between te Tiriti o Waitangi and settler capitalism, and tino rangatiratanga and the colonial doctrine of sovereignty. Exploration of social work ethics, and the challenging processes involved in working for change.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 101 or 112\nRestriction: SOCWORK 211, 216\nTo complete this course students must enrol in SOCWORK 202 A and B, or SOCWORK 202",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 101 or 112",
+        "prerequisite": [
+            "or",
+            "SOCWORK 101",
+            "SOCWORK 112"
+        ],
+        "restriction_raw": "SOCWORK 211, 216",
+        "restriction": [
+            "and",
+            "SOCWORK 211",
+            "SOCWORK 216"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 202 A and B, or SOCWORK 202",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 202A",
+                    "SOCWORK 202B"
+                ],
+                "SOCWORK 202"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 221A",
+        "coursename": "Social Work Theories and Skills",
+        "description": "An exploration of theories, models and skills for bicultural social work practice with individuals and wh\u0101nau in a range of settings and cultural contexts. Informed by the ANZASW Code of Ethics and the SWRB Core Competence Standards, content includes critical engagement with current literature and research guiding assessment and intervention, active skill building, and exploration of personal and professional values.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 111\nRestriction: SOCWORK 213, 214\nTo complete this course students must enrol in SOCWORK 221 A and B, or SOCWORK 221",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 111",
+        "prerequisite": [
+            "and",
+            "SOCWORK 111"
+        ],
+        "restriction_raw": "SOCWORK 213, 214",
+        "restriction": [
+            "and",
+            "SOCWORK 213",
+            "SOCWORK 214"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 221 A and B, or SOCWORK 221",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 221A",
+                    "SOCWORK 221B"
+                ],
+                "SOCWORK 221"
+            ]
+        ]
+    },
+    {
+        "courseid": "SPORT 202",
+        "coursename": "Sport and Recreation",
+        "description": "Explores sport, recreation, and physical activity environments and cultures in Aotearoa New Zealand, including organised and alternative sport. Examines how children, youth and adults engage with sport and physical culture. Explores issues of access, policy and leadership in the field and investigates how different concepts influence understandings of, and engagement with, sport and physical culture.",
+        "subject": "Sport Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 237",
+        "url": "",
+        "restriction_raw": "EDCURRIC 237",
+        "restriction": [
+            "and",
+            "EDCURRIC 237"
+        ]
+    },
+    {
+        "courseid": "SPORT 203",
+        "coursename": "Sport, Media and Marketing",
+        "description": "Explores the roles and consequences of media representations of sport and physicality. Develops knowledge of the discourses that influence how sport, the body, and health are understood. Develops skills in marketing communications used to promote sport and physical wellbeing. Investigates issues emerging from the use of social media by sporting organisations, groups and individuals.",
+        "subject": "Sport Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 202",
+        "coursename": "Skill Learning",
+        "description": "Develops knowledge and understanding of skill learning, teaching and coaching in human movement. Examines concepts of skill and theories of learning, including: psychological theories underpinning physical competency, child and youth development, motivation, inclusion and success. Develops an understanding of learner-centred, inquiry-based practice, and the development of pedagogical practices.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SPORTHPE 102 \r\nRestriction: EDCURRIC 200",
+        "url": "",
+        "prerequisite_raw": "SPORTHPE 102",
+        "prerequisite": [
+            "and",
+            "SPORTHPE 102"
+        ],
+        "restriction_raw": "EDCURRIC 200",
+        "restriction": [
+            "and",
+            "EDCURRIC 200"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 304",
+        "coursename": "Practicum 3",
+        "description": "Establishes and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 208, EDPRAC 204\nRestriction: EDPRAC 305\nTo complete this course students must enrol in EDPRAC 304 A and B, or EDPRAC 304",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 208, EDPRAC 204",
+        "prerequisite": [
+            "and",
+            "EDPROFST 208",
+            "EDPRAC 204"
+        ],
+        "restriction_raw": "EDPRAC 305",
+        "restriction": [
+            "and",
+            "EDPRAC 305"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 304 A and B, or EDPRAC 304",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 304A",
+                    "EDPRAC 304B"
+                ],
+                "EDPRAC 304"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 304A",
+        "coursename": "Practicum 3",
+        "description": "Establishes and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 208, EDPRAC 204\nRestriction: EDPRAC 305\nTo complete this course students must enrol in EDPRAC 304 A and B, or EDPRAC 304",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 208, EDPRAC 204",
+        "prerequisite": [
+            "and",
+            "EDPROFST 208",
+            "EDPRAC 204"
+        ],
+        "restriction_raw": "EDPRAC 305",
+        "restriction": [
+            "and",
+            "EDPRAC 305"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 304 A and B, or EDPRAC 304",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 304A",
+                    "EDPRAC 304B"
+                ],
+                "EDPRAC 304"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 306",
+        "coursename": "Practicum: Enabling Achievement Early Childhood",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "url": "",
+        "prerequisite_raw": "EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 202",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 306A",
+                    "EDPRAC 306B"
+                ],
+                "EDPRAC 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 307A",
+        "coursename": "Practicum 3",
+        "description": "Establishes and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand.",
+        "subject": "Education Practice",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 212, EDPRAC 205\nRestriction: EDPRAC 306\nTo complete this course students must enrol in EDPRAC 307 A and B, or EDPRAC 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 212, EDPRAC 205",
+        "prerequisite": [
+            "and",
+            "EDPROFST 212",
+            "EDPRAC 205"
+        ],
+        "restriction_raw": "EDPRAC 306",
+        "restriction": [
+            "and",
+            "EDPRAC 306"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 307 A and B, or EDPRAC 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 307A",
+                    "EDPRAC 307B"
+                ],
+                "EDPRAC 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRACM 304A",
+        "coursename": "Noho \u0101 kura 3",
+        "description": "Builds and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex learning or education environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand. Examines the te reo M\u0101ori discourse relevant to the practicum context.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 101, EDPRACM 204\nRestriction: EDPRACM 302\nTo complete this course students must enrol in EDPRACM 304 A and B, or EDPRACM 304",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 101, EDPRACM 204",
+        "prerequisite": [
+            "and",
+            "EDPROFM 101",
+            "EDPRACM 204"
+        ],
+        "restriction_raw": "EDPRACM 302",
+        "restriction": [
+            "and",
+            "EDPRACM 302"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRACM 304 A and B, or EDPRACM 304",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRACM 304A",
+                    "EDPRACM 304B"
+                ],
+                "EDPRACM 304"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFM 307A",
+        "coursename": "Pakirehua Ngaio \u2013 Te Pouako Pakirehua",
+        "description": "Promotes development of a defensible philosophy of learning and teaching that addresses interactions and intersections between and among professional knowledge bases. Examines pedagogical, ethical and contextual factors influencing teaching practice. Facilitates critique of practitioner inquiry with reference to cognate literature and personal philosophy in relation to the final teaching practicum. Examines te reo M\u0101ori discourse relevant to pakirehua ngaio contexts.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 208\nTo complete this course students must enrol in EDPROFM 307 A and B, or EDPROFM 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 208",
+        "prerequisite": [
+            "and",
+            "EDPROFM 208"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFM 307 A and B, or EDPROFM 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFM 307A",
+                    "EDPROFM 307B"
+                ],
+                "EDPROFM 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 305",
+        "coursename": "The Reflective and Ethical Teacher",
+        "description": "An examination of principles of how people learn will guide inquiry into own personal teaching practice and reflection on a developing, evidence-informed personal pedagogy. Notions of teacher professionalism and how the moral and ethical nature of teaching impacts on teacher decision-making will be explored.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPRAC 201\nCorequisite: EDPRAC 305\nRestriction: EDPROFST 313",
+        "url": "",
+        "prerequisite_raw": "EDPRAC 201",
+        "prerequisite": [
+            "and",
+            "EDPRAC 201"
+        ],
+        "corequisite_raw": "EDPRAC 305",
+        "corequisite": [
+            "and",
+            "EDPRAC 305"
+        ],
+        "restriction_raw": "EDPROFST 313",
+        "restriction": [
+            "and",
+            "EDPROFST 313"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 306B",
+        "coursename": "Contemporary Issues in TESOL",
+        "description": "Examines a range of contemporary issues relating to TESOL education allowing students to draw connections between theory, research, their own experiences as language users and practice. Addresses questions such as: What are the latest developments in the theory, policy and practice of TESOL? How does digital technology impact TESOL? How does reflective practice shape the work of the TESOL educator?",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "This course may not be taken concurrently with EDPROFST 207 A and B, or EDPROFST 207\nTo complete this course students must enrol in EDPROFST 306 A and B, or EDPROFST 306",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 306 A and B, or EDPROFST 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 306A",
+                    "EDPROFST 306B"
+                ],
+                "EDPROFST 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 307",
+        "coursename": "Inquiry into Practice 3",
+        "description": "Promotes development of a defensible philosophy of learning and teaching that addresses interactions and intersections between and among professional knowledge bases. Examines pedagogical, ethical and contextual factors influencing teaching practice. Facilitates critique of practitioner inquiry with reference to cognate literature and personal philosophy in relation to the final teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 208, EDPRAC 204\nTo complete this course students must enrol in EDPROFST 307 A and B, or EDPROFST 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 208, EDPRAC 204",
+        "prerequisite": [
+            "and",
+            "EDPROFST 208",
+            "EDPRAC 204"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 307 A and B, or EDPROFST 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 307A",
+                    "EDPROFST 307B"
+                ],
+                "EDPROFST 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 307A",
+        "coursename": "Inquiry into Practice 3",
+        "description": "Promotes development of a defensible philosophy of learning and teaching that addresses interactions and intersections between and among professional knowledge bases. Examines pedagogical, ethical and contextual factors influencing teaching practice. Facilitates critique of practitioner inquiry with reference to cognate literature and personal philosophy in relation to the final teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 208, EDPRAC 204\nTo complete this course students must enrol in EDPROFST 307 A and B, or EDPROFST 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 208, EDPRAC 204",
+        "prerequisite": [
+            "and",
+            "EDPROFST 208",
+            "EDPRAC 204"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 307 A and B, or EDPROFST 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 307A",
+                    "EDPROFST 307B"
+                ],
+                "EDPROFST 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 315",
+        "coursename": "Relational Worlds of Children",
+        "description": "Explores the relational worlds of all children in early childhood settings in Aotearoa and globally. Critically examines relevant theories and ideas of childhood and children\u2019s learning including children\u2019s belonging, being and becoming. Relational philosophies and pedagogies connecting teachers, parents and children with local and global communities addressed within the context of culturally sensitive practices.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 318",
+        "coursename": "Language Teaching for ESOL: An Introduction",
+        "description": "Addresses current theories, approaches and practices for language teaching and learning for students learning English as an additional language in New Zealand schools and Early Childhood Centres. The course focuses on the needs of learners in all curriculum areas, emphasising the importance of understanding diverse learners' languages and cultures across the curriculum.",
+        "subject": "Education Professional Studies",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: 225 points passed in the BEd(Tchg) Primary Specialisation or 90 points passed at Stage I from the BEd(TESOL) sSchedule",
+        "url": "",
+        "prerequisite_raw": "225 points passed in the BEd(Tchg) Primary Specialisation or 90 points passed at Stage I from the BEd(TESOL) sSchedule",
+        "prerequisite": [
+            "225"
+        ]
+    },
+    {
+        "courseid": "EDUC 300",
+        "coursename": "Understanding Childhood",
+        "description": "Investigates children\u2019s cultural and social worlds in local and global contexts. 'The course gives a voice to children\u2019s views and understandings of their childhoods. Topics include: What is \u2018childhood\u2019? What roles do place and space have in children\u2019s lives? How do children\u2019s rights invite children to participate in their own lives?",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: 45 points at Stage II",
+        "url": "",
+        "prerequisite_raw": "45 points at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 313",
+        "coursename": "Special Study in Education",
+        "description": "Supervised inquiry in an area of education approved by the Head of the Liberal Arts Programme in the Faculty of Education and Social Work.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points at Stage II and Departmental approval",
+        "url": "",
+        "prerequisite_raw": "Any 45 points at Stage II and Departmental approval",
+        "prerequisite": [
+            "and",
+            [
+                "45:Stage II"
+            ],
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "EDUC 318",
+        "coursename": "Teaching Languages in Schools",
+        "description": "Students who have a working knowledge of a second language will study and apply strategies for classroom teaching of second languages in schools. Following critical reflection on different teaching models used in schools, students will prepare teaching materials, plan class lessons and apply information and communication technology in teaching and learning second languages.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 324",
+        "coursename": "Inclusive Education and Philosophy",
+        "description": "Critically appraises philosophical perspectives on education to enable students to articulate a developing philosophy and practice of teaching including the relationship between local, national and global politics and inclusive education in Aotearoa New Zealand. Highlights concepts of social justice, equity and diversity and relates these concepts to competing discourses of ability, (dis)ability and inclusion.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDUC 203",
+        "url": "",
+        "prerequisite_raw": "EDUC 203",
+        "prerequisite": [
+            "and",
+            "EDUC 203"
+        ]
+    },
+    {
+        "courseid": "EDUC 351",
+        "coursename": "Understanding Behaviour in Classrooms",
+        "description": "The contribution of social psychological theories and methods to educators' understanding and management of learning and instruction in New Zealand classrooms.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 352",
+        "coursename": "Adolescence",
+        "description": "Selected aspects of adolescent psychology including theories of development and an examination of contemporary issues in development such as positive youth development, cognitive transitions, family and peer contexts, sexuality, identity, and psychosocial problems.",
+        "subject": "Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II\nRestriction: EDUC 343, 344",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ],
+        "restriction_raw": "EDUC 343, 344",
+        "restriction": [
+            "and",
+            "EDUC 343",
+            "EDUC 344"
+        ]
+    },
+    {
+        "courseid": "EDUCM 324",
+        "coursename": "Whiria Te Kaha T\u016b\u0101tinitini",
+        "description": "Critically appraises philosophical perspectives on education to enable students to articulate a developing philosophy and practice of teaching including the relationship between local, national and global politics and inclusive education in Aotearoa New Zealand. Highlights concepts of social justice, equity and diversity and relates these concepts to competing discourses of ability, (dis)ability and inclusion. Examines te reo M\u0101ori discourse appropriate to course content.",
+        "subject": "Education M\u0101ori",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: EDUCM 203",
+        "url": "",
+        "prerequisite_raw": "EDUCM 203",
+        "prerequisite": [
+            "and",
+            "EDUCM 203"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 303",
+        "coursename": "Research and Professional Practice",
+        "description": "Develops knowledge and understanding of a range of research paradigms and how research informs professional practice. Critically examines the scope and nature of research. Designs a valid, ethical, and appropriate inquiry of a professional practice topic.",
+        "subject": "Education and Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: 45 points at Stage II\r\nRestriction: EDCURRIC 335",
+        "url": "",
+        "prerequisite_raw": "45 points at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ],
+        "restriction_raw": "EDCURRIC 335",
+        "restriction": [
+            "and",
+            "EDCURRIC 335"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 302",
+        "coursename": "Leading Health Promotion in Schools",
+        "description": "Critically examines how a range of health promotion models and theories can be applied in education settings. Develops in-depth knowledge of how contemporary health issues such as mental health, alcohol, drugs and obesity affect young people in Aotearoa schools. Develops understanding and skills to apply health promotion principles to educational and community settings in culturally responsive and socially critical ways.",
+        "subject": "Health Education",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: HEALTHED 201\nRestriction: EDCURRIC 433",
+        "url": "",
+        "prerequisite_raw": "HEALTHED 201",
+        "prerequisite": [
+            "and",
+            "HEALTHED 201"
+        ],
+        "restriction_raw": "EDCURRIC 433",
+        "restriction": [
+            "EDCURRIC 433"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 311",
+        "coursename": "Social Work Process and Practice",
+        "description": "Students are required to integrate a defined range of approaches to practice comprising work with individuals, families and small groups. Knowledge, skills, values and ethics associated with direct practice will be extended. Students will apply the social work process of reflection and use of self in preparation for becoming a mindfully reflexive practitioner.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 214 or 221 or 280\nCorequisite: SOCWORK 317",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 214 or 221 or 280",
+        "prerequisite": [
+            "or",
+            "SOCWORK 214",
+            "SOCWORK 221",
+            "SOCWORK 280"
+        ],
+        "corequisite_raw": "SOCWORK 317",
+        "corequisite": [
+            "and",
+            "SOCWORK 317"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 315",
+        "coursename": "Organisations and Management",
+        "description": "Examines the variety of organisational frameworks from which human services are practised and the impact of these contexts on professional identity and practice in the workplace. Contemporary management approaches will be examined with reference to theory and roles and responsibilities assumed by human service managers in a complex and dynamic environment.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 202 or 30 points from SOCWORK 211, 216, 283",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 202 or 30 points from SOCWORK 211, 216, 283",
+        "prerequisite": [
+            "or",
+            "SOCWORK 202",
+            [
+                "30",
+                "SOCWORK 211",
+                "SOCWORK 216",
+                "SOCWORK 283"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 317",
+        "coursename": "Supervised Field Practice and Professional Development 1",
+        "description": "A practicum course which focuses on developing a professional identity and a philosophy of practice that is shaped by integrating personal experience and professional knowledge, values and skills gained from the first two years of the Bachelor of Social Work programme. A significant part of this course includes a period of 12 weeks supervised agency-based practical experience for which the student will be prepared through developing individual learning goals.",
+        "subject": "Social Work",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 212, 213 and 214, or 213 and 280, or 214 and 280, or 221\nCorequisite: SOCWORK 311",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 212, 213 and 214, or 213 and 280, or 214 and 280, or 221",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "SOCWORK 212",
+                "SOCWORK 213",
+                "SOCWORK 214"
+            ],
+            [
+                "and",
+                "SOCWORK 213",
+                "SOCWORK 280"
+            ],
+            [
+                "and",
+                "SOCWORK 214",
+                "SOCWORK 280"
+            ],
+            "SOCWORK 221"
+        ],
+        "corequisite_raw": "SOCWORK 311",
+        "corequisite": [
+            "and",
+            "SOCWORK 311"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 301",
+        "coursename": "School Health and Physical Education",
+        "description": "Examines health education and physical education in primary and secondary school contexts. Develops knowledge of pedagogy, curriculum, and programming. Critically examines how contemporary issues in the fields of health, sport and physical education impact schools.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S1",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 108",
+        "coursename": "Mathematics and Statistics Education 1",
+        "description": "Explores what it means to be a learner of mathematics and statistics, with respect to relevant theory and curricula. Develops knowledge, understandings and skills that will enable students to identify, discuss and reflect on how diverse learners most effectively learn mathematics and statistics.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 104",
+        "url": "",
+        "restriction_raw": "EDCURRIC 104",
+        "restriction": [
+            "and",
+            "EDCURRIC 104"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 113",
+        "coursename": "Science and Technology Education 1",
+        "description": "Through inquiry, develop an appreciation of the role of science and technology in education and society. Apply pedagogical, curriculum and content knowledge to select appropriate approaches and resources for science and technology learning experiences to achieve valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 105, 107",
+        "url": "",
+        "restriction_raw": "EDCURRIC 105, 107",
+        "restriction": [
+            "and",
+            "EDCURRIC 105",
+            "EDCURRIC 107"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 117",
+        "coursename": "Arts Education",
+        "description": "Inquire into the place of The Arts in education and develop capability and understanding through experiences in each of the four arts disciplines. Design for learning by applying pedagogical, curriculum, content and assessment knowledge to select approaches and resources for Arts learning experiences for valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 101",
+        "url": "",
+        "restriction_raw": "EDCURRIC 101",
+        "restriction": [
+            "and",
+            "EDCURRIC 101"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 118",
+        "coursename": "Young Children and Early Learning Environments",
+        "description": "Explores links between social, material, and natural learning environments and curriculum provision in early childhood education. Introduces principles and theoretical perspectives of early childhood assessment aimed at empowering children as competent and confident. Considers pedagogical implications of assessment for children\u2019s curriculum experiences within early learning environments.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRIC 119",
+        "coursename": "Health and Physical Education and Social Studies Education 1",
+        "description": "Explores the aims and purposes of Health and Physical Education and Social Studies Education. Pedagogies and practices that support learning and teaching in these areas are experienced and reflected on. Selection of content and development of appropriate planning decisions is practised",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 103, 106",
+        "url": "",
+        "restriction_raw": "EDCURRIC 103, 106",
+        "restriction": [
+            "and",
+            "EDCURRIC 103",
+            "EDCURRIC 106"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 108",
+        "coursename": "P\u0101ngarau: He Whakatakinga",
+        "description": "Develops knowledge and understanding of the discipline of P\u0101ngarau and its relevance and purpose. Understands how the discipline is manifested in the form of curricula documents and guides. Considers questions such as what does it mean for children to know p\u0101ngarau and the associated debates and related theory. Examines the specific p\u0101ngarau education discourse in te reo M\u0101ori.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRM 104",
+        "url": "",
+        "restriction_raw": "EDCURRM 104",
+        "restriction": [
+            "and",
+            "EDCURRM 104"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 109",
+        "coursename": "Te reo Matatini 1: Te Pihinga",
+        "description": "Develops knowledge, skills and attitudes associated with planning, teaching and assessing for learners' literacy learning across Marautanga. Examines a range of pedagogical practices and beliefs, including second language learning theory and pedagogy to teach literacy effectively and to improve outcomes for learners.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRM 102",
+        "url": "",
+        "restriction_raw": "EDCURRM 102",
+        "restriction": [
+            "and",
+            "EDCURRM 102"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 111",
+        "coursename": "Hauora",
+        "description": "Develops understanding of hauora, its whakapapa, philosophies and practices that support learning and teaching. Examines how teachers implement quality learning experiences based on ng\u0101 akoranga koiri me ng\u0101 m\u0101tauranga hauora to ensure effective learning for a diverse range of learners. Focuses on how learning is monitored and assessed. Examines the specific te reo M\u0101ori discourse in hauora education.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRM 103",
+        "url": "",
+        "restriction_raw": "EDCURRM 103",
+        "restriction": [
+            "and",
+            "EDCURRM 103"
+        ]
+    },
+    {
+        "courseid": "EDCURRM 113",
+        "coursename": "Hangarau me te P\u016btaiao - He Whakatakinga",
+        "description": "Develops understanding of the disciplines of hangarau and p\u016btaiao. Demonstrates knowledge of the hangarau and p\u016btaiao learning areas, other relevant progressions and support guidelines and materials. Demonstrates knowledge of the relevance of hangarau and p\u016btaiao for students, community and society.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPRAC 100",
+        "coursename": "Practicum 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: 30 points from BEd(Tchg) courses and EDPROFST 102\nRestriction: EDPRAC 101",
+        "url": "",
+        "prerequisite_raw": "30 points from BEd(Tchg) courses and EDPROFST 102",
+        "prerequisite": [
+            "30"
+        ],
+        "restriction_raw": "EDPRAC 101",
+        "restriction": [
+            "and",
+            "EDPRAC 101"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 105",
+        "coursename": "Practicum 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: 30 points from BEd(Tchg) courses and EDPROFST 103\nRestriction: EDPRAC 102",
+        "url": "",
+        "prerequisite_raw": "30 points from BEd(Tchg) courses and EDPROFST 103",
+        "prerequisite": [
+            "30"
+        ],
+        "restriction_raw": "EDPRAC 102",
+        "restriction": [
+            "and",
+            "EDPRAC 102"
+        ]
+    },
+    {
+        "courseid": "EDPRACM 100",
+        "coursename": "Noho \u0101 kura 1",
+        "description": "Builds relationships and establishes professional communication with \u0101konga and colleagues. Engages in collaborative teaching and learning. Explores the role of the professional teacher through an inquiry-based approach to teaching and learning. Examines the te reo M\u0101ori discourse relevant to the practicum context.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: 30 points from BEd(Tchg) courses and EDPROFM 102\nRestriction: EDPRACM 101",
+        "url": "",
+        "prerequisite_raw": "30 points from BEd(Tchg) courses and EDPROFM 102",
+        "prerequisite": [
+            "30"
+        ],
+        "restriction_raw": "EDPRACM 101",
+        "restriction": [
+            "and",
+            "EDPRACM 101"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 100",
+        "coursename": "Te Ao M\u0101ori - Te K\u0101kano",
+        "description": "Introduces socio-political and historical contexts, including Te Tiriti o Waitangi, to inform understandings about M\u0101ori challenges and aspirations within contemporary New Zealand society. Examines own social and cultural locations for their impact on professional and social practices in a range of settings. Develops basic knowledge of te ao M\u0101ori including Te Reo me ng\u0101 tikanga M\u0101ori.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDUCSW 101, EDPROFST 100",
+        "url": "",
+        "restriction_raw": "EDUCSW 101, EDPROFST 100",
+        "restriction": [
+            "and",
+            "EDUCSW 101",
+            "EDPROFST 100"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 102",
+        "coursename": "Inquiry into Practice 1",
+        "description": "Addresses key influences on learning and development, building and enhancing understandings of personal experiences and identity. Examines concepts central to learning and development such as self-efficacy and self-concept. Explores key aspects within the teacher\u2019s role with an emphasis on reflection, relationship building, communication and collaboration. Introduces strategies central to the first teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 105",
+        "coursename": "Introducing TESOL Education",
+        "description": "An introduction to Teaching English to Speakers of Other Languages (TESOL), the core disciplines that contribute foundational knowledge to practice in the profession, and current linguistic, educational, and social needs that it addresses. Particular focus is on developing awareness of how societal and contextual factors shape TESOL educational practice and developing reflective skills necessary to examine and improve practice.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDPROFST 115",
+        "coursename": "Professional Early Childhood Practice 1",
+        "description": "Examines concepts central to learning and development such as identity, self-efficacy and self-concept. Develops strategies for building collaborative relationships and establishing professional communication with colleagues and tamariki. Explores the role of an early childhood practitioner through an inquiry-based approach to working with tamariki.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUC 106",
+        "coursename": "History of Education and Society",
+        "description": "Introduces the study of education from sociological, historical and philosophical perspectives. Examines the forces that have shaped education in Aotearoa New Zealand with a view to understanding and theorising issues of equity, social justice, and diversity in education over time.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDUC 118",
+        "url": "",
+        "restriction_raw": "EDUC 118",
+        "restriction": [
+            "and",
+            "EDUC 118"
+        ]
+    },
+    {
+        "courseid": "EDUC 113",
+        "coursename": "Current Issues in Education",
+        "description": "Educational issues are pressing concerns in our society. The course will help develop understanding of the background of today's public debates around schooling and will introduce ways in which educational thought and research address big topics.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDUC 118",
+        "url": "",
+        "restriction_raw": "EDUC 118",
+        "restriction": [
+            "and",
+            "EDUC 118"
+        ]
+    },
+    {
+        "courseid": "EDUC 117",
+        "coursename": "Teaching and Learning: An Educational Psychological Perspective",
+        "description": "Includes an examination of core aspects of educational psychology that include thinking, learning, and behaving. An analysis of relevant theory and research within psychology in education: topics include behaviour analysis, measurement and assessment, cognition, socialisation, and individual differences. Students will explore these in relation to different educational settings and contexts, for example, culture, community, school, and classroom.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDUC 111, 119, 121, 121G",
+        "url": "",
+        "restriction_raw": "EDUC 111, 119, 121, 121G",
+        "restriction": [
+            "and",
+            "EDUC 111",
+            "EDUC 119",
+            "EDUC 121",
+            "EDUC 121G"
+        ]
+    },
+    {
+        "courseid": "EDUC 122",
+        "coursename": "Learning Sexualities",
+        "description": "How and what do we learn about sexualities in New Zealand? Learning about sexualities is viewed as occurring both formally (e.g., through sexuality education) and informally (e.g., through the media) in a diversity of social sites. Schools are examined as one significant site where students are offered sexual meanings. The historical derivation and current context of contemporary education about sexuality along with its social effects are investigated.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDUCM 106",
+        "coursename": "He Tirohanga ki te M\u0101tauranga i Aotearoa",
+        "description": "Examines historical and contemporary topics and themes in M\u0101ori schooling and education, with particular reference to the revitalisation of te reo M\u0101ori. Considers M\u0101ori educational aspirations and questions in the context of Treaty, social justice and equity debates in Aotearoa New Zealand. Examines te reo M\u0101ori discourse relevant to educational contexts and themes investigated in this course.",
+        "subject": "Education M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDUCM 118",
+        "url": "",
+        "restriction_raw": "EDUCM 118",
+        "restriction": [
+            "and",
+            "EDUCM 118"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 199A",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the Faculty of Education and Social Work.",
+        "subject": "Education and Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDUCSW 199A",
+                    "EDUCSW 199B"
+                ],
+                "EDUCSW 199"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDUCSW 199B",
+        "coursename": "English Language Competency",
+        "description": "To complete this course students must attain a level of competency in the English language as determined by the Faculty of Education and Social Work.",
+        "subject": "Education and Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDUCSW 199 A and B, or EDUCSW 199",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDUCSW 199A",
+                    "EDUCSW 199B"
+                ],
+                "EDUCSW 199"
+            ]
+        ]
+    },
+    {
+        "courseid": "HEALTHED 101",
+        "coursename": "Food and Education",
+        "description": "Examines the relationship between food, eating, nutrition, and the body. Examines the social, cultural, political, economic and environmental factors that determine how people eat, what they eat, and why. Explores contemporary issues in nutrition and food education, and key challenges to improving the nutrition of communities.",
+        "subject": "Health Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "PHYSED 102",
+        "coursename": "Alternative Sport and Play",
+        "description": "Develops understanding of alternative sport and games young people play in Aotearoa New Zealand and internationally. Explores a range of non-traditional and non-competitive physical activities. Reflects on the socio-cultural dimensions of these types of physical activities, including an examination of how alternative sport enables young people to learn, play, communicate, create, express themselves, and belong.",
+        "subject": "Physical Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 232",
+        "url": "",
+        "restriction_raw": "EDCURRIC 232",
+        "restriction": [
+            "and",
+            "EDCURRIC 232"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 100B",
+        "coursename": "Ko Wai Au, Ko Wai Koe, Ko Wai T\u0101tou?",
+        "description": "Introduces historical and socio-political contexts, beginning with te ao M\u0101ori, tikanga M\u0101ori, and te Tiriti o Waitangi, that underpin analysis of a range of identities, diversities, aspirations, oppressions and cultures in contemporary Aotearoa. Fosters understanding of how one\u2019s cultural location and intersectional experiences can shape values and attitudes, including bias and prejudice, and the impact of \u2018self\u2019 on professional practice.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDPROFM 100, SOCWORK 113\nTo complete this course students must enrol in SOCWORK 100 A and B, or SOCWORK 100",
+        "url": "",
+        "restriction_raw": "EDPROFM 100, SOCWORK 113",
+        "restriction": [
+            "and",
+            "EDPROFM 100",
+            "SOCWORK 113"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 100 A and B, or SOCWORK 100",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 100A",
+                    "SOCWORK 100B"
+                ],
+                "SOCWORK 100"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 101B",
+        "coursename": "Social Work and Social Justice",
+        "description": "The Treaty of Waitangi underpins social work practice in Aotearoa. Social justice and human rights are critically considered alongside an examination of historical and contextual contributors to the development of social work. An introduction to the profession and practice of social work is provided. Relationship building and communication skills are taught within a growing awareness of self.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: SOCWORK 111, 112, 115\nTo complete this course students must enrol in SOCWORK 101 A and B, or SOCWORK 101",
+        "url": "",
+        "restriction_raw": "SOCWORK 111, 112, 115",
+        "restriction": [
+            "and",
+            "SOCWORK 111",
+            "SOCWORK 112",
+            "SOCWORK 115"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 101 A and B, or SOCWORK 101",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 101A",
+                    "SOCWORK 101B"
+                ],
+                "SOCWORK 101"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 102B",
+        "coursename": "He Tangata: People in Context",
+        "description": "Te ao M\u0101ori, ecological systems, psychological and lifespan development theories and frameworks are conceptual pillars for introducing human behaviour and experiences across the life course and the complex relationships between individuals and their social environments. Multi-dimensional aspects of human experience, identity and change are explored from a culturally conscientious, equity-oriented perspective.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: HUMSERV 101, 102\nTo complete this course students must enrol in SOCWORK 102 A and B, or SOCWORK 102",
+        "url": "",
+        "restriction_raw": "HUMSERV 101, 102",
+        "restriction": [
+            "and",
+            "HUMSERV 101",
+            "HUMSERV 102"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 102 A and B, or SOCWORK 102",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 102A",
+                    "SOCWORK 102B"
+                ],
+                "SOCWORK 102"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 111",
+        "coursename": "Professional Communication Skills",
+        "description": "An introduction into effective personal and professional communication in human services. An experiential and collaborative approach will be used to assist students to explore the place of self in the communication process, to understand the stages, purpose and task of the communication process, and to develop effective interaction.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORT 101",
+        "coursename": "Making a Difference in Sport",
+        "description": "Explores the skills needed to successfully deliver sport and recreation activities. Examines differential community provision and develops skills to liaise with and engage diverse participants using psychological and sociological theories. Considers emerging trends in the field. Students will participate in community mapping to identify existing and potential sport and recreation opportunities in diverse communities.",
+        "subject": "Sport Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 102",
+        "coursename": "Learning and Pedagogy",
+        "description": "An introduction to how humans learn and how such learning is applied within the fields of health, physical education, and sport. Examines the way humans develop and apply knowledge, skills, and dispositions and their implications for pedagogical practices in health, physical education, and sport contexts.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORTHPE 103",
+        "coursename": "Biophysical Foundations",
+        "description": "Introduces students to the anatomical, physiological and biomechanical foundations of human movement. Examines the functions of the musculo-skeletal system, the circulo-respiratory system and the nervous system, during rest and activity. Studies the biomechanical principles required to improve mechanical efficiency in human movement.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 133",
+        "url": "",
+        "restriction_raw": "EDCURRIC 133",
+        "restriction": [
+            "and",
+            "EDCURRIC 133"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 203",
+        "coursename": "Languages and Literacies in Education 2",
+        "description": "Applies learning focused pedagogical and curriculum content knowledge, using evidence to scaffold learning and to improve teaching.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRIC 109\nRestriction: EDCURRIC 202",
+        "url": "",
+        "prerequisite_raw": "EDCURRIC 109",
+        "prerequisite": [
+            "and",
+            "EDCURRIC 109"
+        ],
+        "restriction_raw": "EDCURRIC 202",
+        "restriction": [
+            "and",
+            "EDCURRIC 202"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 205",
+        "coursename": "Science and Technology Education 2",
+        "description": "Through inquiry, develop capability and understanding of the role of science and technology in education and society. Apply integration principles with pedagogical, content, assessment and curriculum knowledge to science and technology learning experiences resulting in valued outcomes for diverse akonga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRIC 113",
+        "url": "",
+        "prerequisite_raw": "EDCURRIC 113",
+        "prerequisite": [
+            "and",
+            "EDCURRIC 113"
+        ]
+    },
+    {
+        "courseid": "EDCURRIC 216",
+        "coursename": "Hauora",
+        "description": "Inquires into socio-ecological determinants of health in New Zealand society and the implications of these for the tenets of hauora and holistic wellbeing. Critically considers learning and teaching approaches and resources which enhance the holistic wellbeing and participation of diverse \u0101konga and their wh\u0101nau in early childhood contexts. Explores connections between the wellbeing of teachers and \u0101konga.",
+        "subject": "Education Curriculum Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "EDCURRM 205",
+        "coursename": "Hangarau me te P\u016btaiao - He Whakawhanaketanga",
+        "description": "Develops knowledge in the planning, teaching and assessing of children's learning in the hangarau and p\u016btaiao curricula as well as knowledge of relevant progressions and support guidelines. Examines how teachers design quality learning environments for positive engagement and effective learning in hangarau and p\u016btaiao for a diverse range of learners.",
+        "subject": "Education Curriculum M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDCURRM 113\nRestriction: EDCURRM 105, 107",
+        "url": "",
+        "prerequisite_raw": "EDCURRM 113",
+        "prerequisite": [
+            "and",
+            "EDCURRM 113"
+        ],
+        "restriction_raw": "EDCURRM 105, 107",
+        "restriction": [
+            "and",
+            "EDCURRM 105",
+            "EDCURRM 107"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 200",
+        "coursename": "Te Ao M\u0101ori - Te Mahuri",
+        "description": "Introduction of contemporary M\u0101ori educational landscapes, policy directions, case-studies and debates to develop critical knowledge and engagement with te ao M\u0101ori and M\u0101ori Education. Further develops knowledge of te reo, tikanga and m\u0101tauranga M\u0101ori, and its integration with pedagogy, practice and planning relevant for all \u0101konga, is developed.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 100",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 100",
+        "prerequisite": [
+            "and",
+            "EDPROFM 100"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 204",
+        "coursename": "Te Reo M\u0101ori 2",
+        "description": "Further develops te reo M\u0101ori knowledge, skills and attitudes for learning and teaching across Marautanga. Addresses issues such as planning effectively for personal and professional M\u0101ori language development; key theories and approaches underpinning the development of bilingualism and biliteracy in M\u0101ori medium educational contexts and the pedagogical implications of these when planning for learning and teaching.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 101\nRestriction: EDPROFM 209",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 101",
+        "prerequisite": [
+            "and",
+            "EDPROFM 101"
+        ],
+        "restriction_raw": "EDPROFM 209",
+        "restriction": [
+            "and",
+            "EDPROFM 209"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 216",
+        "coursename": "TESOL Education in Context",
+        "description": "An overview of second language learning and teaching that addresses the interdisciplinary nature of TESOL by developing knowledge, skills and attitudes associated with TESOL within different contexts. The course addresses questions such as: What are the important principles, concepts and skills in an interdisciplinary approach to TESOL? How does digital technology impact TESOL?  How are these concepts evident in practice?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDPROFST 207",
+        "url": "",
+        "restriction_raw": "EDPROFST 207",
+        "restriction": [
+            "and",
+            "EDPROFST 207"
+        ]
+    },
+    {
+        "courseid": "EDUC 201",
+        "coursename": "History of Education",
+        "description": "An examination of the nature of historical inquiry with reference to New Zealand's educational past; questions why education has been analysed largely as something planned rather than something experienced and introduces oral history as methodology. Selected aspects of the educational histories of other countries will be discussed for comparative analysis.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 203",
+        "coursename": "Pasifika Education and Diversity",
+        "description": "Analyses how experiences and outcomes for learners in contemporary education contexts are shaped by social constructions informed by class, ethnicity, culture, gender, sexuality, and (dis)ability. Examines the role of education policies and socio-historical context on teacher responsiveness to diversity and difference. Explores a range of transformative approaches. Particular attention is given to Pasifika learners.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDUC 106",
+        "url": "",
+        "prerequisite_raw": "EDUC 106",
+        "prerequisite": [
+            "and",
+            "EDUC 106"
+        ]
+    },
+    {
+        "courseid": "EDUC 209",
+        "coursename": "The Learning Society",
+        "description": "Takes students beyond the classroom to public educative spaces: museums and galleries, libraries, virtual worlds and the street. Students will explore the idea of public pedagogy and its educative reach in the diverse, urban space of Auckland city.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: 60 points passed",
+        "url": "",
+        "prerequisite_raw": "60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 211",
+        "coursename": "Schooling Ethnic Diversity",
+        "description": "A critical examination of research on ethnic diversity in New Zealand schools. The course discusses equity, 'race', ethnicity, biculturalism, 'multicultural education', equal opportunity, and other theories, structures and strategies developed in New Zealand and overseas in response to ethnic diversity.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 310",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 310",
+        "restriction": [
+            "and",
+            "EDUC 310"
+        ]
+    },
+    {
+        "courseid": "EDUC 213",
+        "coursename": "Education and Social Justice",
+        "description": "Can education contribute to social justice? A critical examination of the contemporary concern with social justice in education. Drawing on local and international research, this course explores debates about the nature of power, and the ways that gender and sexuality, ethnicity, indigeneity, social class, and other social identities are taken up in the pursuit of social justice within education.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 221",
+        "coursename": "Child Development",
+        "description": "A study of key issues in development, with a focus on early and middle childhood. Topics include family, peer, cultural, and media influences on typical and atypical development.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 223",
+        "coursename": "Educational Psychology",
+        "description": "An introduction to new ways of thinking about learning in educational settings: how students can develop their learning abilities, be more strategic in their learning, and increase their motivation. These questions and themes can be applied to educational, family and work settings, and to students with different learning needs. A foundation to advanced courses in psychological studies in education.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ]
+    },
+    {
+        "courseid": "EDUC 283",
+        "coursename": "Pedagogy \u2013 Beyond Skills and Methods",
+        "description": "Examines personal experiences and views of teaching and learning and the impact of theories of learning on classroom practices. The course also includes discussion of the relationship between pedagogy and race, class and gender; M\u0101ori pedagogy; pedagogy and student achievement; and New Zealand and international examples.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 60 points passed\nRestriction: EDUC 383",
+        "url": "",
+        "prerequisite_raw": "Any 60 points passed",
+        "prerequisite": [
+            "60"
+        ],
+        "restriction_raw": "EDUC 383",
+        "restriction": [
+            "and",
+            "EDUC 383"
+        ]
+    },
+    {
+        "courseid": "EDUCM 203",
+        "coursename": "Te Atawhai i te Rerenga K\u0113tanga",
+        "description": "Analyses how experiences and outcomes for learners in contemporary education contexts are shaped by social constructions informed by class, ethnicity, culture, gender, sexuality, and (dis)ability. Examines the role of education policies and socio-historical context on teacher responsiveness to diversity and difference. Explores a range of transformative approaches. Particular attention is given to Pasifika learners.",
+        "subject": "Education M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDUCM 106\nRestriction: EDPROFM 205",
+        "url": "",
+        "prerequisite_raw": "EDUCM 106",
+        "prerequisite": [
+            "and",
+            "EDUCM 106"
+        ],
+        "restriction_raw": "EDPROFM 205",
+        "restriction": [
+            "and",
+            "EDPROFM 205"
+        ]
+    },
+    {
+        "courseid": "HEALTHED 202",
+        "coursename": "Sexuality, Education and Society",
+        "description": "Examines the role of sexuality and sexuality education in society. Investigates cultural, historical and contemporary perspectives on gender and sexuality in diverse settings, including education and human services. Explores values, beliefs and issues of equity and sexual social justice. Develops sexuality pedagogies and advocacy for education settings and within communities.",
+        "subject": "Health Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDCURRIC 333, EDUC 122",
+        "url": "",
+        "restriction_raw": "EDCURRIC 333, EDUC 122",
+        "restriction": [
+            "and",
+            "EDCURRIC 333",
+            "EDUC 122"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 200B",
+        "coursename": "Ng\u0101 Pou for Mana-enhancing Practice",
+        "description": "Engages students in developing a framework for social work practice that supports individual, wh\u0101nau and community aspirations to ora/wellbeing and enhances individual and collective mana. Focusing centrally on wh\u0101nau-family-aiga systems, and emphasising critical intersectional analyses of the inequitable impact of socio-structural factors on wh\u0101nau and communities, it builds core social work knowledge and skills applicable across diverse settings and groups.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 101 and 102, or 111 and 115, or 181 or 182\nRestriction: SOCCHFAM 215, SOCHLTH 231\nTo complete this course students must enrol in SOCWORK 200 A and B, or SOCWORK 200",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 101 and 102, or 111 and 115, or 181 or 182",
+        "prerequisite": [
+            "or",
+            [
+                "and",
+                "SOCWORK 101",
+                "SOCWORK 102"
+            ],
+            [
+                "and",
+                "SOCWORK 111",
+                "SOCWORK 115"
+            ],
+            "SOCWORK 181",
+            "SOCWORK 182"
+        ],
+        "restriction_raw": "SOCCHFAM 215, SOCHLTH 231",
+        "restriction": [
+            "and",
+            "SOCCHFAM 215",
+            "SOCHLTH 231"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 200 A and B, or SOCWORK 200",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 200A",
+                    "SOCWORK 200B"
+                ],
+                "SOCWORK 200"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 201B",
+        "coursename": "Culturally Responsive Practice",
+        "description": "An introduction to the study of the personal and professional impact of te Tiriti o Waitangi in social work practice and social workers\u2019 obligations to bicultural and, more broadly, culturally responsive practice with M\u0101ori, Pasifika and other diverse communities. Development of critical understandings of cultural responsiveness and opportunities for experiential learning in community settings.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 100 or 30 points from EDPROFM 100, SOCWORK 113, 180\nRestriction: SOCWORK 212\nTo complete this course students must enrol in SOCWORK 201 A and B, or SOCWORK 201",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 100 or 30 points from EDPROFM 100, SOCWORK 113, 180",
+        "prerequisite": [
+            "or",
+            "SOCWORK 100",
+            [
+                "30",
+                "EDPROFM 100",
+                "SOCWORK 113",
+                "SOCWORK 180"
+            ]
+        ],
+        "restriction_raw": "SOCWORK 212",
+        "restriction": [
+            "and",
+            "SOCWORK 212"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 201 A and B, or SOCWORK 201",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 201A",
+                    "SOCWORK 201B"
+                ],
+                "SOCWORK 201"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 202B",
+        "coursename": "Law, Policy and Social Action",
+        "description": "A critical exploration of the legislative and policy contexts for social work practice in Aotearoa, including the contradictions inherent between te Tiriti o Waitangi and settler capitalism, and tino rangatiratanga and the colonial doctrine of sovereignty. Exploration of social work ethics, and the challenging processes involved in working for change.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 101 or 112\nRestriction: SOCWORK 211, 216\nTo complete this course students must enrol in SOCWORK 202 A and B, or SOCWORK 202",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 101 or 112",
+        "prerequisite": [
+            "or",
+            "SOCWORK 101",
+            "SOCWORK 112"
+        ],
+        "restriction_raw": "SOCWORK 211, 216",
+        "restriction": [
+            "and",
+            "SOCWORK 211",
+            "SOCWORK 216"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 202 A and B, or SOCWORK 202",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 202A",
+                    "SOCWORK 202B"
+                ],
+                "SOCWORK 202"
+            ]
+        ]
+    },
+    {
+        "courseid": "SOCWORK 221B",
+        "coursename": "Social Work Theories and Skills",
+        "description": "An exploration of theories, models and skills for bicultural social work practice with individuals and wh\u0101nau in a range of settings and cultural contexts. Informed by the ANZASW Code of Ethics and the SWRB Core Competence Standards, content includes critical engagement with current literature and research guiding assessment and intervention, active skill building, and exploration of personal and professional values.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCWORK 111\nRestriction: SOCWORK 213, 214\nTo complete this course students must enrol in SOCWORK 221 A and B, or SOCWORK 221",
+        "url": "",
+        "prerequisite_raw": "SOCWORK 111",
+        "prerequisite": [
+            "and",
+            "SOCWORK 111"
+        ],
+        "restriction_raw": "SOCWORK 213, 214",
+        "restriction": [
+            "and",
+            "SOCWORK 213",
+            "SOCWORK 214"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in SOCWORK 221 A and B, or SOCWORK 221",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "SOCWORK 221A",
+                    "SOCWORK 221B"
+                ],
+                "SOCWORK 221"
+            ]
+        ]
+    },
+    {
+        "courseid": "SPORT 204",
+        "coursename": "Coaching Sport",
+        "description": "Examines and applies effective coaching practices, including coaching principles and the nature of practice. Focuses on developmentally and culturally appropriate coaching contexts throughout the lifespan (including childhood, adolescence and adulthood). Attention is given to coaching for diverse players and inclusive practices. Applies player-centred coaching principles.",
+        "subject": "Sport Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014\nRestriction: EDCURRIC 239",
+        "url": "",
+        "prerequisite_raw": "Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014",
+        "prerequisite": [
+            "and",
+            "Students are required to consent to the disclosure of criminal convictions",
+            "safety checks as required by the Children's Act  2014"
+        ],
+        "restriction_raw": "EDCURRIC 239",
+        "restriction": [
+            "and",
+            "EDCURRIC 239"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 201",
+        "coursename": "Whakatinanahia",
+        "description": "Examines M\u0101ori approaches to embodiment, forms of physicality and movement valuable for educational and health settings in Aotearoa New Zealand. Students will gain knowledge through engaging in forms of M\u0101ori physical culture in a range of contexts.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDUCSW 101 or EDPROFM 100",
+        "url": "",
+        "prerequisite_raw": "EDUCSW 101 or EDPROFM 100",
+        "prerequisite": [
+            "or",
+            "EDUCSW 101",
+            "EDPROFM 100"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 203",
+        "coursename": "Physiology, Exercise, Fitness",
+        "description": "Develops knowledge and understanding of exercise physiology. Examines physiological responses during and as a result of exercise. Examines the nature and purpose of deliberate exercise and fitness programmes. Explores the pedagogy of teaching exercise and fitness.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SPORTHPE 103 \r\nRestriction: EDCURRIC 200, 334",
+        "url": "",
+        "prerequisite_raw": "SPORTHPE 103",
+        "prerequisite": [
+            "and",
+            "SPORTHPE 103"
+        ],
+        "restriction_raw": "EDCURRIC 200, 334",
+        "restriction": [
+            "and",
+            "EDCURRIC 200",
+            "EDCURRIC 334"
+        ]
+    },
+    {
+        "courseid": "EDPRAC 304B",
+        "coursename": "Practicum 3",
+        "description": "Establishes and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 208, EDPRAC 204\nRestriction: EDPRAC 305\nTo complete this course students must enrol in EDPRAC 304 A and B, or EDPRAC 304",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 208, EDPRAC 204",
+        "prerequisite": [
+            "and",
+            "EDPROFST 208",
+            "EDPRAC 204"
+        ],
+        "restriction_raw": "EDPRAC 305",
+        "restriction": [
+            "and",
+            "EDPRAC 305"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 304 A and B, or EDPRAC 304",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 304A",
+                    "EDPRAC 304B"
+                ],
+                "EDPRAC 304"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 306",
+        "coursename": "Practicum: Enabling Achievement Early Childhood",
+        "description": "Refines an emerging philosophy and effective pedagogy through integrating research, theory and practical experience. Addresses questions such as: What are my moral, ethical and legal obligations as a teacher? How do I manage complexities of teaching professionally in order to create and sustain purposeful learning environments and enable achievement for all learners? Requires demonstration of effective, informed and ethical pedagogical practice.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule\nRestriction: EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301\nTo complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "url": "",
+        "prerequisite_raw": "EDPRAC 202 and any 180 points from courses in the BEd(Tchg) Schedule",
+        "prerequisite": [
+            "and",
+            "EDPRAC 202",
+            "any 180 points from courses in the BEd(Tchg) Schedule"
+        ],
+        "restriction_raw": "EDPROF 300, 310, EDPRAC 301, 302, 303, EDPRACM 301",
+        "restriction": [
+            "and",
+            "EDPROF 300",
+            "EDPROF 310",
+            "EDPRAC 301",
+            "EDPRAC 302",
+            "EDPRAC 303",
+            "EDPRACM 301"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 306 A and B, or EDPRAC 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 306A",
+                    "EDPRAC 306B"
+                ],
+                "EDPRAC 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRAC 307B",
+        "coursename": "Practicum 3",
+        "description": "Establishes and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand.",
+        "subject": "Education Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 212, EDPRAC 205\nRestriction: EDPRAC 306\nTo complete this course students must enrol in EDPRAC 307 A and B, or EDPRAC 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 212, EDPRAC 205",
+        "prerequisite": [
+            "and",
+            "EDPROFST 212",
+            "EDPRAC 205"
+        ],
+        "restriction_raw": "EDPRAC 306",
+        "restriction": [
+            "and",
+            "EDPRAC 306"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRAC 307 A and B, or EDPRAC 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRAC 307A",
+                    "EDPRAC 307B"
+                ],
+                "EDPRAC 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPRACM 304B",
+        "coursename": "Noho \u0101 kura 3",
+        "description": "Builds and sustains culturally responsive, ethical, learner-focused relationships with \u0101konga, colleagues and whanau in complex learning or education environments. Utilises an inquiry-based approach to demonstrate competency in professional knowledge, and the skills and dispositions required for effective teaching in Aotearoa New Zealand. Examines the te reo M\u0101ori discourse relevant to the practicum context.",
+        "subject": "Education Practice M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 101, EDPRACM 204\nRestriction: EDPRACM 302\nTo complete this course students must enrol in EDPRACM 304 A and B, or EDPRACM 304",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 101, EDPRACM 204",
+        "prerequisite": [
+            "and",
+            "EDPROFM 101",
+            "EDPRACM 204"
+        ],
+        "restriction_raw": "EDPRACM 302",
+        "restriction": [
+            "and",
+            "EDPRACM 302"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPRACM 304 A and B, or EDPRACM 304",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPRACM 304A",
+                    "EDPRACM 304B"
+                ],
+                "EDPRACM 304"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFM 300",
+        "coursename": "Te Ao M\u0101ori - Te Pu\u0101waitanga",
+        "description": "Fosters Te Tiriti responsive teacher practice, including understanding of and engagement with M\u0101ori wh\u0101nau and community for productive educational relationships and learner outcomes. Applies critical knowledge and skills in m\u0101tauranga, tikanga and te reo M\u0101ori to extended planning and assessment activities suitable for diverse \u0101konga.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 200",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 200",
+        "prerequisite": [
+            "and",
+            "EDPROFM 200"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 302",
+        "coursename": "Te Reo M\u0101ori 3",
+        "description": "Synthesises te reo M\u0101ori knowledge, skills and attitudes for teaching and learning across Marautanga. Addresses issues such as the support of te reo M\u0101ori revitalisation at micro, meso and macro levels; the socio-political implications of language change, shift, loss and revitalisation; planning for long-term personal M\u0101ori language development in a school context.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 204",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 204",
+        "prerequisite": [
+            "and",
+            "EDPROFM 204"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 304",
+        "coursename": "Ako m\u0101 te Aromatawai - Learning Through Assessment",
+        "description": "Addresses assessment literacy and capability through an informed examination and appraisal of the purposes, strategies and practices of assessment for and of learning. Attention is focused on the ways in which M\u0101ori medium learners and teachers can use information and evidence from classroom activities and selected New Zealand assessment tools, in particular M\u0101ori medium tools, to support and further learning and achievement.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Restriction: EDPROFM 214",
+        "url": "",
+        "restriction_raw": "EDPROFM 214",
+        "restriction": [
+            "and",
+            "EDPROFM 214"
+        ]
+    },
+    {
+        "courseid": "EDPROFM 307B",
+        "coursename": "Pakirehua Ngaio \u2013 Te Pouako Pakirehua",
+        "description": "Promotes development of a defensible philosophy of learning and teaching that addresses interactions and intersections between and among professional knowledge bases. Examines pedagogical, ethical and contextual factors influencing teaching practice. Facilitates critique of practitioner inquiry with reference to cognate literature and personal philosophy in relation to the final teaching practicum. Examines te reo M\u0101ori discourse relevant to pakirehua ngaio contexts.",
+        "subject": "Educ Professional Studs M\u0101ori",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFM 208\nTo complete this course students must enrol in EDPROFM 307 A and B, or EDPROFM 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFM 208",
+        "prerequisite": [
+            "and",
+            "EDPROFM 208"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFM 307 A and B, or EDPROFM 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFM 307A",
+                    "EDPROFM 307B"
+                ],
+                "EDPROFM 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 306A",
+        "coursename": "Contemporary Issues in TESOL",
+        "description": "Examines a range of contemporary issues relating to TESOL education allowing students to draw connections between theory, research, their own experiences as language users and practice. Addresses questions such as: What are the latest developments in the theory, policy and practice of TESOL? How does digital technology impact TESOL? How does reflective practice shape the work of the TESOL educator?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "This course may not be taken concurrently with EDPROFST 207 A and B, or EDPROFST 207\nTo complete this course students must enrol in EDPROFST 306 A and B, or EDPROFST 306",
+        "url": "",
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 306 A and B, or EDPROFST 306",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 306A",
+                    "EDPROFST 306B"
+                ],
+                "EDPROFST 306"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 307B",
+        "coursename": "Inquiry into Practice 3",
+        "description": "Promotes development of a defensible philosophy of learning and teaching that addresses interactions and intersections between and among professional knowledge bases. Examines pedagogical, ethical and contextual factors influencing teaching practice. Facilitates critique of practitioner inquiry with reference to cognate literature and personal philosophy in relation to the final teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 208, EDPRAC 204\nTo complete this course students must enrol in EDPROFST 307 A and B, or EDPROFST 307",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 208, EDPRAC 204",
+        "prerequisite": [
+            "and",
+            "EDPROFST 208",
+            "EDPRAC 204"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 307 A and B, or EDPROFST 307",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 307A",
+                    "EDPROFST 307B"
+                ],
+                "EDPROFST 307"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 308",
+        "coursename": "Inquiry into Practice 3",
+        "description": "Promotes development of a defensible philosophy of learning and teaching that addresses interactions and intersections between and among professional knowledge bases. Examines pedagogical, ethical and contextual factors influencing teaching practice. Facilitates critique of practitioner inquiry with reference to cognate literature and personal philosophy in relation to the final teaching practicum.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 212, EDPRAC 205\nCorequisite: EDPRAC 307\nTo complete this course students must enrol in EDPROFST 308 A and B, or EDPROFST 308",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 212, EDPRAC 205",
+        "prerequisite": [
+            "and",
+            "EDPROFST 212",
+            "EDPRAC 205"
+        ],
+        "corequisite_raw": "EDPRAC 307",
+        "corequisite": [
+            "and",
+            "EDPRAC 307"
+        ],
+        "other_requirements_raw": "To complete this course students must enrol in EDPROFST 308 A and B, or EDPROFST 308",
+        "other_requirements": [
+            "To complete must enrol",
+            [
+                "or",
+                [
+                    "and",
+                    "EDPROFST 308A",
+                    "EDPROFST 308B"
+                ],
+                "EDPROFST 308"
+            ]
+        ]
+    },
+    {
+        "courseid": "EDPROFST 309",
+        "coursename": "Furthering Learning Through Assessment",
+        "description": "Addresses assessment literacy and capability through an informed examination and appraisal of the purposes, strategies and practices of assessment for and of learning. Attention is focused on the ways in which \u0101konga and teachers can use information and evidence from classroom activities and selected New Zealand assessment tools to support and further learning and achievement for diverse \u0101konga.",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 209\nRestriction: EDPROFST 214",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 209",
+        "prerequisite": [
+            "and",
+            "EDPROFST 209"
+        ],
+        "restriction_raw": "EDPROFST 214",
+        "restriction": [
+            "and",
+            "EDPROFST 214"
+        ]
+    },
+    {
+        "courseid": "EDPROFST 397",
+        "coursename": "Current Issues in TESOL",
+        "description": "Examines a range of issues relating to Teaching English to Speakers of Other Languages (TESOL) education allowing students to draw connections between theory, research, their own experiences as language users, and practice. Addresses questions such as: What are current developments in the theory, policy and practice of TESOL? Why is intercultural communicative language learning important? How does reflective practice shape the work of the TESOL educator?",
+        "subject": "Education Professional Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: EDPROFST 216\nRestriction: EDPROFST 306",
+        "url": "",
+        "prerequisite_raw": "EDPROFST 216",
+        "prerequisite": [
+            "and",
+            "EDPROFST 216"
+        ],
+        "restriction_raw": "EDPROFST 306",
+        "restriction": [
+            "and",
+            "EDPROFST 306"
+        ]
+    },
+    {
+        "courseid": "EDUC 313",
+        "coursename": "Special Study in Education",
+        "description": "Supervised inquiry in an area of education approved by the Head of the Liberal Arts Programme in the Faculty of Education and Social Work.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points at Stage II and Departmental approval",
+        "url": "",
+        "prerequisite_raw": "Any 45 points at Stage II and Departmental approval",
+        "prerequisite": [
+            "and",
+            [
+                "45:Stage II"
+            ],
+            "Departmental approval"
+        ]
+    },
+    {
+        "courseid": "EDUC 316",
+        "coursename": "Gifted Education",
+        "description": "An analysis of the gifted education movement and of the need for appropriate educational provision for gifted and talented students. The course draws on current research to assist with the identification of gifted and talented students and with the development of strategies to meet their learning and emotional needs.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 322",
+        "coursename": "Re-thinking Pasifika Education",
+        "description": "A critical examination of current issues and debates relating to the education and development of Pasifika communities of Aotearoa New Zealand. Theoretical frameworks that enable the identification and critique of multiple perspectives and relations of power will be introduced and explored.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II\nRestriction: EDUC 309",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ],
+        "restriction_raw": "EDUC 309",
+        "restriction": [
+            "and",
+            "EDUC 309"
+        ]
+    },
+    {
+        "courseid": "EDUC 323",
+        "coursename": "Contemporary Topics in Educational Psychology",
+        "description": "A study of the latest topics in Educational Psychology. Supports engagement with contemporary Educational Psychology research and facilitates critical thinking.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: 45 points at Stage II\r\nRestriction: EDUC 342",
+        "url": "",
+        "prerequisite_raw": "45 points at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ],
+        "restriction_raw": "EDUC 342",
+        "restriction": [
+            "and",
+            "EDUC 342"
+        ]
+    },
+    {
+        "courseid": "EDUC 341",
+        "coursename": "Introduction to Counselling in the Community",
+        "description": "An examination of the application of basic principles of counselling to the needs of individual children and adults and to couples, families and other groups.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 347",
+        "coursename": "Ideas of the University Student",
+        "description": "Offers a multi-disciplinary exploration of the 'idea of the university student' through history, popular culture, and social theory to show how that idea has changed over time and who it has included and excluded along the way. Students will critically reflect on their own diverse positions and experiences as university students in relation to these powerful but shifting ideas about university education and its imagined student.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 351",
+        "coursename": "Understanding Behaviour in Classrooms",
+        "description": "The contribution of social psychological theories and methods to educators' understanding and management of learning and instruction in New Zealand classrooms.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUC 360",
+        "coursename": "Treaty Politics in Education",
+        "description": "A critical examination of the emergence of the Treaty of Waitangi in education, and the tensions and convergences that exist between M\u0101ori aspirations and state policies. Key themes, initiatives, relationships and policies in education are considered within the broader question of the place of the Treaty in Aotearoa New Zealand.",
+        "subject": "Education",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Any 45 points passed at Stage II",
+        "url": "",
+        "prerequisite_raw": "Any 45 points passed at Stage II",
+        "prerequisite": [
+            "45:Stage II"
+        ]
+    },
+    {
+        "courseid": "EDUCSW 302",
+        "coursename": "Service Learning",
+        "description": "A service-learning experience during which students will develop specialist knowledge and skills. With supervision, students will engage in culturally-responsive, reflective practice that is of direct benefit to others. Professional and ethical relationship management, effective communication skills, critical reflection and evidence-based decision making will be emphasised.",
+        "subject": "Education and Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014",
+        "url": "",
+        "prerequisite_raw": "Students are required to consent to the disclosure of criminal convictions and safety checks as required by the Children's Act 2014",
+        "prerequisite": [
+            "and",
+            "Students are required to consent to the disclosure of criminal convictions",
+            "safety checks as required by the Children's Act  2014"
+        ]
+    },
+    {
+        "courseid": "SOCCHFAM 332",
+        "coursename": "Working with Children and Whanau",
+        "description": "An exploration of effective approaches, policies, practices and principles used to engage with children and their whanau within the context of Aotearoa New Zealand. This course will develop the skills and knowledge necessary for working with children and their whanau in community and statutory settings and include consideration of poverty, family violence and child protection.",
+        "subject": "Social Work Child Family Prac",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCCHFAM 215",
+        "url": "",
+        "prerequisite_raw": "SOCCHFAM 215",
+        "prerequisite": [
+            "and",
+            "SOCCHFAM 215"
+        ]
+    },
+    {
+        "courseid": "SOCHLTH 313",
+        "coursename": "Mental Health in Social Practice",
+        "description": "An exploration of the dynamics of social practice with service users and their wh\u0101nau/family with mental health issues. This course includes an examination of mental health policy and broad approaches to care and recovery. An overview knowledge of the major mental health illnesses and associated recovery strategies will be provided. The impact of mental health issues in M\u0101ori, Pasifika, people with disabilities, young people and refugee and migrant communities will be examined.",
+        "subject": "Social Work Health Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCHLTH 231",
+        "url": "",
+        "prerequisite_raw": "SOCHLTH 231",
+        "prerequisite": [
+            "and",
+            "SOCHLTH 231"
+        ]
+    },
+    {
+        "courseid": "SOCHLTH 334",
+        "coursename": "Effective Social Work in Health and Disability Services",
+        "description": "Explores the role of social work with people who have disabilities or experience disabling conditions through accident, illness and aging. Examines policy and strategies of support for recovery and rehabilitation. Develops skills to address the psychosocial impact of physical loss and change with individuals, carers and families.",
+        "subject": "Social Work Health Practice",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SOCHLTH 231",
+        "url": "",
+        "prerequisite_raw": "SOCHLTH 231",
+        "prerequisite": [
+            "and",
+            "SOCHLTH 231"
+        ]
+    },
+    {
+        "courseid": "SOCWORK 312",
+        "coursename": "Applied Social Research",
+        "description": "Social workers are reclaiming the research agenda in social work. Sound social work practice relies on evidence to inform theoretical frameworks, intervention decisions and practice evaluation. A practical introduction to the principles, theories and approaches that inform social research, with a particular emphasis on social work contexts.",
+        "subject": "Social Work",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "No pre-requisites or restrictions",
+        "url": "",
+        "other_requirements_raw": "No pre-requisites or restrictions",
+        "other_requirements": ""
+    },
+    {
+        "courseid": "SPORT 302",
+        "coursename": "Sport Leadership",
+        "description": "Develops the knowledge and skills for leading people and organisations in sporting contexts. Involves the study of leadership theories and styles from a range of different cultures. Includes critical examination of contemporary leadership strategies, issues, politics and policy. Develops interpersonal skills and leadership philosophies.",
+        "subject": "Sport Studies",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SPORT 203, 202",
+        "url": "",
+        "prerequisite_raw": "SPORT 203, 202",
+        "prerequisite": [
+            "and",
+            "SPORT 203",
+            "SPORT 202"
+        ]
+    },
+    {
+        "courseid": "SPORTHPE 303",
+        "coursename": "Health, Fitness and Culture",
+        "description": "Critically examines the nature of incidental and deliberate exercise, lifestyle choices, and concepts of health. Critiques the veracity of evidence linking physical activity and health. Critically explores contemporary health issues associated with sedentary lifestyles, and the impact of twenty-first century lifestyle changes including globalisation and digitalisation. Examines how education can contribute to the diverse exercise and health needs of society.",
+        "subject": "Sport, Health and Physical Edu",
+        "term": "S2",
+        "year": "2023",
+        "requirements": "Prerequisite: SPORTHPE 203 \r\nRestriction: EDCURRIC 334",
+        "url": "",
+        "prerequisite_raw": "SPORTHPE 203",
+        "prerequisite": [
+            "and",
+            "SPORTHPE 203"
+        ],
+        "restriction_raw": "EDCURRIC 334",
+        "restriction": [
+            "and",
+            "EDCURRIC 334"
+        ]
+    }
+]

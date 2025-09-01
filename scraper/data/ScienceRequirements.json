@@ -1,0 +1,11 @@
+[
+  "and",
+  ["360:Stage I or II or III"],
+  ["300:Stage I or II or III", "science"],
+  ["180:Stage II or III", "science"],
+  ["75:Stage III", "science"],
+  ["30:Stage I or II or III", "geneds"],
+  ["<=31:Stage I or II or III", "non-bsc"],
+  ["MinSubjects:3", "science"],
+  ["or", ["and", "major", "capstone"], "specialisation"]
+]
