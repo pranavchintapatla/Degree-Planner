@@ -1,0 +1,25 @@
+{
+  "Id": "example123",
+  "Courses": {
+    "Year1Courses": [
+      ["exclude", "empty"],
+      ["empty", "empty", "empty", "empty", "empty"],
+      ["empty", "empty", "empty", "empty", "empty"]
+    ],
+    "Year2Courses": [
+      ["exclude", "empty"],
+      ["empty", "empty", "empty", "empty", "empty"],
+      ["empty", "empty", "empty", "empty", "empty"]
+    ],
+    "Year3Courses": [
+      ["exclude", "empty"],
+      ["empty", "empty", "empty", "empty", "empty"],
+      ["empty", "empty", "empty", "empty", "empty"]
+    ]
+  },
+  "MajorType": "double",
+  "Majors": ["Computer Science", "none"],
+  "StartYear": 2022,
+  "StartSemester": 1,
+  "Concessions":[]
+}

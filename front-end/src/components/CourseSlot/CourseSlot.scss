@@ -1,0 +1,23 @@
+.CourseSlot {
+  display: flex;
+  width: calc(6rem + 2px);
+  height: calc(6rem + 2px);
+  min-height: calc(6rem + 2px);
+  min-width: calc(6rem + 2px);
+  border: 1px solid var(--silver-lining);
+  margin-right: 0.4rem;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &--highlight {
+    border: 1px solid var(--dark-blue);
+    background: var(--light-grey);
+  }
+
+  &--disabled {
+    border: 1px solid var(--light-grey);
+    background: var(--light-grey);
+  }
+}

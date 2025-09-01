@@ -1,0 +1,72 @@
+.Courses__container {
+  display: flex;
+  flex-direction: column;
+  min-height: 10vh;
+  max-height: 30vh;
+  border: 1px solid var(--silver-lining);
+  overflow: auto;
+}
+
+.Courses__title {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.Courses__filter-types {
+  margin-bottom: 1rem;
+}
+
+.Courses__search-input {
+  margin-bottom: 1rem;
+}
+
+.Courses__legend {
+  margin-top: 2rem;
+}
+
+.Courses__legend-info {
+  display: grid;
+  grid-template-columns: 10% 90%;
+  grid-template-rows: auto;
+  grid-template-areas:
+    'required requiredDescription'
+    'prerequisite prerequisiteDescription'
+    'restriction restrictionDescription';
+  gap: 1rem 1rem;
+  width: 100%;
+}
+
+.Courses__legend-title {
+  margin-bottom: 1rem;
+}
+
+.required {
+  grid-area: required;
+  color: var(--dark-blue);
+}
+
+.restriction {
+  grid-area: restriction;
+  color: var(--creative-arts-and-industries);
+}
+
+.prerequisite {
+  grid-area: prerequisite;
+  color: var(--arts);
+}
+
+.Courses__legend-item p {
+  margin: 0;
+}
+
+.Courses__legend-item--required-description {
+  grid-area: requiredDescription;
+}
+
+.Courses__legend-item--prerequisite-description {
+  grid-area: prerequisiteDescription;
+}
+
+.Courses__legend-item--restriction-description {
+  grid-area: restrictionDescription;
+}

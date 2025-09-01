@@ -1,0 +1,38 @@
+.RequirementLine {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+
+  &--complete {
+    color: var(--dark-blue);
+  }
+
+  &--partlycomplete {
+    color: var(--body-grey);
+  }
+
+  @media print {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.RequirementLine__icon {
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  display: flex;
+
+  .RequirementLine--incomplete & {
+    color: var(--danger);
+  }
+  .RequirementLine--partlycomplete & {
+    color: var(--warning);
+  }
+}
+
+.RequirementLine__or {
+  padding: 0 0.5rem;
+}
+
+.RequirementLine__inner {
+  display: flex;
+}

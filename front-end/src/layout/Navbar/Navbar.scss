@@ -1,0 +1,99 @@
+.Navbar {
+  width: 100%;
+  background-color: #00457d;
+  height: 5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-right: 2rem;
+}
+
+.Navbar li {
+  text-decoration: none;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+.Navbar img {
+  height: 4em;
+}
+
+.Navbar a {
+  color: white;
+  margin: 1em;
+  text-decoration: none;
+  padding: 0.4em;
+}
+
+.Navbar a:hover {
+  color: #cccccc;
+}
+
+.Navbar__title {
+  color: #fff;
+  margin-right: 3em;
+  display: inline-block;
+  text-decoration: none;
+
+  @media print {
+    margin-right: 0;
+  }
+}
+
+.Navbar__link {
+  @media print {
+    display: none;
+  }
+}
+
+a.active {
+  background: var(--light-blue);
+  border-radius: 5px;
+}
+
+.Navbar__user-greeting {
+  color: #fff;
+  display: flex;
+  align-items: center;
+
+  @media print {
+    display: none;
+  }
+}
+
+.Navbar__user-info {
+  margin-right: 1rem;
+}
+
+.Navbar__user-logout {
+  background: none;
+  color: #fff;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  text-transform: uppercase;
+
+  &:hover {
+    color: #cccccc;
+    text-decoration: underline;
+  }
+}
+
+.Navbar__user-print {
+  display: none;
+  color: #fff;
+
+  @media print {
+    display: block;
+  }
+}

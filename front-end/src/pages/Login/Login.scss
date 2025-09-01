@@ -1,0 +1,34 @@
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.Login__wrapper {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+  width: min(20rem, 40vw);
+  height: min(25rem, 50vh);
+  padding: 2rem;
+}
+
+.Login__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Login__title {
+  text-align: center;
+  margin-top: 0;
+  font-size: 2rem;
+  margin-bottom: 4rem;
+}
+
+.Login__input {
+  margin-bottom: 2rem;
+}
+
+.Login__button {
+  margin-top: auto;
+}

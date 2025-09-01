@@ -1,0 +1,62 @@
+.Semester {
+  margin-top: 0;
+  text-align: center;
+  margin-right: 1.5rem;
+  position: relative;
+  margin-bottom: 1rem;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &--ss {
+    margin-right: 100%;
+  }
+}
+
+.Semester__title-block {
+  display: flex;
+  align-items: center;
+  background-color: var(--dark-blue);
+  color: #fff;
+  justify-content: center;
+  font-weight: 400;
+  padding: 0.5rem;
+  white-space: nowrap;
+  background: linear-gradient(
+    135deg,
+    var(--dark-blue) calc(100% - 10px),
+    transparent calc(100% - 10px)
+  );
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.Semester__courses {
+  display: flex;
+  width: 100%;
+  border-left-width: 0px;
+  padding-left: 3rem;
+}
+
+.Semester__add-course-slot {
+  width: 1.5rem;
+  position: absolute;
+  bottom: 0;
+  right: -1.5rem;
+  height: 100%;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--light-grey);
+    background: var(--light-blue);
+    transition: all 0.2s ease-in-out;
+  }
+
+  @media print {
+    display: none;
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "Id": "test_planner2",
+    "Courses": {
+      "Year1Courses": [["exclude"], ["COMPSCI 110", "COMPSCI 120"], ["COMPSCI 130"]],
+      "Year2Courses": [["exclude"], [], []],
+      "Year3Courses": [["exclude"], [], []]
+    },
+    "MajorType": "double",
+    "Majors": [["Computer Science"]],
+    "StartYear": 2022,
+    "StartSemester": 1
+  }

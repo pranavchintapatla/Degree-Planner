@@ -1,0 +1,41 @@
+.modalWrapper {
+  width: 50%;
+}
+
+.modal > .header {
+  border-bottom: 1px solid gray;
+  text-align: center;
+  padding: 5px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.modal > .content {
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.modal > .actions {
+  padding: 10px 5px;
+  margin: auto;
+  text-align: center;
+}
+
+.modal > .close {
+  cursor: pointer;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  line-height: 1;
+  outline: none;
+  right: -18px;
+  top: -18px;
+  width: 36px;
+  height: 36px;
+  background: #ffffff;
+  border-radius: 50%;
+  border: 1px solid #cfcece;
+  font-size: 2rem;
+}

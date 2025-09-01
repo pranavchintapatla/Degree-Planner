@@ -1,0 +1,13 @@
+{
+  "Id": "example123",
+  "Courses": {
+    "Year1Courses": [["exclude"], [], []],
+    "Year2Courses": [["exclude"], [], []],
+    "Year3Courses": [["exclude"], [], []]
+  },
+  "MajorType": "double",
+  "Majors": [["Computer Science"]],
+  "StartYear": 2022,
+  "StartSemester": 1,
+  "Concessions":["COMPSCI 110", "COMPSCI 120"]
+}

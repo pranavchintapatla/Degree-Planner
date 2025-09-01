@@ -1,0 +1,17 @@
+.Years__item {
+  margin-bottom: 3rem;
+
+  @media print {
+    margin-bottom: 2rem;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.Years__add-year-button {
+  @media print {
+    display: none;
+  }
+}

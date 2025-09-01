@@ -1,0 +1,221 @@
+.Course {
+  padding: 0.7rem;
+  padding-left: 1rem;
+  background-color: var(--light-grey);
+  font-weight: bold;
+  font-size: 0.8rem;
+  user-select: none;
+  border: 1px solid var(--input-grey);
+  width: 100%;
+  min-height: 3rem;
+  height: 45px;
+  height: 3rem;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+
+  &:hover {
+    border: 1px solid var(--silver);
+  }
+
+  &--dragging {
+    border: 1px solid black;
+    width: auto;
+  }
+
+  &--invalid {
+    background: red;
+  }
+
+  .Semester & {
+    width: 6rem;
+    height: 6rem;
+    min-height: 6rem;
+    min-width: 6rem;
+    flex-shrink: 0;
+    text-align: center;
+    overflow: visible;
+    align-items: flex-start;
+  }
+
+  .Semester & .Course__features {
+    display: flex;
+  }
+}
+
+.Course__faculty {
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  width: 0.5rem;
+  z-index: 1;
+
+  .Semester & {
+    border: 0.5rem solid transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+
+    background-color: transparent !important;
+  }
+
+  .Course &--arts {
+    border-top-color: var(--arts);
+    border-left-color: var(--arts);
+    background-color: var(--arts);
+  }
+  .Course &--business-and-economics {
+    border-top-color: var(--business-school);
+    border-left-color: var(--business-school);
+    background-color: var(--business-school);
+  }
+  .Course &--creative-arts-and-industries {
+    border-top-color: var(--creative-arts-and-industries);
+    border-left-color: var(--creative-arts-and-industries);
+    background-color: var(--creative-arts-and-industries);
+  }
+  .Course &--education-and-social-work {
+    border-top-color: var(--education-and-social-work);
+    border-left-color: var(--education-and-social-work);
+    background-color: var(--education-and-social-work);
+  }
+  .Course &--engineering {
+    border-top-color: var(--engineering);
+    border-left-color: var(--engineering);
+    background-color: var(--engineering);
+  }
+  .Course &--geneds {
+    border-top-color: var(--geneds);
+    border-left-color: var(--geneds);
+    background-color: var(--geneds);
+  }
+  .Course &--law {
+    border-top-color: var(--auckland-law-school);
+    border-left-color: var(--auckland-law-school);
+    background-color: var(--auckland-law-school);
+  }
+  .Course &--medical-and-health-sciences {
+    border-top-color: var(--medical-health-sciences);
+    border-left-color: var(--medical-health-sciences);
+    background-color: var(--medical-health-sciences);
+  }
+  .Course &--science {
+    border-top-color: var(--science);
+    border-left-color: var(--science);
+    background-color: var(--science);
+  }
+}
+
+.Course__info {
+  margin-left: 0.5rem;
+  cursor: help;
+  vertical-align: middle;
+}
+
+.Course__close {
+  position: absolute;
+  top: -1rem;
+  right: -1rem;
+  content: '';
+  cursor: pointer;
+  font-size: 1.5rem;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease-in-out;
+  background: var(--silver-lining);
+  z-index: 10;
+
+  .Semester .Course:hover & {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+    visibility: visible;
+  }
+
+  &:hover {
+    background: var(--dark-blue);
+    color: #fff;
+  }
+}
+
+.Course__features {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.5rem;
+  justify-content: space-around;
+}
+
+.Course__feature {
+  font-size: 1rem;
+  color: var(--silver-lining);
+}
+
+.Course__feature--required.Course__feature--enabled {
+  color: var(--dark-blue);
+}
+
+.Course__feature--prerequisites.Course__feature--enabled {
+  color: var(--arts);
+}
+
+.Course__feature--restrictions.Course__feature--enabled {
+  color: var(--creative-arts-and-industries);
+}
+
+.Course__semesters {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0.5rem;
+
+  .Semester & {
+    display: none;
+  }
+}
+
+.Course__semester {
+  margin-right: 0.1rem;
+  color: #fff;
+  background-color: var(--dark-blue);
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  font-weight: 700;
+  font-size: 0.7rem;
+
+  &--disabled {
+    background-color: var(--silver-lining);
+  }
+}
+
+.Course__info-body {
+  line-height: 1.5;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.Course__info-coursename,
+.Course__info-description,
+.Course__info-requirements {
+  margin-bottom: 0.5rem;
+}
+
+.Course__info-link {
+  align-self: center;
+}

@@ -1,0 +1,48 @@
+.Year {
+  display: flex;
+  justify-content: flex-start;
+  user-select: none;
+}
+
+.Year__title-block {
+  background-color: var(--dark-blue);
+  color: #fff;
+  padding-left: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 5rem;
+  font-weight: 300;
+  font-size: 1rem;
+  margin-right: 1.5rem;
+  background: linear-gradient(135deg, transparent 10px, var(--dark-blue) 10px);
+  position: relative;
+}
+
+.Year__semesters {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  margin-bottom: -1rem;
+}
+
+.Year__add-ss-button {
+  width: 1.5rem;
+  position: absolute;
+  bottom: 0;
+  right: -1.5rem;
+  height: 100%;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--light-grey);
+    background: var(--light-blue);
+    transition: all 0.2s ease-in-out;
+  }
+
+  @media print {
+    display: none;
+  }
+}

@@ -1,0 +1,23 @@
+.RequirementFeedback {
+  display: flex;
+  flex-direction: column;
+
+  @media print {
+    display: grid;
+    grid-template-areas:
+      'degree majors'
+      'prerequisites prerequisites';
+    gap: 2rem;
+    width: 100%;
+  }
+}
+
+.RequirementFeedback__majors {
+  grid-area: majors;
+}
+.RequirementFeedback__degree {
+  grid-area: degree;
+}
+.RequirementFeedback__prerequisites {
+  grid-area: prerequisites;
+}

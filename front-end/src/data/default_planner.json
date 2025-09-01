@@ -1,0 +1,13 @@
+{
+  "Id": "default_planner",
+  "Courses": [
+    [[], [], []],
+    [[], [], []],
+    [[], [], []]
+  ],
+  "MajorType": "Majors",
+  "Majors": ["Computer Science"],
+  "StartYear": 2022,
+  "StartSemester": 1,
+  "Concessions": []
+}

@@ -1,0 +1,193 @@
+[
+    {
+        "title": "Data Analysis",
+        "requirements": [
+            "and",
+            [
+                "15",
+                "STATS 101",
+                "STATS 108"
+            ],
+            [
+                "15",
+                "STATS 201",
+                "STATS 208"
+            ],
+            [
+                "15",
+                "STATS 330",
+                "STATS 383"
+            ]
+        ],
+        "requirements_raw": "15 points from STATS 101, 108 and 15 points from STATS 201, 208 and 15 points from STATS 330, 383"
+    },
+    {
+        "title": "Exercising the Body and Mind",
+        "requirements": [
+            "and",
+            [
+                "30",
+                "EXERSCI 105",
+                "EXERSCI 307"
+            ],
+            [
+                "15",
+                "EXERSCI 201",
+                "EXERSCI 207",
+                "EXERSCI 304"
+            ]
+        ],
+        "requirements_raw": "30 points: EXERSCI 105, 307 and 15 points from EXERSCI 201, 207, 304"
+    },
+    {
+        "title": "Innovation and Entrepreneurship",
+        "requirements": [
+            "and",
+            [
+                "15",
+                "INNOVATE 100",
+                "INNOVATE 100G"
+            ],
+            [
+                "30",
+                "INNOVENT 204",
+                "INNOVENT 308"
+            ]
+        ],
+        "requirements_raw": "15 points from INNOVATE 100, 100G and 30 points: INNOVENT 204, 308"
+    },
+    {
+        "title": "Quantitative Critical Thinking and Communication",
+        "requirements": [
+            "and",
+            [
+                "30",
+                "SCIGEN 101",
+                "STATS 150"
+            ],
+            [
+                "15",
+                "STATS 201",
+                "STATS 208"
+            ]
+        ],
+        "requirements_raw": "30 points: SCIGEN 101, STATS 150 and 15 points from STATS 201, 208"
+    },
+    {
+        "title": "Science in Society",
+        "requirements": [
+            "and",
+            [
+                "45",
+                "SCIGEN 101",
+                "SCIGEN 201",
+                "SCIGEN 301"
+            ]
+        ],
+        "requirements_raw": "45 points: SCIGEN 101, 201, 301"
+    },
+    {
+        "title": "Science Scholars",
+        "note": "Only for Science Scholars students",
+        "requirements": [
+            "and",
+            [
+                "15",
+                "MAORI 130",
+                "MAORI 130G",
+                "PHIL 100",
+                "SCIGEN 101",
+                "SCIGEN 101G",
+                "SCISCHOL 100"
+            ],
+            [
+                "30",
+                "SCISCHOL 202",
+                "SCISCHOL 302"
+            ]
+        ],
+        "requirements_raw": "15 points from M\u0100ORI 130, 130G, PHIL 100, SCIGEN 101, 101G, SCISCHOL 100 and 30 points: SCISCHOL 202, 302"
+    },
+    {
+        "title": "Software Development",
+        "requirements": [
+            "and",
+            [
+                "45",
+                "COMPSCI 101",
+                "COMPSCI 130",
+                "COMPSCI 230",
+                "COMPSCI 235",
+                "COMPSCI 331"
+            ]
+        ],
+        "requirements_raw": "45 points from COMPSCI 101, 130, 230, 235, 331"
+    },
+    {
+        "title": "Spatial Data Analysis",
+        "requirements": [
+            "and",
+            [
+                "30",
+                "GEOG 103",
+                "GISCI 241",
+                "GISCI 242"
+            ],
+            [
+                "15",
+                "GISCI 341",
+                "GISCI 343"
+            ]
+        ],
+        "requirements_raw": "30 points from GEOG 103, GISCI 241, 242 and 15 points from GISCI 341, 343"
+    },
+    {
+        "title": "Studies in Food and Health",
+        "requirements": [
+            "and",
+            [
+                "30",
+                "FOODSCI 100",
+                "FOODSCI 200"
+            ],
+            [
+                "15",
+                "FOODSCI 301",
+                "EXERSCI 206"
+            ]
+        ],
+        "requirements_raw": "30 points: FOODSCI 100, 200 and 15 points from FOODSCI 301, EXERSCI 206"
+    },
+    {
+        "title": "Studies in Urban Wellbeing",
+        "note": "Note: This module was suspended in 2021. Students who have a current enrolment in this module should contact their faculty for advice regarding completion.",
+        "requirements": [
+            "and",
+            [
+                "30",
+                "GEOG 104",
+                "SOCSCIPH 200"
+            ],
+            [
+                "15",
+                "GEOG 305",
+                "GEOG 307",
+                "SOCSCIPH 300"
+            ]
+        ],
+        "requirements_raw": "30 points: GEOG 104, SOCSCIPH 200 and 15 points from GEOG 305, 307, SOCSCIPH 300"
+    },
+    {
+        "title": "Sustainability",
+        "requirements": [
+            "and",
+            [
+                "45",
+                "SUSTAIN 100",
+                "SUSTAIN 200",
+                "SUSTAIN 300"
+            ]
+        ],
+        "requirements_raw": "45 points: SUSTAIN 100, 200, 300"
+    }
+]

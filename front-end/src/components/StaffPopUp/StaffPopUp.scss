@@ -1,0 +1,36 @@
+.staffmodalWrapper {
+    width: 50%;
+  }
+  
+  .staffmodal > .header {
+    border-bottom: 1px solid gray;
+    text-align: center;
+    padding: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .staffmodal > .content {
+    padding: 10px 5px;
+    text-align: center;
+  }
+  .staffmodal > .actions {
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+  }
+  .staffmodal > .close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 5px;
+    line-height: 20px;
+    right: -18px;
+    top: -18px;
+    width: 36px;
+    height: 36px;
+    background: #ffffff;
+    border-radius: 50%;
+    border: 1px solid #cfcece;
+    font-size: 2.5rem;
+  }
+  

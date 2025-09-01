@@ -1,0 +1,46 @@
+.Settings {
+  display: flex;
+  flex-direction: column;
+}
+
+.Settings__inner {
+  display: flex;
+
+  @media print {
+    display: none;
+  }
+}
+
+.Settings__item {
+  margin-right: 1rem;
+  flex: 0 0 calc(50% - 1rem);
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.Settings__print {
+  display: none;
+
+  @media print {
+    display: flex;
+  }
+}
+
+.Settings__print-item {
+  display: flex;
+  align-items: center;
+  margin-right: 2rem;
+}
+
+.Settings__print-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+}
+
+.Settings__print-value {
+  white-space: nowrap;
+}
