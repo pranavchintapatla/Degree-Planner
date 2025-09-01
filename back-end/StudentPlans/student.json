@@ -1,0 +1,32 @@
+{
+  "Id": "student",
+  "Courses": [
+    [
+      [],
+      [
+        "COMPSCI 110",
+        "COMPSCI 120"
+      ],
+      [
+        "COMPSCI 210",
+        "COMPSCI 220"
+      ]
+    ],
+    [
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      []
+    ]
+  ],
+  "MajorType": "Majors",
+  "Majors": [
+    "Computer Science"
+  ],
+  "StartYear": 2022,
+  "StartSemester": 1
+}

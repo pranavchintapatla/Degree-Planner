@@ -1,0 +1,18 @@
+{
+  "studentid": "abcd123",
+  "courses": [
+    [
+      [],
+      ["COMPSCI 101", "COMPSCI 110", "COMPSCI 120", "MATH 108"],
+      ["COMPSCI 130", "STATS 101", "PHYSICS 140"]
+    ],
+    [[], [], []],
+    [[], [], []],
+    [[], [], []],
+    [[], [], []]
+  ],
+  "plan_type": "Majors",
+  "majors": [],
+  "start_year": 2022,
+  "start_semester": 1
+}

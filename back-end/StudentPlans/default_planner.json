@@ -1,0 +1,12 @@
+{
+  "Id": "default",
+  "Courses": [
+    [[], [], []],
+    [[], [], []],
+    [[], [], []]
+  ],
+  "MajorType": "Majors",
+  "Majors": ["Computer Science"],
+  "StartYear": 2022,
+  "StartSemester": 1
+}

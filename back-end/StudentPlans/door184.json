@@ -1,0 +1,20 @@
+{
+  "Id": "door184",
+  "Courses": [
+    [
+      [],
+      ["COMPSCI 101", "COMPSCI 110", "COMPSCI 120", "MATHS 108"],
+      ["COMPSCI 130", "STATS 101", "PHYSICS 140"]
+    ],
+    [
+      [],
+      ["COMPSCI 210", "COMPSCI 220", "COMPSCI 225", "MATHS 201"],
+      ["COMPSCI 230", "STATS 201", "MATHS 255"]
+    ],
+    [[], [], []]
+  ],
+  "MajorType": "Majors",
+  "Majors": ["Computer Science"],
+  "StartYear": 2022,
+  "StartSemester": 1
+}

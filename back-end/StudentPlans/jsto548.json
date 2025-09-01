@@ -1,0 +1,58 @@
+{
+  "Id": "jsto548",
+  "Courses": [
+    [
+      [],
+      [
+        "COMPSCI 110",
+        "COMPSCI 120",
+        "MATHS 108",
+        "PHYSICS 120"
+      ],
+      [
+        "COMPSCI 130",
+        "ASTRO 100G",
+        "PHYSICS 121",
+        "MATHS 208"
+      ]
+    ],
+    [
+      [],
+      [
+        "ENGSCI 211",
+        "COMPSCI 210",
+        "PHYSICS 244",
+        "PHYSICS 201"
+      ],
+      [
+        "COMPSCI 230",
+        "ELECTENG 292",
+        "ASTRO 200G",
+        "PHYSICS 202"
+      ]
+    ],
+    [
+      [],
+      [
+        "COMPSCI 220",
+        "COMPSCI 373",
+        "COMPSCI 345",
+        "PHYSICS 340"
+      ],
+      [
+        "PHYSICS 203",
+        "COMPSCI 335",
+        "PHYSICS 333",
+        "COMPSCI 399"
+      ]
+    ]
+  ],
+  "MajorType": "Majors",
+  "Majors": [
+    "Computer Science",
+    "Physics"
+  ],
+  "StartYear": 2022,
+  "StartSemester": 1,
+  "Concessions": []
+}

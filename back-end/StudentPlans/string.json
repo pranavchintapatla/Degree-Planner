@@ -1,0 +1,18 @@
+{
+  "Id": "string",
+  "Courses": {
+    "Year1Courses": "[[\"string\"],[\"string\"]]",
+    "Year2Courses": "[[\"string\"]]",
+    "Year3Courses": "[[\"string\"]]",
+    "Year4Courses": "[[\"string\"]]",
+    "Year5Courses": "[[\"string\"]]"
+  },
+  "MajorType": "string",
+  "Majors": [
+    [
+      "string"
+    ]
+  ],
+  "StartYear": 0,
+  "StartSemester": 0
+}

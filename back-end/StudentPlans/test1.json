@@ -1,0 +1,18 @@
+{
+  "Id": "test1",
+  "Courses": {
+    "Year1Courses": "[[\"string1\"]]",
+    "Year2Courses": "[[\"string2\",\"string4\"]]",
+    "Year3Courses": "[[],[\"COMPSCI 101\",\"COMPSCI 110\",\"COMPSCI 120\",\"MATH 108\"],[\"COMPSCI 130\",\"STATS 101\",\"PHYSICS 140\"]]",
+    "Year4Courses": "[[\"string\"]]",
+    "Year5Courses": "[[\"string\"]]"
+  },
+  "MajorType": "string",
+  "Majors": [
+    [
+      "string"
+    ]
+  ],
+  "StartYear": 0,
+  "StartSemester": 0
+}

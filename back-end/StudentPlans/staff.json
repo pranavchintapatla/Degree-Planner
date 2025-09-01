@@ -1,0 +1,36 @@
+{
+  "Id": "staff",
+  "Courses": [
+    [
+      [
+        "STATS 101"
+      ],
+      [
+        "COMPSCI 110",
+        "COMPSCI 120",
+        "COMPSCI 130"
+      ],
+      [
+        "COMPSCI 210",
+        "COMPSCI 220",
+        "COMPSCI 230"
+      ]
+    ],
+    [
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      []
+    ]
+  ],
+  "MajorType": "Majors",
+  "Majors": [
+    "Computer Science"
+  ],
+  "StartYear": 2022,
+  "StartSemester": 1
+}

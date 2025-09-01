@@ -1,0 +1,57 @@
+{
+  "Id": "tram897",
+  "Courses": [
+    [
+      [],
+      [
+        "PSYCH 108",
+        "PSYCH 109",
+        "STATS 101",
+        "ENVSCI 101"
+      ],
+      [
+        "BIOSCI 106",
+        "BIOSCI 101",
+        "ASIAN 140G",
+        "ARTHIST 115G"
+      ]
+    ],
+    [
+      [],
+      [
+        "PSYCH 202",
+        "PSYCH 200",
+        "ENVSCI 201",
+        "BIOSCI 108"
+      ],
+      [
+        "PSYCH 203",
+        "ENVSCI 203",
+        "BIOSCI 220",
+        "GEOG 205"
+      ]
+    ],
+    [
+      [],
+      [
+        "PSYCH 306",
+        "ENVSCI 301",
+        "PSYCH 309",
+        "ENVCHG 300"
+      ],
+      [
+        "EDUC 323",
+        "EXERSCI 307",
+        "ENVSCI 303",
+        "PSYCH 399"
+      ]
+    ]
+  ],
+  "MajorType": "Majors",
+  "Majors": [
+    "Psychology",
+    "Environmental Science"
+  ],
+  "StartYear": 2023,
+  "StartSemester": 1
+}
